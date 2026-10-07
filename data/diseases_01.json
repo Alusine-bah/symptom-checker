@@ -1,0 +1,61 @@
+[
+  {"slug":"malaria","cat":1,"urgency":"urgent","source_url":"https://www.who.int/news-room/fact-sheets/detail/malaria",
+   "en":{"name":"Malaria","description":"A life-threatening illness spread by mosquito bites, causing recurring fever, chills and body aches.","cause":"Plasmodium parasites, passed on by infected Anopheles mosquitoes.","prevention":"Sleep under insecticide-treated nets, use repellent, and take preventive medicine when advised."},
+   "fr":{"name":"Paludisme","description":"Maladie potentiellement mortelle transmise par les piqûres de moustiques, avec fièvre récurrente, frissons et courbatures.","cause":"Parasites Plasmodium, transmis par les moustiques Anopheles infectés.","prevention":"Dormez sous une moustiquaire imprégnée, utilisez un répulsif et suivez le traitement préventif si conseillé."},
+   "regions":{"west_africa":3,"east_africa":3,"central_africa":3,"southern_africa":2,"north_africa":1,"middle_east":1,"south_asia":2,"southeast_east_asia":2,"latin_america":2,"europe_namerica_oceania":1},
+   "symptoms":{"fever":0.9,"high_fever":0.6,"chills":0.85,"headache":0.6,"muscle_aches":0.5,"fatigue":0.5,"nausea":0.4,"vomiting":0.4,"night_sweats":0.3,"pale_skin":0.3}},
+
+  {"slug":"typhoid","cat":3,"urgency":"urgent","source_url":"https://www.who.int/news-room/fact-sheets/detail/typhoid",
+   "en":{"name":"Typhoid fever","description":"A bacterial infection from contaminated food or water causing prolonged fever, stomach pain and weakness.","cause":"Salmonella Typhi bacteria.","prevention":"Drink safe water, wash hands, eat well-cooked food, and get vaccinated where available."},
+   "fr":{"name":"Fièvre typhoïde","description":"Infection bactérienne due à des aliments ou de l'eau contaminés, avec fièvre prolongée, douleurs au ventre et faiblesse.","cause":"Bactérie Salmonella Typhi.","prevention":"Buvez de l'eau potable, lavez-vous les mains, mangez des aliments bien cuits et faites-vous vacciner si possible."},
+   "regions":{"west_africa":3,"east_africa":3,"central_africa":3,"southern_africa":2,"north_africa":2,"middle_east":2,"south_asia":3,"southeast_east_asia":2,"latin_america":2,"europe_namerica_oceania":1},
+   "symptoms":{"fever":0.85,"high_fever":0.5,"headache":0.55,"abdominal_pain":0.6,"loss_of_appetite":0.5,"fatigue":0.5,"constipation":0.35,"diarrhea":0.35,"nausea":0.3,"rash":0.2,"severe_weakness":0.3}},
+
+  {"slug":"cholera","cat":3,"urgency":"emergency","source_url":"https://www.who.int/news-room/fact-sheets/detail/cholera",
+   "en":{"name":"Cholera","description":"A severe diarrheal illness that can cause fatal dehydration within hours if untreated.","cause":"Vibrio cholerae bacteria in contaminated water or food.","prevention":"Safe water, sanitation, handwashing, and oral cholera vaccine during outbreaks."},
+   "fr":{"name":"Choléra","description":"Maladie diarrhéique sévère pouvant entraîner une déshydratation mortelle en quelques heures sans traitement.","cause":"Bactérie Vibrio cholerae présente dans l'eau ou les aliments contaminés.","prevention":"Eau potable, assainissement, lavage des mains et vaccin oral contre le choléra lors des épidémies."},
+   "regions":{"west_africa":2,"east_africa":3,"central_africa":3,"southern_africa":2,"north_africa":1,"middle_east":2,"south_asia":3,"southeast_east_asia":1,"latin_america":2,"europe_namerica_oceania":1},
+   "symptoms":{"watery_diarrhea":0.95,"diarrhea":0.7,"vomiting":0.6,"excessive_thirst":0.4,"severe_weakness":0.4,"dizziness":0.3}},
+
+  {"slug":"tuberculosis","cat":2,"urgency":"urgent","source_url":"https://www.who.int/news-room/fact-sheets/detail/tuberculosis",
+   "en":{"name":"Tuberculosis (TB)","description":"A long-lasting bacterial infection that mainly affects the lungs, causing persistent cough, weight loss and night sweats.","cause":"Mycobacterium tuberculosis, spread through the air by people with active lung TB.","prevention":"Early testing and full treatment, good ventilation, and BCG vaccination in infants."},
+   "fr":{"name":"Tuberculose","description":"Infection bactérienne de longue durée touchant surtout les poumons, avec toux persistante, perte de poids et sueurs nocturnes.","cause":"Bacille Mycobacterium tuberculosis, transmis par l'air par les personnes atteintes de tuberculose pulmonaire active.","prevention":"Dépistage précoce et traitement complet, bonne ventilation et vaccin BCG chez le nourrisson."},
+   "regions":{"west_africa":3,"east_africa":3,"central_africa":3,"southern_africa":3,"north_africa":2,"middle_east":2,"south_asia":3,"southeast_east_asia":3,"latin_america":2,"europe_namerica_oceania":1},
+   "symptoms":{"persistent_cough":0.95,"cough":0.4,"weight_loss":0.7,"night_sweats":0.7,"fever":0.5,"fatigue":0.5,"loss_of_appetite":0.5}},
+
+  {"slug":"meningitis","cat":4,"urgency":"emergency","source_url":"https://www.who.int/news-room/fact-sheets/detail/meningitis",
+   "en":{"name":"Bacterial meningitis","description":"Inflammation of the membranes around the brain and spinal cord. It is a medical emergency.","cause":"Bacteria such as meningococcus or pneumococcus, spread by close contact.","prevention":"Vaccination, including meningitis A and ACWY vaccines in the African meningitis belt."},
+   "fr":{"name":"Méningite bactérienne","description":"Inflammation des membranes entourant le cerveau et la moelle épinière. C'est une urgence médicale.","cause":"Bactéries comme le méningocoque ou le pneumocoque, transmises par contact étroit.","prevention":"Vaccination, notamment contre les méningocoques A et ACWY dans la ceinture africaine de la méningite."},
+   "regions":{"west_africa":3,"east_africa":2,"central_africa":2,"southern_africa":1,"north_africa":1,"middle_east":1,"south_asia":2,"southeast_east_asia":1,"latin_america":1,"europe_namerica_oceania":1},
+   "symptoms":{"fever":0.7,"severe_headache":0.8,"light_sensitivity":0.6,"vomiting":0.5,"nausea":0.4,"rash":0.3,"fatigue":0.3}},
+
+  {"slug":"measles","cat":5,"urgency":"urgent","source_url":"https://www.who.int/news-room/fact-sheets/detail/measles",
+   "en":{"name":"Measles","description":"A highly contagious viral illness with fever, rash, cough and red eyes.","cause":"Measles virus, spread through coughing and sneezing.","prevention":"Two doses of measles vaccine."},
+   "fr":{"name":"Rougeole","description":"Maladie virale très contagieuse avec fièvre, éruption cutanée, toux et yeux rouges.","cause":"Virus de la rougeole, transmis par la toux et les éternuements.","prevention":"Deux doses du vaccin contre la rougeole."},
+   "regions":{"west_africa":3,"east_africa":3,"central_africa":3,"southern_africa":2,"north_africa":2,"middle_east":2,"south_asia":3,"southeast_east_asia":2,"latin_america":1,"europe_namerica_oceania":1},
+   "symptoms":{"fever":0.8,"rash":0.9,"cough":0.7,"runny_nose":0.6,"red_eyes":0.7,"high_fever":0.4,"fatigue":0.3}},
+
+  {"slug":"lassa_fever","cat":1,"urgency":"urgent","source_url":"https://www.who.int/news-room/fact-sheets/detail/lassa-fever",
+   "en":{"name":"Lassa fever","description":"A viral hemorrhagic fever carried by rats, with fever, weakness and sometimes bleeding.","cause":"Lassa virus, spread by food or objects contaminated with infected rat urine or droppings, and between people through body fluids.","prevention":"Store food in rodent-proof containers, keep homes clean, avoid contact with rats, and use protection when caring for patients."},
+   "fr":{"name":"Fièvre de Lassa","description":"Fièvre hémorragique virale transmise par les rats, avec fièvre, faiblesse et parfois saignements.","cause":"Virus de Lassa, transmis par des aliments ou objets souillés par les urines ou excréments de rats infectés, puis entre personnes par les liquides corporels.","prevention":"Conservez les aliments à l'abri des rongeurs, gardez la maison propre, évitez le contact avec les rats et protégez-vous en soignant un malade."},
+   "regions":{"west_africa":3,"central_africa":1},
+   "symptoms":{"fever":0.8,"fatigue":0.6,"severe_weakness":0.5,"headache":0.5,"sore_throat":0.5,"muscle_aches":0.4,"vomiting":0.4,"nausea":0.3,"abdominal_pain":0.3,"cough":0.3,"diarrhea":0.3}},
+
+  {"slug":"yellow_fever","cat":1,"urgency":"urgent","source_url":"https://www.who.int/news-room/fact-sheets/detail/yellow-fever",
+   "en":{"name":"Yellow fever","description":"A mosquito-borne viral illness that can cause fever, jaundice and bleeding.","cause":"Yellow fever virus, spread by Aedes and Haemagogus mosquitoes.","prevention":"A single vaccine dose gives lifelong protection. Also use repellent and nets."},
+   "fr":{"name":"Fièvre jaune","description":"Maladie virale transmise par les moustiques, pouvant causer fièvre, jaunisse et saignements.","cause":"Virus de la fièvre jaune, transmis par les moustiques Aedes et Haemagogus.","prevention":"Une seule dose de vaccin protège à vie. Utilisez aussi répulsifs et moustiquaires."},
+   "regions":{"west_africa":3,"central_africa":3,"east_africa":2,"southern_africa":1,"latin_america":2},
+   "symptoms":{"fever":0.8,"high_fever":0.4,"headache":0.6,"muscle_aches":0.6,"nausea":0.5,"vomiting":0.5,"jaundice":0.6,"loss_of_appetite":0.4,"fatigue":0.4}},
+
+  {"slug":"schistosomiasis","cat":9,"urgency":"routine","source_url":"https://www.who.int/news-room/fact-sheets/detail/schistosomiasis",
+   "en":{"name":"Schistosomiasis (bilharzia)","description":"A parasitic disease caught from freshwater, causing blood in urine or stool and abdominal pain.","cause":"Schistosoma worms released by freshwater snails.","prevention":"Avoid swimming or washing in freshwater lakes and rivers where it occurs. Mass treatment programs help in affected areas."},
+   "fr":{"name":"Schistosomiase (bilharziose)","description":"Maladie parasitaire contractée dans l'eau douce, avec sang dans les urines ou les selles et douleurs au ventre.","cause":"Vers Schistosoma libérés par des escargots d'eau douce.","prevention":"Évitez de nager ou de vous laver dans les lacs et rivières concernés. Des traitements de masse existent dans les zones touchées."},
+   "regions":{"west_africa":3,"east_africa":3,"central_africa":3,"southern_africa":2,"north_africa":2,"middle_east":2,"south_asia":1,"southeast_east_asia":1,"latin_america":1},
+   "symptoms":{"blood_in_urine":0.85,"bloody_stool":0.5,"painful_urination":0.4,"abdominal_pain":0.4,"itching":0.3,"rash":0.3,"fatigue":0.3,"fever":0.3,"diarrhea":0.3}},
+
+  {"slug":"pneumonia","cat":2,"urgency":"urgent","source_url":"https://www.who.int/news-room/fact-sheets/detail/pneumonia",
+   "en":{"name":"Pneumonia","description":"An infection that inflames the lungs, causing cough, fever and fast breathing.","cause":"Bacteria, viruses or fungi.","prevention":"Vaccination, handwashing, clean cooking fuels, and good nutrition."},
+   "fr":{"name":"Pneumonie","description":"Infection qui enflamme les poumons, avec toux, fièvre et respiration rapide.","cause":"Bactéries, virus ou champignons.","prevention":"Vaccination, lavage des mains, combustibles de cuisson propres et bonne alimentation."},
+   "regions":{"west_africa":3,"east_africa":3,"central_africa":3,"southern_africa":3,"north_africa":2,"middle_east":2,"south_asia":3,"southeast_east_asia":2,"latin_america":2,"europe_namerica_oceania":2},
+   "symptoms":{"cough":0.85,"fever":0.75,"fast_breathing":0.7,"high_fever":0.4,"chills":0.4,"fatigue":0.4,"loss_of_appetite":0.3,"wheezing":0.3,"muscle_aches":0.3}}
+]
