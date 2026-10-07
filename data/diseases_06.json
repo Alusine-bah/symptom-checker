@@ -5,7 +5,7 @@
    "regions":{"south_asia":3,"west_africa":2,"east_africa":2,"central_africa":2,"north_africa":2,"middle_east":2,"southeast_east_asia":2,"southern_africa":1,"latin_america":1,"europe_namerica_oceania":1},
    "symptoms":{"jaundice":0.8,"fatigue":0.6,"nausea":0.6,"abdominal_pain":0.5,"loss_of_appetite":0.5,"vomiting":0.4,"fever":0.4,"itching":0.3}},
 
-  {"slug":"amoebiasis","cat":3,"urgency":"urgent","source_url":"https://medlineplus.gov/amebiasis.html",
+  {"slug":"amoebiasis","cat":3,"urgency":"urgent","source_url":"https://medlineplus.gov/ency/article/000298.htm",
    "en":{"name":"Amoebic dysentery (amoebiasis)","description":"A parasitic gut infection causing diarrhea with blood or mucus and stomach cramps.","cause":"Entamoeba histolytica parasites, spread through contaminated food or water.","prevention":"Safe water, handwashing, washing or peeling raw fruit and vegetables, and good sanitation."},
    "fr":{"name":"Dysenterie amibienne (amibiase)","description":"Infection parasitaire de l'intestin avec diarrhée contenant du sang ou du mucus et crampes au ventre.","cause":"Parasites Entamoeba histolytica, transmis par des aliments ou de l'eau contaminés.","prevention":"Eau potable, lavage des mains, lavage ou épluchage des fruits et légumes crus et bon assainissement."},
    "regions":{"south_asia":3,"west_africa":3,"east_africa":3,"central_africa":3,"southeast_east_asia":3,"latin_america":3,"southern_africa":2,"north_africa":2,"middle_east":2,"europe_namerica_oceania":1},

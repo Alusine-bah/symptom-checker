@@ -17,7 +17,7 @@
    "regions":{"west_africa":2,"central_africa":2,"east_africa":1,"south_asia":2,"middle_east":1},
    "symptoms":{"limb_paralysis":0.95,"fever":0.6,"headache":0.4,"fatigue":0.4,"muscle_aches":0.4,"vomiting":0.3,"sore_throat":0.3}},
 
-  {"slug":"rheumatic_fever","cat":6,"urgency":"urgent","source_url":"https://medlineplus.gov/rheumaticfever.html",
+  {"slug":"rheumatic_fever","cat":6,"urgency":"urgent","source_url":"https://medlineplus.gov/ency/article/003940.htm",
    "en":{"name":"Rheumatic fever","description":"An illness that can follow an untreated strep throat, causing fever, painful swollen joints and sometimes lasting heart damage. It is a major cause of heart disease in young people in low-income countries.","cause":"An abnormal immune reaction to a Group A Streptococcus throat infection.","prevention":"Prompt antibiotic treatment of strep throat, and regular penicillin for people who have already had rheumatic fever."},
    "fr":{"name":"Rhumatisme articulaire aigu","description":"Maladie pouvant suivre une angine à streptocoque non traitée, avec fièvre, articulations douloureuses et enflées et parfois une atteinte durable du cœur. C'est une cause majeure de maladie cardiaque chez les jeunes dans les pays à faible revenu.","cause":"Réaction anormale du système immunitaire après une infection de la gorge par le streptocoque du groupe A.","prevention":"Traitement antibiotique rapide de l'angine à streptocoque, et pénicilline régulière chez les personnes ayant déjà eu un rhumatisme articulaire aigu."},
    "regions":{"west_africa":3,"east_africa":3,"central_africa":3,"southern_africa":3,"north_africa":2,"middle_east":2,"south_asia":3,"southeast_east_asia":2,"latin_america":2,"europe_namerica_oceania":1},
