@@ -1,0 +1,9 @@
+{
+  "influenza": 1.25,
+  "leptospirosis": 0.75,
+  "brucellosis": 0.8,
+  "rabies": 0.8,
+  "japanese_encephalitis": 0.8,
+  "mers": 0.7,
+  "cchf": 0.7
+}

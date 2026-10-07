@@ -7,9 +7,15 @@ DATA = os.path.join(BASE, "..", "data")
 DB_PATH = os.path.join(DATA, "health.db")
 
 URGENCY_ORDER = ["self_care", "routine", "urgent", "emergency"]
-REGION_MULTIPLIER = {3: 1.0, 2: 0.8, 1: 0.5}
+REGION_MULTIPLIER = {3: 1.0, 2: 0.65, 1: 0.35}
 MISSING_REGION_MULTIPLIER = 0.2
 MIN_SCORE = 0.1
+MAX_SCORE = 0.9
+
+
+def load_json(name):
+    with open(os.path.join(DATA, name), encoding="utf-8") as f:
+        return json.load(f)
 
 
 def load_knowledge():
@@ -34,14 +40,12 @@ def load_knowledge():
         diseases[r["disease_id"]]["prevalence"][region_code_by_id[r["region_id"]]] = r["prevalence"]
     con.close()
 
-    with open(os.path.join(DATA, "modifiers.json"), encoding="utf-8") as f:
-        modifiers = json.load(f)
-
     return {
         "symptoms": symptoms,
         "regions": regions,
         "diseases": list(diseases.values()),
-        "modifiers": modifiers,
+        "modifiers": load_json("modifiers.json"),
+        "priors": load_json("priors.json"),
     }
 
 
@@ -84,17 +88,18 @@ def triage(kb, region, age_group, sex, selected, lang="en"):
             continue
 
         explained = sum(d["weights"][s] for s in matched)
-        precision = explained / len(selected)          # how much of what you ticked fits
+        precision = explained / len(selected)            # how much of what you ticked fits
         recall = explained / sum(d["weights"].values())  # how much of the disease picture you have
         base = 0.6 * precision + 0.4 * recall
 
-        evidence = min(1.0, (len(matched) + 1) / 4)    # one symptom alone is weak evidence
+        evidence = min(1.0, (len(matched) + 1) / 4)      # one symptom alone is weak evidence
         region_mult = REGION_MULTIPLIER.get(d["prevalence"].get(region), MISSING_REGION_MULTIPLIER)
         mods = kb["modifiers"].get(d["slug"], {})
         age_mult = mods.get("age", {}).get(age_group, 1.0)
         sex_mult = mods.get("sex", {}).get(sex, 1.0)
+        prior = kb["priors"].get(d["slug"], 1.0)
 
-        score = min(0.99, base * evidence * region_mult * age_mult * sex_mult)
+        score = min(MAX_SCORE, base * evidence * region_mult * age_mult * sex_mult * prior)
 
         missing = sorted(
             (s for s, w in d["weights"].items() if s not in selected and w >= 0.5),
@@ -110,7 +115,7 @@ def triage(kb, region, age_group, sex, selected, lang="en"):
             "source_url": d["source_url"],
             "score": score,
             "match_score": round(score * 100),
-            "label": match_label(score),
+            "label": "possible" if len(selected) == 1 else match_label(score),
             "matched": [symptom_name(s) for s in matched],
             "missing": [symptom_name(s) for s in missing],
         })
@@ -131,5 +136,6 @@ def triage(kb, region, age_group, sex, selected, lang="en"):
         "status": "ok",
         "urgency": URGENCY_ORDER[level],
         "region": region,
+        "few_symptoms": len(selected) < 2,
         "results": top,
     }
