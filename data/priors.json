@@ -5,5 +5,8 @@
   "rabies": 0.8,
   "japanese_encephalitis": 0.8,
   "mers": 0.7,
-  "cchf": 0.7
+  "cchf": 0.7,
+  "uti": 1.4,
+  "sti_gonorrhea_chlamydia": 0.8,
+  "covid19": 1.2
 }
