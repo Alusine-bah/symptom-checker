@@ -1,0 +1,10 @@
+[
+  {"slug": "numb_skin_patch", "cat": 5, "en": "Patch of skin with numbness or loss of feeling", "fr": "Plaque de peau sans sensibilité ou engourdie", "sev": "severe"},
+  {"slug": "loss_of_smell_taste", "cat": 7, "en": "Loss of smell or taste", "fr": "Perte de l'odorat ou du goût", "sev": "minor"},
+  {"slug": "sneezing", "cat": 7, "en": "Sneezing", "fr": "Éternuements", "sev": "minor"},
+  {"slug": "difficulty_swallowing", "cat": 7, "en": "Difficulty or pain when swallowing", "fr": "Difficulté ou douleur à avaler", "sev": "severe"},
+  {"slug": "jaw_stiffness", "cat": 8, "en": "Stiff jaw or painful muscle spasms", "fr": "Mâchoire raide ou spasmes musculaires douloureux", "sev": "severe"},
+  {"slug": "animal_bite", "cat": 1, "en": "Recent bite or scratch from an animal (dog, bat, monkey)", "fr": "Morsure ou griffure récente d'un animal (chien, chauve-souris, singe)", "sev": "severe"},
+  {"slug": "limb_paralysis", "cat": 4, "en": "Weak or floppy arm or leg that developed over a few days", "fr": "Bras ou jambe faible ou flasque apparu en quelques jours", "sev": "severe"},
+  {"slug": "flank_pain", "cat": 9, "en": "Severe pain in the side or back, below the ribs", "fr": "Douleur intense sur le côté ou dans le dos, sous les côtes", "sev": "severe"}
+]

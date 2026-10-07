@@ -1,0 +1,9 @@
+[
+  {"slug": "leprosy", "symptoms": {"numb_skin_patch": 0.95}},
+  {"slug": "covid19", "symptoms": {"loss_of_smell_taste": 0.6}},
+  {"slug": "common_cold", "symptoms": {"sneezing": 0.6}},
+  {"slug": "diphtheria", "symptoms": {"difficulty_swallowing": 0.5}},
+  {"slug": "strep_throat", "symptoms": {"difficulty_swallowing": 0.4}},
+  {"slug": "hand_foot_mouth", "symptoms": {"difficulty_swallowing": 0.3}},
+  {"slug": "uti", "symptoms": {"flank_pain": 0.3}}
+]
