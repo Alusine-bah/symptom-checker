@@ -1,0 +1,61 @@
+[
+  {"slug":"chickenpox","cat":5,"urgency":"routine","source_url":"https://medlineplus.gov/chickenpox.html",
+   "en":{"name":"Chickenpox","description":"A very contagious viral illness causing an itchy rash of fluid-filled blisters, with fever and tiredness.","cause":"Varicella-zoster virus, spread by coughing, sneezing and touching the blisters.","prevention":"Chickenpox vaccine, and staying home until all blisters have crusted over."},
+   "fr":{"name":"Varicelle","description":"Maladie virale très contagieuse avec une éruption de vésicules qui démangent, accompagnée de fièvre et de fatigue.","cause":"Virus varicelle-zona, transmis par la toux, les éternuements et le contact avec les vésicules.","prevention":"Vaccin contre la varicelle et repos à la maison jusqu'à ce que toutes les vésicules soient croûteuses."},
+   "regions":{"west_africa":3,"east_africa":3,"central_africa":3,"southern_africa":3,"north_africa":3,"middle_east":3,"south_asia":3,"southeast_east_asia":3,"latin_america":3,"europe_namerica_oceania":2},
+   "symptoms":{"rash":0.9,"itching":0.85,"skin_sores":0.5,"fever":0.6,"fatigue":0.4,"headache":0.3,"loss_of_appetite":0.3}},
+
+  {"slug":"mumps","cat":7,"urgency":"routine","source_url":"https://medlineplus.gov/mumps.html",
+   "en":{"name":"Mumps","description":"A viral infection causing painful swelling of the glands at the sides of the face, with fever and tiredness.","cause":"Mumps virus, spread by coughing, sneezing and shared items.","prevention":"Two doses of the MMR vaccine."},
+   "fr":{"name":"Oreillons","description":"Infection virale avec gonflement douloureux des glandes sur les côtés du visage, accompagné de fièvre et de fatigue.","cause":"Virus des oreillons, transmis par la toux, les éternuements et les objets partagés.","prevention":"Deux doses du vaccin ROR."},
+   "regions":{"west_africa":2,"east_africa":2,"central_africa":2,"southern_africa":2,"north_africa":2,"middle_east":2,"south_asia":2,"southeast_east_asia":2,"latin_america":2,"europe_namerica_oceania":1},
+   "symptoms":{"swollen_glands":0.9,"fever":0.6,"headache":0.4,"muscle_aches":0.4,"fatigue":0.4,"loss_of_appetite":0.4,"ear_pain":0.3}},
+
+  {"slug":"shigellosis","cat":3,"urgency":"urgent","source_url":"https://www.cdc.gov/shigella/index.html",
+   "en":{"name":"Shigellosis (bacterial dysentery)","description":"A bacterial gut infection causing diarrhea with blood or mucus, stomach cramps and fever.","cause":"Shigella bacteria, spread through contaminated food, water or hands.","prevention":"Safe water, handwashing with soap, safe food handling, and good sanitation."},
+   "fr":{"name":"Shigellose (dysenterie bacillaire)","description":"Infection bactérienne de l'intestin avec diarrhée contenant du sang ou du mucus, crampes au ventre et fièvre.","cause":"Bactéries Shigella, transmises par des aliments, de l'eau ou des mains contaminés.","prevention":"Eau potable, lavage des mains au savon, hygiène alimentaire et bon assainissement."},
+   "regions":{"west_africa":3,"east_africa":3,"central_africa":3,"southern_africa":2,"north_africa":2,"middle_east":2,"south_asia":3,"southeast_east_asia":3,"latin_america":2,"europe_namerica_oceania":1},
+   "symptoms":{"bloody_stool":0.9,"diarrhea":0.85,"abdominal_pain":0.7,"fever":0.6,"nausea":0.4,"vomiting":0.3,"fatigue":0.3}},
+
+  {"slug":"strep_throat","cat":7,"urgency":"routine","source_url":"https://www.cdc.gov/group-a-strep/index.html",
+   "en":{"name":"Strep throat (bacterial tonsillitis)","description":"A bacterial throat infection causing a sore throat that starts suddenly, with fever and swollen neck glands, usually without a cough.","cause":"Group A Streptococcus bacteria, spread by coughing, sneezing and close contact.","prevention":"Handwashing, not sharing cups or utensils, and completing antibiotics when prescribed."},
+   "fr":{"name":"Angine à streptocoque","description":"Infection bactérienne de la gorge avec mal de gorge brutal, fièvre et ganglions du cou enflés, généralement sans toux.","cause":"Bactérie streptocoque du groupe A, transmise par la toux, les éternuements et le contact étroit.","prevention":"Lavage des mains, ne pas partager verres et couverts, et terminer les antibiotiques prescrits."},
+   "regions":{"west_africa":3,"east_africa":3,"central_africa":3,"southern_africa":3,"north_africa":3,"middle_east":3,"south_asia":3,"southeast_east_asia":3,"latin_america":3,"europe_namerica_oceania":3},
+   "symptoms":{"sore_throat":0.95,"fever":0.7,"swollen_glands":0.6,"headache":0.4,"nausea":0.3,"abdominal_pain":0.3,"fatigue":0.3}},
+
+  {"slug":"conjunctivitis","cat":7,"urgency":"self_care","source_url":"https://medlineplus.gov/pinkeye.html",
+   "en":{"name":"Conjunctivitis (pink eye)","description":"Redness, irritation and sometimes sticky discharge in the eye, usually from a viral or bacterial infection or allergy.","cause":"Viruses, bacteria or allergies.","prevention":"Wash hands often, do not touch or rub the eyes, and do not share towels or pillows."},
+   "fr":{"name":"Conjonctivite","description":"Rougeur, irritation et parfois écoulement collant dans l'œil, le plus souvent due à une infection virale ou bactérienne ou à une allergie.","cause":"Virus, bactéries ou allergies.","prevention":"Lavez-vous souvent les mains, ne touchez pas et ne frottez pas vos yeux, et ne partagez pas serviettes ni oreillers."},
+   "regions":{"west_africa":3,"east_africa":3,"central_africa":3,"southern_africa":3,"north_africa":3,"middle_east":3,"south_asia":3,"southeast_east_asia":3,"latin_america":3,"europe_namerica_oceania":3},
+   "symptoms":{"red_eyes":0.95,"itching":0.5,"runny_nose":0.2,"sore_throat":0.1}},
+
+  {"slug":"ringworm","cat":5,"urgency":"self_care","source_url":"https://www.cdc.gov/ringworm/index.html",
+   "en":{"name":"Ringworm (fungal skin infection)","description":"A common fungal skin infection causing an itchy, red, ring-shaped patch with a clearer center. It is not caused by a worm.","cause":"Fungi that live on skin, spread by touching infected people, animals, or shared towels and clothing.","prevention":"Keep skin clean and dry, do not share towels or clothing, and treat early with antifungal cream."},
+   "fr":{"name":"Teigne (mycose de la peau)","description":"Infection fongique courante de la peau avec une plaque rouge qui démange, en forme d'anneau et plus claire au centre. Elle n'est pas causée par un ver.","cause":"Champignons vivant sur la peau, transmis par contact avec des personnes ou animaux infectés, ou par des serviettes et vêtements partagés.","prevention":"Gardez la peau propre et sèche, ne partagez pas serviettes ni vêtements et traitez tôt avec une crème antifongique."},
+   "regions":{"west_africa":3,"east_africa":3,"central_africa":3,"southern_africa":3,"north_africa":3,"middle_east":3,"south_asia":3,"southeast_east_asia":3,"latin_america":3,"europe_namerica_oceania":2},
+   "symptoms":{"itching":0.9,"rash":0.9}},
+
+  {"slug":"impetigo","cat":5,"urgency":"routine","source_url":"https://medlineplus.gov/impetigo.html",
+   "en":{"name":"Impetigo","description":"A contagious bacterial skin infection, common in children, causing red sores that burst and form honey-colored crusts.","cause":"Staphylococcus or Streptococcus bacteria entering through scratches, insect bites or other skin breaks.","prevention":"Keep skin clean, cover cuts and sores, trim children's nails, and avoid sharing towels."},
+   "fr":{"name":"Impétigo","description":"Infection bactérienne contagieuse de la peau, fréquente chez l'enfant, avec des plaies rouges qui éclatent et forment des croûtes jaune miel.","cause":"Bactéries staphylocoque ou streptocoque qui pénètrent par des égratignures, des piqûres d'insectes ou d'autres lésions de la peau.","prevention":"Gardez la peau propre, couvrez les coupures et plaies, coupez les ongles des enfants et ne partagez pas les serviettes."},
+   "regions":{"west_africa":3,"east_africa":3,"central_africa":3,"southern_africa":3,"north_africa":2,"middle_east":2,"south_asia":3,"southeast_east_asia":3,"latin_america":3,"europe_namerica_oceania":2},
+   "symptoms":{"skin_sores":0.9,"itching":0.6,"rash":0.6,"fever":0.2}},
+
+  {"slug":"leptospirosis","cat":1,"urgency":"urgent","source_url":"https://www.cdc.gov/leptospirosis/index.html",
+   "en":{"name":"Leptospirosis","description":"A bacterial infection from animal urine, often after contact with flood water or mud, causing sudden fever, headache, muscle pain and red eyes.","cause":"Leptospira bacteria, entering through cuts or the eyes, nose and mouth after contact with contaminated water, soil or animals.","prevention":"Avoid wading in flood water, wear boots and gloves, control rats, and cover cuts."},
+   "fr":{"name":"Leptospirose","description":"Infection bactérienne due à l'urine d'animaux, souvent après contact avec de l'eau d'inondation ou de la boue, avec fièvre brutale, mal de tête, douleurs musculaires et yeux rouges.","cause":"Bactéries Leptospira, qui pénètrent par des plaies ou par les yeux, le nez et la bouche après contact avec de l'eau, du sol ou des animaux contaminés.","prevention":"Évitez de marcher dans l'eau d'inondation, portez bottes et gants, luttez contre les rats et couvrez vos plaies."},
+   "regions":{"southeast_east_asia":3,"south_asia":3,"latin_america":3,"west_africa":2,"east_africa":2,"central_africa":2,"southern_africa":1,"north_africa":1,"middle_east":1,"europe_namerica_oceania":1},
+   "symptoms":{"fever":0.8,"headache":0.7,"muscle_aches":0.8,"chills":0.6,"red_eyes":0.6,"nausea":0.4,"vomiting":0.4,"jaundice":0.4,"rash":0.3}},
+
+  {"slug":"covid19","cat":2,"urgency":"routine","source_url":"https://www.who.int/health-topics/coronavirus",
+   "en":{"name":"COVID-19","description":"A respiratory viral illness with fever, cough, tiredness and body aches. Most cases are mild, but some people become seriously ill.","cause":"The SARS-CoV-2 virus, spread through the air and by close contact.","prevention":"Vaccination, good ventilation, handwashing, and staying home when sick."},
+   "fr":{"name":"COVID-19","description":"Maladie virale respiratoire avec fièvre, toux, fatigue et courbatures. La plupart des cas sont bénins, mais certaines personnes deviennent gravement malades.","cause":"Virus SARS-CoV-2, transmis par l'air et par contact étroit.","prevention":"Vaccination, bonne aération, lavage des mains et repos à la maison en cas de maladie."},
+   "regions":{"west_africa":2,"east_africa":2,"central_africa":2,"southern_africa":2,"north_africa":2,"middle_east":2,"south_asia":2,"southeast_east_asia":2,"latin_america":2,"europe_namerica_oceania":2},
+   "symptoms":{"fever":0.7,"cough":0.8,"fatigue":0.7,"muscle_aches":0.5,"sore_throat":0.5,"headache":0.5,"runny_nose":0.4,"loss_of_appetite":0.3,"diarrhea":0.2}},
+
+  {"slug":"appendicitis","cat":3,"urgency":"emergency","source_url":"https://medlineplus.gov/appendicitis.html",
+   "en":{"name":"Appendicitis","description":"Inflammation of the appendix causing belly pain that often starts near the navel and moves to the lower right side, with nausea and fever. It needs urgent medical care.","cause":"A blockage or infection of the appendix.","prevention":"There is no sure way to prevent it. Get care quickly for worsening belly pain to avoid rupture."},
+   "fr":{"name":"Appendicite","description":"Inflammation de l'appendice avec une douleur au ventre qui commence souvent près du nombril puis descend vers le bas à droite, avec nausées et fièvre. Elle nécessite des soins urgents.","cause":"Obstruction ou infection de l'appendice.","prevention":"Il n'existe pas de moyen sûr de la prévenir. Consultez vite en cas de douleur au ventre qui s'aggrave afin d'éviter la rupture."},
+   "regions":{"west_africa":2,"east_africa":2,"central_africa":2,"southern_africa":2,"north_africa":2,"middle_east":2,"south_asia":2,"southeast_east_asia":2,"latin_america":2,"europe_namerica_oceania":2},
+   "symptoms":{"severe_abdominal_pain":0.95,"abdominal_pain":0.7,"nausea":0.6,"vomiting":0.5,"fever":0.5,"loss_of_appetite":0.6,"constipation":0.2,"diarrhea":0.2}}
+]
