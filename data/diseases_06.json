@@ -1,0 +1,61 @@
+[
+  {"slug":"hepatitis_e","cat":3,"urgency":"routine","source_url":"https://www.who.int/news-room/fact-sheets/detail/hepatitis-e",
+   "en":{"name":"Hepatitis E","description":"A viral liver infection causing tiredness, nausea, stomach pain and yellow skin or eyes. It usually clears on its own but can be severe in pregnant women.","cause":"Hepatitis E virus, mostly spread through contaminated drinking water.","prevention":"Safe drinking water, good sanitation, handwashing, and cooking meat thoroughly."},
+   "fr":{"name":"Hépatite E","description":"Infection virale du foie avec fatigue, nausées, douleurs au ventre et jaunisse. Elle guérit généralement d'elle-même mais peut être grave chez la femme enceinte.","cause":"Virus de l'hépatite E, transmis surtout par l'eau de boisson contaminée.","prevention":"Eau de boisson sûre, bon assainissement, lavage des mains et cuisson complète de la viande."},
+   "regions":{"south_asia":3,"west_africa":2,"east_africa":2,"central_africa":2,"north_africa":2,"middle_east":2,"southeast_east_asia":2,"southern_africa":1,"latin_america":1,"europe_namerica_oceania":1},
+   "symptoms":{"jaundice":0.8,"fatigue":0.6,"nausea":0.6,"abdominal_pain":0.5,"loss_of_appetite":0.5,"vomiting":0.4,"fever":0.4,"itching":0.3}},
+
+  {"slug":"amoebiasis","cat":3,"urgency":"urgent","source_url":"https://www.cdc.gov/amebiasis/index.html",
+   "en":{"name":"Amoebic dysentery (amoebiasis)","description":"A parasitic gut infection causing diarrhea with blood or mucus and stomach cramps.","cause":"Entamoeba histolytica parasites, spread through contaminated food or water.","prevention":"Safe water, handwashing, washing or peeling raw fruit and vegetables, and good sanitation."},
+   "fr":{"name":"Dysenterie amibienne (amibiase)","description":"Infection parasitaire de l'intestin avec diarrhée contenant du sang ou du mucus et crampes au ventre.","cause":"Parasites Entamoeba histolytica, transmis par des aliments ou de l'eau contaminés.","prevention":"Eau potable, lavage des mains, lavage ou épluchage des fruits et légumes crus et bon assainissement."},
+   "regions":{"south_asia":3,"west_africa":3,"east_africa":3,"central_africa":3,"southeast_east_asia":3,"latin_america":3,"southern_africa":2,"north_africa":2,"middle_east":2,"europe_namerica_oceania":1},
+   "symptoms":{"diarrhea":0.8,"bloody_stool":0.8,"abdominal_pain":0.7,"nausea":0.3,"fever":0.3,"fatigue":0.3,"weight_loss":0.2}},
+
+  {"slug":"giardiasis","cat":3,"urgency":"routine","source_url":"https://www.cdc.gov/giardia/index.html",
+   "en":{"name":"Giardiasis","description":"A parasitic gut infection causing watery, greasy diarrhea, bloating, stomach cramps and tiredness.","cause":"Giardia parasites in contaminated water, food or on hands.","prevention":"Safe drinking water, handwashing, and good sanitation."},
+   "fr":{"name":"Giardiase","description":"Infection parasitaire de l'intestin avec diarrhée aqueuse et grasse, ballonnements, crampes au ventre et fatigue.","cause":"Parasites Giardia présents dans l'eau, les aliments ou sur les mains contaminés.","prevention":"Eau de boisson sûre, lavage des mains et bon assainissement."},
+   "regions":{"west_africa":3,"east_africa":3,"central_africa":3,"southern_africa":2,"north_africa":2,"middle_east":2,"south_asia":3,"southeast_east_asia":2,"latin_america":3,"europe_namerica_oceania":2},
+   "symptoms":{"diarrhea":0.8,"abdominal_pain":0.6,"nausea":0.5,"fatigue":0.4,"loss_of_appetite":0.3,"weight_loss":0.3}},
+
+  {"slug":"scrub_typhus","cat":1,"urgency":"urgent","source_url":"https://www.cdc.gov/typhus/about/scrub-typhus.html",
+   "en":{"name":"Scrub typhus","description":"A bacterial illness spread by mite bites, causing fever, headache, body aches, and often a dark scab at the bite site and a rash.","cause":"Orientia tsutsugamushi bacteria, spread by the bite of infected chigger mites.","prevention":"Avoid bushy or grassy areas, use repellent, and wear long clothing."},
+   "fr":{"name":"Typhus des broussailles (scrub typhus)","description":"Maladie bactérienne transmise par des piqûres d'acariens, avec fièvre, mal de tête, courbatures, et souvent une croûte noire à l'endroit de la piqûre et une éruption.","cause":"Bactérie Orientia tsutsugamushi, transmise par la piqûre des larves d'acariens infectées.","prevention":"Évitez les zones de broussailles ou d'herbes hautes, utilisez un répulsif et portez des vêtements longs."},
+   "regions":{"southeast_east_asia":3,"south_asia":3,"middle_east":1},
+   "symptoms":{"fever":0.85,"headache":0.6,"muscle_aches":0.5,"rash":0.5,"skin_sores":0.4,"swollen_glands":0.4,"chills":0.4,"cough":0.3,"fatigue":0.3}},
+
+  {"slug":"cutaneous_leishmaniasis","cat":5,"urgency":"routine","source_url":"https://www.who.int/news-room/fact-sheets/detail/leishmaniasis",
+   "en":{"name":"Cutaneous leishmaniasis","description":"A parasitic skin disease spread by sandflies, causing painless sores that slowly grow and leave scars.","cause":"Leishmania parasites, spread by sandfly bites.","prevention":"Use repellent and bed nets, and avoid sandfly areas at dusk and night."},
+   "fr":{"name":"Leishmaniose cutanée","description":"Maladie parasitaire de la peau transmise par les phlébotomes, avec des plaies indolores qui grandissent lentement et laissent des cicatrices.","cause":"Parasites Leishmania, transmis par les piqûres de phlébotomes.","prevention":"Utilisez des répulsifs et des moustiquaires, et évitez les zones à phlébotomes au crépuscule et la nuit."},
+   "regions":{"middle_east":3,"north_africa":3,"east_africa":2,"west_africa":2,"south_asia":2,"latin_america":3,"southeast_east_asia":1},
+   "symptoms":{"skin_sores":0.95,"swollen_glands":0.3,"itching":0.2}},
+
+  {"slug":"leprosy","cat":5,"urgency":"routine","source_url":"https://www.who.int/news-room/fact-sheets/detail/leprosy",
+   "en":{"name":"Leprosy (Hansen's disease)","description":"A slowly developing bacterial infection causing pale or reddish skin patches that may lose feeling. It is curable with free multidrug treatment.","cause":"Mycobacterium leprae bacteria, spread through prolonged close contact over time.","prevention":"Early diagnosis and treatment stop spread. Examine close contacts of patients."},
+   "fr":{"name":"Lèpre (maladie de Hansen)","description":"Infection bactérienne d'évolution lente avec des plaques de peau pâles ou rougeâtres pouvant perdre la sensibilité. Elle se guérit grâce à une polychimiothérapie gratuite.","cause":"Bactérie Mycobacterium leprae, transmise par un contact étroit et prolongé.","prevention":"Le diagnostic et le traitement précoces arrêtent la transmission. Examinez les proches des malades."},
+   "regions":{"south_asia":3,"east_africa":2,"west_africa":2,"central_africa":2,"southern_africa":1,"latin_america":2,"southeast_east_asia":2},
+   "symptoms":{"rash":0.75,"skin_sores":0.5,"fatigue":0.1}},
+
+  {"slug":"buruli_ulcer","cat":5,"urgency":"routine","source_url":"https://www.who.int/news-room/fact-sheets/detail/buruli-ulcer-(mycobacterium-ulcerans-infection)",
+   "en":{"name":"Buruli ulcer","description":"A bacterial skin disease that begins as a painless lump or swelling and can become a large open ulcer. Early treatment prevents lasting damage.","cause":"Mycobacterium ulcerans bacteria, probably from slow-moving or stagnant water. How it spreads is not fully understood.","prevention":"Cover skin wounds, wear long clothes near water, and seek early treatment for any painless swelling or sore."},
+   "fr":{"name":"Ulcère de Buruli","description":"Maladie bactérienne de la peau qui commence par une boule ou un gonflement indolore et peut devenir un large ulcère ouvert. Un traitement précoce évite des séquelles durables.","cause":"Bactérie Mycobacterium ulcerans, probablement présente dans les eaux stagnantes ou à faible courant. Son mode de transmission n'est pas entièrement connu.","prevention":"Couvrez les plaies, portez des vêtements longs près de l'eau et consultez tôt pour tout gonflement ou plaie indolore."},
+   "regions":{"west_africa":3,"central_africa":2,"east_africa":1,"southeast_east_asia":1,"latin_america":1},
+   "symptoms":{"skin_sores":0.9,"swollen_legs":0.4,"rash":0.2}},
+
+  {"slug":"hand_foot_mouth","cat":5,"urgency":"self_care","source_url":"https://www.cdc.gov/hand-foot-mouth/about/index.html",
+   "en":{"name":"Hand, foot and mouth disease","description":"A common viral illness in young children with fever, sore throat, mouth sores and blisters on the hands and feet.","cause":"Coxsackieviruses and related viruses, spread by coughs, saliva, blister fluid and stool.","prevention":"Handwashing, cleaning toys and surfaces, and keeping sick children at home."},
+   "fr":{"name":"Maladie mains-pieds-bouche","description":"Maladie virale fréquente chez le jeune enfant avec fièvre, mal de gorge, aphtes dans la bouche et cloques sur les mains et les pieds.","cause":"Virus Coxsackie et virus apparentés, transmis par la toux, la salive, le liquide des cloques et les selles.","prevention":"Lavage des mains, nettoyage des jouets et surfaces et garder à la maison les enfants malades."},
+   "regions":{"southeast_east_asia":3,"south_asia":2,"west_africa":2,"east_africa":2,"central_africa":2,"southern_africa":2,"north_africa":2,"middle_east":2,"latin_america":2,"europe_namerica_oceania":2},
+   "symptoms":{"rash":0.8,"skin_sores":0.7,"fever":0.7,"sore_throat":0.6,"loss_of_appetite":0.4,"fatigue":0.3,"runny_nose":0.2}},
+
+  {"slug":"sti_gonorrhea_chlamydia","cat":9,"urgency":"routine","source_url":"https://www.who.int/news-room/fact-sheets/detail/sexually-transmitted-infections-(stis)",
+   "en":{"name":"Gonorrhea and chlamydia (sexually transmitted infections)","description":"Common bacterial infections that can cause burning when urinating, unusual discharge or lower belly pain. Many people have no symptoms, so testing is the only way to know.","cause":"Neisseria gonorrhoeae and Chlamydia trachomatis bacteria, spread through unprotected sex.","prevention":"Condoms, regular testing, and treating partners at the same time."},
+   "fr":{"name":"Gonorrhée et chlamydia (infections sexuellement transmissibles)","description":"Infections bactériennes courantes pouvant causer des brûlures en urinant, des écoulements inhabituels ou des douleurs en bas du ventre. Beaucoup de personnes n'ont aucun signe : seul un test permet de savoir.","cause":"Bactéries Neisseria gonorrhoeae et Chlamydia trachomatis, transmises lors de rapports sexuels non protégés.","prevention":"Préservatifs, dépistage régulier et traitement des partenaires en même temps."},
+   "regions":{"west_africa":3,"east_africa":3,"central_africa":3,"southern_africa":3,"north_africa":2,"middle_east":2,"south_asia":2,"southeast_east_asia":2,"latin_america":2,"europe_namerica_oceania":2},
+   "symptoms":{"painful_urination":0.8,"abdominal_pain":0.5,"frequent_urination":0.3,"blood_in_urine":0.2,"fever":0.2}},
+
+  {"slug":"acute_bronchitis","cat":2,"urgency":"self_care","source_url":"https://medlineplus.gov/bronchitis.html",
+   "en":{"name":"Acute bronchitis (chest cold)","description":"Inflammation of the airways, usually after a cold, causing a cough that can last two to three weeks, sometimes with mucus.","cause":"Mostly viruses, and sometimes smoke or irritants.","prevention":"Avoid tobacco and cooking-fire smoke, wash hands often, and get vaccines such as the yearly flu shot."},
+   "fr":{"name":"Bronchite aiguë (rhume de poitrine)","description":"Inflammation des bronches, généralement après un rhume, avec une toux pouvant durer deux à trois semaines, parfois avec des crachats.","cause":"Surtout des virus, parfois la fumée ou des substances irritantes.","prevention":"Évitez le tabac et la fumée des foyers de cuisson, lavez-vous souvent les mains et faites les vaccins comme celui de la grippe."},
+   "regions":{"west_africa":3,"east_africa":3,"central_africa":3,"southern_africa":3,"north_africa":3,"middle_east":3,"south_asia":3,"southeast_east_asia":3,"latin_america":3,"europe_namerica_oceania":3},
+   "symptoms":{"cough":0.9,"fatigue":0.4,"sore_throat":0.4,"runny_nose":0.4,"fever":0.3,"wheezing":0.3,"muscle_aches":0.2}}
+]
