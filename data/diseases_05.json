@@ -11,7 +11,7 @@
    "regions":{"west_africa":2,"east_africa":2,"central_africa":2,"southern_africa":2,"north_africa":2,"middle_east":2,"south_asia":2,"southeast_east_asia":2,"latin_america":2,"europe_namerica_oceania":1},
    "symptoms":{"swollen_glands":0.9,"fever":0.6,"headache":0.4,"muscle_aches":0.4,"fatigue":0.4,"loss_of_appetite":0.4,"ear_pain":0.3}},
 
-  {"slug":"shigellosis","cat":3,"urgency":"urgent","source_url":"https://www.cdc.gov/shigella/index.html",
+  {"slug":"shigellosis","cat":3,"urgency":"urgent","source_url":"https://medlineplus.gov/ency/article/000295.htm",
    "en":{"name":"Shigellosis (bacterial dysentery)","description":"A bacterial gut infection causing diarrhea with blood or mucus, stomach cramps and fever.","cause":"Shigella bacteria, spread through contaminated food, water or hands.","prevention":"Safe water, handwashing with soap, safe food handling, and good sanitation."},
    "fr":{"name":"Shigellose (dysenterie bacillaire)","description":"Infection bactérienne de l'intestin avec diarrhée contenant du sang ou du mucus, crampes au ventre et fièvre.","cause":"Bactéries Shigella, transmises par des aliments, de l'eau ou des mains contaminés.","prevention":"Eau potable, lavage des mains au savon, hygiène alimentaire et bon assainissement."},
    "regions":{"west_africa":3,"east_africa":3,"central_africa":3,"southern_africa":2,"north_africa":2,"middle_east":2,"south_asia":3,"southeast_east_asia":3,"latin_america":2,"europe_namerica_oceania":1},
@@ -41,7 +41,7 @@
    "regions":{"west_africa":3,"east_africa":3,"central_africa":3,"southern_africa":3,"north_africa":2,"middle_east":2,"south_asia":3,"southeast_east_asia":3,"latin_america":3,"europe_namerica_oceania":2},
    "symptoms":{"skin_sores":0.9,"itching":0.6,"rash":0.6,"fever":0.2}},
 
-  {"slug":"leptospirosis","cat":1,"urgency":"urgent","source_url":"https://www.cdc.gov/leptospirosis/index.html",
+  {"slug":"leptospirosis","cat":1,"urgency":"urgent","source_url":"https://medlineplus.gov/ency/article/001376.htm",
    "en":{"name":"Leptospirosis","description":"A bacterial infection from animal urine, often after contact with flood water or mud, causing sudden fever, headache, muscle pain and red eyes.","cause":"Leptospira bacteria, entering through cuts or the eyes, nose and mouth after contact with contaminated water, soil or animals.","prevention":"Avoid wading in flood water, wear boots and gloves, control rats, and cover cuts."},
    "fr":{"name":"Leptospirose","description":"Infection bactérienne due à l'urine d'animaux, souvent après contact avec de l'eau d'inondation ou de la boue, avec fièvre brutale, mal de tête, douleurs musculaires et yeux rouges.","cause":"Bactéries Leptospira, qui pénètrent par des plaies ou par les yeux, le nez et la bouche après contact avec de l'eau, du sol ou des animaux contaminés.","prevention":"Évitez de marcher dans l'eau d'inondation, portez bottes et gants, luttez contre les rats et couvrez vos plaies."},
    "regions":{"southeast_east_asia":3,"south_asia":3,"latin_america":3,"west_africa":2,"east_africa":2,"central_africa":2,"southern_africa":1,"north_africa":1,"middle_east":1,"europe_namerica_oceania":1},

@@ -11,7 +11,7 @@
    "regions":{"south_asia":3,"west_africa":3,"east_africa":3,"central_africa":3,"southeast_east_asia":3,"latin_america":3,"southern_africa":2,"north_africa":2,"middle_east":2,"europe_namerica_oceania":1},
    "symptoms":{"diarrhea":0.8,"bloody_stool":0.8,"abdominal_pain":0.7,"nausea":0.3,"fever":0.3,"fatigue":0.3,"weight_loss":0.2}},
 
-  {"slug":"giardiasis","cat":3,"urgency":"routine","source_url":"https://www.cdc.gov/giardia/index.html",
+  {"slug":"giardiasis","cat":3,"urgency":"routine","source_url":"https://medlineplus.gov/ency/article/000288.htm",
    "en":{"name":"Giardiasis","description":"A parasitic gut infection causing watery, greasy diarrhea, bloating, stomach cramps and tiredness.","cause":"Giardia parasites in contaminated water, food or on hands.","prevention":"Safe drinking water, handwashing, and good sanitation."},
    "fr":{"name":"Giardiase","description":"Infection parasitaire de l'intestin avec diarrhée aqueuse et grasse, ballonnements, crampes au ventre et fatigue.","cause":"Parasites Giardia présents dans l'eau, les aliments ou sur les mains contaminés.","prevention":"Eau de boisson sûre, lavage des mains et bon assainissement."},
    "regions":{"west_africa":3,"east_africa":3,"central_africa":3,"southern_africa":2,"north_africa":2,"middle_east":2,"south_asia":3,"southeast_east_asia":2,"latin_america":3,"europe_namerica_oceania":2},
