@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { useParams } from "next/navigation";
-import { useEffect, useState } from "react";
+import { Suspense, useEffect, useState } from "react";
 import { useApp } from "@/components/AppProvider";
 import { getDisease, type DiseaseDetail } from "@/lib/diseaseApi";
 import {
@@ -16,7 +16,7 @@ import {
 
 type Status = "loading" | "ok" | "missing" | "error";
 
-export default function DiseaseDetailPage() {
+function DiseaseDetailInner() {
   const params = useParams<{ slug: string }>();
   const slug = params.slug;
   const { lang } = useApp();
@@ -149,5 +149,12 @@ export default function DiseaseDetailPage() {
         </a>
       </div>
     </div>
+  );
+}
+export default function DiseaseDetailPage() {
+  return (
+    <Suspense fallback={<div className="mx-auto max-w-3xl px-4 py-8 text-slate-500">…</div>}>
+      <DiseaseDetailInner />
+    </Suspense>
   );
 }
