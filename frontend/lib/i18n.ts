@@ -13,8 +13,8 @@ const en = {
   selectedRegion: "Selected region:",
   continue: "Continue",
   chooseFirst: "Pick a region to continue",
-  loading: "Loading…",
-  apiError: "Cannot reach the server. Make sure the backend is running.",
+  loading: "Loading… the free server may need up to a minute to wake up.",
+  apiError: "Cannot reach the server. It may be waking up. Wait a minute and refresh the page.",
   disclaimer:
     "For information only. This is not a diagnosis and does not replace a doctor or health worker. If you feel very unwell, seek medical care.",
 
@@ -79,8 +79,8 @@ const fr: Strings = {
   selectedRegion: "Région choisie :",
   continue: "Continuer",
   chooseFirst: "Choisissez une région pour continuer",
-  loading: "Chargement…",
-  apiError: "Impossible de joindre le serveur. Vérifiez que le serveur est lancé.",
+  loading: "Chargement… le serveur gratuit peut mettre jusqu'à une minute à se réveiller.",
+  apiError: "Impossible de joindre le serveur. Il est peut-être en train de se réveiller. Attendez une minute et actualisez la page.",
   disclaimer:
     "À titre informatif uniquement. Ceci n'est pas un diagnostic et ne remplace pas un médecin ou un agent de santé. Si vous vous sentez très mal, consultez un professionnel de santé.",
 

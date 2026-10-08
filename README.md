@@ -4,7 +4,7 @@ An educational web app that helps people understand common illnesses and decide 
 
 > ⚠️ **Not medical advice.** This project is for education and portfolio purposes. It does not diagnose, and it must not replace a doctor or health worker.
 
-**Live demo:** _coming soon_
+**Live demo:** https://symptom-checker-livid.vercel.app (hosted on free plans, so the first load after a quiet period can take up to a minute while the server wakes up)
 
 ![Region picker](docs/home.png)
 
