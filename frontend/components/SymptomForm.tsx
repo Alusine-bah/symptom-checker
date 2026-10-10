@@ -1,8 +1,10 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { useApp } from "./AppProvider";
-import { getSymptoms, type SymptomGroup } from "@/lib/api";
+import { getSymptoms, knowledge, type SymptomGroup } from "@/lib/api";
+import { searchSymptoms } from "@/lib/symptomSearch";
+import { SEARCH } from "@/lib/searchStrings";
 
 type Props = {
   selected: string[];
@@ -32,6 +34,10 @@ export default function SymptomForm({
   const [loading, setLoading] = useState(true);
   const [loadError, setLoadError] = useState(false);
   const [openIdx, setOpenIdx] = useState<number[]>([0]);
+  const [query, setQuery] = useState("");
+  const st = SEARCH[lang];
+  const found = useMemo(() => searchSymptoms(knowledge, query, lang), [query, lang]);
+  const showNoMatch = query.trim().length >= 2 && found.hits.length === 0 && found.notes.length === 0;
 
   useEffect(() => {
     let cancelled = false;
@@ -95,6 +101,70 @@ export default function SymptomForm({
             <span className="text-red-600">●</span> {t.legendRedFlag}
           </span>
         </p>
+
+        <div className="mt-4 rounded-xl border border-emerald-200 bg-emerald-50/60 p-4">
+          <label htmlFor="symptom-search" className="text-sm font-medium">
+            {st.title}
+          </label>
+          <p className="mt-1 text-xs text-slate-600">{st.hint}</p>
+          <input
+            id="symptom-search"
+            type="search"
+            value={query}
+            onChange={(e) => setQuery(e.target.value)}
+            placeholder={st.placeholder}
+            autoComplete="off"
+            className="mt-2 w-full rounded-lg border border-slate-300 bg-white px-3 py-2"
+          />
+
+          {found.notes.map((n, i) => (
+            <p
+              key={i}
+              className={`mt-3 rounded-lg border p-3 text-sm ${
+                n.tone === "urgent"
+                  ? "border-red-300 bg-red-50 text-red-900"
+                  : "border-amber-300 bg-amber-50 text-amber-900"
+              }`}
+            >
+              {n.text}
+            </p>
+          ))}
+
+          {found.hits.length > 0 && (
+            <ul className="mt-3 flex flex-wrap gap-2">
+              {found.hits.map((h) => {
+                const on = selected.includes(h.slug);
+                const danger = h.severity === "red_flag";
+                return (
+                  <li key={h.slug}>
+                    <button
+                      type="button"
+                      aria-pressed={on}
+                      onClick={() => toggle(h.slug)}
+                      className={`rounded-full border px-3 py-1.5 text-left text-sm transition ${
+                        on
+                          ? "border-emerald-600 bg-emerald-600 text-white"
+                          : danger
+                          ? "border-red-300 bg-white hover:border-red-500"
+                          : "border-slate-300 bg-white hover:border-emerald-500"
+                      }`}
+                    >
+                      {on ? "✓ " : "+ "}
+                      {h.name}
+                      {danger && (
+                        <span className="ml-1" title={st.dangerSign}>
+                          ⚠
+                        </span>
+                      )}
+                    </button>
+                  </li>
+                );
+              })}
+            </ul>
+          )}
+
+          {showNoMatch && <p className="mt-3 text-sm text-slate-700">{st.noMatch}</p>}
+        </div>
 
         {loading && <p className="mt-4 text-slate-500">{t.loading}</p>}
         {loadError && (

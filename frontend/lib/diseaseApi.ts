@@ -1,4 +1,5 @@
-import { API_BASE, type Lang, type Urgency } from "./api";
+import { knowledge } from "./api";
+import type { Lang, Urgency } from "./engine";
 
 export type DiseaseListItem = {
   slug: string;
@@ -21,17 +22,40 @@ export type DiseaseDetail = {
   symptoms: { slug: string; name: string; weight: number }[];
 };
 
+const categoryName = (id: number, lang: Lang) => knowledge.categories.find((c) => c.id === id)![lang];
+
 export async function getDiseases(lang: Lang, region?: string): Promise<DiseaseListItem[]> {
-  const qs = new URLSearchParams({ lang });
-  if (region) qs.set("region", region);
-  const res = await fetch(`${API_BASE}/api/diseases?${qs.toString()}`);
-  if (!res.ok) throw new Error("API error");
-  return res.json();
+  const items = knowledge.diseases.map((d) => ({
+    slug: d.slug,
+    name: d[lang].name,
+    category: categoryName(d.category, lang),
+    urgency: d.urgency,
+    prevalence_in_region: region ? d.prevalence[region] ?? null : null,
+  }));
+  items.sort((a, b) => a.name.toLowerCase().localeCompare(b.name.toLowerCase()));
+  return items;
 }
 
 export async function getDisease(slug: string, lang: Lang): Promise<DiseaseDetail | null> {
-  const res = await fetch(`${API_BASE}/api/diseases/${encodeURIComponent(slug)}?lang=${lang}`);
-  if (res.status === 404) return null;
-  if (!res.ok) throw new Error("API error");
-  return res.json();
+  const d = knowledge.diseases.find((x) => x.slug === slug);
+  if (!d) return null;
+  const regionName = (code: string) => knowledge.regions.find((r) => r.code === code)![lang];
+  const symptomName = (s: string) => knowledge.symptoms.find((x) => x.slug === s)![lang];
+  const t = d[lang];
+  return {
+    slug: d.slug,
+    name: t.name,
+    category: categoryName(d.category, lang),
+    description: t.description,
+    cause: t.cause,
+    prevention: t.prevention,
+    urgency: d.urgency,
+    source_url: d.source_url,
+    regions: Object.entries(d.prevalence)
+      .sort((a, b) => b[1] - a[1])
+      .map(([code, prevalence]) => ({ code, name: regionName(code), prevalence })),
+    symptoms: Object.entries(d.weights)
+      .sort((a, b) => b[1] - a[1])
+      .map(([slug, weight]) => ({ slug, name: symptomName(slug), weight })),
+  };
 }

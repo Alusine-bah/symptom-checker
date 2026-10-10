@@ -1,59 +1,44 @@
-export const API_BASE = process.env.NEXT_PUBLIC_API_URL ?? "http://127.0.0.1:8000";
+// Data layer. Everything now runs inside the browser from knowledge.json,
+// so the website works instantly, even offline, with no backend to wake up.
+// The function names stay the same as the old API client, so screens did not change.
 
-export type Lang = "en" | "fr";
+import knowledgeJson from "./knowledge.json";
+import { triage, type Knowledge, type Lang, type TriageInput, type TriageResponse } from "./engine";
+
+export type {
+  Lang,
+  Severity,
+  Urgency,
+  MatchLabel,
+  DiseaseResult,
+  TriageResponse,
+  TriageInput,
+} from "./engine";
+
+export const knowledge = knowledgeJson as unknown as Knowledge;
+
 export type Region = { code: string; name: string };
-export type Severity = "minor" | "severe" | "red_flag";
-export type SymptomItem = { slug: string; name: string; severity: Severity };
+export type SymptomItem = { slug: string; name: string; severity: "minor" | "severe" | "red_flag" };
 export type SymptomGroup = { category: string; symptoms: SymptomItem[] };
-export type Urgency = "self_care" | "routine" | "urgent" | "emergency";
-export type MatchLabel = "strong" | "moderate" | "possible";
 
-export type DiseaseResult = {
-  slug: string;
-  name: string;
-  description: string;
-  prevention: string;
-  urgency: Urgency;
-  source_url: string;
-  match_score: number;
-  label: MatchLabel;
-  matched: string[];
-  missing: string[];
-};
-
-export type TriageResponse = {
-  status: "ok" | "emergency";
-  urgency: Urgency;
-  few_symptoms?: boolean;
-  red_flags?: string[];
-  message?: string;
-  disclaimer: string;
-  results: DiseaseResult[];
-};
-
-export type TriageInput = {
-  region: string;
-  age_group: string;
-  sex: string;
-  symptoms: string[];
-  lang: Lang;
-};
-
-async function getJson<T>(path: string): Promise<T> {
-  const res = await fetch(`${API_BASE}${path}`);
-  if (!res.ok) throw new Error("API error");
-  return res.json();
+export async function getRegions(lang: Lang): Promise<Region[]> {
+  return knowledge.regions.map((r) => ({ code: r.code, name: r[lang] }));
 }
 
-export const getRegions = (lang: Lang) => getJson<Region[]>(`/api/regions?lang=${lang}`);
-export const getSymptoms = (lang: Lang) => getJson<SymptomGroup[]>(`/api/symptoms?lang=${lang}`);
+export async function getSymptoms(lang: Lang): Promise<SymptomGroup[]> {
+  const groups = new Map<number, SymptomGroup>();
+  for (const s of knowledge.symptoms) {
+    let group = groups.get(s.category);
+    if (!group) {
+      const cat = knowledge.categories.find((c) => c.id === s.category)!;
+      group = { category: cat[lang], symptoms: [] };
+      groups.set(s.category, group);
+    }
+    group.symptoms.push({ slug: s.slug, name: s[lang], severity: s.severity });
+  }
+  return Array.from(groups.values());
+}
 
 export async function postTriage(input: TriageInput): Promise<TriageResponse> {
-  const res = await fetch(`${API_BASE}/api/triage`, {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify(input),
-  });
-  if (!res.ok) throw new Error("API error");
-  return res.json();
+  return triage(knowledge, input);
 }
