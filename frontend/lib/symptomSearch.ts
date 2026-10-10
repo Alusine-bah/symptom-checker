@@ -72,6 +72,17 @@ const SYNONYMS: Record<string, string> = {
   animal_bite: "dog bite, bitten by dog, bat bite, monkey bite, animal bite, scratched by animal, cat scratch, animal scratch, morsure de chien, mordu par un chien, morsure, griffure, griffe par un animal",
   limb_paralysis: "cannot move arm, cannot move leg, floppy leg, floppy arm, weak leg child, paralysed, paralyzed, paralysis, limp leg, jambe molle, bras mou, paralysie, ne bouge plus la jambe, jambe flasque",
   flank_pain: "flank pain, side pain, pain in the side, back pain, pain in lower back, kidney pain, loin pain, pain under ribs, douleur au flanc, douleur sur le cote, mal au dos, douleur lombaire, douleur au rein, colique nephretique",
+  vaginal_discharge: "vaginal discharge, discharge from vagina, smelly discharge, white discharge, fishy smell, foul smell down there, pertes vaginales, pertes blanches, pertes malodorantes, ecoulement vaginal, mauvaise odeur intime",
+  vaginal_itching: "vaginal itching, itching down there, vagina itching, vaginal soreness, itchy private parts, demangeaisons vaginales, irritation vaginale, ca gratte en bas, vulve qui gratte",
+  genital_sores: "genital sores, sore on private part, ulcer on genitals, sore on penis, sore on vagina, genital ulcer, wound on private parts, plaie sur le sexe, ulcere genital, bouton sur le sexe, plaie genitale",
+  penile_discharge: "discharge from penis, penis discharge, pus from penis, urethral discharge, dripping from penis, ecoulement du penis, pus du sexe, ecoulement uretral, goutte",
+  lower_abdominal_pain_women: "lower belly pain, pain in lower abdomen, pelvic pain, pain below the navel, pain in the lower stomach, douleur bas ventre, douleur pelvienne, mal au bas du ventre",
+  pain_during_sex: "pain during sex, pain when having sex, painful sex, hurts during intercourse, pain during intercourse, douleur pendant les rapports, douleur lors des rapports, rapports douloureux",
+  painful_buboes: "painful lump in groin, swollen painful gland, bubo, buboes, painful swelling in armpit, painful lump in neck, tender swollen glands, boule douloureuse a l aine, bubon, ganglion douloureux, gros ganglion douloureux",
+  skin_red_hot_swollen: "red hot swollen skin, hot swollen leg, red swollen painful skin, spreading redness, skin infection, red patch spreading, warm red skin, peau rouge et chaude, jambe rouge et gonflee, rougeur qui s etend, infection de la peau",
+  scalp_itch_lice: "head lice, lice, nits, itchy scalp, itchy head, scratching head, lice in hair, poux, lentes, cuir chevelu qui gratte, tete qui gratte",
+  blistering_rash_one_side: "shingles, painful blisters one side, blisters on one side, band of blisters, burning rash one side, rash on one side of body, zona, cloques d un seul cote, eruption d un cote, bande de cloques",
+  dark_urine: "dark urine, tea colored urine, brown urine, urine is dark, dark yellow urine, orange urine, urines foncees, urine couleur the, urine marron, urine sombre",
 };
 
 const STOP = new Set(

@@ -1,0 +1,29 @@
+[
+ {
+  "slug": "sti_gonorrhea_chlamydia",
+  "symptoms": {
+   "penile_discharge": 0.8,
+   "vaginal_discharge": 0.5,
+   "lower_abdominal_pain_women": 0.4,
+   "pain_during_sex": 0.3
+  }
+ },
+ {
+  "slug": "hepatitis_a",
+  "symptoms": {
+   "dark_urine": 0.5
+  }
+ },
+ {
+  "slug": "hepatitis_b",
+  "symptoms": {
+   "dark_urine": 0.5
+  }
+ },
+ {
+  "slug": "hepatitis_e",
+  "symptoms": {
+   "dark_urine": 0.5
+  }
+ }
+]

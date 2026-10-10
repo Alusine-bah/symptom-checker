@@ -1,0 +1,384 @@
+[
+ {
+  "slug": "syphilis",
+  "cat": 10,
+  "urgency": "routine",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/syphilis",
+  "en": {
+   "name": "Syphilis",
+   "description": "A bacterial sexually transmitted infection that often starts as a painless sore, followed later by a rash and swollen glands. It is easily cured with antibiotics, and untreated it can cause serious harm, including to unborn babies.",
+   "cause": "Treponema pallidum bacteria, spread through sex and from mother to child during pregnancy.",
+   "prevention": "Condoms, testing and treating partners, and syphilis testing at antenatal visits."
+  },
+  "fr": {
+   "name": "Syphilis",
+   "description": "Infection bactérienne sexuellement transmissible qui commence souvent par une plaie indolore, suivie plus tard d'une éruption et de ganglions enflés. Elle se guérit facilement avec des antibiotiques ; non traitée, elle peut causer de graves complications, y compris chez le bébé à naître.",
+   "cause": "Bactérie Treponema pallidum, transmise par les rapports sexuels et de la mère à l'enfant pendant la grossesse.",
+   "prevention": "Préservatifs, dépistage et traitement des partenaires, et test de la syphilis lors des consultations prénatales."
+  },
+  "regions": {
+   "west_africa": 2,
+   "east_africa": 2,
+   "central_africa": 2,
+   "southern_africa": 2,
+   "north_africa": 1,
+   "middle_east": 1,
+   "south_asia": 1,
+   "southeast_east_asia": 1,
+   "latin_america": 2,
+   "europe_namerica_oceania": 1
+  },
+  "symptoms": {
+   "genital_sores": 0.85,
+   "rash": 0.6,
+   "swollen_glands": 0.5,
+   "fever": 0.3,
+   "fatigue": 0.3,
+   "sore_throat": 0.2,
+   "muscle_aches": 0.2
+  }
+ },
+ {
+  "slug": "hepatitis_c",
+  "cat": 3,
+  "urgency": "routine",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/hepatitis-c",
+  "en": {
+   "name": "Hepatitis C",
+   "description": "A viral liver infection spread through blood. Most people have no early symptoms, and it can slowly damage the liver over many years. It can now be cured with antiviral treatment.",
+   "cause": "Hepatitis C virus, spread through unsafe injections, shared needles or razors, unscreened blood, and sometimes from mother to baby.",
+   "prevention": "Safe injections, screened blood, not sharing needles or razors, and testing if you may have been exposed."
+  },
+  "fr": {
+   "name": "Hépatite C",
+   "description": "Infection virale du foie transmise par le sang. La plupart des personnes n'ont aucun symptôme au début, et elle peut abîmer lentement le foie pendant de nombreuses années. Elle peut aujourd'hui être guérie par un traitement antiviral.",
+   "cause": "Virus de l'hépatite C, transmis par les injections non sécurisées, le partage d'aiguilles ou de rasoirs, le sang non testé, et parfois de la mère à l'enfant.",
+   "prevention": "Injections sécurisées, sang testé, ne pas partager aiguilles ni rasoirs, et dépistage en cas d'exposition possible."
+  },
+  "regions": {
+   "west_africa": 2,
+   "east_africa": 2,
+   "central_africa": 2,
+   "southern_africa": 1,
+   "north_africa": 3,
+   "middle_east": 2,
+   "south_asia": 3,
+   "southeast_east_asia": 2,
+   "latin_america": 1,
+   "europe_namerica_oceania": 1
+  },
+  "symptoms": {
+   "fatigue": 0.5,
+   "jaundice": 0.45,
+   "abdominal_pain": 0.4,
+   "nausea": 0.4,
+   "loss_of_appetite": 0.4,
+   "dark_urine": 0.4,
+   "joint_pain": 0.3,
+   "muscle_aches": 0.2
+  }
+ },
+ {
+  "slug": "trichomoniasis",
+  "cat": 10,
+  "urgency": "routine",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/sexually-transmitted-infections-(stis)",
+  "en": {
+   "name": "Trichomoniasis",
+   "description": "A common, curable sexually transmitted infection caused by a parasite. Women may notice frothy, smelly discharge, itching, and pain when urinating or during sex. Many people have no symptoms.",
+   "cause": "Trichomonas vaginalis parasite, spread through sex.",
+   "prevention": "Condoms, testing, and treating all partners at the same time."
+  },
+  "fr": {
+   "name": "Trichomonase",
+   "description": "Infection sexuellement transmissible fréquente et guérissable, causée par un parasite. Les femmes peuvent remarquer des pertes mousseuses et malodorantes, des démangeaisons et des douleurs en urinant ou pendant les rapports. Beaucoup de personnes n'ont aucun symptôme.",
+   "cause": "Parasite Trichomonas vaginalis, transmis par les rapports sexuels.",
+   "prevention": "Préservatifs, dépistage, et traitement de tous les partenaires en même temps."
+  },
+  "regions": {
+   "west_africa": 3,
+   "east_africa": 3,
+   "central_africa": 3,
+   "southern_africa": 3,
+   "north_africa": 2,
+   "middle_east": 2,
+   "south_asia": 2,
+   "southeast_east_asia": 2,
+   "latin_america": 3,
+   "europe_namerica_oceania": 2
+  },
+  "symptoms": {
+   "vaginal_discharge": 0.8,
+   "vaginal_itching": 0.6,
+   "painful_urination": 0.5,
+   "pain_during_sex": 0.5,
+   "penile_discharge": 0.5,
+   "lower_abdominal_pain_women": 0.3
+  }
+ },
+ {
+  "slug": "pelvic_inflammatory_disease",
+  "cat": 10,
+  "urgency": "urgent",
+  "source_url": "https://medlineplus.gov/pelvicinflammatorydisease.html",
+  "en": {
+   "name": "Pelvic inflammatory disease (PID)",
+   "description": "An infection of the womb, tubes and ovaries, often after an untreated sexually transmitted infection. It causes lower belly pain, unusual discharge and fever, and can harm future fertility if it is not treated early.",
+   "cause": "Bacteria, often from chlamydia or gonorrhea, travelling upwards from the vagina and cervix.",
+   "prevention": "Condoms, testing and treating sexually transmitted infections, and prompt care for lower belly pain."
+  },
+  "fr": {
+   "name": "Maladie inflammatoire pelvienne",
+   "description": "Infection de l'utérus, des trompes et des ovaires, souvent après une infection sexuellement transmissible non traitée. Elle provoque des douleurs au bas-ventre, des pertes inhabituelles et de la fièvre, et peut nuire à la fertilité si elle n'est pas traitée tôt.",
+   "cause": "Bactéries, souvent de la chlamydia ou de la gonorrhée, qui remontent depuis le vagin et le col de l'utérus.",
+   "prevention": "Préservatifs, dépistage et traitement des infections sexuellement transmissibles, et consultation rapide en cas de douleur au bas-ventre."
+  },
+  "regions": {
+   "west_africa": 3,
+   "east_africa": 3,
+   "central_africa": 3,
+   "southern_africa": 3,
+   "north_africa": 2,
+   "middle_east": 2,
+   "south_asia": 2,
+   "southeast_east_asia": 2,
+   "latin_america": 2,
+   "europe_namerica_oceania": 2
+  },
+  "symptoms": {
+   "lower_abdominal_pain_women": 0.9,
+   "vaginal_discharge": 0.6,
+   "fever": 0.5,
+   "pain_during_sex": 0.5,
+   "abdominal_pain": 0.4,
+   "painful_urination": 0.3,
+   "nausea": 0.2
+  }
+ },
+ {
+  "slug": "vaginal_candidiasis",
+  "cat": 10,
+  "urgency": "self_care",
+  "source_url": "https://medlineplus.gov/vaginitis.html",
+  "en": {
+   "name": "Vaginal yeast infection (candidiasis)",
+   "description": "A common fungal infection causing itching, soreness and a thick, white discharge, usually without a strong smell. It is not a sexually transmitted infection, although it can occasionally be passed on.",
+   "cause": "Overgrowth of Candida yeast, often after antibiotics, in pregnancy, with diabetes, or with tight, damp clothing.",
+   "prevention": "Wear loose cotton underwear, avoid douching and scented products, keep blood sugar controlled if you have diabetes, and see a health worker if it keeps coming back."
+  },
+  "fr": {
+   "name": "Mycose vaginale (candidose)",
+   "description": "Infection fongique fréquente avec démangeaisons, irritation et pertes blanches épaisses, généralement sans forte odeur. Ce n'est pas une infection sexuellement transmissible, même si elle peut parfois se transmettre.",
+   "cause": "Prolifération de la levure Candida, souvent après des antibiotiques, pendant la grossesse, en cas de diabète, ou avec des vêtements serrés et humides.",
+   "prevention": "Portez des sous-vêtements en coton amples, évitez les douches vaginales et les produits parfumés, contrôlez votre glycémie en cas de diabète, et consultez si les épisodes reviennent."
+  },
+  "regions": {
+   "west_africa": 3,
+   "east_africa": 3,
+   "central_africa": 3,
+   "southern_africa": 3,
+   "north_africa": 3,
+   "middle_east": 3,
+   "south_asia": 3,
+   "southeast_east_asia": 3,
+   "latin_america": 3,
+   "europe_namerica_oceania": 3
+  },
+  "symptoms": {
+   "vaginal_itching": 0.9,
+   "vaginal_discharge": 0.7,
+   "painful_urination": 0.4,
+   "pain_during_sex": 0.4,
+   "itching": 0.3
+  }
+ },
+ {
+  "slug": "bacterial_vaginosis",
+  "cat": 10,
+  "urgency": "routine",
+  "source_url": "https://medlineplus.gov/bacterialvaginosis.html",
+  "en": {
+   "name": "Bacterial vaginosis",
+   "description": "A common imbalance of vaginal bacteria causing thin, grey or white discharge with a fishy smell. It is not caused by poor hygiene, but it can raise the risk of other infections and of problems in pregnancy.",
+   "cause": "Overgrowth of certain bacteria that replace the normal healthy bacteria. Douching and new or multiple sex partners raise the risk.",
+   "prevention": "Avoid douching and scented soaps, limit the number of partners, and see a health worker for testing and treatment, especially if you are pregnant."
+  },
+  "fr": {
+   "name": "Vaginose bactérienne",
+   "description": "Déséquilibre fréquent des bactéries vaginales avec des pertes fines, grises ou blanches à l'odeur de poisson. Elle n'est pas due à un manque d'hygiène, mais elle peut augmenter le risque d'autres infections et de problèmes pendant la grossesse.",
+   "cause": "Prolifération de certaines bactéries qui remplacent les bactéries normales et protectrices. Les douches vaginales et les partenaires nouveaux ou multiples augmentent le risque.",
+   "prevention": "Évitez les douches vaginales et les savons parfumés, limitez le nombre de partenaires, et consultez pour un dépistage et un traitement, surtout si vous êtes enceinte."
+  },
+  "regions": {
+   "west_africa": 3,
+   "east_africa": 3,
+   "central_africa": 3,
+   "southern_africa": 3,
+   "north_africa": 3,
+   "middle_east": 3,
+   "south_asia": 3,
+   "southeast_east_asia": 3,
+   "latin_america": 3,
+   "europe_namerica_oceania": 3
+  },
+  "symptoms": {
+   "vaginal_discharge": 0.9,
+   "vaginal_itching": 0.3,
+   "painful_urination": 0.2,
+   "pain_during_sex": 0.2
+  }
+ },
+ {
+  "slug": "plague",
+  "cat": 1,
+  "urgency": "emergency",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/plague",
+  "en": {
+   "name": "Plague",
+   "description": "A serious bacterial infection spread by fleas from rats and other animals. The bubonic form causes sudden fever, chills and very painful swollen glands. Plague needs urgent treatment with antibiotics.",
+   "cause": "Yersinia pestis bacteria, spread by flea bites, contact with infected animals, or from person to person in the pneumonic form.",
+   "prevention": "Keep rats and fleas out of homes, avoid handling sick or dead animals, store food safely, and seek urgent care for fever with painful swollen glands in plague areas."
+  },
+  "fr": {
+   "name": "Peste",
+   "description": "Infection bactérienne grave transmise par les puces des rats et d'autres animaux. La forme bubonique provoque une fièvre brutale, des frissons et des ganglions enflés très douloureux. La peste nécessite un traitement antibiotique urgent.",
+   "cause": "Bactérie Yersinia pestis, transmise par les piqûres de puces, le contact avec des animaux infectés, ou d'une personne à l'autre dans la forme pulmonaire.",
+   "prevention": "Gardez rats et puces hors des maisons, évitez de manipuler des animaux malades ou morts, conservez les aliments à l'abri, et consultez d'urgence en cas de fièvre avec ganglions très douloureux dans les zones de peste."
+  },
+  "regions": {
+   "east_africa": 2,
+   "central_africa": 2,
+   "southern_africa": 1,
+   "west_africa": 1,
+   "north_africa": 1,
+   "south_asia": 1,
+   "southeast_east_asia": 1,
+   "latin_america": 1,
+   "europe_namerica_oceania": 1
+  },
+  "symptoms": {
+   "painful_buboes": 0.9,
+   "fever": 0.8,
+   "chills": 0.6,
+   "headache": 0.5,
+   "severe_weakness": 0.5,
+   "muscle_aches": 0.4,
+   "nausea": 0.3,
+   "vomiting": 0.3
+  }
+ },
+ {
+  "slug": "head_lice",
+  "cat": 5,
+  "urgency": "self_care",
+  "source_url": "https://medlineplus.gov/lice.html",
+  "en": {
+   "name": "Head lice",
+   "description": "Tiny insects that live on the scalp and cause intense itching. You may see small white eggs (nits) stuck to the hair near the scalp. Head lice are common in children and spread by close contact.",
+   "cause": "Head lice, spread by head-to-head contact and sometimes by shared combs, hats or bedding.",
+   "prevention": "Do not share combs, hats or bedding, check family members, treat everyone affected at the same time, and comb the hair with a fine-toothed comb."
+  },
+  "fr": {
+   "name": "Poux de tête",
+   "description": "Minuscules insectes qui vivent sur le cuir chevelu et provoquent de fortes démangeaisons. On peut voir de petits œufs blancs (lentes) collés aux cheveux près du cuir chevelu. Les poux sont fréquents chez l'enfant et se transmettent par contact étroit.",
+   "cause": "Poux de tête, transmis par contact tête contre tête et parfois par des peignes, des chapeaux ou de la literie partagés.",
+   "prevention": "Ne partagez pas peignes, chapeaux ni literie, vérifiez les membres de la famille, traitez toutes les personnes touchées en même temps, et peignez les cheveux avec un peigne fin."
+  },
+  "regions": {
+   "west_africa": 3,
+   "east_africa": 3,
+   "central_africa": 3,
+   "southern_africa": 3,
+   "north_africa": 3,
+   "middle_east": 3,
+   "south_asia": 3,
+   "southeast_east_asia": 3,
+   "latin_america": 3,
+   "europe_namerica_oceania": 3
+  },
+  "symptoms": {
+   "scalp_itch_lice": 0.95,
+   "itching": 0.6,
+   "skin_sores": 0.2,
+   "rash": 0.2
+  }
+ },
+ {
+  "slug": "shingles",
+  "cat": 5,
+  "urgency": "urgent",
+  "source_url": "https://medlineplus.gov/shingles.html",
+  "en": {
+   "name": "Shingles (herpes zoster)",
+   "description": "A painful rash of fluid-filled blisters that appears on one side of the body, caused by the chickenpox virus waking up again. It often starts with burning or tingling pain and can lead to long-lasting nerve pain.",
+   "cause": "Varicella-zoster virus coming back in someone who has had chickenpox. It is more common with older age, stress or weak immunity, including HIV.",
+   "prevention": "The shingles vaccine where available. See a health worker quickly, because early treatment works best, and go urgently if the rash is near the eye."
+  },
+  "fr": {
+   "name": "Zona (herpès zoster)",
+   "description": "Éruption douloureuse de cloques remplies de liquide, apparaissant d'un seul côté du corps, causée par le réveil du virus de la varicelle. Elle commence souvent par des brûlures ou des picotements et peut laisser des douleurs nerveuses durables.",
+   "cause": "Virus varicelle-zona qui se réactive chez une personne ayant déjà eu la varicelle. Il est plus fréquent avec l'âge, le stress ou une immunité affaiblie, y compris le VIH.",
+   "prevention": "Vaccin contre le zona lorsqu'il est disponible. Consultez rapidement, car un traitement précoce est plus efficace, et allez en urgence si l'éruption est près de l'œil."
+  },
+  "regions": {
+   "west_africa": 3,
+   "east_africa": 3,
+   "central_africa": 3,
+   "southern_africa": 3,
+   "north_africa": 3,
+   "middle_east": 3,
+   "south_asia": 3,
+   "southeast_east_asia": 3,
+   "latin_america": 3,
+   "europe_namerica_oceania": 3
+  },
+  "symptoms": {
+   "blistering_rash_one_side": 0.95,
+   "rash": 0.5,
+   "skin_sores": 0.5,
+   "fever": 0.3,
+   "headache": 0.3,
+   "fatigue": 0.3,
+   "itching": 0.3
+  }
+ },
+ {
+  "slug": "cellulitis",
+  "cat": 5,
+  "urgency": "urgent",
+  "source_url": "https://medlineplus.gov/ency/article/000855.htm",
+  "en": {
+   "name": "Cellulitis (bacterial skin infection)",
+   "description": "A bacterial infection of the skin and the tissue underneath, causing a red, hot, swollen and painful area that spreads. It can become serious if it is not treated.",
+   "cause": "Bacteria such as streptococcus and staphylococcus entering through cuts, insect bites, cracked skin or sores.",
+   "prevention": "Clean and cover cuts and wounds, treat skin cracks and athlete's foot, and see a health worker if redness spreads or you develop a fever."
+  },
+  "fr": {
+   "name": "Cellulite infectieuse (infection bactérienne de la peau)",
+   "description": "Infection bactérienne de la peau et des tissus situés dessous, avec une zone rouge, chaude, gonflée et douloureuse qui s'étend. Elle peut devenir grave si elle n'est pas traitée.",
+   "cause": "Bactéries comme le streptocoque et le staphylocoque qui pénètrent par des coupures, des piqûres d'insectes, une peau gercée ou des plaies.",
+   "prevention": "Nettoyez et couvrez les coupures et les plaies, traitez les gerçures et le pied d'athlète, et consultez si la rougeur s'étend ou si de la fièvre apparaît."
+  },
+  "regions": {
+   "west_africa": 3,
+   "east_africa": 3,
+   "central_africa": 3,
+   "southern_africa": 3,
+   "north_africa": 3,
+   "middle_east": 3,
+   "south_asia": 3,
+   "southeast_east_asia": 3,
+   "latin_america": 3,
+   "europe_namerica_oceania": 3
+  },
+  "symptoms": {
+   "skin_red_hot_swollen": 0.95,
+   "fever": 0.5,
+   "chills": 0.3,
+   "skin_sores": 0.3,
+   "swollen_glands": 0.3,
+   "swollen_legs": 0.3,
+   "fatigue": 0.2
+  }
+ }
+]

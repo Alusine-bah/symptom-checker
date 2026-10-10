@@ -21,8 +21,9 @@ def run(kb, symptoms, region="west_africa", age="adult", sex="female"):
 # ---------- Data integrity ----------
 
 def test_counts(kb):
-    assert len(kb["diseases"]) == 70
-    assert len(kb["symptoms"]) == 63
+    # Minimums: the data only grows. Update these when you want to lock in a new size.
+    assert len(kb["diseases"]) >= 80
+    assert len(kb["symptoms"]) >= 74
     assert len(kb["regions"]) == 10
 
 

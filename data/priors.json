@@ -8,5 +8,7 @@
   "cchf": 0.7,
   "uti": 1.4,
   "sti_gonorrhea_chlamydia": 0.8,
-  "covid19": 1.2
+  "covid19": 1.2,
+  "hepatitis_c": 0.8,
+  "syphilis": 0.9
 }

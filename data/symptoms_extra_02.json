@@ -1,0 +1,79 @@
+[
+ {
+  "slug": "vaginal_discharge",
+  "cat": 10,
+  "en": "Unusual vaginal discharge or smell",
+  "fr": "Pertes vaginales inhabituelles ou mauvaise odeur",
+  "sev": "minor"
+ },
+ {
+  "slug": "vaginal_itching",
+  "cat": 10,
+  "en": "Vaginal itching or soreness",
+  "fr": "Démangeaisons ou irritation vaginales",
+  "sev": "minor"
+ },
+ {
+  "slug": "genital_sores",
+  "cat": 10,
+  "en": "Sores or ulcers on the genitals",
+  "fr": "Plaies ou ulcères sur les organes génitaux",
+  "sev": "severe"
+ },
+ {
+  "slug": "penile_discharge",
+  "cat": 10,
+  "en": "Discharge from the penis",
+  "fr": "Écoulement du pénis",
+  "sev": "minor"
+ },
+ {
+  "slug": "lower_abdominal_pain_women",
+  "cat": 10,
+  "en": "Lower belly pain (women)",
+  "fr": "Douleur au bas-ventre (femmes)",
+  "sev": "minor"
+ },
+ {
+  "slug": "pain_during_sex",
+  "cat": 10,
+  "en": "Pain during sex",
+  "fr": "Douleur pendant les rapports sexuels",
+  "sev": "minor"
+ },
+ {
+  "slug": "painful_buboes",
+  "cat": 1,
+  "en": "Very painful swollen glands in the groin, armpit or neck",
+  "fr": "Ganglions très douloureux et enflés à l'aine, à l'aisselle ou au cou",
+  "sev": "severe"
+ },
+ {
+  "slug": "skin_red_hot_swollen",
+  "cat": 5,
+  "en": "Red, hot, swollen and painful area of skin",
+  "fr": "Zone de peau rouge, chaude, gonflée et douloureuse",
+  "sev": "severe"
+ },
+ {
+  "slug": "scalp_itch_lice",
+  "cat": 5,
+  "en": "Itchy scalp, or lice or nits in the hair",
+  "fr": "Cuir chevelu qui démange, ou poux ou lentes dans les cheveux",
+  "sev": "minor"
+ },
+ {
+  "slug": "blistering_rash_one_side",
+  "cat": 5,
+  "en": "Painful blistering rash on one side of the body",
+  "fr": "Éruption douloureuse avec cloques d'un seul côté du corps",
+  "sev": "severe"
+ },
+ {
+  "slug": "dark_urine",
+  "cat": 9,
+  "en": "Dark-coloured urine",
+  "fr": "Urines foncées",
+  "sev": "minor"
+ }
+]

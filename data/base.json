@@ -1,82 +1,508 @@
 {
   "regions": [
-    {"id": 1, "code": "west_africa", "en": "West Africa", "fr": "Afrique de l'Ouest"},
-    {"id": 2, "code": "east_africa", "en": "East Africa", "fr": "Afrique de l'Est"},
-    {"id": 3, "code": "central_africa", "en": "Central Africa", "fr": "Afrique centrale"},
-    {"id": 4, "code": "southern_africa", "en": "Southern Africa", "fr": "Afrique australe"},
-    {"id": 5, "code": "north_africa", "en": "North Africa", "fr": "Afrique du Nord"},
-    {"id": 6, "code": "middle_east", "en": "Middle East", "fr": "Moyen-Orient"},
-    {"id": 7, "code": "south_asia", "en": "South Asia", "fr": "Asie du Sud"},
-    {"id": 8, "code": "southeast_east_asia", "en": "Southeast & East Asia", "fr": "Asie du Sud-Est et de l'Est"},
-    {"id": 9, "code": "latin_america", "en": "Latin America & Caribbean", "fr": "Amérique latine et Caraïbes"},
-    {"id": 10, "code": "europe_namerica_oceania", "en": "Europe, North America & Oceania", "fr": "Europe, Amérique du Nord et Océanie"}
+    {
+      "id": 1,
+      "code": "west_africa",
+      "en": "West Africa",
+      "fr": "Afrique de l'Ouest"
+    },
+    {
+      "id": 2,
+      "code": "east_africa",
+      "en": "East Africa",
+      "fr": "Afrique de l'Est"
+    },
+    {
+      "id": 3,
+      "code": "central_africa",
+      "en": "Central Africa",
+      "fr": "Afrique centrale"
+    },
+    {
+      "id": 4,
+      "code": "southern_africa",
+      "en": "Southern Africa",
+      "fr": "Afrique australe"
+    },
+    {
+      "id": 5,
+      "code": "north_africa",
+      "en": "North Africa",
+      "fr": "Afrique du Nord"
+    },
+    {
+      "id": 6,
+      "code": "middle_east",
+      "en": "Middle East",
+      "fr": "Moyen-Orient"
+    },
+    {
+      "id": 7,
+      "code": "south_asia",
+      "en": "South Asia",
+      "fr": "Asie du Sud"
+    },
+    {
+      "id": 8,
+      "code": "southeast_east_asia",
+      "en": "Southeast & East Asia",
+      "fr": "Asie du Sud-Est et de l'Est"
+    },
+    {
+      "id": 9,
+      "code": "latin_america",
+      "en": "Latin America & Caribbean",
+      "fr": "Amérique latine et Caraïbes"
+    },
+    {
+      "id": 10,
+      "code": "europe_namerica_oceania",
+      "en": "Europe, North America & Oceania",
+      "fr": "Europe, Amérique du Nord et Océanie"
+    }
   ],
   "categories": [
-    {"id": 1, "en": "General", "fr": "Général"},
-    {"id": 2, "en": "Respiratory", "fr": "Respiratoire"},
-    {"id": 3, "en": "Digestive", "fr": "Digestif"},
-    {"id": 4, "en": "Neurological", "fr": "Neurologique"},
-    {"id": 5, "en": "Skin", "fr": "Peau"},
-    {"id": 6, "en": "Heart & circulation", "fr": "Cœur et circulation"},
-    {"id": 7, "en": "Ear, nose, throat & eyes", "fr": "Oreilles, nez, gorge et yeux"},
-    {"id": 8, "en": "Muscles & joints", "fr": "Muscles et articulations"},
-    {"id": 9, "en": "Urinary", "fr": "Urinaire"}
+    {
+      "id": 1,
+      "en": "General",
+      "fr": "Général"
+    },
+    {
+      "id": 2,
+      "en": "Respiratory",
+      "fr": "Respiratoire"
+    },
+    {
+      "id": 3,
+      "en": "Digestive",
+      "fr": "Digestif"
+    },
+    {
+      "id": 4,
+      "en": "Neurological",
+      "fr": "Neurologique"
+    },
+    {
+      "id": 5,
+      "en": "Skin",
+      "fr": "Peau"
+    },
+    {
+      "id": 6,
+      "en": "Heart & circulation",
+      "fr": "Cœur et circulation"
+    },
+    {
+      "id": 7,
+      "en": "Ear, nose, throat & eyes",
+      "fr": "Oreilles, nez, gorge et yeux"
+    },
+    {
+      "id": 8,
+      "en": "Muscles & joints",
+      "fr": "Muscles et articulations"
+    },
+    {
+      "id": 9,
+      "en": "Urinary",
+      "fr": "Urinaire"
+    },
+    {
+      "id": 10,
+      "en": "Reproductive health",
+      "fr": "Santé reproductive"
+    },
+    {
+      "id": 11,
+      "en": "Mouth & teeth",
+      "fr": "Bouche et dents"
+    }
   ],
   "symptoms": [
-    {"slug": "fever", "cat": 1, "en": "Fever", "fr": "Fièvre", "sev": "minor"},
-    {"slug": "high_fever", "cat": 1, "en": "High fever (39°C / 102°F or above)", "fr": "Forte fièvre (39 °C ou plus)", "sev": "severe"},
-    {"slug": "chills", "cat": 1, "en": "Chills or shivering", "fr": "Frissons", "sev": "minor"},
-    {"slug": "fatigue", "cat": 1, "en": "Tiredness or fatigue", "fr": "Fatigue", "sev": "minor"},
-    {"slug": "night_sweats", "cat": 1, "en": "Night sweats", "fr": "Sueurs nocturnes", "sev": "minor"},
-    {"slug": "weight_loss", "cat": 1, "en": "Unexplained weight loss", "fr": "Perte de poids inexpliquée", "sev": "severe"},
-    {"slug": "loss_of_appetite", "cat": 1, "en": "Loss of appetite", "fr": "Perte d'appétit", "sev": "minor"},
-    {"slug": "swollen_glands", "cat": 1, "en": "Swollen glands (lymph nodes)", "fr": "Ganglions enflés", "sev": "minor"},
-    {"slug": "severe_weakness", "cat": 1, "en": "Severe weakness", "fr": "Faiblesse intense", "sev": "severe"},
-    {"slug": "pale_skin", "cat": 1, "en": "Pale skin, lips or eyelids", "fr": "Pâleur de la peau, des lèvres ou des paupières", "sev": "severe"},
-    {"slug": "excessive_thirst", "cat": 1, "en": "Excessive thirst", "fr": "Soif excessive", "sev": "minor"},
-    {"slug": "cough", "cat": 2, "en": "Cough", "fr": "Toux", "sev": "minor"},
-    {"slug": "persistent_cough", "cat": 2, "en": "Cough lasting more than 3 weeks", "fr": "Toux depuis plus de 3 semaines", "sev": "severe"},
-    {"slug": "cough_blood", "cat": 2, "en": "Coughing up blood", "fr": "Crachats de sang", "sev": "red_flag"},
-    {"slug": "shortness_of_breath", "cat": 2, "en": "Difficulty breathing or shortness of breath", "fr": "Difficulté à respirer ou essoufflement", "sev": "red_flag"},
-    {"slug": "fast_breathing", "cat": 2, "en": "Fast breathing", "fr": "Respiration rapide", "sev": "severe"},
-    {"slug": "wheezing", "cat": 2, "en": "Wheezing", "fr": "Respiration sifflante", "sev": "severe"},
-    {"slug": "nausea", "cat": 3, "en": "Nausea", "fr": "Nausées", "sev": "minor"},
-    {"slug": "vomiting", "cat": 3, "en": "Vomiting", "fr": "Vomissements", "sev": "minor"},
-    {"slug": "persistent_vomiting", "cat": 3, "en": "Persistent vomiting", "fr": "Vomissements persistants", "sev": "severe"},
-    {"slug": "diarrhea", "cat": 3, "en": "Diarrhea", "fr": "Diarrhée", "sev": "minor"},
-    {"slug": "watery_diarrhea", "cat": 3, "en": "Severe watery diarrhea", "fr": "Diarrhée aqueuse abondante", "sev": "severe"},
-    {"slug": "bloody_stool", "cat": 3, "en": "Blood in stool", "fr": "Sang dans les selles", "sev": "severe"},
-    {"slug": "abdominal_pain", "cat": 3, "en": "Abdominal pain", "fr": "Douleur abdominale", "sev": "minor"},
-    {"slug": "severe_abdominal_pain", "cat": 3, "en": "Severe abdominal pain", "fr": "Douleur abdominale intense", "sev": "severe"},
-    {"slug": "constipation", "cat": 3, "en": "Constipation", "fr": "Constipation", "sev": "minor"},
-    {"slug": "jaundice", "cat": 3, "en": "Yellow skin or eyes (jaundice)", "fr": "Jaunisse (peau ou yeux jaunes)", "sev": "severe"},
-    {"slug": "vomiting_blood", "cat": 3, "en": "Vomiting blood", "fr": "Vomissements de sang", "sev": "red_flag"},
-    {"slug": "headache", "cat": 4, "en": "Headache", "fr": "Mal de tête", "sev": "minor"},
-    {"slug": "severe_headache", "cat": 4, "en": "Severe headache", "fr": "Mal de tête intense", "sev": "severe"},
-    {"slug": "dizziness", "cat": 4, "en": "Dizziness", "fr": "Vertiges", "sev": "minor"},
-    {"slug": "confusion", "cat": 4, "en": "Sudden confusion", "fr": "Confusion soudaine", "sev": "red_flag"},
-    {"slug": "seizures", "cat": 4, "en": "Seizures or convulsions", "fr": "Convulsions", "sev": "red_flag"},
-    {"slug": "stiff_neck", "cat": 4, "en": "Stiff neck", "fr": "Raideur de la nuque", "sev": "red_flag"},
-    {"slug": "light_sensitivity", "cat": 4, "en": "Sensitivity to light", "fr": "Sensibilité à la lumière", "sev": "severe"},
-    {"slug": "unconsciousness", "cat": 4, "en": "Fainting or loss of consciousness", "fr": "Évanouissement ou perte de connaissance", "sev": "red_flag"},
-    {"slug": "one_sided_weakness", "cat": 4, "en": "Sudden weakness or numbness on one side of the body", "fr": "Faiblesse ou engourdissement soudain d'un côté du corps", "sev": "red_flag"},
-    {"slug": "rash", "cat": 5, "en": "Rash", "fr": "Éruption cutanée", "sev": "minor"},
-    {"slug": "itching", "cat": 5, "en": "Itching", "fr": "Démangeaisons", "sev": "minor"},
-    {"slug": "skin_sores", "cat": 5, "en": "Blisters or open sores on the skin", "fr": "Cloques ou plaies ouvertes sur la peau", "sev": "severe"},
-    {"slug": "unexplained_bleeding", "cat": 5, "en": "Unexplained bleeding or easy bruising", "fr": "Saignements inexpliqués ou ecchymoses faciles", "sev": "red_flag"},
-    {"slug": "chest_pain", "cat": 6, "en": "Chest pain or pressure", "fr": "Douleur ou oppression dans la poitrine", "sev": "red_flag"},
-    {"slug": "palpitations", "cat": 6, "en": "Heart palpitations", "fr": "Palpitations", "sev": "minor"},
-    {"slug": "swollen_legs", "cat": 6, "en": "Swollen legs or ankles", "fr": "Jambes ou chevilles enflées", "sev": "minor"},
-    {"slug": "sore_throat", "cat": 7, "en": "Sore throat", "fr": "Mal de gorge", "sev": "minor"},
-    {"slug": "runny_nose", "cat": 7, "en": "Runny nose", "fr": "Nez qui coule", "sev": "minor"},
-    {"slug": "ear_pain", "cat": 7, "en": "Ear pain", "fr": "Douleur à l'oreille", "sev": "minor"},
-    {"slug": "red_eyes", "cat": 7, "en": "Red or painful eyes", "fr": "Yeux rouges ou douloureux", "sev": "minor"},
-    {"slug": "blurred_vision", "cat": 7, "en": "Blurred vision", "fr": "Vision floue", "sev": "severe"},
-    {"slug": "muscle_aches", "cat": 8, "en": "Muscle aches", "fr": "Douleurs musculaires", "sev": "minor"},
-    {"slug": "joint_pain", "cat": 8, "en": "Joint pain", "fr": "Douleurs articulaires", "sev": "minor"},
-    {"slug": "severe_joint_pain", "cat": 8, "en": "Severe joint pain", "fr": "Douleurs articulaires intenses", "sev": "severe"},
-    {"slug": "painful_urination", "cat": 9, "en": "Pain when urinating", "fr": "Douleur en urinant", "sev": "minor"},
-    {"slug": "frequent_urination", "cat": 9, "en": "Frequent urination", "fr": "Besoin fréquent d'uriner", "sev": "minor"},
-    {"slug": "blood_in_urine", "cat": 9, "en": "Blood in urine", "fr": "Sang dans les urines", "sev": "severe"}
+    {
+      "slug": "fever",
+      "cat": 1,
+      "en": "Fever",
+      "fr": "Fièvre",
+      "sev": "minor"
+    },
+    {
+      "slug": "high_fever",
+      "cat": 1,
+      "en": "High fever (39°C / 102°F or above)",
+      "fr": "Forte fièvre (39 °C ou plus)",
+      "sev": "severe"
+    },
+    {
+      "slug": "chills",
+      "cat": 1,
+      "en": "Chills or shivering",
+      "fr": "Frissons",
+      "sev": "minor"
+    },
+    {
+      "slug": "fatigue",
+      "cat": 1,
+      "en": "Tiredness or fatigue",
+      "fr": "Fatigue",
+      "sev": "minor"
+    },
+    {
+      "slug": "night_sweats",
+      "cat": 1,
+      "en": "Night sweats",
+      "fr": "Sueurs nocturnes",
+      "sev": "minor"
+    },
+    {
+      "slug": "weight_loss",
+      "cat": 1,
+      "en": "Unexplained weight loss",
+      "fr": "Perte de poids inexpliquée",
+      "sev": "severe"
+    },
+    {
+      "slug": "loss_of_appetite",
+      "cat": 1,
+      "en": "Loss of appetite",
+      "fr": "Perte d'appétit",
+      "sev": "minor"
+    },
+    {
+      "slug": "swollen_glands",
+      "cat": 1,
+      "en": "Swollen glands (lymph nodes)",
+      "fr": "Ganglions enflés",
+      "sev": "minor"
+    },
+    {
+      "slug": "severe_weakness",
+      "cat": 1,
+      "en": "Severe weakness",
+      "fr": "Faiblesse intense",
+      "sev": "severe"
+    },
+    {
+      "slug": "pale_skin",
+      "cat": 1,
+      "en": "Pale skin, lips or eyelids",
+      "fr": "Pâleur de la peau, des lèvres ou des paupières",
+      "sev": "severe"
+    },
+    {
+      "slug": "excessive_thirst",
+      "cat": 1,
+      "en": "Excessive thirst",
+      "fr": "Soif excessive",
+      "sev": "minor"
+    },
+    {
+      "slug": "cough",
+      "cat": 2,
+      "en": "Cough",
+      "fr": "Toux",
+      "sev": "minor"
+    },
+    {
+      "slug": "persistent_cough",
+      "cat": 2,
+      "en": "Cough lasting more than 3 weeks",
+      "fr": "Toux depuis plus de 3 semaines",
+      "sev": "severe"
+    },
+    {
+      "slug": "cough_blood",
+      "cat": 2,
+      "en": "Coughing up blood",
+      "fr": "Crachats de sang",
+      "sev": "red_flag"
+    },
+    {
+      "slug": "shortness_of_breath",
+      "cat": 2,
+      "en": "Difficulty breathing or shortness of breath",
+      "fr": "Difficulté à respirer ou essoufflement",
+      "sev": "red_flag"
+    },
+    {
+      "slug": "fast_breathing",
+      "cat": 2,
+      "en": "Fast breathing",
+      "fr": "Respiration rapide",
+      "sev": "severe"
+    },
+    {
+      "slug": "wheezing",
+      "cat": 2,
+      "en": "Wheezing",
+      "fr": "Respiration sifflante",
+      "sev": "severe"
+    },
+    {
+      "slug": "nausea",
+      "cat": 3,
+      "en": "Nausea",
+      "fr": "Nausées",
+      "sev": "minor"
+    },
+    {
+      "slug": "vomiting",
+      "cat": 3,
+      "en": "Vomiting",
+      "fr": "Vomissements",
+      "sev": "minor"
+    },
+    {
+      "slug": "persistent_vomiting",
+      "cat": 3,
+      "en": "Persistent vomiting",
+      "fr": "Vomissements persistants",
+      "sev": "severe"
+    },
+    {
+      "slug": "diarrhea",
+      "cat": 3,
+      "en": "Diarrhea",
+      "fr": "Diarrhée",
+      "sev": "minor"
+    },
+    {
+      "slug": "watery_diarrhea",
+      "cat": 3,
+      "en": "Severe watery diarrhea",
+      "fr": "Diarrhée aqueuse abondante",
+      "sev": "severe"
+    },
+    {
+      "slug": "bloody_stool",
+      "cat": 3,
+      "en": "Blood in stool",
+      "fr": "Sang dans les selles",
+      "sev": "severe"
+    },
+    {
+      "slug": "abdominal_pain",
+      "cat": 3,
+      "en": "Abdominal pain",
+      "fr": "Douleur abdominale",
+      "sev": "minor"
+    },
+    {
+      "slug": "severe_abdominal_pain",
+      "cat": 3,
+      "en": "Severe abdominal pain",
+      "fr": "Douleur abdominale intense",
+      "sev": "severe"
+    },
+    {
+      "slug": "constipation",
+      "cat": 3,
+      "en": "Constipation",
+      "fr": "Constipation",
+      "sev": "minor"
+    },
+    {
+      "slug": "jaundice",
+      "cat": 3,
+      "en": "Yellow skin or eyes (jaundice)",
+      "fr": "Jaunisse (peau ou yeux jaunes)",
+      "sev": "severe"
+    },
+    {
+      "slug": "vomiting_blood",
+      "cat": 3,
+      "en": "Vomiting blood",
+      "fr": "Vomissements de sang",
+      "sev": "red_flag"
+    },
+    {
+      "slug": "headache",
+      "cat": 4,
+      "en": "Headache",
+      "fr": "Mal de tête",
+      "sev": "minor"
+    },
+    {
+      "slug": "severe_headache",
+      "cat": 4,
+      "en": "Severe headache",
+      "fr": "Mal de tête intense",
+      "sev": "severe"
+    },
+    {
+      "slug": "dizziness",
+      "cat": 4,
+      "en": "Dizziness",
+      "fr": "Vertiges",
+      "sev": "minor"
+    },
+    {
+      "slug": "confusion",
+      "cat": 4,
+      "en": "Sudden confusion",
+      "fr": "Confusion soudaine",
+      "sev": "red_flag"
+    },
+    {
+      "slug": "seizures",
+      "cat": 4,
+      "en": "Seizures or convulsions",
+      "fr": "Convulsions",
+      "sev": "red_flag"
+    },
+    {
+      "slug": "stiff_neck",
+      "cat": 4,
+      "en": "Stiff neck",
+      "fr": "Raideur de la nuque",
+      "sev": "red_flag"
+    },
+    {
+      "slug": "light_sensitivity",
+      "cat": 4,
+      "en": "Sensitivity to light",
+      "fr": "Sensibilité à la lumière",
+      "sev": "severe"
+    },
+    {
+      "slug": "unconsciousness",
+      "cat": 4,
+      "en": "Fainting or loss of consciousness",
+      "fr": "Évanouissement ou perte de connaissance",
+      "sev": "red_flag"
+    },
+    {
+      "slug": "one_sided_weakness",
+      "cat": 4,
+      "en": "Sudden weakness or numbness on one side of the body",
+      "fr": "Faiblesse ou engourdissement soudain d'un côté du corps",
+      "sev": "red_flag"
+    },
+    {
+      "slug": "rash",
+      "cat": 5,
+      "en": "Rash",
+      "fr": "Éruption cutanée",
+      "sev": "minor"
+    },
+    {
+      "slug": "itching",
+      "cat": 5,
+      "en": "Itching",
+      "fr": "Démangeaisons",
+      "sev": "minor"
+    },
+    {
+      "slug": "skin_sores",
+      "cat": 5,
+      "en": "Blisters or open sores on the skin",
+      "fr": "Cloques ou plaies ouvertes sur la peau",
+      "sev": "severe"
+    },
+    {
+      "slug": "unexplained_bleeding",
+      "cat": 5,
+      "en": "Unexplained bleeding or easy bruising",
+      "fr": "Saignements inexpliqués ou ecchymoses faciles",
+      "sev": "red_flag"
+    },
+    {
+      "slug": "chest_pain",
+      "cat": 6,
+      "en": "Chest pain or pressure",
+      "fr": "Douleur ou oppression dans la poitrine",
+      "sev": "red_flag"
+    },
+    {
+      "slug": "palpitations",
+      "cat": 6,
+      "en": "Heart palpitations",
+      "fr": "Palpitations",
+      "sev": "minor"
+    },
+    {
+      "slug": "swollen_legs",
+      "cat": 6,
+      "en": "Swollen legs or ankles",
+      "fr": "Jambes ou chevilles enflées",
+      "sev": "minor"
+    },
+    {
+      "slug": "sore_throat",
+      "cat": 7,
+      "en": "Sore throat",
+      "fr": "Mal de gorge",
+      "sev": "minor"
+    },
+    {
+      "slug": "runny_nose",
+      "cat": 7,
+      "en": "Runny nose",
+      "fr": "Nez qui coule",
+      "sev": "minor"
+    },
+    {
+      "slug": "ear_pain",
+      "cat": 7,
+      "en": "Ear pain",
+      "fr": "Douleur à l'oreille",
+      "sev": "minor"
+    },
+    {
+      "slug": "red_eyes",
+      "cat": 7,
+      "en": "Red or painful eyes",
+      "fr": "Yeux rouges ou douloureux",
+      "sev": "minor"
+    },
+    {
+      "slug": "blurred_vision",
+      "cat": 7,
+      "en": "Blurred vision",
+      "fr": "Vision floue",
+      "sev": "severe"
+    },
+    {
+      "slug": "muscle_aches",
+      "cat": 8,
+      "en": "Muscle aches",
+      "fr": "Douleurs musculaires",
+      "sev": "minor"
+    },
+    {
+      "slug": "joint_pain",
+      "cat": 8,
+      "en": "Joint pain",
+      "fr": "Douleurs articulaires",
+      "sev": "minor"
+    },
+    {
+      "slug": "severe_joint_pain",
+      "cat": 8,
+      "en": "Severe joint pain",
+      "fr": "Douleurs articulaires intenses",
+      "sev": "severe"
+    },
+    {
+      "slug": "painful_urination",
+      "cat": 9,
+      "en": "Pain when urinating",
+      "fr": "Douleur en urinant",
+      "sev": "minor"
+    },
+    {
+      "slug": "frequent_urination",
+      "cat": 9,
+      "en": "Frequent urination",
+      "fr": "Besoin fréquent d'uriner",
+      "sev": "minor"
+    },
+    {
+      "slug": "blood_in_urine",
+      "cat": 9,
+      "en": "Blood in urine",
+      "fr": "Sang dans les urines",
+      "sev": "severe"
+    }
   ]
 }
