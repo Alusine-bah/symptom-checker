@@ -1,0 +1,376 @@
+[
+ {
+  "slug": "gout",
+  "cat": 8,
+  "urgency": "routine",
+  "source_url": "https://medlineplus.gov/gout.html",
+  "en": {
+   "name": "Gout",
+   "description": "Sudden attacks of intense pain, redness, heat and swelling in a joint, often the big toe, caused by uric acid crystals. A hot, swollen joint with fever can also be an infection and needs urgent care.",
+   "cause": "Too much uric acid in the blood, linked to rich food, alcohol, sugary drinks, being overweight, kidney problems and some medicines.",
+   "prevention": "Drink plenty of water, limit alcohol and sugary drinks, keep a healthy weight, and see a health worker for repeated attacks."
+  },
+  "fr": {
+   "name": "Goutte",
+   "description": "Crises brutales de douleur intense, de rougeur, de chaleur et de gonflement d'une articulation, souvent le gros orteil, dues à des cristaux d'acide urique. Une articulation chaude et gonflée avec de la fièvre peut aussi être une infection et nécessite des soins urgents.",
+   "cause": "Excès d'acide urique dans le sang, lié à une alimentation riche, à l'alcool, aux boissons sucrées, au surpoids, aux problèmes rénaux et à certains médicaments.",
+   "prevention": "Buvez beaucoup d'eau, limitez l'alcool et les boissons sucrées, gardez un poids sain, et consultez en cas de crises répétées."
+  },
+  "regions": {
+   "west_africa": 2,
+   "east_africa": 2,
+   "central_africa": 2,
+   "southern_africa": 2,
+   "north_africa": 2,
+   "middle_east": 3,
+   "south_asia": 2,
+   "southeast_east_asia": 2,
+   "latin_america": 2,
+   "europe_namerica_oceania": 3
+  },
+  "symptoms": {
+   "joint_swelling_hot": 0.95,
+   "severe_joint_pain": 0.6,
+   "joint_pain": 0.5,
+   "fever": 0.2
+  }
+ },
+ {
+  "slug": "osteoarthritis",
+  "cat": 8,
+  "urgency": "routine",
+  "source_url": "https://medlineplus.gov/osteoarthritis.html",
+  "en": {
+   "name": "Osteoarthritis",
+   "description": "Wear of the joint cartilage that causes aching, stiffness and reduced movement, most often in the knees, hips, hands and spine. It usually develops slowly with age and use.",
+   "cause": "Gradual wearing of the cartilage, linked to age, past joint injury, being overweight and repetitive heavy work.",
+   "prevention": "Stay active with gentle exercise, keep a healthy weight, protect joints from injury, and see a health worker if pain limits your daily life."
+  },
+  "fr": {
+   "name": "Arthrose",
+   "description": "Usure du cartilage des articulations provoquant des douleurs, de la raideur et une diminution des mouvements, le plus souvent aux genoux, aux hanches, aux mains et à la colonne. Elle se développe généralement lentement avec l'âge et l'usage.",
+   "cause": "Usure progressive du cartilage, liée à l'âge, à une ancienne blessure articulaire, au surpoids et aux travaux lourds répétés.",
+   "prevention": "Restez actif avec des exercices doux, gardez un poids sain, protégez vos articulations des blessures, et consultez si la douleur limite votre vie quotidienne."
+  },
+  "regions": {
+   "west_africa": 3,
+   "east_africa": 3,
+   "central_africa": 3,
+   "southern_africa": 3,
+   "north_africa": 3,
+   "middle_east": 3,
+   "south_asia": 3,
+   "southeast_east_asia": 3,
+   "latin_america": 3,
+   "europe_namerica_oceania": 3
+  },
+  "symptoms": {
+   "joint_pain": 0.8,
+   "joint_stiffness": 0.8,
+   "back_pain": 0.3,
+   "severe_joint_pain": 0.3,
+   "fatigue": 0.1
+  }
+ },
+ {
+  "slug": "heart_failure",
+  "cat": 6,
+  "urgency": "urgent",
+  "source_url": "https://medlineplus.gov/heartfailure.html",
+  "en": {
+   "name": "Heart failure",
+   "description": "A long-term condition in which the heart cannot pump blood as well as the body needs. It causes swollen legs, tiredness and cough, and later breathlessness. Severe breathlessness or chest pain needs emergency care.",
+   "cause": "High blood pressure, damage from rheumatic fever, heart attacks, heart muscle disease, severe anemia or long-term lung disease.",
+   "prevention": "Control blood pressure, treat sore throats and rheumatic fever early, avoid tobacco and too much salt, treat anemia, and take prescribed heart medicines regularly."
+  },
+  "fr": {
+   "name": "Insuffisance cardiaque",
+   "description": "Maladie durable où le cœur ne pompe plus assez bien le sang pour les besoins du corps. Elle provoque jambes gonflées, fatigue et toux, puis un essoufflement. Un essoufflement intense ou une douleur à la poitrine nécessitent des soins urgents.",
+   "cause": "Hypertension, séquelles d'un rhumatisme articulaire aigu, infarctus, maladie du muscle cardiaque, anémie sévère ou maladie pulmonaire de longue durée.",
+   "prevention": "Contrôlez la tension, traitez tôt les angines et le rhumatisme articulaire aigu, évitez le tabac et l'excès de sel, traitez l'anémie, et prenez régulièrement les médicaments prescrits pour le cœur."
+  },
+  "regions": {
+   "west_africa": 3,
+   "east_africa": 3,
+   "central_africa": 3,
+   "southern_africa": 3,
+   "north_africa": 3,
+   "middle_east": 3,
+   "south_asia": 3,
+   "southeast_east_asia": 3,
+   "latin_america": 3,
+   "europe_namerica_oceania": 3
+  },
+  "symptoms": {
+   "swollen_legs": 0.8,
+   "fatigue": 0.7,
+   "cough": 0.5,
+   "palpitations": 0.4,
+   "dizziness": 0.3,
+   "bloating": 0.2,
+   "loss_of_appetite": 0.2,
+   "nausea": 0.2
+  }
+ },
+ {
+  "slug": "cataract",
+  "cat": 7,
+  "urgency": "routine",
+  "source_url": "https://medlineplus.gov/cataract.html",
+  "en": {
+   "name": "Cataract",
+   "description": "Clouding of the eye's lens that makes vision dim, cloudy or glary, usually slowly and with age. It is a leading cause of treatable blindness and can be fixed with a simple operation.",
+   "cause": "Ageing of the lens, and also diabetes, eye injury, long sun exposure, smoking and some medicines.",
+   "prevention": "Wear sunglasses or a hat in strong sun, avoid smoking, control diabetes, protect your eyes from injury, and get an eye check if vision becomes cloudy."
+  },
+  "fr": {
+   "name": "Cataracte",
+   "description": "Opacification du cristallin de l'œil qui rend la vue trouble, voilée ou éblouie, généralement lentement et avec l'âge. C'est une cause majeure de cécité évitable, qui se traite par une opération simple.",
+   "cause": "Vieillissement du cristallin, mais aussi diabète, blessure de l'œil, exposition prolongée au soleil, tabac et certains médicaments.",
+   "prevention": "Portez des lunettes de soleil ou un chapeau au soleil fort, évitez le tabac, contrôlez le diabète, protégez vos yeux des blessures, et faites examiner vos yeux si la vue devient trouble."
+  },
+  "regions": {
+   "west_africa": 3,
+   "east_africa": 3,
+   "central_africa": 3,
+   "southern_africa": 3,
+   "north_africa": 3,
+   "middle_east": 3,
+   "south_asia": 3,
+   "southeast_east_asia": 3,
+   "latin_america": 3,
+   "europe_namerica_oceania": 3
+  },
+  "symptoms": {
+   "cloudy_vision": 0.95,
+   "blurred_vision": 0.6
+  }
+ },
+ {
+  "slug": "benign_prostatic_hyperplasia",
+  "cat": 9,
+  "urgency": "routine",
+  "source_url": "https://medlineplus.gov/benignprostatichyperplasia.html",
+  "en": {
+   "name": "Enlarged prostate (benign prostatic hyperplasia)",
+   "description": "A non-cancerous growth of the prostate gland in older men that squeezes the urine pipe. It causes a weak or slow stream, getting up at night to urinate, and passing urine often. Being unable to pass urine at all is an emergency.",
+   "cause": "Age-related growth of the prostate gland. The exact reason is not fully known.",
+   "prevention": "Stay active, limit fluids and caffeine in the evening, and see a health worker for urine problems, since similar symptoms can have other causes."
+  },
+  "fr": {
+   "name": "Hypertrophie bénigne de la prostate",
+   "description": "Augmentation non cancéreuse de la prostate chez l'homme âgé, qui comprime le canal de l'urine. Elle provoque un jet faible ou lent, des réveils la nuit pour uriner et des envies fréquentes. Ne plus pouvoir uriner du tout est une urgence.",
+   "cause": "Croissance de la prostate liée à l'âge. La raison exacte n'est pas entièrement connue.",
+   "prevention": "Restez actif, limitez les boissons et la caféine le soir, et consultez en cas de troubles urinaires, car des symptômes semblables peuvent avoir d'autres causes."
+  },
+  "regions": {
+   "west_africa": 3,
+   "east_africa": 3,
+   "central_africa": 3,
+   "southern_africa": 3,
+   "north_africa": 3,
+   "middle_east": 3,
+   "south_asia": 3,
+   "southeast_east_asia": 3,
+   "latin_america": 3,
+   "europe_namerica_oceania": 3
+  },
+  "symptoms": {
+   "weak_urine_stream": 0.9,
+   "night_urination": 0.8,
+   "frequent_urination": 0.7,
+   "painful_urination": 0.2,
+   "blood_in_urine": 0.2
+  }
+ },
+ {
+  "slug": "tooth_decay_abscess",
+  "cat": 11,
+  "urgency": "routine",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/oral-health",
+  "en": {
+   "name": "Tooth decay and dental abscess",
+   "description": "Decay that damages a tooth and can lead to a painful pocket of pus (abscess) in the gum or jaw. It causes toothache, sensitivity and sometimes swelling of the gum or face. Facial swelling, fever, or trouble swallowing or breathing need urgent care.",
+   "cause": "Bacteria in plaque turning sugar into acid, made worse by sugary food and drinks, poor brushing and tobacco.",
+   "prevention": "Brush twice a day with fluoride toothpaste, limit sugary snacks and drinks, avoid tobacco, and see a dental worker regularly and for any toothache."
+  },
+  "fr": {
+   "name": "Carie dentaire et abcès dentaire",
+   "description": "Destruction d'une dent par la carie pouvant mener à une poche de pus douloureuse (abcès) dans la gencive ou la mâchoire. Elle provoque mal de dents, sensibilité et parfois gonflement de la gencive ou du visage. Un gonflement du visage, de la fièvre ou des difficultés à avaler ou à respirer nécessitent des soins urgents.",
+   "cause": "Bactéries de la plaque dentaire qui transforment le sucre en acide, aggravées par les aliments et boissons sucrés, un brossage insuffisant et le tabac.",
+   "prevention": "Brossez-vous les dents deux fois par jour avec un dentifrice fluoré, limitez les sucreries et boissons sucrées, évitez le tabac, et consultez régulièrement un professionnel dentaire et pour tout mal de dents."
+  },
+  "regions": {
+   "west_africa": 3,
+   "east_africa": 3,
+   "central_africa": 3,
+   "southern_africa": 3,
+   "north_africa": 3,
+   "middle_east": 3,
+   "south_asia": 3,
+   "southeast_east_asia": 3,
+   "latin_america": 3,
+   "europe_namerica_oceania": 3
+  },
+  "symptoms": {
+   "toothache": 0.95,
+   "swollen_gum_cheek": 0.7,
+   "fever": 0.3,
+   "headache": 0.2,
+   "ear_pain": 0.2,
+   "loss_of_appetite": 0.2
+  }
+ },
+ {
+  "slug": "back_pain_muscular",
+  "cat": 8,
+  "urgency": "self_care",
+  "source_url": "https://medlineplus.gov/backpain.html",
+  "en": {
+   "name": "Back pain (muscle strain)",
+   "description": "Aching or stiffness in the lower or upper back, most often from strained muscles or ligaments after lifting, an awkward movement or long sitting. It usually improves within a few weeks. Seek care urgently for weakness or numbness in the legs, trouble controlling urine or stool, fever, or pain after a fall.",
+   "cause": "Strained muscles or ligaments, poor posture, heavy lifting, long sitting, and sometimes disc or joint problems.",
+   "prevention": "Stay active, lift with bent knees, avoid sitting for long periods, strengthen the back and belly muscles, and keep a healthy weight."
+  },
+  "fr": {
+   "name": "Mal de dos (effort musculaire)",
+   "description": "Douleur ou raideur dans le bas ou le haut du dos, le plus souvent due à un muscle ou un ligament étiré après un effort, un mouvement brusque ou une position assise prolongée. Elle s'améliore généralement en quelques semaines. Consultez en urgence en cas de faiblesse ou d'engourdissement des jambes, de difficulté à retenir les urines ou les selles, de fièvre, ou de douleur après une chute.",
+   "cause": "Muscles ou ligaments étirés, mauvaise posture, port de charges lourdes, position assise prolongée, et parfois problèmes de disque ou d'articulation.",
+   "prevention": "Restez actif, soulevez en pliant les genoux, évitez de rester assis trop longtemps, renforcez les muscles du dos et du ventre, et gardez un poids sain."
+  },
+  "regions": {
+   "west_africa": 3,
+   "east_africa": 3,
+   "central_africa": 3,
+   "southern_africa": 3,
+   "north_africa": 3,
+   "middle_east": 3,
+   "south_asia": 3,
+   "southeast_east_asia": 3,
+   "latin_america": 3,
+   "europe_namerica_oceania": 3
+  },
+  "symptoms": {
+   "back_pain": 0.95,
+   "muscle_aches": 0.4,
+   "flank_pain": 0.3,
+   "joint_stiffness": 0.3
+  }
+ },
+ {
+  "slug": "tension_headache",
+  "cat": 4,
+  "urgency": "self_care",
+  "source_url": "https://medlineplus.gov/tensionheadache.html",
+  "en": {
+   "name": "Tension-type headache",
+   "description": "The most common kind of headache, felt as a dull, tight band or pressure around the head, usually on both sides and without nausea. It often comes with stress, tiredness or poor sleep.",
+   "cause": "Muscle tension and stress, poor sleep, skipped meals, dehydration, long screen time or eye strain.",
+   "prevention": "Sleep regularly, drink water, eat regular meals, take breaks from screens, manage stress, and see a health worker if headaches are frequent or suddenly different."
+  },
+  "fr": {
+   "name": "Céphalée de tension",
+   "description": "Le type de mal de tête le plus courant, ressenti comme un étau ou une pression sourde autour de la tête, souvent des deux côtés et sans nausées. Il survient souvent avec le stress, la fatigue ou le manque de sommeil.",
+   "cause": "Tension musculaire et stress, mauvais sommeil, repas sautés, déshydratation, temps d'écran prolongé ou fatigue des yeux.",
+   "prevention": "Dormez régulièrement, buvez de l'eau, mangez à heures régulières, faites des pauses loin des écrans, gérez le stress, et consultez si les maux de tête sont fréquents ou soudainement différents."
+  },
+  "regions": {
+   "west_africa": 3,
+   "east_africa": 3,
+   "central_africa": 3,
+   "southern_africa": 3,
+   "north_africa": 3,
+   "middle_east": 3,
+   "south_asia": 3,
+   "southeast_east_asia": 3,
+   "latin_america": 3,
+   "europe_namerica_oceania": 3
+  },
+  "symptoms": {
+   "tight_band_headache": 0.9,
+   "headache": 0.8,
+   "fatigue": 0.3,
+   "muscle_aches": 0.2,
+   "dizziness": 0.1
+  }
+ },
+ {
+  "slug": "gallstones",
+  "cat": 3,
+  "urgency": "urgent",
+  "source_url": "https://medlineplus.gov/gallstones.html",
+  "en": {
+   "name": "Gallstones",
+   "description": "Hard stones that form in the gallbladder and can block the bile duct, causing sudden, severe pain in the upper right belly, often after a fatty meal, with nausea or vomiting. Fever, yellow skin or eyes, or pain lasting more than a few hours need urgent care.",
+   "cause": "Too much cholesterol or bile pigment in the bile, linked to being overweight, rapid weight loss, pregnancy and family history. They are more common in women.",
+   "prevention": "Keep a healthy weight, eat regular, lower-fat meals with fibre, avoid crash diets, and see a health worker for repeated attacks of belly pain."
+  },
+  "fr": {
+   "name": "Calculs biliaires",
+   "description": "Pierres dures qui se forment dans la vésicule biliaire et peuvent bloquer le canal biliaire, provoquant une douleur brutale et intense en haut à droite du ventre, souvent après un repas gras, avec nausées ou vomissements. De la fièvre, une peau ou des yeux jaunes, ou une douleur de plus de quelques heures nécessitent des soins urgents.",
+   "cause": "Trop de cholestérol ou de pigments dans la bile, lié au surpoids, à un amaigrissement rapide, à la grossesse et aux antécédents familiaux. Ils sont plus fréquents chez la femme.",
+   "prevention": "Gardez un poids sain, mangez des repas réguliers, moins gras et riches en fibres, évitez les régimes drastiques, et consultez en cas de crises répétées de douleur au ventre."
+  },
+  "regions": {
+   "west_africa": 2,
+   "east_africa": 2,
+   "central_africa": 2,
+   "southern_africa": 2,
+   "north_africa": 2,
+   "middle_east": 3,
+   "south_asia": 2,
+   "southeast_east_asia": 2,
+   "latin_america": 3,
+   "europe_namerica_oceania": 3
+  },
+  "symptoms": {
+   "pain_after_fatty_meal": 0.85,
+   "severe_abdominal_pain": 0.6,
+   "abdominal_pain": 0.6,
+   "nausea": 0.5,
+   "vomiting": 0.4,
+   "jaundice": 0.3,
+   "bloating": 0.3,
+   "fever": 0.2
+  }
+ },
+ {
+  "slug": "menstrual_cramps",
+  "cat": 10,
+  "urgency": "self_care",
+  "source_url": "https://medlineplus.gov/periodpain.html",
+  "en": {
+   "name": "Painful periods (menstrual cramps)",
+   "description": "Cramping pain in the lower belly just before or during a period, sometimes with back or leg pain. It is very common, especially in teens and young women, and usually eases with rest, warmth and simple pain relief. See a health worker if the pain is severe, new after age 25, or happens between periods.",
+   "cause": "Natural chemicals that make the womb contract during a period. Sometimes another condition is the cause, such as endometriosis or a pelvic infection.",
+   "prevention": "Stay active, use warmth on the belly, rest, and see a health worker if the pain is severe or getting worse."
+  },
+  "fr": {
+   "name": "Règles douloureuses (crampes menstruelles)",
+   "description": "Douleurs en crampes dans le bas-ventre juste avant ou pendant les règles, parfois avec des douleurs au dos ou aux jambes. Elles sont très fréquentes, surtout chez les adolescentes et les jeunes femmes, et se calment généralement avec le repos, la chaleur et un antidouleur simple. Consultez si la douleur est intense, nouvelle après 25 ans, ou survient entre les règles.",
+   "cause": "Substances naturelles qui font se contracter l'utérus pendant les règles. Parfois une autre affection en est la cause, comme l'endométriose ou une infection pelvienne.",
+   "prevention": "Restez actif, appliquez de la chaleur sur le ventre, reposez-vous, et consultez si la douleur est intense ou s'aggrave."
+  },
+  "regions": {
+   "west_africa": 3,
+   "east_africa": 3,
+   "central_africa": 3,
+   "southern_africa": 3,
+   "north_africa": 3,
+   "middle_east": 3,
+   "south_asia": 3,
+   "southeast_east_asia": 3,
+   "latin_america": 3,
+   "europe_namerica_oceania": 3
+  },
+  "symptoms": {
+   "period_pain": 0.95,
+   "lower_abdominal_pain_women": 0.6,
+   "back_pain": 0.4,
+   "abdominal_pain": 0.4,
+   "nausea": 0.3,
+   "headache": 0.2,
+   "fatigue": 0.2
+  }
+ }
+]

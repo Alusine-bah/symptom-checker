@@ -1,0 +1,79 @@
+[
+ {
+  "slug": "joint_swelling_hot",
+  "cat": 8,
+  "en": "Swollen, hot, red and very painful joint",
+  "fr": "Articulation gonflée, chaude, rouge et très douloureuse",
+  "sev": "severe"
+ },
+ {
+  "slug": "joint_stiffness",
+  "cat": 8,
+  "en": "Joint stiffness that eases with movement",
+  "fr": "Raideur articulaire qui diminue avec le mouvement",
+  "sev": "minor"
+ },
+ {
+  "slug": "back_pain",
+  "cat": 8,
+  "en": "Back pain",
+  "fr": "Mal de dos",
+  "sev": "minor"
+ },
+ {
+  "slug": "toothache",
+  "cat": 11,
+  "en": "Toothache",
+  "fr": "Mal de dents",
+  "sev": "minor"
+ },
+ {
+  "slug": "swollen_gum_cheek",
+  "cat": 11,
+  "en": "Swollen gum, cheek or jaw",
+  "fr": "Gencive, joue ou mâchoire gonflée",
+  "sev": "severe"
+ },
+ {
+  "slug": "cloudy_vision",
+  "cat": 7,
+  "en": "Cloudy or misty vision, or glare from lights",
+  "fr": "Vue voilée ou brumeuse, ou éblouissement par les lumières",
+  "sev": "minor"
+ },
+ {
+  "slug": "weak_urine_stream",
+  "cat": 9,
+  "en": "Weak or slow urine stream, or difficulty starting to urinate",
+  "fr": "Jet d'urine faible ou lent, ou difficulté à commencer à uriner",
+  "sev": "minor"
+ },
+ {
+  "slug": "night_urination",
+  "cat": 9,
+  "en": "Waking at night to urinate",
+  "fr": "Se réveiller la nuit pour uriner",
+  "sev": "minor"
+ },
+ {
+  "slug": "period_pain",
+  "cat": 10,
+  "en": "Painful periods",
+  "fr": "Règles douloureuses",
+  "sev": "minor"
+ },
+ {
+  "slug": "pain_after_fatty_meal",
+  "cat": 3,
+  "en": "Upper belly pain after fatty meals",
+  "fr": "Douleur en haut du ventre après un repas gras",
+  "sev": "minor"
+ },
+ {
+  "slug": "tight_band_headache",
+  "cat": 4,
+  "en": "Tight, band-like pressure around the head",
+  "fr": "Pression en étau autour de la tête",
+  "sev": "minor"
+ }
+]

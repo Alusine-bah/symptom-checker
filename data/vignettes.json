@@ -863,6 +863,150 @@
   ]
  },
  {
+  "id": "V56",
+  "note": "Gout, adult man, Middle East",
+  "region": "middle_east",
+  "age_group": "adult",
+  "sex": "male",
+  "symptoms": [
+   "joint_swelling_hot",
+   "severe_joint_pain"
+  ],
+  "expect": [
+   "gout"
+  ]
+ },
+ {
+  "id": "V57",
+  "note": "Osteoarthritis, older woman, Europe/N. America",
+  "region": "europe_namerica_oceania",
+  "age_group": "older",
+  "sex": "female",
+  "symptoms": [
+   "joint_pain",
+   "joint_stiffness"
+  ],
+  "expect": [
+   "osteoarthritis"
+  ]
+ },
+ {
+  "id": "V58",
+  "note": "Heart failure picture, older man, West Africa",
+  "region": "west_africa",
+  "age_group": "older",
+  "sex": "male",
+  "symptoms": [
+   "swollen_legs",
+   "fatigue",
+   "cough"
+  ],
+  "expect": [
+   "heart_failure",
+   "chronic_kidney_disease"
+  ]
+ },
+ {
+  "id": "V59",
+  "note": "Cataract, older woman, South Asia",
+  "region": "south_asia",
+  "age_group": "older",
+  "sex": "female",
+  "symptoms": [
+   "cloudy_vision",
+   "blurred_vision"
+  ],
+  "expect": [
+   "cataract"
+  ]
+ },
+ {
+  "id": "V60",
+  "note": "Enlarged prostate, older man, East Africa",
+  "region": "east_africa",
+  "age_group": "older",
+  "sex": "male",
+  "symptoms": [
+   "weak_urine_stream",
+   "night_urination",
+   "frequent_urination"
+  ],
+  "expect": [
+   "benign_prostatic_hyperplasia"
+  ]
+ },
+ {
+  "id": "V61",
+  "note": "Dental abscess, adult, West Africa",
+  "region": "west_africa",
+  "age_group": "adult",
+  "sex": "male",
+  "symptoms": [
+   "toothache",
+   "swollen_gum_cheek"
+  ],
+  "expect": [
+   "tooth_decay_abscess"
+  ]
+ },
+ {
+  "id": "V62",
+  "note": "Back pain, adult, Latin America",
+  "region": "latin_america",
+  "age_group": "adult",
+  "sex": "male",
+  "symptoms": [
+   "back_pain",
+   "muscle_aches"
+  ],
+  "expect": [
+   "back_pain_muscular"
+  ]
+ },
+ {
+  "id": "V63",
+  "note": "Tension headache, adult, Europe/N. America",
+  "region": "europe_namerica_oceania",
+  "age_group": "adult",
+  "sex": "female",
+  "symptoms": [
+   "tight_band_headache",
+   "headache"
+  ],
+  "expect": [
+   "tension_headache"
+  ]
+ },
+ {
+  "id": "V64",
+  "note": "Gallstones, adult woman, Europe/N. America",
+  "region": "europe_namerica_oceania",
+  "age_group": "adult",
+  "sex": "female",
+  "symptoms": [
+   "pain_after_fatty_meal",
+   "nausea",
+   "abdominal_pain"
+  ],
+  "expect": [
+   "gallstones"
+  ]
+ },
+ {
+  "id": "V65",
+  "note": "Painful periods, young woman, West Africa",
+  "region": "west_africa",
+  "age_group": "adult",
+  "sex": "female",
+  "symptoms": [
+   "period_pain",
+   "lower_abdominal_pain_women"
+  ],
+  "expect": [
+   "menstrual_cramps"
+  ]
+ },
+ {
   "id": "E01",
   "note": "Meningitis picture: stiff neck",
   "region": "west_africa",

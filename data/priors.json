@@ -13,5 +13,6 @@
   "syphilis": 0.9,
   "chronic_kidney_disease": 0.7,
   "irritable_bowel_syndrome": 0.8,
-  "hernia": 0.8
+  "hernia": 0.8,
+  "heart_failure": 0.8
 }
