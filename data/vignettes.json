@@ -715,6 +715,154 @@
   ]
  },
  {
+  "id": "V46",
+  "note": "Dehydration, child, West Africa",
+  "region": "west_africa",
+  "age_group": "child",
+  "sex": "male",
+  "symptoms": [
+   "sunken_eyes_dry_mouth",
+   "less_urine",
+   "excessive_thirst",
+   "dizziness"
+  ],
+  "expect": [
+   "dehydration"
+  ]
+ },
+ {
+  "id": "V47",
+  "note": "Chronic kidney disease picture, adult, Central Africa",
+  "region": "central_africa",
+  "age_group": "adult",
+  "sex": "female",
+  "symptoms": [
+   "swollen_legs",
+   "puffy_face_eyes",
+   "fatigue"
+  ],
+  "expect": [
+   "chronic_kidney_disease"
+  ]
+ },
+ {
+  "id": "V48",
+  "note": "Sinusitis, adult, Europe/N. America",
+  "region": "europe_namerica_oceania",
+  "age_group": "adult",
+  "sex": "female",
+  "symptoms": [
+   "facial_pressure",
+   "runny_nose",
+   "headache"
+  ],
+  "expect": [
+   "sinusitis"
+  ]
+ },
+ {
+  "id": "V49",
+  "note": "Eczema, child, West Africa",
+  "region": "west_africa",
+  "age_group": "child",
+  "sex": "female",
+  "symptoms": [
+   "dry_itchy_skin",
+   "itching",
+   "rash"
+  ],
+  "expect": [
+   "eczema"
+  ]
+ },
+ {
+  "id": "V50",
+  "note": "Hives, adult, Latin America",
+  "region": "latin_america",
+  "age_group": "adult",
+  "sex": "male",
+  "symptoms": [
+   "hives",
+   "itching"
+  ],
+  "expect": [
+   "hives"
+  ]
+ },
+ {
+  "id": "V51",
+  "note": "Heartburn/reflux, adult, North Africa",
+  "region": "north_africa",
+  "age_group": "adult",
+  "sex": "male",
+  "symptoms": [
+   "heartburn",
+   "cough"
+  ],
+  "expect": [
+   "gerd"
+  ]
+ },
+ {
+  "id": "V52",
+  "note": "Hemorrhoids, adult, South Asia",
+  "region": "south_asia",
+  "age_group": "adult",
+  "sex": "male",
+  "symptoms": [
+   "anal_discomfort",
+   "bloody_stool"
+  ],
+  "expect": [
+   "hemorrhoids"
+  ]
+ },
+ {
+  "id": "V53",
+  "note": "Inguinal hernia, adult man, East Africa",
+  "region": "east_africa",
+  "age_group": "adult",
+  "sex": "male",
+  "symptoms": [
+   "groin_lump",
+   "abdominal_pain"
+  ],
+  "expect": [
+   "hernia"
+  ]
+ },
+ {
+  "id": "V54",
+  "note": "Irritable bowel syndrome, adult woman, Europe/N. America",
+  "region": "europe_namerica_oceania",
+  "age_group": "adult",
+  "sex": "female",
+  "symptoms": [
+   "abdominal_pain",
+   "bloating",
+   "alternating_bowel"
+  ],
+  "expect": [
+   "irritable_bowel_syndrome"
+  ]
+ },
+ {
+  "id": "V55",
+  "note": "Constipation, adult, Middle East",
+  "region": "middle_east",
+  "age_group": "adult",
+  "sex": "female",
+  "symptoms": [
+   "constipation",
+   "bloating",
+   "abdominal_pain"
+  ],
+  "expect": [
+   "constipation_disorder",
+   "irritable_bowel_syndrome"
+  ]
+ },
+ {
   "id": "E01",
   "note": "Meningitis picture: stiff neck",
   "region": "west_africa",

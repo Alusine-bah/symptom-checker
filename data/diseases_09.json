@@ -1,0 +1,383 @@
+[
+ {
+  "slug": "dehydration",
+  "cat": 1,
+  "urgency": "routine",
+  "source_url": "https://medlineplus.gov/dehydration.html",
+  "en": {
+   "name": "Dehydration",
+   "description": "When the body loses more water than it takes in, for example from diarrhea, vomiting, fever or heat. It causes thirst, dark urine, dizziness and tiredness, and can become dangerous, especially in babies, young children and older people.",
+   "cause": "Not drinking enough, or losing fluids through diarrhea, vomiting, sweating, fever or heat.",
+   "prevention": "Drink safe water often, give extra fluids and oral rehydration solution during diarrhea or vomiting, and seek care quickly for babies, for very dry mouth, or when little urine is passed."
+  },
+  "fr": {
+   "name": "Déshydratation",
+   "description": "Situation où le corps perd plus d'eau qu'il n'en reçoit, par exemple en cas de diarrhée, de vomissements, de fièvre ou de chaleur. Elle provoque soif, urines foncées, vertiges et fatigue, et peut devenir dangereuse, surtout chez les bébés, les jeunes enfants et les personnes âgées.",
+   "cause": "Boire trop peu, ou perdre des liquides par la diarrhée, les vomissements, la transpiration, la fièvre ou la chaleur.",
+   "prevention": "Buvez souvent de l'eau potable, donnez davantage de liquides et une solution de réhydratation orale en cas de diarrhée ou de vomissements, et consultez vite pour un bébé, une bouche très sèche ou si peu d'urine est émise."
+  },
+  "regions": {
+   "west_africa": 3,
+   "east_africa": 3,
+   "central_africa": 3,
+   "southern_africa": 3,
+   "north_africa": 3,
+   "middle_east": 3,
+   "south_asia": 3,
+   "southeast_east_asia": 3,
+   "latin_america": 3,
+   "europe_namerica_oceania": 3
+  },
+  "symptoms": {
+   "excessive_thirst": 0.8,
+   "sunken_eyes_dry_mouth": 0.8,
+   "less_urine": 0.7,
+   "dark_urine": 0.6,
+   "dizziness": 0.5,
+   "fatigue": 0.5,
+   "headache": 0.3,
+   "severe_weakness": 0.3,
+   "palpitations": 0.2
+  }
+ },
+ {
+  "slug": "chronic_kidney_disease",
+  "cat": 9,
+  "urgency": "routine",
+  "source_url": "https://medlineplus.gov/chronickidneydisease.html",
+  "en": {
+   "name": "Chronic kidney disease",
+   "description": "Long-term damage to the kidneys that develops slowly. Early on there may be no symptoms; later there can be swelling of the legs and face, tiredness, poor appetite and changes in urine. Blood and urine tests are needed to find it.",
+   "cause": "High blood pressure, diabetes, repeated infections, and other kidney damage, including from some painkillers and herbal products.",
+   "prevention": "Control blood pressure and blood sugar, avoid unnecessary painkillers, treat infections early, and have regular kidney checks if you have high blood pressure or diabetes."
+  },
+  "fr": {
+   "name": "Maladie rénale chronique",
+   "description": "Atteinte durable des reins qui se développe lentement. Au début, il peut n'y avoir aucun symptôme ; plus tard apparaissent un gonflement des jambes et du visage, de la fatigue, une perte d'appétit et des changements des urines. Des analyses de sang et d'urine sont nécessaires pour la découvrir.",
+   "cause": "Hypertension, diabète, infections répétées et autres atteintes des reins, y compris par certains antidouleurs et produits à base de plantes.",
+   "prevention": "Contrôlez la tension et la glycémie, évitez les antidouleurs inutiles, traitez tôt les infections, et faites vérifier régulièrement vos reins si vous avez de l'hypertension ou du diabète."
+  },
+  "regions": {
+   "west_africa": 3,
+   "east_africa": 3,
+   "central_africa": 3,
+   "southern_africa": 3,
+   "north_africa": 3,
+   "middle_east": 3,
+   "south_asia": 3,
+   "southeast_east_asia": 2,
+   "latin_america": 3,
+   "europe_namerica_oceania": 2
+  },
+  "symptoms": {
+   "swollen_legs": 0.6,
+   "puffy_face_eyes": 0.6,
+   "fatigue": 0.5,
+   "nausea": 0.3,
+   "loss_of_appetite": 0.3,
+   "itching": 0.3,
+   "frequent_urination": 0.3,
+   "less_urine": 0.3,
+   "pale_skin": 0.2
+  }
+ },
+ {
+  "slug": "sinusitis",
+  "cat": 7,
+  "urgency": "self_care",
+  "source_url": "https://medlineplus.gov/sinusitis.html",
+  "en": {
+   "name": "Sinusitis (sinus infection)",
+   "description": "Inflammation of the air spaces behind the nose, cheeks and forehead, usually after a cold. It causes a blocked or runny nose, pressure or pain in the face, and headache. Most cases clear on their own within about ten days.",
+   "cause": "Usually a virus after a cold, sometimes bacteria or allergies.",
+   "prevention": "Treat colds and allergies early, wash hands often, avoid smoke and polluted air, and see a health worker if it lasts more than ten days or you have a high fever."
+  },
+  "fr": {
+   "name": "Sinusite",
+   "description": "Inflammation des cavités situées derrière le nez, les joues et le front, généralement après un rhume. Elle provoque un nez bouché ou qui coule, une pression ou une douleur au visage et des maux de tête. La plupart des cas guérissent d'eux-mêmes en une dizaine de jours.",
+   "cause": "Le plus souvent un virus après un rhume, parfois des bactéries ou des allergies.",
+   "prevention": "Soignez tôt les rhumes et les allergies, lavez-vous souvent les mains, évitez la fumée et l'air pollué, et consultez si cela dure plus de dix jours ou en cas de forte fièvre."
+  },
+  "regions": {
+   "west_africa": 3,
+   "east_africa": 3,
+   "central_africa": 3,
+   "southern_africa": 3,
+   "north_africa": 3,
+   "middle_east": 3,
+   "south_asia": 3,
+   "southeast_east_asia": 3,
+   "latin_america": 3,
+   "europe_namerica_oceania": 3
+  },
+  "symptoms": {
+   "facial_pressure": 0.9,
+   "runny_nose": 0.7,
+   "headache": 0.5,
+   "cough": 0.4,
+   "fever": 0.3,
+   "sore_throat": 0.3,
+   "loss_of_smell_taste": 0.3,
+   "ear_pain": 0.2,
+   "fatigue": 0.2
+  }
+ },
+ {
+  "slug": "eczema",
+  "cat": 5,
+  "urgency": "self_care",
+  "source_url": "https://medlineplus.gov/eczema.html",
+  "en": {
+   "name": "Eczema (atopic dermatitis)",
+   "description": "A long-term skin condition causing dry, very itchy, red or scaly patches that come and go. It is common in children and is not contagious.",
+   "cause": "A mix of a sensitive skin barrier, inherited tendency and triggers such as soaps, dust, heat, stress or certain fabrics.",
+   "prevention": "Moisturize skin often, use mild soap, avoid known triggers, keep nails short, and see a health worker if skin becomes weeping, painful or infected."
+  },
+  "fr": {
+   "name": "Eczéma (dermatite atopique)",
+   "description": "Maladie chronique de la peau avec des plaques sèches, rouges ou squameuses qui démangent beaucoup et qui vont et viennent. Elle est fréquente chez l'enfant et n'est pas contagieuse.",
+   "cause": "Association d'une barrière cutanée sensible, d'une prédisposition héréditaire et de facteurs déclenchants comme les savons, la poussière, la chaleur, le stress ou certains tissus.",
+   "prevention": "Hydratez souvent la peau, utilisez un savon doux, évitez les facteurs déclenchants, gardez les ongles courts, et consultez si la peau suinte, devient douloureuse ou s'infecte."
+  },
+  "regions": {
+   "west_africa": 3,
+   "east_africa": 3,
+   "central_africa": 3,
+   "southern_africa": 3,
+   "north_africa": 3,
+   "middle_east": 3,
+   "south_asia": 3,
+   "southeast_east_asia": 3,
+   "latin_america": 3,
+   "europe_namerica_oceania": 3
+  },
+  "symptoms": {
+   "dry_itchy_skin": 0.9,
+   "itching": 0.8,
+   "rash": 0.6,
+   "skin_sores": 0.2
+  }
+ },
+ {
+  "slug": "hives",
+  "cat": 5,
+  "urgency": "routine",
+  "source_url": "https://medlineplus.gov/hives.html",
+  "en": {
+   "name": "Hives (urticaria)",
+   "description": "Raised, very itchy welts on the skin that appear suddenly and move around, often from an allergy, infection or medicine. Go to emergency care at once if there is swelling of the lips, tongue or throat, or trouble breathing.",
+   "cause": "An allergic or other reaction to foods, medicines, insect stings, infections, heat or stress; often no cause is found.",
+   "prevention": "Avoid known triggers, stop and report any medicine you think caused it, and seek emergency care for swelling of the face or throat or trouble breathing."
+  },
+  "fr": {
+   "name": "Urticaire",
+   "description": "Plaques en relief qui démangent beaucoup, apparaissant brusquement sur la peau et se déplaçant, souvent à cause d'une allergie, d'une infection ou d'un médicament. Allez immédiatement aux urgences en cas de gonflement des lèvres, de la langue ou de la gorge, ou de difficulté à respirer.",
+   "cause": "Réaction allergique ou autre à des aliments, des médicaments, des piqûres d'insectes, des infections, la chaleur ou le stress ; souvent aucune cause n'est trouvée.",
+   "prevention": "Évitez les déclencheurs connus, arrêtez et signalez tout médicament suspect, et allez aux urgences en cas de gonflement du visage ou de la gorge ou de difficulté à respirer."
+  },
+  "regions": {
+   "west_africa": 3,
+   "east_africa": 3,
+   "central_africa": 3,
+   "southern_africa": 3,
+   "north_africa": 3,
+   "middle_east": 3,
+   "south_asia": 3,
+   "southeast_east_asia": 3,
+   "latin_america": 3,
+   "europe_namerica_oceania": 3
+  },
+  "symptoms": {
+   "hives": 0.95,
+   "itching": 0.8,
+   "rash": 0.5
+  }
+ },
+ {
+  "slug": "gerd",
+  "cat": 3,
+  "urgency": "self_care",
+  "source_url": "https://medlineplus.gov/gerd.html",
+  "en": {
+   "name": "Heartburn and acid reflux (GERD)",
+   "description": "Stomach acid flowing back up, causing a burning feeling behind the breastbone and a sour taste, often after meals or when lying down. Chest pain can have other causes, so any chest pain should be checked urgently.",
+   "cause": "A weak valve between the stomach and the food pipe, made worse by large or fatty meals, being overweight, smoking, alcohol and some medicines.",
+   "prevention": "Eat smaller meals, avoid eating late at night, limit fatty food, alcohol and smoking, raise the head of the bed, and see a health worker if it is frequent or you have trouble swallowing."
+  },
+  "fr": {
+   "name": "Brûlures d'estomac et reflux acide (RGO)",
+   "description": "Remontée d'acide de l'estomac provoquant une sensation de brûlure derrière le sternum et un goût acide, souvent après les repas ou en position allongée. Une douleur à la poitrine peut avoir d'autres causes : toute douleur thoracique doit être vérifiée en urgence.",
+   "cause": "Un clapet affaibli entre l'estomac et l'œsophage, aggravé par les repas copieux ou gras, le surpoids, le tabac, l'alcool et certains médicaments.",
+   "prevention": "Mangez moins à chaque repas, évitez de manger tard le soir, limitez les aliments gras, l'alcool et le tabac, surélevez la tête du lit, et consultez si c'est fréquent ou si vous avez du mal à avaler."
+  },
+  "regions": {
+   "west_africa": 3,
+   "east_africa": 3,
+   "central_africa": 3,
+   "southern_africa": 3,
+   "north_africa": 3,
+   "middle_east": 3,
+   "south_asia": 3,
+   "southeast_east_asia": 3,
+   "latin_america": 3,
+   "europe_namerica_oceania": 3
+  },
+  "symptoms": {
+   "heartburn": 0.95,
+   "abdominal_pain": 0.3,
+   "nausea": 0.3,
+   "cough": 0.3,
+   "sore_throat": 0.3,
+   "bloating": 0.3,
+   "difficulty_swallowing": 0.2
+  }
+ },
+ {
+  "slug": "hemorrhoids",
+  "cat": 3,
+  "urgency": "self_care",
+  "source_url": "https://medlineplus.gov/hemorrhoids.html",
+  "en": {
+   "name": "Hemorrhoids (piles)",
+   "description": "Swollen veins around the anus that cause itching, pain, a lump, or bright red blood on the stool or toilet paper. They are common and usually not serious, but bleeding should still be checked.",
+   "cause": "Straining with hard stools, constipation, long sitting, pregnancy and being overweight.",
+   "prevention": "Eat fibre and drink plenty of water, avoid straining, do not sit for long on the toilet, and see a health worker if there is repeated bleeding."
+  },
+  "fr": {
+   "name": "Hémorroïdes",
+   "description": "Veines gonflées autour de l'anus provoquant démangeaisons, douleur, une boule, ou du sang rouge vif sur les selles ou le papier. Elles sont fréquentes et en général sans gravité, mais un saignement doit tout de même être vérifié.",
+   "cause": "Efforts de poussée avec des selles dures, constipation, station assise prolongée, grossesse et surpoids.",
+   "prevention": "Mangez des fibres et buvez beaucoup d'eau, évitez de forcer, ne restez pas longtemps aux toilettes, et consultez en cas de saignement répété."
+  },
+  "regions": {
+   "west_africa": 3,
+   "east_africa": 3,
+   "central_africa": 3,
+   "southern_africa": 3,
+   "north_africa": 3,
+   "middle_east": 3,
+   "south_asia": 3,
+   "southeast_east_asia": 3,
+   "latin_america": 3,
+   "europe_namerica_oceania": 3
+  },
+  "symptoms": {
+   "anal_discomfort": 0.95,
+   "bloody_stool": 0.4,
+   "constipation": 0.4,
+   "itching": 0.2
+  }
+ },
+ {
+  "slug": "hernia",
+  "cat": 3,
+  "urgency": "routine",
+  "source_url": "https://medlineplus.gov/hernia.html",
+  "en": {
+   "name": "Hernia (groin or belly-wall lump)",
+   "description": "A bulge where part of the gut pushes through a weak spot in the belly wall, often in the groin. It may come and go and ache when lifting or coughing. Go to emergency care if the lump becomes hard, very painful or cannot be pushed back, or you vomit.",
+   "cause": "A weak area in the belly wall, made worse by heavy lifting, straining, chronic cough, pregnancy or being overweight.",
+   "prevention": "Avoid heavy lifting and straining, treat chronic cough and constipation, keep a healthy weight, and see a health worker for any new lump."
+  },
+  "fr": {
+   "name": "Hernie (boule de l'aine ou de la paroi du ventre)",
+   "description": "Bosse formée lorsqu'une partie de l'intestin passe à travers une zone fragile de la paroi du ventre, souvent à l'aine. Elle peut aller et venir et faire mal en soulevant une charge ou en toussant. Allez aux urgences si la boule devient dure, très douloureuse, ne rentre plus, ou si vous vomissez.",
+   "cause": "Zone fragile de la paroi du ventre, aggravée par les efforts de soulèvement, la poussée, la toux chronique, la grossesse ou le surpoids.",
+   "prevention": "Évitez de soulever de lourdes charges et de forcer, soignez la toux chronique et la constipation, gardez un poids sain, et consultez pour toute nouvelle boule."
+  },
+  "regions": {
+   "west_africa": 2,
+   "east_africa": 2,
+   "central_africa": 2,
+   "southern_africa": 2,
+   "north_africa": 2,
+   "middle_east": 2,
+   "south_asia": 2,
+   "southeast_east_asia": 2,
+   "latin_america": 2,
+   "europe_namerica_oceania": 2
+  },
+  "symptoms": {
+   "groin_lump": 0.95,
+   "abdominal_pain": 0.4,
+   "constipation": 0.2
+  }
+ },
+ {
+  "slug": "irritable_bowel_syndrome",
+  "cat": 3,
+  "urgency": "routine",
+  "source_url": "https://medlineplus.gov/irritablebowelsyndrome.html",
+  "en": {
+   "name": "Irritable bowel syndrome",
+   "description": "A common long-term gut condition causing belly pain, bloating, and diarrhea, constipation or both in turn. It does not damage the gut, but blood in the stool, weight loss or fever need to be checked for other causes.",
+   "cause": "Not fully understood. Stress, certain foods and gut infections can trigger symptoms.",
+   "prevention": "Eat regular meals, notice and avoid trigger foods, stay active, manage stress, and see a health worker if you have blood in stool, weight loss or night-time symptoms."
+  },
+  "fr": {
+   "name": "Syndrome de l'intestin irritable",
+   "description": "Affection digestive fréquente et durable provoquant des douleurs au ventre, des ballonnements, et de la diarrhée, de la constipation ou les deux en alternance. Elle n'abîme pas l'intestin, mais du sang dans les selles, une perte de poids ou de la fièvre doivent faire rechercher une autre cause.",
+   "cause": "Mal comprise. Le stress, certains aliments et des infections digestives peuvent déclencher les symptômes.",
+   "prevention": "Mangez à heures régulières, repérez et évitez les aliments déclencheurs, restez actif, gérez le stress, et consultez en cas de sang dans les selles, de perte de poids ou de symptômes nocturnes."
+  },
+  "regions": {
+   "west_africa": 2,
+   "east_africa": 2,
+   "central_africa": 2,
+   "southern_africa": 2,
+   "north_africa": 2,
+   "middle_east": 2,
+   "south_asia": 2,
+   "southeast_east_asia": 2,
+   "latin_america": 2,
+   "europe_namerica_oceania": 3
+  },
+  "symptoms": {
+   "abdominal_pain": 0.8,
+   "bloating": 0.7,
+   "alternating_bowel": 0.8,
+   "diarrhea": 0.5,
+   "constipation": 0.5,
+   "nausea": 0.2,
+   "fatigue": 0.2
+  }
+ },
+ {
+  "slug": "constipation_disorder",
+  "cat": 3,
+  "urgency": "self_care",
+  "source_url": "https://medlineplus.gov/constipation.html",
+  "en": {
+   "name": "Constipation",
+   "description": "Hard, dry or infrequent stools that are difficult to pass, often with a swollen belly or mild belly pain. It is very common and usually improves with fluids, fibre and activity. See a health worker if it is new in an older person, lasts weeks, or comes with blood or weight loss.",
+   "cause": "Too little fibre or water, little activity, ignoring the urge to go, some medicines, and pregnancy.",
+   "prevention": "Eat fibre-rich foods such as fruit, vegetables and whole grains, drink enough water, stay active, and go when you feel the urge."
+  },
+  "fr": {
+   "name": "Constipation",
+   "description": "Selles dures, sèches ou rares, difficiles à évacuer, souvent avec un ventre gonflé ou de légères douleurs. Elle est très fréquente et s'améliore généralement avec des liquides, des fibres et de l'activité. Consultez si elle est nouvelle chez une personne âgée, dure des semaines, ou s'accompagne de sang ou d'une perte de poids.",
+   "cause": "Trop peu de fibres ou d'eau, peu d'activité, envie ignorée, certains médicaments et la grossesse.",
+   "prevention": "Mangez des aliments riches en fibres comme les fruits, les légumes et les céréales complètes, buvez assez d'eau, restez actif et allez aux toilettes dès que vous en ressentez le besoin."
+  },
+  "regions": {
+   "west_africa": 3,
+   "east_africa": 3,
+   "central_africa": 3,
+   "southern_africa": 3,
+   "north_africa": 3,
+   "middle_east": 3,
+   "south_asia": 3,
+   "southeast_east_asia": 3,
+   "latin_america": 3,
+   "europe_namerica_oceania": 3
+  },
+  "symptoms": {
+   "constipation": 0.95,
+   "bloating": 0.5,
+   "abdominal_pain": 0.4,
+   "anal_discomfort": 0.3,
+   "loss_of_appetite": 0.2,
+   "nausea": 0.2
+  }
+ }
+]

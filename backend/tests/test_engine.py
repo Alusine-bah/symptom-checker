@@ -22,8 +22,8 @@ def run(kb, symptoms, region="west_africa", age="adult", sex="female"):
 
 def test_counts(kb):
     # Minimums: the data only grows. Update these when you want to lock in a new size.
-    assert len(kb["diseases"]) >= 80
-    assert len(kb["symptoms"]) >= 74
+    assert len(kb["diseases"]) >= 90
+    assert len(kb["symptoms"]) >= 85
     assert len(kb["regions"]) == 10
 
 

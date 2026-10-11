@@ -61,9 +61,9 @@ const SYNONYMS: Record<string, string> = {
   muscle_aches: "muscle pain, muscle aches, body aches, body pain, body ache, body pains, muscles hurt, myalgia, sore muscles, douleurs musculaires, courbatures, mal partout, douleurs du corps, mal au corps",
   joint_pain: "joint pain, joints hurt, painful joints, arthritis, knee pain, elbow pain, wrist pain, ankle pain, aching joints, douleurs articulaires, articulations douloureuses, mal aux articulations, mal aux genoux, arthrite",
   severe_joint_pain: "severe joint pain, unbearable joint pain, very painful joints, bone pain, douleurs articulaires intenses, articulations tres douloureuses, douleurs des os, douleur osseuse",
-  painful_urination: "burning urine, burning when urinating, burning when i pee, pain when peeing, pain urinating, painful urination, burning urination, hurts to pee, stinging urine, pain passing urine, brulure en urinant, brulures urinaires, douleur en urinant, ca brule quand j urine, douleur a la miction",
+  painful_urination: "burning when i pass urine, burning when passing urine, burns when i pass urine, burning urine, burning when urinating, burning when i pee, pain when peeing, pain urinating, painful urination, burning urination, hurts to pee, stinging urine, pain passing urine, brulure en urinant, brulures urinaires, douleur en urinant, ca brule quand j urine, douleur a la miction",
   frequent_urination: "frequent urination, urinating often, peeing a lot, passing urine often, urinating a lot, going to toilet a lot, need to pee often, besoin frequent d uriner, urine souvent, urines frequentes, va souvent aux toilettes, envies frequentes d uriner",
-  blood_in_urine: "blood in urine, red urine, bloody urine, urine has blood, brown urine, dark urine, cola colored urine, pink urine, sang dans les urines, urines rouges, urines sanglantes, urines foncees, urine marron",
+  blood_in_urine: "blood in urine, red urine, bloody urine, urine has blood, cola colored urine, pink urine, sang dans les urines, urines rouges, urines sanglantes",
   numb_skin_patch: "numb skin, numb patch, patch no feeling, skin patch loss of feeling, white patch numb, loss of sensation skin, plaque insensible, peau engourdie, tache sans sensibilite, plaque sans sensation, perte de sensation",
   loss_of_smell_taste: "lost my sense of smell, lost my sense of taste, sense of smell, sense of taste, cannot smell anything, lost smell, lost taste, cannot smell, cannot taste, no smell, no taste, loss of smell, loss of taste, food has no taste, perte de l odorat, perte du gout, ne sent plus, plus de gout, anosmie",
   sneezing: "sneezing, sneeze, sneezes, achoo, sneezing a lot, eternuements, eternue, eternuer, atchoum",
@@ -83,6 +83,17 @@ const SYNONYMS: Record<string, string> = {
   scalp_itch_lice: "head lice, lice, nits, itchy scalp, itchy head, scratching head, lice in hair, poux, lentes, cuir chevelu qui gratte, tete qui gratte",
   blistering_rash_one_side: "shingles, painful blisters one side, blisters on one side, band of blisters, burning rash one side, rash on one side of body, zona, cloques d un seul cote, eruption d un cote, bande de cloques",
   dark_urine: "dark urine, tea colored urine, brown urine, urine is dark, dark yellow urine, orange urine, urines foncees, urine couleur the, urine marron, urine sombre",
+  facial_pressure: "sinus pain, pain around nose, pain in cheeks, pressure in face, pressure behind eyes, forehead pain, sinus pressure, face pain, douleur des sinus, douleur autour du nez, pression au visage, douleur aux joues, front douloureux",
+  dry_itchy_skin: "dry skin, scaly skin, cracked skin, flaky skin, rough skin, peeling skin, eczema, peau seche, peau qui pele, peau craquelee, peau rugueuse",
+  hives: "hives, welts, raised itchy bumps, nettle rash, urticaria, itchy lumps on skin, allergy rash, plaques qui demangent, urticaire, boutons en relief, allergie de la peau",
+  heartburn: "heartburn, acid reflux, sour taste, acid in mouth, burning in chest after eating, burning in throat, indigestion, acidity, brulures d estomac, remontees acides, reflux, gout acide, aigreurs",
+  bloating: "bloating, bloated, gas, swollen belly, flatulence, wind, belly full of gas, passing gas, ballonnement, ballonnements, gaz, ventre gonfle, flatulences",
+  anal_discomfort: "pain around anus, itching around anus, lump around anus, piles, hemorrhoids, haemorrhoids, pain when passing stool, painful bowel movement, douleur a l anus, demangeaisons anales, boule a l anus, hemorroides, douleur en allant a la selle",
+  groin_lump: "lump in groin, swelling in groin, bulge in groin, hernia, bulge in belly, lump that comes and goes, boule dans l aine, hernie, gonflement de l aine, bosse dans le ventre",
+  alternating_bowel: "diarrhea and constipation, alternating bowels, constipation then diarrhea, bowels up and down, diarrhee et constipation, alternance diarrhee constipation, transit irregulier",
+  puffy_face_eyes: "puffy face, swollen face, puffy eyes, swollen eyelids, face swelling, eyelids swollen, visage gonfle, paupieres gonflees, yeux gonfles, gonflement du visage",
+  less_urine: "passing little urine, little urine, no urine, not passing urine, urinating less, urine very little, peu d urine, pas d urine, urine moins, urine rare",
+  sunken_eyes_dry_mouth: "sunken eyes, dry mouth, dry lips, no tears, dry tongue, eyes sunken, yeux creux, bouche seche, levres seches, pas de larmes, langue seche",
 };
 
 const STOP = new Set(
@@ -121,11 +132,15 @@ let cache: { kb: Knowledge; entries: Entry[]; freq: Map<string, number> } | null
 function build(kb: Knowledge) {
   if (cache && cache.kb === kb) return cache;
   const entries: Entry[] = kb.symptoms.map((s) => {
-    const terms = [
-      ...(SYNONYMS[s.slug] ?? "").split(",").map((t) => normalize(t)),
-      normalize(s.en.replace(/\(.*?\)/g, " ")),
-      normalize(s.fr.replace(/\(.*?\)/g, " ")),
-    ].filter(Boolean);
+    const terms = Array.from(
+      new Set(
+        [
+          ...(SYNONYMS[s.slug] ?? "").split(",").map((t) => normalize(t)),
+          normalize(s.en.replace(/\(.*?\)/g, " ")),
+          normalize(s.fr.replace(/\(.*?\)/g, " ")),
+        ].filter(Boolean),
+      ),
+    ); // de-duplicated, so a repeated word cannot inflate a symptom's score
     const phrases = terms.filter((t) => t.includes(" "));
     const words = terms.filter((t) => !t.includes(" "));
     const bag = Array.from(

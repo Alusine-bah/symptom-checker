@@ -1,0 +1,79 @@
+[
+ {
+  "slug": "facial_pressure",
+  "cat": 7,
+  "en": "Pressure or pain around the nose, cheeks or forehead",
+  "fr": "Pression ou douleur autour du nez, des joues ou du front",
+  "sev": "minor"
+ },
+ {
+  "slug": "dry_itchy_skin",
+  "cat": 5,
+  "en": "Dry, scaly or cracked skin",
+  "fr": "Peau sèche, qui pèle ou craquelée",
+  "sev": "minor"
+ },
+ {
+  "slug": "hives",
+  "cat": 5,
+  "en": "Raised itchy welts on the skin (hives)",
+  "fr": "Plaques en relief qui démangent (urticaire)",
+  "sev": "minor"
+ },
+ {
+  "slug": "heartburn",
+  "cat": 3,
+  "en": "Heartburn or sour taste in the mouth",
+  "fr": "Brûlures d'estomac ou goût acide dans la bouche",
+  "sev": "minor"
+ },
+ {
+  "slug": "bloating",
+  "cat": 3,
+  "en": "Bloating or gas",
+  "fr": "Ballonnements ou gaz",
+  "sev": "minor"
+ },
+ {
+  "slug": "anal_discomfort",
+  "cat": 3,
+  "en": "Pain, itching or a lump around the anus",
+  "fr": "Douleur, démangeaisons ou boule à l'anus",
+  "sev": "minor"
+ },
+ {
+  "slug": "groin_lump",
+  "cat": 3,
+  "en": "Swelling or lump in the groin or belly wall that comes and goes",
+  "fr": "Gonflement ou boule dans l'aine ou la paroi du ventre qui va et vient",
+  "sev": "minor"
+ },
+ {
+  "slug": "alternating_bowel",
+  "cat": 3,
+  "en": "Diarrhea and constipation that alternate",
+  "fr": "Alternance de diarrhée et de constipation",
+  "sev": "minor"
+ },
+ {
+  "slug": "puffy_face_eyes",
+  "cat": 1,
+  "en": "Puffy face or eyelids",
+  "fr": "Visage ou paupières gonflés",
+  "sev": "minor"
+ },
+ {
+  "slug": "less_urine",
+  "cat": 9,
+  "en": "Passing very little urine",
+  "fr": "Urine très peu abondante",
+  "sev": "severe"
+ },
+ {
+  "slug": "sunken_eyes_dry_mouth",
+  "cat": 1,
+  "en": "Dry mouth and sunken eyes",
+  "fr": "Bouche sèche et yeux creux",
+  "sev": "severe"
+ }
+]

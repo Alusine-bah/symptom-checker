@@ -210,5 +210,42 @@
       "child": 0.3,
       "older": 1.5
     }
+  },
+  "eczema": {
+    "age": {
+      "child": 1.3,
+      "older": 0.8
+    }
+  },
+  "gerd": {
+    "age": {
+      "child": 0.3
+    }
+  },
+  "hemorrhoids": {
+    "age": {
+      "child": 0.1
+    }
+  },
+  "irritable_bowel_syndrome": {
+    "age": {
+      "child": 0.2
+    }
+  },
+  "chronic_kidney_disease": {
+    "age": {
+      "child": 0.2,
+      "older": 1.4
+    }
+  },
+  "constipation_disorder": {
+    "age": {
+      "older": 1.2
+    }
+  },
+  "sinusitis": {
+    "age": {
+      "child": 0.8
+    }
   }
 }
