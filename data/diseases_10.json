@@ -150,7 +150,7 @@
   "slug": "benign_prostatic_hyperplasia",
   "cat": 9,
   "urgency": "routine",
-  "source_url": "https://medlineplus.gov/benignprostatichyperplasia.html",
+  "source_url": "https://medlineplus.gov/enlargedprostatebph.html",
   "en": {
    "name": "Enlarged prostate (benign prostatic hyperplasia)",
    "description": "A non-cancerous growth of the prostate gland in older men that squeezes the urine pipe. It causes a weak or slow stream, getting up at night to urinate, and passing urine often. Being unable to pass urine at all is an emergency.",
@@ -261,7 +261,7 @@
   "slug": "tension_headache",
   "cat": 4,
   "urgency": "self_care",
-  "source_url": "https://medlineplus.gov/tensionheadache.html",
+  "source_url": "https://medlineplus.gov/ency/article/000797.htm",
   "en": {
    "name": "Tension-type headache",
    "description": "The most common kind of headache, felt as a dull, tight band or pressure around the head, usually on both sides and without nausea. It often comes with stress, tiredness or poor sleep.",
