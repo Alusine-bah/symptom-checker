@@ -23,7 +23,7 @@ def run(kb, symptoms, region="west_africa", age="adult", sex="female"):
 def test_counts(kb):
     # Minimums: the data only grows. Update these when you want to lock in a new size.
     assert len(kb["diseases"]) >= 100
-    assert len(kb["symptoms"]) >= 96
+    assert len(kb["symptoms"]) >= 102
     assert len(kb["regions"]) == 10
 
 
@@ -127,7 +127,8 @@ def vignettes():
 
 @pytest.mark.parametrize("v", vignettes(), ids=lambda v: v["id"])
 def test_vignette(kb, v):
-    out = triage(kb, region=v["region"], age_group=v["age_group"], sex=v["sex"], selected=v["symptoms"])
+    out = triage(kb, region=v["region"], age_group=v["age_group"], sex=v["sex"], selected=v["symptoms"],
+                 pregnant=v.get("pregnant", False))
     if v.get("expect_status") == "emergency":
         assert out["status"] == "emergency"
     else:

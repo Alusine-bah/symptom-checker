@@ -26,7 +26,7 @@ export type Knowledge = {
   categories: { id: number; en: string; fr: string }[];
   symptoms: KSymptom[];
   diseases: KDisease[];
-  modifiers: Record<string, { age?: Record<string, number>; sex?: Record<string, number> }>;
+  modifiers: Record<string, { age?: Record<string, number>; sex?: Record<string, number>; pregnant?: number }>;
   priors: Record<string, number>;
 };
 
@@ -47,6 +47,7 @@ export type TriageResponse = {
   status: "ok" | "emergency";
   urgency: Urgency;
   few_symptoms?: boolean;
+  pregnancy_note?: string;
   red_flags?: string[];
   message?: string;
   disclaimer: string;
@@ -59,6 +60,7 @@ export type TriageInput = {
   sex: string;
   symptoms: string[];
   lang: Lang;
+  pregnant?: boolean;
 };
 
 const URGENCY_ORDER: Urgency[] = ["self_care", "routine", "urgent", "emergency"];
@@ -66,6 +68,13 @@ const REGION_MULTIPLIER: Record<number, number> = { 3: 1.0, 2: 0.65, 1: 0.35 };
 const MISSING_REGION_MULTIPLIER = 0.2;
 const MIN_SCORE = 0.1;
 const MAX_SCORE = 0.9;
+
+export const PREGNANCY_NOTE: Record<Lang, string> = {
+  en: "You said you are pregnant. Please tell your antenatal clinic, midwife or doctor about these symptoms, and do not take any medicine without their advice.",
+  fr: "Vous avez indiqué être enceinte. Parlez de ces symptômes à votre centre de soins prénatals, à votre sage-femme ou à votre médecin, et ne prenez aucun médicament sans leur avis.",
+};
+// In pregnancy these symptoms should always be checked within a day.
+const PREGNANCY_URGENT_SYMPTOMS = new Set(["fever", "high_fever", "painful_urination", "abdominal_pain"]);
 
 export const DISCLAIMER: Record<Lang, string> = {
   en: "For information only. This is not a diagnosis and does not replace a doctor or health worker. If you feel very unwell, seek medical care.",
@@ -109,6 +118,7 @@ function matchLabel(score: number): MatchLabel {
 export function triage(kb: Knowledge, input: TriageInput): TriageResponse {
   const lang: Lang = input.lang === "fr" ? "fr" : "en";
   const selected = Array.from(new Set(input.symptoms));
+  const pregnant = input.pregnant === true;
   const symptoms = new Map(kb.symptoms.map((s) => [s.slug, s]));
 
   if (selected.length === 0) throw new Error("Select at least one symptom.");
@@ -152,8 +162,9 @@ export function triage(kb: Knowledge, input: TriageInput): TriageResponse {
     const ageMult = mods.age?.[input.age_group] ?? 1.0;
     const sexMult = mods.sex?.[input.sex] ?? 1.0;
     const prior = kb.priors[d.slug] ?? 1.0;
+    const pregMult = pregnant ? mods.pregnant ?? 1.0 : 1.0;
 
-    const score = Math.min(MAX_SCORE, base * evidence * regionMult * ageMult * sexMult * prior);
+    const score = Math.min(MAX_SCORE, base * evidence * regionMult * ageMult * sexMult * prior * pregMult);
 
     const missing = Object.entries(d.weights)
       .filter(([s, w]) => !selected.includes(s) && w >= 0.5)
@@ -189,12 +200,21 @@ export function triage(kb: Knowledge, input: TriageInput): TriageResponse {
   if (selected.some((s) => symptoms.get(s)!.severity === "severe")) {
     level = Math.max(level, URGENCY_ORDER.indexOf("urgent"));
   }
+  // Pregnancy: always worth telling the antenatal team, and some symptoms need quicker care.
+  if (pregnant) {
+    level = Math.max(level, URGENCY_ORDER.indexOf("routine"));
+    if (selected.some((s) => PREGNANCY_URGENT_SYMPTOMS.has(s))) {
+      level = Math.max(level, URGENCY_ORDER.indexOf("urgent"));
+    }
+  }
 
-  return {
+  const response: TriageResponse = {
     status: "ok",
     urgency: URGENCY_ORDER[level],
     few_symptoms: selected.length < 2,
     disclaimer: DISCLAIMER[lang],
     results: top.map(({ score: _score, ...rest }) => rest),
   };
+  if (pregnant) response.pregnancy_note = PREGNANCY_NOTE[lang];
+  return response;
 }

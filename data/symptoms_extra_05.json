@@ -1,0 +1,44 @@
+[
+ {
+  "slug": "pregnancy_bleeding",
+  "cat": 12,
+  "en": "Vaginal bleeding while pregnant",
+  "fr": "Saignement vaginal pendant la grossesse",
+  "sev": "red_flag"
+ },
+ {
+  "slug": "pregnancy_headache_vision",
+  "cat": 12,
+  "en": "Severe headache with blurred vision or flashing lights while pregnant",
+  "fr": "Violent mal de tête avec vision floue ou éclairs lumineux pendant la grossesse",
+  "sev": "red_flag"
+ },
+ {
+  "slug": "pregnancy_swelling",
+  "cat": 12,
+  "en": "Sudden swelling of the face or hands while pregnant",
+  "fr": "Gonflement soudain du visage ou des mains pendant la grossesse",
+  "sev": "red_flag"
+ },
+ {
+  "slug": "pregnancy_reduced_movement",
+  "cat": 12,
+  "en": "Baby moving much less than usual, or not at all",
+  "fr": "Bébé qui bouge beaucoup moins que d'habitude, ou plus du tout",
+  "sev": "red_flag"
+ },
+ {
+  "slug": "pregnancy_fluid_leak",
+  "cat": 12,
+  "en": "Fluid leaking from the vagina",
+  "fr": "Écoulement de liquide par le vagin",
+  "sev": "red_flag"
+ },
+ {
+  "slug": "pregnancy_labour",
+  "cat": 12,
+  "en": "Regular labour pains or contractions",
+  "fr": "Douleurs de travail ou contractions régulières",
+  "sev": "red_flag"
+ }
+]

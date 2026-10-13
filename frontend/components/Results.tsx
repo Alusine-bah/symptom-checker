@@ -100,6 +100,12 @@ export default function Results({
         </p>
       </div>
 
+      {data.pregnancy_note && (
+        <p className="mt-4 rounded-lg border border-pink-200 bg-pink-50 p-3 text-sm text-pink-900">
+          🤰 {data.pregnancy_note}
+        </p>
+      )}
+
       {data.few_symptoms && (
         <p className="mt-4 rounded-lg border border-sky-200 bg-sky-50 p-3 text-sm text-sky-900">
           {t.fewSymptoms}

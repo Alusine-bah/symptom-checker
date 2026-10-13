@@ -105,6 +105,12 @@ const SYNONYMS: Record<string, string> = {
   period_pain: "period pain, painful periods, menstrual cramps, cramps during period, period cramps, pain during menstruation, regles douloureuses, douleurs de regles, crampes menstruelles, mal pendant les regles",
   pain_after_fatty_meal: "pain after eating fatty food, pain after oily food, upper right belly pain, pain under right ribs, belly pain after meals, gallbladder pain, douleur apres un repas gras, douleur sous les cotes a droite, douleur apres manger, vesicule",
   tight_band_headache: "tight band around head, band like headache, pressure around head, headache from stress, tension headache, head feels squeezed, casque autour de la tete, maux de tete de stress, tete serree, etau autour de la tete, cephalee de tension",
+  pregnancy_bleeding: "bleeding while pregnant, vaginal bleeding in pregnancy, spotting in pregnancy, bleeding pregnant, blood from vagina pregnant, saignement pendant la grossesse, saignement enceinte, perte de sang enceinte",
+  pregnancy_headache_vision: "severe headache blurred vision pregnant, headache and flashing lights, seeing spots pregnancy, headache with blurry vision pregnant, mal de tete et vision floue enceinte, eclairs lumineux, mouches devant les yeux",
+  pregnancy_swelling: "swollen face pregnant, swollen hands pregnant, sudden swelling face and hands, puffy hands and face in pregnancy, visage gonfle enceinte, mains gonflees enceinte, gonflement soudain",
+  pregnancy_reduced_movement: "baby not moving, baby moving less, reduced baby movement, no fetal movement, cannot feel baby move, bebe ne bouge plus, bebe bouge moins, ne sent plus le bebe",
+  pregnancy_fluid_leak: "water broke, waters broke, leaking fluid, fluid from vagina pregnant, leaking water, rupture of membranes, perte des eaux, liquide qui s ecoule, poche des eaux rompue",
+  pregnancy_labour: "labour pains, contractions, labor pains, regular contractions, in labour, going into labour, douleurs de travail, contractions regulieres, debut de travail",
 };
 
 const STOP = new Set(
@@ -190,8 +196,8 @@ const NOTES: { terms: string[]; tone: SearchNote["tone"]; suppressHits: boolean;
     ],
     tone: "urgent",
     suppressHits: false,
-    en: "This checker does not cover pregnancy. If you are pregnant and have heavy bleeding, a severe headache, swelling of the face or hands, convulsions, severe belly pain, fever, or your baby is moving less, go to a health facility immediately.",
-    fr: "Ce vérificateur ne couvre pas la grossesse. Si vous êtes enceinte et avez un saignement abondant, un violent mal de tête, un gonflement du visage ou des mains, des convulsions, de fortes douleurs au ventre, de la fièvre, ou si le bébé bouge moins, allez immédiatement dans un établissement de santé.",
+    en: "If you are pregnant, choose “Yes” under “Are you pregnant?” above to see the pregnancy warning signs. Go to a health facility immediately for bleeding, a severe headache with blurred vision, swelling of the face or hands, convulsions, severe belly pain, fever, leaking fluid, or if your baby is moving less.",
+    fr: "Si vous êtes enceinte, choisissez « Oui » sous « Êtes-vous enceinte ? » ci-dessus pour voir les signes d'alerte de la grossesse. Allez immédiatement dans un établissement de santé en cas de saignement, de violent mal de tête avec vision floue, de gonflement du visage ou des mains, de convulsions, de fortes douleurs au ventre, de fièvre, de perte de liquide, ou si le bébé bouge moins.",
   },
   {
     terms: [

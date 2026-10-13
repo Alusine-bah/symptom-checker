@@ -55,6 +55,7 @@ class TriageRequest(BaseModel):
     sex: str = Field(pattern="^(female|male|other)$")
     symptoms: List[str] = Field(min_length=1, max_length=30)
     lang: str = "en"
+    pregnant: bool = False
 
 
 @app.get("/api/health")
@@ -147,6 +148,7 @@ def run_triage(req: TriageRequest):
             sex=req.sex,
             selected=req.symptoms,
             lang=l,
+            pregnant=req.pregnant,
         )
     except ValueError as e:
         raise HTTPException(status_code=400, detail=str(e))

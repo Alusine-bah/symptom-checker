@@ -2,7 +2,8 @@
 
 import { useEffect, useMemo, useState } from "react";
 import { useApp } from "./AppProvider";
-import { getSymptoms, knowledge, type SymptomGroup } from "@/lib/api";
+import { PREGNANCY_CATEGORY, getSymptoms, knowledge, type SymptomGroup } from "@/lib/api";
+import { PREG } from "@/lib/pregnancyStrings";
 import { searchSymptoms } from "@/lib/symptomSearch";
 import { SEARCH } from "@/lib/searchStrings";
 
@@ -13,6 +14,8 @@ type Props = {
   setAgeGroup: (v: string) => void;
   sex: string;
   setSex: (v: string) => void;
+  pregnant: boolean;
+  setPregnant: (v: boolean) => void;
   onSubmit: () => void;
   submitting: boolean;
   error: string | null;
@@ -25,6 +28,8 @@ export default function SymptomForm({
   setAgeGroup,
   sex,
   setSex,
+  pregnant,
+  setPregnant,
   onSubmit,
   submitting,
   error,
@@ -37,7 +42,15 @@ export default function SymptomForm({
   const [query, setQuery] = useState("");
   const st = SEARCH[lang];
   const found = useMemo(() => searchSymptoms(knowledge, query, lang), [query, lang]);
-  const showNoMatch = query.trim().length >= 2 && found.hits.length === 0 && found.notes.length === 0;
+  const pg = PREG[lang];
+  // The pregnancy question only applies to adult women.
+  const showPregnancy = sex === "female" && ageGroup === "adult";
+  const pregnantNow = showPregnancy && pregnant;
+  const hits = found.hits.filter(
+    (h) => pregnantNow || knowledge.symptoms.find((s) => s.slug === h.slug)?.category !== PREGNANCY_CATEGORY,
+  );
+  const visibleGroups = groups.filter((g) => !g.pregnancyOnly || pregnantNow);
+  const showNoMatch = query.trim().length >= 2 && hits.length === 0 && found.notes.length === 0;
 
   useEffect(() => {
     let cancelled = false;
@@ -87,6 +100,20 @@ export default function SymptomForm({
               <option value="other">{t.sexOther}</option>
             </select>
           </label>
+          {showPregnancy && (
+            <label className="text-sm sm:col-span-2">
+              {pg.label}
+              <select
+                value={pregnant ? "yes" : "no"}
+                onChange={(e) => setPregnant(e.target.value === "yes")}
+                className={selectClass}
+              >
+                <option value="no">{pg.no}</option>
+                <option value="yes">{pg.yes}</option>
+              </select>
+              <span className="mt-1 block text-xs text-slate-500">{pg.hint}</span>
+            </label>
+          )}
         </div>
       </section>
 
@@ -130,9 +157,9 @@ export default function SymptomForm({
             </p>
           ))}
 
-          {found.hits.length > 0 && (
+          {hits.length > 0 && (
             <ul className="mt-3 flex flex-wrap gap-2">
-              {found.hits.map((h) => {
+              {hits.map((h) => {
                 const on = selected.includes(h.slug);
                 const danger = h.severity === "red_flag";
                 return (
@@ -172,8 +199,8 @@ export default function SymptomForm({
         )}
 
         <div className="mt-4 space-y-3">
-          {groups.map((g, i) => {
-            const open = openIdx.includes(i);
+          {visibleGroups.map((g, i) => {
+            const open = g.pregnancyOnly ? true : openIdx.includes(i);
             const count = g.symptoms.filter((s) => selected.includes(s.slug)).length;
             return (
               <div key={i} className="rounded-xl border border-slate-200 bg-white">

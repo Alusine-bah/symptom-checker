@@ -5,9 +5,9 @@ import { useEffect, useState } from "react";
 import { useApp } from "@/components/AppProvider";
 import SymptomForm from "@/components/SymptomForm";
 import Results from "@/components/Results";
-import { getRegions, postTriage, type TriageResponse } from "@/lib/api";
+import { PREGNANCY_SLUGS, getRegions, postTriage, type TriageResponse } from "@/lib/api";
 
-type Request = { region: string; age_group: string; sex: string; symptoms: string[] };
+type Request = { region: string; age_group: string; sex: string; symptoms: string[]; pregnant: boolean };
 
 export default function CheckPage() {
   const { lang, region, t } = useApp();
@@ -15,6 +15,7 @@ export default function CheckPage() {
   const [regionName, setRegionName] = useState("");
   const [ageGroup, setAgeGroup] = useState("adult");
   const [sex, setSex] = useState("female");
+  const [pregnant, setPregnant] = useState(false);
   const [selected, setSelected] = useState<string[]>([]);
   const [result, setResult] = useState<TriageResponse | null>(null);
   const [lastReq, setLastReq] = useState<Request | null>(null);
@@ -22,6 +23,16 @@ export default function CheckPage() {
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => setMounted(true), []);
+
+  // The pregnancy question only applies to adult women.
+  useEffect(() => {
+    if (!(sex === "female" && ageGroup === "adult") && pregnant) setPregnant(false);
+  }, [sex, ageGroup, pregnant]);
+
+  // Forget pregnancy warning signs when the person is not pregnant.
+  useEffect(() => {
+    if (!pregnant) setSelected((cur) => cur.filter((s) => !PREGNANCY_SLUGS.includes(s)));
+  }, [pregnant]);
 
   useEffect(() => {
     if (!region) return;
@@ -53,7 +64,7 @@ export default function CheckPage() {
 
   async function submit() {
     if (!region || selected.length === 0) return;
-    const req: Request = { region, age_group: ageGroup, sex, symptoms: selected };
+    const req: Request = { region, age_group: ageGroup, sex, symptoms: selected, pregnant };
     setSubmitting(true);
     setError(null);
     try {
@@ -118,6 +129,8 @@ export default function CheckPage() {
               setAgeGroup={setAgeGroup}
               sex={sex}
               setSex={setSex}
+              pregnant={pregnant}
+              setPregnant={setPregnant}
               onSubmit={submit}
               submitting={submitting}
               error={error}

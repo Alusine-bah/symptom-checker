@@ -1007,6 +1007,37 @@
   ]
  },
  {
+  "id": "V66",
+  "note": "Malaria in pregnancy, West Africa",
+  "region": "west_africa",
+  "age_group": "adult",
+  "sex": "female",
+  "pregnant": true,
+  "symptoms": [
+   "fever",
+   "chills",
+   "headache"
+  ],
+  "expect": [
+   "malaria"
+  ]
+ },
+ {
+  "id": "V67",
+  "note": "Urine infection in pregnancy, East Africa",
+  "region": "east_africa",
+  "age_group": "adult",
+  "sex": "female",
+  "pregnant": true,
+  "symptoms": [
+   "painful_urination",
+   "frequent_urination"
+  ],
+  "expect": [
+   "uti"
+  ]
+ },
+ {
   "id": "E01",
   "note": "Meningitis picture: stiff neck",
   "region": "west_africa",
@@ -1062,6 +1093,43 @@
   "sex": "female",
   "symptoms": [
    "one_sided_weakness"
+  ],
+  "expect_status": "emergency"
+ },
+ {
+  "id": "E06",
+  "note": "Bleeding in pregnancy",
+  "region": "west_africa",
+  "age_group": "adult",
+  "sex": "female",
+  "pregnant": true,
+  "symptoms": [
+   "pregnancy_bleeding"
+  ],
+  "expect_status": "emergency"
+ },
+ {
+  "id": "E07",
+  "note": "Baby moving less",
+  "region": "east_africa",
+  "age_group": "adult",
+  "sex": "female",
+  "pregnant": true,
+  "symptoms": [
+   "pregnancy_reduced_movement"
+  ],
+  "expect_status": "emergency"
+ },
+ {
+  "id": "E08",
+  "note": "Severe headache with blurred vision in pregnancy",
+  "region": "south_asia",
+  "age_group": "adult",
+  "sex": "female",
+  "pregnant": true,
+  "symptoms": [
+   "pregnancy_headache_vision",
+   "headache"
   ],
   "expect_status": "emergency"
  }

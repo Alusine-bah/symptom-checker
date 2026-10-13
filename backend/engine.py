@@ -12,6 +12,13 @@ MISSING_REGION_MULTIPLIER = 0.2
 MIN_SCORE = 0.1
 MAX_SCORE = 0.9
 
+PREGNANCY_NOTE = {
+    "en": "You said you are pregnant. Please tell your antenatal clinic, midwife or doctor about these symptoms, and do not take any medicine without their advice.",
+    "fr": "Vous avez indiqué être enceinte. Parlez de ces symptômes à votre centre de soins prénatals, à votre sage-femme ou à votre médecin, et ne prenez aucun médicament sans leur avis.",
+}
+# In pregnancy these symptoms should always be checked within a day.
+PREGNANCY_URGENT_SYMPTOMS = {"fever", "high_fever", "painful_urination", "abdominal_pain"}
+
 
 def load_json(name):
     with open(os.path.join(DATA, name), encoding="utf-8") as f:
@@ -57,7 +64,7 @@ def match_label(score):
     return "possible"
 
 
-def triage(kb, region, age_group, sex, selected, lang="en"):
+def triage(kb, region, age_group, sex, selected, lang="en", pregnant=False):
     lang = "fr" if lang == "fr" else "en"
     selected = list(dict.fromkeys(selected))  # remove duplicates, keep order
 
@@ -98,8 +105,9 @@ def triage(kb, region, age_group, sex, selected, lang="en"):
         age_mult = mods.get("age", {}).get(age_group, 1.0)
         sex_mult = mods.get("sex", {}).get(sex, 1.0)
         prior = kb["priors"].get(d["slug"], 1.0)
+        preg_mult = mods.get("pregnant", 1.0) if pregnant else 1.0
 
-        score = min(MAX_SCORE, base * evidence * region_mult * age_mult * sex_mult * prior)
+        score = min(MAX_SCORE, base * evidence * region_mult * age_mult * sex_mult * prior * preg_mult)
 
         missing = sorted(
             (s for s, w in d["weights"].items() if s not in selected and w >= 0.5),
@@ -131,11 +139,19 @@ def triage(kb, region, age_group, sex, selected, lang="en"):
     # ...and any severe symptom raises it to at least "urgent".
     if any(kb["symptoms"][s]["severity"] == "severe" for s in selected):
         level = max(level, URGENCY_ORDER.index("urgent"))
+    # Pregnancy: always worth telling the antenatal team, and some symptoms need quicker care.
+    if pregnant:
+        level = max(level, URGENCY_ORDER.index("routine"))
+        if any(s in PREGNANCY_URGENT_SYMPTOMS for s in selected):
+            level = max(level, URGENCY_ORDER.index("urgent"))
 
-    return {
+    out = {
         "status": "ok",
         "urgency": URGENCY_ORDER[level],
         "region": region,
         "few_symptoms": len(selected) < 2,
         "results": top,
     }
+    if pregnant:
+        out["pregnancy_note"] = PREGNANCY_NOTE[lang]
+    return out

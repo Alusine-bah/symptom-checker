@@ -19,7 +19,11 @@ export const knowledge = knowledgeJson as unknown as Knowledge;
 
 export type Region = { code: string; name: string };
 export type SymptomItem = { slug: string; name: string; severity: "minor" | "severe" | "red_flag" };
-export type SymptomGroup = { category: string; symptoms: SymptomItem[] };
+export type SymptomGroup = { category: string; symptoms: SymptomItem[]; pregnancyOnly?: boolean };
+
+// Pregnancy warning signs are only shown when the person says she is pregnant.
+export const PREGNANCY_CATEGORY = 12;
+export const PREGNANCY_SLUGS = knowledge.symptoms.filter((s) => s.category === PREGNANCY_CATEGORY).map((s) => s.slug);
 
 export async function getRegions(lang: Lang): Promise<Region[]> {
   return knowledge.regions.map((r) => ({ code: r.code, name: r[lang] }));
@@ -31,7 +35,7 @@ export async function getSymptoms(lang: Lang): Promise<SymptomGroup[]> {
     let group = groups.get(s.category);
     if (!group) {
       const cat = knowledge.categories.find((c) => c.id === s.category)!;
-      group = { category: cat[lang], symptoms: [] };
+      group = { category: cat[lang], symptoms: [], pregnancyOnly: s.category === PREGNANCY_CATEGORY };
       groups.set(s.category, group);
     }
     group.symptoms.push({ slug: s.slug, name: s[lang], severity: s.severity });

@@ -29,6 +29,7 @@ def main():
             age_group=v["age_group"],
             sex=v["sex"],
             selected=v["symptoms"],
+            pregnant=v.get("pregnant", False),
         )
         if v.get("expect_status") == "emergency":
             flag_cases += 1
