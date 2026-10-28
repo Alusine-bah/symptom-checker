@@ -53,7 +53,7 @@
    "regions":{"west_africa":3,"east_africa":3,"central_africa":3,"southern_africa":3,"north_africa":2,"middle_east":2,"south_asia":2,"southeast_east_asia":2,"latin_america":2,"europe_namerica_oceania":2},
    "symptoms":{"painful_urination":0.8,"abdominal_pain":0.5,"frequent_urination":0.3,"blood_in_urine":0.2,"fever":0.2}},
 
-  {"slug":"acute_bronchitis","cat":2,"urgency":"self_care","source_url":"https://medlineplus.gov/bronchitis.html",
+  {"slug":"acute_bronchitis","cat":2,"urgency":"self_care","source_url":"https://medlineplus.gov/ency/article/001087.htm",
    "en":{"name":"Acute bronchitis (chest cold)","description":"Inflammation of the airways, usually after a cold, causing a cough that can last two to three weeks, sometimes with mucus.","cause":"Mostly viruses, and sometimes smoke or irritants.","prevention":"Avoid tobacco and cooking-fire smoke, wash hands often, and get vaccines such as the yearly flu shot."},
    "fr":{"name":"Bronchite aiguë (rhume de poitrine)","description":"Inflammation des bronches, généralement après un rhume, avec une toux pouvant durer deux à trois semaines, parfois avec des crachats.","cause":"Surtout des virus, parfois la fumée ou des substances irritantes.","prevention":"Évitez le tabac et la fumée des foyers de cuisson, lavez-vous souvent les mains et faites les vaccins comme celui de la grippe."},
    "regions":{"west_africa":3,"east_africa":3,"central_africa":3,"southern_africa":3,"north_africa":3,"middle_east":3,"south_asia":3,"southeast_east_asia":3,"latin_america":3,"europe_namerica_oceania":3},

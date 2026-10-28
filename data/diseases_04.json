@@ -35,7 +35,7 @@
    "regions":{"east_africa":3,"south_asia":3,"north_africa":1,"middle_east":1,"latin_america":1,"southeast_east_asia":1},
    "symptoms":{"fever":0.8,"weight_loss":0.7,"fatigue":0.6,"pale_skin":0.5,"swollen_glands":0.4,"abdominal_pain":0.4,"loss_of_appetite":0.4}},
 
-  {"slug":"brucellosis","cat":1,"urgency":"urgent","source_url":"https://www.cdc.gov/brucellosis/index.html",
+  {"slug":"brucellosis","cat":1,"urgency":"urgent","source_url":"https://www.who.int/news-room/fact-sheets/detail/brucellosis",
    "en":{"name":"Brucellosis","description":"A bacterial infection from animals causing recurring fever, sweats, joint pain and tiredness.","cause":"Brucella bacteria, from unpasteurized milk or cheese or contact with infected animals.","prevention":"Drink only pasteurized or boiled milk, use gloves when handling livestock, and vaccinate animals."},
    "fr":{"name":"Brucellose","description":"Infection bactérienne d'origine animale avec fièvre récurrente, sueurs, douleurs articulaires et fatigue.","cause":"Bactéries Brucella, présentes dans le lait ou le fromage non pasteurisés ou transmises par contact avec des animaux infectés.","prevention":"Buvez uniquement du lait pasteurisé ou bouilli, portez des gants pour manipuler le bétail et vaccinez les animaux."},
    "regions":{"middle_east":3,"north_africa":2,"east_africa":2,"west_africa":2,"central_africa":1,"southern_africa":1,"south_asia":2,"southeast_east_asia":1,"latin_america":2,"europe_namerica_oceania":1},
