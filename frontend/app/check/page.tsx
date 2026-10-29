@@ -5,7 +5,15 @@ import { useEffect, useState } from "react";
 import { useApp } from "@/components/AppProvider";
 import SymptomForm from "@/components/SymptomForm";
 import Results from "@/components/Results";
-import { PREGNANCY_SLUGS, getRegions, postTriage, type TriageResponse } from "@/lib/api";
+import {
+  BABY_SLUGS,
+  PREGNANCY_SLUGS,
+  canBePregnant,
+  getRegions,
+  isBabyAge,
+  postTriage,
+  type TriageResponse,
+} from "@/lib/api";
 
 type Request = { region: string; age_group: string; sex: string; symptoms: string[]; pregnant: boolean };
 
@@ -24,10 +32,15 @@ export default function CheckPage() {
 
   useEffect(() => setMounted(true), []);
 
-  // The pregnancy question only applies to adult women.
+  // The pregnancy question only applies to adolescent girls and women.
   useEffect(() => {
-    if (!(sex === "female" && ageGroup === "adult") && pregnant) setPregnant(false);
+    if (!canBePregnant(sex, ageGroup) && pregnant) setPregnant(false);
   }, [sex, ageGroup, pregnant]);
+
+  // Forget baby danger signs when the person is not a newborn or infant.
+  useEffect(() => {
+    if (!isBabyAge(ageGroup)) setSelected((cur) => cur.filter((s) => !BABY_SLUGS.includes(s)));
+  }, [ageGroup]);
 
   // Forget pregnancy warning signs when the person is not pregnant.
   useEffect(() => {

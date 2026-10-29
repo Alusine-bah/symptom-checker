@@ -9,6 +9,9 @@ export type SearchResult = { hits: SymptomHit[]; notes: SearchNote[] };
 
 // Everyday ways people describe each symptom (English and French together).
 const SYNONYMS: Record<string, string> = {
+  baby_poor_feeding: "baby not feeding, baby will not suckle, baby refuses breast, baby refusing feeds, poor feeding, not breastfeeding well, baby not sucking, bebe ne tete pas, bebe refuse de teter, refuse le sein, tete mal, mange mal",
+  baby_very_sleepy: "baby very sleepy, baby floppy, baby limp, baby hard to wake, baby not moving much, baby weak, baby lethargic, bebe tres endormi, bebe mou, bebe difficile a reveiller, bebe flasque, bebe bouge peu",
+  baby_cold: "baby cold, baby feels cold, baby cold to touch, cold baby, baby hypothermia, bebe froid, bebe est froid, froid au toucher",
   fever: "fever, temperature, hot body, body is hot, feverish, burning up, fievre, temperature, corps chaud, brulant, febrile",
   high_fever: "very high fever, high temperature, very hot, burning hot, 39, 40, forte fievre, fievre elevee, tres chaud",
   chills: "chills, shivering, shaking, cold shivers, rigors, feeling cold, frissons, grelotte, tremblements, froid",

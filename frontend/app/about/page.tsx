@@ -37,6 +37,25 @@ export default function AboutPage() {
         <p className="mb-2">{a.s2Text}</p>
         <List items={a.s2Items} />
       </Section>
+      <Section title={a.ageTitle}>
+        <p className="mb-2">{a.ageText}</p>
+        <List items={a.ageItems} />
+        <p className="mt-2">{a.ageNote}</p>
+        <ul className="mt-2 list-disc space-y-2 pl-5">
+          {a.ageLinks.map((l) => (
+            <li key={l.href}>
+              <a
+                href={l.href}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-emerald-700 underline hover:text-emerald-800"
+              >
+                {l.label}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </Section>
       <Section title={a.s3Title}>
         <List items={a.s3Items} />
       </Section>

@@ -51,7 +51,7 @@ def pick_lang(lang: str) -> str:
 
 class TriageRequest(BaseModel):
     region: str
-    age_group: str = Field(pattern="^(child|adult|older)$")
+    age_group: str = Field(pattern="^(newborn|infant|young_child|child|adolescent|adult|older)$")
     sex: str = Field(pattern="^(female|male|other)$")
     symptoms: List[str] = Field(min_length=1, max_length=30)
     lang: str = "en"

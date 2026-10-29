@@ -2,7 +2,15 @@
 
 import { useEffect, useMemo, useState } from "react";
 import { useApp } from "./AppProvider";
-import { PREGNANCY_CATEGORY, getSymptoms, knowledge, type SymptomGroup } from "@/lib/api";
+import {
+  BABY_CATEGORY,
+  PREGNANCY_CATEGORY,
+  canBePregnant,
+  getSymptoms,
+  isBabyAge,
+  knowledge,
+  type SymptomGroup,
+} from "@/lib/api";
 import { PREG } from "@/lib/pregnancyStrings";
 import { searchSymptoms } from "@/lib/symptomSearch";
 import { SEARCH } from "@/lib/searchStrings";
@@ -43,13 +51,17 @@ export default function SymptomForm({
   const st = SEARCH[lang];
   const found = useMemo(() => searchSymptoms(knowledge, query, lang), [query, lang]);
   const pg = PREG[lang];
-  // The pregnancy question only applies to adult women.
-  const showPregnancy = sex === "female" && ageGroup === "adult";
+  // The pregnancy question applies to adolescent girls and women; baby danger signs to newborns and infants.
+  const showPregnancy = canBePregnant(sex, ageGroup);
   const pregnantNow = showPregnancy && pregnant;
-  const hits = found.hits.filter(
-    (h) => pregnantNow || knowledge.symptoms.find((s) => s.slug === h.slug)?.category !== PREGNANCY_CATEGORY,
-  );
-  const visibleGroups = groups.filter((g) => !g.pregnancyOnly || pregnantNow);
+  const babyNow = isBabyAge(ageGroup);
+  const hits = found.hits.filter((h) => {
+    const cat = knowledge.symptoms.find((s) => s.slug === h.slug)?.category;
+    if (cat === PREGNANCY_CATEGORY) return pregnantNow;
+    if (cat === BABY_CATEGORY) return babyNow;
+    return true;
+  });
+  const visibleGroups = groups.filter((g) => (!g.pregnancyOnly || pregnantNow) && (!g.babyOnly || babyNow));
   const showNoMatch = query.trim().length >= 2 && hits.length === 0 && found.notes.length === 0;
 
   useEffect(() => {
@@ -87,7 +99,11 @@ export default function SymptomForm({
           <label className="text-sm">
             {t.ageGroup}
             <select value={ageGroup} onChange={(e) => setAgeGroup(e.target.value)} className={selectClass}>
+              <option value="newborn">{t.ageNewborn}</option>
+              <option value="infant">{t.ageInfant}</option>
+              <option value="young_child">{t.ageYoungChild}</option>
               <option value="child">{t.ageChild}</option>
+              <option value="adolescent">{t.ageAdolescent}</option>
               <option value="adult">{t.ageAdult}</option>
               <option value="older">{t.ageOlder}</option>
             </select>
@@ -200,7 +216,7 @@ export default function SymptomForm({
 
         <div className="mt-4 space-y-3">
           {visibleGroups.map((g, i) => {
-            const open = g.pregnancyOnly ? true : openIdx.includes(i);
+            const open = g.pregnancyOnly || g.babyOnly ? true : openIdx.includes(i);
             const count = g.symptoms.filter((s) => selected.includes(s.slug)).length;
             return (
               <div key={i} className="rounded-xl border border-slate-200 bg-white">

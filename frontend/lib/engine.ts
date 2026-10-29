@@ -76,6 +76,21 @@ export const PREGNANCY_NOTE: Record<Lang, string> = {
 // In pregnancy these symptoms should always be checked within a day.
 const PREGNANCY_URGENT_SYMPTOMS = new Set(["fever", "high_fever", "painful_urination", "abdominal_pain"]);
 
+// Age groups. Newborn, adolescent and older follow WHO: the newborn period is the first 28 days of
+// life, adolescence is 10 to 19 years, and WHO uses 60 as its reference age for older people.
+export const AGE_GROUPS = ["newborn", "infant", "young_child", "child", "adolescent", "adult", "older"] as const;
+// WHO newborn danger signs: feeding problems, reduced activity, difficult breathing, fever, fits
+// (fits and difficult breathing are already red flags) and a baby who feels cold.
+// For a newborn any of these means go to hospital now.
+const NEWBORN_EMERGENCY_SYMPTOMS = new Set([
+  "fever",
+  "high_fever",
+  "fast_breathing",
+  "baby_poor_feeding",
+  "baby_very_sleepy",
+  "baby_cold",
+]);
+
 export const DISCLAIMER: Record<Lang, string> = {
   en: "For information only. This is not a diagnosis and does not replace a doctor or health worker. If you feel very unwell, seek medical care.",
   fr: "À titre informatif uniquement. Ceci n'est pas un diagnostic et ne remplace pas un médecin ou un agent de santé. Si vous vous sentez très mal, consultez un professionnel de santé.",
@@ -125,11 +140,16 @@ export function triage(kb: Knowledge, input: TriageInput): TriageResponse {
   const unknown = selected.filter((s) => !symptoms.has(s));
   if (unknown.length > 0) throw new Error(`Unknown symptoms: ${unknown.join(", ")}`);
   if (!kb.regions.some((r) => r.code === input.region)) throw new Error(`Unknown region: ${input.region}`);
+  if (!(AGE_GROUPS as readonly string[]).includes(input.age_group)) throw new Error(`Unknown age group: ${input.age_group}`);
 
   const symptomName = (slug: string) => symptoms.get(slug)![lang];
 
   // Rule 1: red flags stop everything.
-  const redFlags = selected.filter((s) => symptoms.get(s)!.severity === "red_flag");
+  // A newborn (first 28 days) is also an emergency for the WHO newborn danger signs.
+  const redFlags = selected.filter(
+    (s) =>
+      symptoms.get(s)!.severity === "red_flag" || (input.age_group === "newborn" && NEWBORN_EMERGENCY_SYMPTOMS.has(s)),
+  );
   if (redFlags.length > 0) {
     return {
       status: "emergency",

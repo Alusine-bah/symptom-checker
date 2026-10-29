@@ -23,11 +23,30 @@ const en = {
     "small adjustments for age, sex and pregnancy",
     "the list of danger signs that trigger the emergency alert",
   ],
+  ageTitle: "Age groups",
+  ageText:
+    "The age groups follow WHO definitions where they exist. The childhood groups are an approximation, because there is no single international age range for “child”.",
+  ageItems: [
+    "Newborn: 0 to 28 days (WHO: the first 28 days of life). Any WHO newborn danger sign (fever, fast or difficult breathing, fits, feeding problems, much less activity, feeling cold) triggers the emergency alert.",
+    "Infant: 29 days to 11 months (WHO: post-neonatal, 28 days to under 1 year).",
+    "Young child: 1 to 4 years (WHO reports children under 5 as one group).",
+    "Child: 5 to 9 years.",
+    "Adolescent: 10 to 19 years (WHO).",
+    "Adult: 20 to 59 years.",
+    "Older adult: 60 years and over (WHO uses 60 as its reference age).",
+  ],
+  ageNote:
+    "How much each age group raises or lowers a disease's score is an estimate, not a published figure (see the estimates above).",
+  ageLinks: [
+    { label: "WHO: newborn mortality", href: "https://www.who.int/news-room/fact-sheets/detail/newborn-mortality" },
+    { label: "WHO: adolescent health", href: "https://www.who.int/health-topics/adolescent-health" },
+    { label: "WHO: ageing and health", href: "https://www.who.int/news-room/fact-sheets/detail/ageing-and-health" },
+  ],
   s3Title: "Checks that were run",
   s3Items: [
     "All 100 source links were tested by a script on 30 October 2026: none are broken.",
     "5 CDC pages refuse scripts, so they were opened and checked by eye: all 5 show the right disease.",
-    "118 automated tests, and 75 written test scenarios (the same author wrote the scenarios and the weights, so they show consistency, not real-world accuracy).",
+    "154 automated tests, and 83 written test scenarios (the same author wrote the scenarios and the weights, so they show consistency, not real-world accuracy).",
   ],
   s4Title: "Still needed",
   s4Items: [
@@ -69,11 +88,30 @@ const fr: AboutStrings = {
     "de petits ajustements selon l'âge, le sexe et la grossesse",
     "la liste des signes de danger qui déclenchent l'alerte d'urgence",
   ],
+  ageTitle: "Tranches d'âge",
+  ageText:
+    "Les tranches d'âge suivent les définitions de l'OMS lorsqu'elles existent. Les tranches de l'enfance sont une approximation, car il n'existe pas de tranche d'âge internationale unique pour « enfant ».",
+  ageItems: [
+    "Nouveau-né : 0 à 28 jours (OMS : les 28 premiers jours de vie). Tout signe de danger du nouveau-né selon l'OMS (fièvre, respiration rapide ou difficile, convulsions, difficultés à téter, activité très réduite, sensation de froid) déclenche l'alerte d'urgence.",
+    "Nourrisson : 29 jours à 11 mois (OMS : période post-néonatale, de 28 jours à moins d'un an).",
+    "Jeune enfant : 1 à 4 ans (l'OMS présente les enfants de moins de 5 ans comme un seul groupe).",
+    "Enfant : 5 à 9 ans.",
+    "Adolescent : 10 à 19 ans (OMS).",
+    "Adulte : 20 à 59 ans.",
+    "Personne âgée : 60 ans et plus (l'OMS utilise 60 ans comme âge de référence).",
+  ],
+  ageNote:
+    "L'effet de chaque tranche d'âge sur le score d'une maladie est une estimation, pas un chiffre publié (voir les estimations ci-dessus).",
+  ageLinks: [
+    { label: "OMS : mortalité néonatale", href: "https://www.who.int/news-room/fact-sheets/detail/newborn-mortality" },
+    { label: "OMS : santé des adolescents", href: "https://www.who.int/health-topics/adolescent-health" },
+    { label: "OMS : vieillissement et santé", href: "https://www.who.int/news-room/fact-sheets/detail/ageing-and-health" },
+  ],
   s3Title: "Vérifications effectuées",
   s3Items: [
     "Les 100 liens de sources ont été testés par un script le 30 octobre 2026 : aucun n'est cassé.",
     "5 pages du CDC refusent les scripts ; elles ont été ouvertes et vérifiées à la main : les 5 montrent la bonne maladie.",
-    "118 tests automatiques et 75 scénarios de test écrits (le même auteur a écrit les scénarios et les poids : ils montrent la cohérence, pas la précision en conditions réelles).",
+    "154 tests automatiques et 83 scénarios de test écrits (le même auteur a écrit les scénarios et les poids : ils montrent la cohérence, pas la précision en conditions réelles).",
   ],
   s4Title: "Reste à faire",
   s4Items: [

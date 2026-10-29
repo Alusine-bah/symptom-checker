@@ -19,6 +19,16 @@ PREGNANCY_NOTE = {
 # In pregnancy these symptoms should always be checked within a day.
 PREGNANCY_URGENT_SYMPTOMS = {"fever", "high_fever", "painful_urination", "abdominal_pain"}
 
+# Age groups. Newborn, adolescent and older follow WHO: the newborn period is the first 28 days of
+# life, adolescence is 10 to 19 years, and WHO uses 60 as its reference age for older people.
+AGE_GROUPS = ["newborn", "infant", "young_child", "child", "adolescent", "adult", "older"]
+# WHO newborn danger signs: feeding problems, reduced activity, difficult breathing, fever, fits
+# (fits and difficult breathing are already red flags) and a baby who feels cold.
+# For a newborn any of these means go to hospital now.
+NEWBORN_EMERGENCY_SYMPTOMS = {
+    "fever", "high_fever", "fast_breathing", "baby_poor_feeding", "baby_very_sleepy", "baby_cold",
+}
+
 
 def load_json(name):
     with open(os.path.join(DATA, name), encoding="utf-8") as f:
@@ -75,11 +85,18 @@ def triage(kb, region, age_group, sex, selected, lang="en", pregnant=False):
         raise ValueError(f"Unknown symptoms: {unknown}")
     if region not in kb["regions"]:
         raise ValueError(f"Unknown region: {region}")
+    if age_group not in AGE_GROUPS:
+        raise ValueError(f"Unknown age group: {age_group}")
 
     symptom_name = lambda slug: kb["symptoms"][slug][f"name_{lang}"]
 
     # Rule 1: red flags stop everything.
-    red_flags = [s for s in selected if kb["symptoms"][s]["severity"] == "red_flag"]
+    # A newborn (first 28 days) is also an emergency for the WHO newborn danger signs.
+    red_flags = [
+        s for s in selected
+        if kb["symptoms"][s]["severity"] == "red_flag"
+        or (age_group == "newborn" and s in NEWBORN_EMERGENCY_SYMPTOMS)
+    ]
     if red_flags:
         return {
             "status": "emergency",

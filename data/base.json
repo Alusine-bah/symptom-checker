@@ -121,6 +121,11 @@
       "id": 12,
       "en": "Pregnancy warning signs",
       "fr": "Signes d'alerte de la grossesse"
+    },
+    {
+      "id": 13,
+      "en": "Baby danger signs",
+      "fr": "Signes de danger chez le bébé"
     }
   ],
   "symptoms": [

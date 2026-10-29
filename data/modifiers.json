@@ -1,134 +1,222 @@
 {
   "measles": {
     "age": {
+      "newborn": 1.3,
+      "infant": 1.3,
+      "young_child": 1.3,
       "child": 1.3,
+      "adolescent": 1.05,
       "adult": 0.8,
       "older": 0.6
     }
   },
   "mumps": {
     "age": {
+      "newborn": 1.3,
+      "infant": 1.3,
+      "young_child": 1.3,
       "child": 1.3,
+      "adolescent": 1.05,
       "adult": 0.8,
       "older": 0.5
     }
   },
   "chickenpox": {
     "age": {
+      "newborn": 1.4,
+      "infant": 1.4,
+      "young_child": 1.4,
       "child": 1.4,
+      "adolescent": 1.05,
       "adult": 0.7,
       "older": 0.5
     }
   },
   "whooping_cough": {
     "age": {
-      "child": 1.3
+      "newborn": 1.3,
+      "infant": 1.3,
+      "young_child": 1.3,
+      "child": 1.3,
+      "adolescent": 1.15
     }
   },
   "hand_foot_mouth": {
     "age": {
+      "newborn": 1.5,
+      "infant": 1.5,
+      "young_child": 1.5,
       "child": 1.5,
+      "adolescent": 1.0,
       "adult": 0.5,
       "older": 0.3
     }
   },
   "ear_infection": {
     "age": {
+      "newborn": 1.4,
+      "infant": 1.4,
+      "young_child": 1.4,
       "child": 1.4,
+      "adolescent": 1.1,
       "adult": 0.8,
       "older": 0.6
     }
   },
   "polio": {
     "age": {
+      "newborn": 1.4,
+      "infant": 1.4,
+      "young_child": 1.4,
       "child": 1.4,
+      "adolescent": 1.0,
       "adult": 0.6,
       "older": 0.4
     }
   },
   "severe_malnutrition": {
     "age": {
+      "newborn": 1.4,
+      "infant": 1.4,
+      "young_child": 1.4,
       "child": 1.4,
+      "adolescent": 1.0,
       "adult": 0.6,
       "older": 0.6
     }
   },
   "intestinal_worms": {
     "age": {
-      "child": 1.3
+      "newborn": 1.3,
+      "infant": 1.3,
+      "young_child": 1.3,
+      "child": 1.3,
+      "adolescent": 1.15
     }
   },
   "impetigo": {
     "age": {
+      "newborn": 1.4,
+      "infant": 1.4,
+      "young_child": 1.4,
       "child": 1.4,
+      "adolescent": 1.05,
       "adult": 0.7,
       "older": 0.5
     }
   },
   "rheumatic_fever": {
     "age": {
+      "newborn": 1.3,
+      "infant": 1.3,
+      "young_child": 1.3,
       "child": 1.3,
+      "adolescent": 1.05,
       "adult": 0.8,
       "older": 0.3
     }
   },
   "conjunctivitis": {
     "age": {
-      "child": 1.2
+      "newborn": 1.2,
+      "infant": 1.2,
+      "young_child": 1.2,
+      "child": 1.2,
+      "adolescent": 1.1
     }
   },
   "trachoma": {
     "age": {
-      "child": 1.2
+      "newborn": 1.2,
+      "infant": 1.2,
+      "young_child": 1.2,
+      "child": 1.2,
+      "adolescent": 1.1
     }
   },
   "scabies": {
     "age": {
-      "child": 1.1
+      "newborn": 1.1,
+      "infant": 1.1,
+      "young_child": 1.1,
+      "child": 1.1,
+      "adolescent": 1.05
     }
   },
   "diphtheria": {
     "age": {
-      "child": 1.2
+      "newborn": 1.2,
+      "infant": 1.2,
+      "young_child": 1.2,
+      "child": 1.2,
+      "adolescent": 1.1
     }
   },
   "meningitis": {
     "age": {
-      "child": 1.2
+      "newborn": 1.2,
+      "infant": 1.2,
+      "young_child": 1.2,
+      "child": 1.2,
+      "adolescent": 1.1
     }
   },
   "sickle_cell": {
     "age": {
-      "child": 1.1
+      "newborn": 1.1,
+      "infant": 1.1,
+      "young_child": 1.1,
+      "child": 1.1,
+      "adolescent": 1.05
     }
   },
   "asthma": {
     "age": {
-      "child": 1.1
+      "newborn": 1.1,
+      "infant": 1.1,
+      "young_child": 1.1,
+      "child": 1.1,
+      "adolescent": 1.05
     }
   },
   "pneumonia": {
     "age": {
+      "newborn": 1.2,
+      "infant": 1.2,
+      "young_child": 1.2,
       "child": 1.2,
+      "adolescent": 1.1,
       "older": 1.2
     }
   },
   "diabetes": {
     "age": {
+      "newborn": 0.3,
+      "infant": 0.3,
+      "young_child": 0.3,
       "child": 0.3,
+      "adolescent": 0.65,
       "older": 1.3
     }
   },
   "hypertension": {
     "age": {
+      "newborn": 0.1,
+      "infant": 0.1,
+      "young_child": 0.1,
       "child": 0.1,
+      "adolescent": 0.55,
       "older": 1.4
     },
     "pregnant": 1.3
   },
   "kidney_stones": {
     "age": {
-      "child": 0.3
+      "newborn": 0.3,
+      "infant": 0.3,
+      "young_child": 0.3,
+      "child": 0.3,
+      "adolescent": 0.65
     },
     "sex": {
       "male": 1.2
@@ -136,12 +224,20 @@
   },
   "peptic_ulcer": {
     "age": {
-      "child": 0.3
+      "newborn": 0.3,
+      "infant": 0.3,
+      "young_child": 0.3,
+      "child": 0.3,
+      "adolescent": 0.65
     }
   },
   "sti_gonorrhea_chlamydia": {
     "age": {
+      "newborn": 0.1,
+      "infant": 0.1,
+      "young_child": 0.1,
       "child": 0.1,
+      "adolescent": 0.65,
       "adult": 1.2,
       "older": 0.5
     }
@@ -161,7 +257,11 @@
   },
   "pelvic_inflammatory_disease": {
     "age": {
-      "child": 0.05
+      "newborn": 0.05,
+      "infant": 0.05,
+      "young_child": 0.05,
+      "child": 0.05,
+      "adolescent": 0.53
     },
     "sex": {
       "female": 1.3,
@@ -170,7 +270,11 @@
   },
   "vaginal_candidiasis": {
     "age": {
-      "child": 0.3
+      "newborn": 0.3,
+      "infant": 0.3,
+      "young_child": 0.3,
+      "child": 0.3,
+      "adolescent": 0.65
     },
     "sex": {
       "female": 1.3,
@@ -180,7 +284,11 @@
   },
   "bacterial_vaginosis": {
     "age": {
-      "child": 0.1
+      "newborn": 0.1,
+      "infant": 0.1,
+      "young_child": 0.1,
+      "child": 0.1,
+      "adolescent": 0.55
     },
     "sex": {
       "female": 1.3,
@@ -189,7 +297,11 @@
   },
   "trichomoniasis": {
     "age": {
+      "newborn": 0.1,
+      "infant": 0.1,
+      "young_child": 0.1,
       "child": 0.1,
+      "adolescent": 0.55,
       "older": 0.6
     },
     "sex": {
@@ -198,47 +310,79 @@
   },
   "syphilis": {
     "age": {
+      "newborn": 0.1,
+      "infant": 0.1,
+      "young_child": 0.1,
       "child": 0.1,
+      "adolescent": 0.55,
       "older": 0.6
     }
   },
   "head_lice": {
     "age": {
+      "newborn": 1.6,
+      "infant": 1.6,
+      "young_child": 1.6,
       "child": 1.6,
+      "adolescent": 1.15,
       "adult": 0.7,
       "older": 0.4
     }
   },
   "shingles": {
     "age": {
+      "newborn": 0.3,
+      "infant": 0.3,
+      "young_child": 0.3,
       "child": 0.3,
+      "adolescent": 0.65,
       "older": 1.5
     }
   },
   "eczema": {
     "age": {
+      "newborn": 1.3,
+      "infant": 1.3,
+      "young_child": 1.3,
       "child": 1.3,
+      "adolescent": 1.15,
       "older": 0.8
     }
   },
   "gerd": {
     "age": {
-      "child": 0.3
+      "newborn": 0.3,
+      "infant": 0.3,
+      "young_child": 0.3,
+      "child": 0.3,
+      "adolescent": 0.65
     }
   },
   "hemorrhoids": {
     "age": {
-      "child": 0.1
+      "newborn": 0.1,
+      "infant": 0.1,
+      "young_child": 0.1,
+      "child": 0.1,
+      "adolescent": 0.55
     }
   },
   "irritable_bowel_syndrome": {
     "age": {
-      "child": 0.2
+      "newborn": 0.2,
+      "infant": 0.2,
+      "young_child": 0.2,
+      "child": 0.2,
+      "adolescent": 0.6
     }
   },
   "chronic_kidney_disease": {
     "age": {
+      "newborn": 0.2,
+      "infant": 0.2,
+      "young_child": 0.2,
       "child": 0.2,
+      "adolescent": 0.6,
       "older": 1.4
     }
   },
@@ -249,12 +393,20 @@
   },
   "sinusitis": {
     "age": {
-      "child": 0.8
+      "newborn": 0.8,
+      "infant": 0.8,
+      "young_child": 0.8,
+      "child": 0.8,
+      "adolescent": 0.9
     }
   },
   "gout": {
     "age": {
+      "newborn": 0.05,
+      "infant": 0.05,
+      "young_child": 0.05,
       "child": 0.05,
+      "adolescent": 0.53,
       "older": 1.3
     },
     "sex": {
@@ -264,27 +416,43 @@
   },
   "osteoarthritis": {
     "age": {
+      "newborn": 0.05,
+      "infant": 0.05,
+      "young_child": 0.05,
       "child": 0.05,
+      "adolescent": 0.33,
       "adult": 0.6,
       "older": 1.8
     }
   },
   "heart_failure": {
     "age": {
+      "newborn": 0.2,
+      "infant": 0.2,
+      "young_child": 0.2,
       "child": 0.2,
+      "adolescent": 0.6,
       "older": 1.5
     }
   },
   "cataract": {
     "age": {
+      "newborn": 0.05,
+      "infant": 0.05,
+      "young_child": 0.05,
       "child": 0.05,
+      "adolescent": 0.23,
       "adult": 0.4,
       "older": 2.0
     }
   },
   "benign_prostatic_hyperplasia": {
     "age": {
+      "newborn": 0.01,
+      "infant": 0.01,
+      "young_child": 0.01,
       "child": 0.01,
+      "adolescent": 0.21,
       "adult": 0.4,
       "older": 1.8
     },
@@ -294,17 +462,29 @@
   },
   "back_pain_muscular": {
     "age": {
-      "child": 0.3
+      "newborn": 0.3,
+      "infant": 0.3,
+      "young_child": 0.3,
+      "child": 0.3,
+      "adolescent": 0.65
     }
   },
   "tension_headache": {
     "age": {
-      "child": 0.5
+      "newborn": 0.5,
+      "infant": 0.5,
+      "young_child": 0.5,
+      "child": 0.5,
+      "adolescent": 0.75
     }
   },
   "gallstones": {
     "age": {
-      "child": 0.05
+      "newborn": 0.05,
+      "infant": 0.05,
+      "young_child": 0.05,
+      "child": 0.05,
+      "adolescent": 0.53
     },
     "sex": {
       "female": 1.3,
@@ -314,7 +494,11 @@
   },
   "menstrual_cramps": {
     "age": {
+      "newborn": 0.3,
+      "infant": 0.3,
+      "young_child": 0.3,
       "child": 0.3,
+      "adolescent": 0.65,
       "older": 0.05
     },
     "sex": {

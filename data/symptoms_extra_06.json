@@ -1,0 +1,23 @@
+[
+ {
+  "slug": "baby_poor_feeding",
+  "cat": 13,
+  "en": "Baby is feeding poorly or refusing feeds",
+  "fr": "Bébé qui tète ou mange mal, ou refuse de téter",
+  "sev": "severe"
+ },
+ {
+  "slug": "baby_very_sleepy",
+  "cat": 13,
+  "en": "Baby is much less active than usual (very sleepy, floppy or hard to wake)",
+  "fr": "Bébé beaucoup moins actif que d'habitude (très endormi, mou ou difficile à réveiller)",
+  "sev": "severe"
+ },
+ {
+  "slug": "baby_cold",
+  "cat": 13,
+  "en": "Baby feels cold to the touch",
+  "fr": "Bébé froid au toucher",
+  "sev": "severe"
+ }
+]

@@ -11,7 +11,7 @@ An educational web app that helps people understand common illnesses and decide 
 ## Features
 
 - **Region-aware results.** Pick your region first. The same symptoms rank differently in West Africa than in Europe, because disease prevalence differs.
-- **Checkbox symptom checker.** 102 symptoms grouped by body system and tagged minor, severe or danger sign. A free-text box lets people describe a symptom in their own words (English or French) and tap the matching checklist item, with no AI and no cost.
+- **Checkbox symptom checker.** 105 symptoms grouped by body system and tagged minor, severe or danger sign. A free-text box lets people describe a symptom in their own words (English or French) and tap the matching checklist item, with no AI and no cost.
 - **Safety first.** Any danger-sign symptom (chest pain, stiff neck, seizures, shortness of breath, etc.) immediately stops the analysis and shows an emergency alert. No diagnosis is attempted.
 - **Urgency levels.** Every result shows 🔴 emergency, 🟠 see a doctor within 24 hours, 🟡 routine, or 🟢 self-care.
 - **Explainable matches.** Each result shows which of your symptoms matched, which common signs you did not select, prevention advice and a link to an official source. Match strength is shown as strong, moderate or possible, not as a fake probability.
@@ -48,32 +48,34 @@ The website needs no server at run time. A Python pipeline builds the SQLite dat
 2. **Symptom match.** For every disease it combines how much of the selected symptoms the disease explains with how much of the disease's typical picture is present, using per-symptom weights from 0 to 1.
 3. **Evidence guard.** A single symptom is weak evidence, so one lone symptom always yields a "possible" match at most.
 4. **Region.** Scores are multiplied by how common the disease is in the selected region (very common, common, rare, or absent).
-5. **Age, sex and commonness.** Small adjustments for diseases that affect children, older adults or one sex more, and for diseases that are much more or less common than their symptom profile suggests.
+5. **Age, sex and commonness.** Seven age groups (newborn 0 to 28 days, infant 29 days to 11 months, young child 1 to 4 years, child 5 to 9, adolescent 10 to 19, adult 20 to 59, older adult 60 and over, following WHO definitions; see `docs/AGE_GROUPS.md`). For a newborn, any WHO newborn danger sign triggers the emergency alert. Small adjustments for diseases that affect some ages or one sex more, and for diseases that are much more or less common than their symptom profile suggests.
 6. **Urgency.** The overall level follows the most urgent likely match. Any severe symptom raises it to at least "see a doctor within 24 hours".
 
 The engine is deterministic and auditable. There is no black-box model.
 
 ## Data
 
-- 100 diseases, 102 symptoms, 10 regions (five African regions, plus Middle East, South Asia, Southeast & East Asia, Latin America, and Europe/North America/Oceania), all with English and French text.
+- 100 diseases, 105 symptoms, 10 regions (five African regions, plus Middle East, South Asia, Southeast & East Asia, Latin America, and Europe/North America/Oceania), all with English and French text.
 - Disease coverage is weighted towards illnesses with a high burden in Africa and other developing regions, plus common conditions found everywhere.
 - Every disease links to a public-health source (WHO, CDC or MedlinePlus). The app never gives drug names or doses.
 - Symptom weights, prevalence levels and commonness values are **my own estimates, informed by public sources**. They are not clinically validated.
 
 ## Validation
 
-`python backend/validate.py` runs the engine against 75 clinical test cases (67 disease cases and 8 danger-sign cases, including pregnancy).
+`python backend/validate.py` runs the engine against 83 clinical test cases (71 disease cases and 12 danger-sign cases, including pregnancy and newborns).
 
 | Metric | Result |
 |---|---|
-| Danger-sign cases caught as emergency | 8 / 8 |
-| Correct disease ranked first | 66 / 67 (99%) |
-| Correct disease in top 3 | 67 / 67 (100%) |
+| Danger-sign cases caught as emergency | 12 / 12 |
+| Correct disease ranked first | 70 / 71 (99%) |
+| Correct disease in top 3 | 71 / 71 (100%) |
 | First run on the original 70-disease version | 33 / 35 ranked first (94%), 35 / 35 in the top 3 |
 
 **Honest caveat:** the test cases were written by the same person who set the weights. Several commonness values (for UTI, STI, COVID-19 and plague) were adjusted after cases failed, so those cases are no longer independent tests. These figures show internal consistency, not real-world accuracy. The one case not ranked first is bubonic plague, which ranks second: the engine favours common diseases even when a rare one has a very specific symptom. Independent clinician review is the most important next step.
 
-The pytest suite (104 tests) also checks data integrity, region effects, the red-flag rule, the pregnancy rules, French output, and that the website data file is up to date.
+The pytest suite (154 tests) also checks data integrity, region effects, the red-flag rule, the pregnancy rules, the seven age groups and the newborn danger-sign rule, French output, and that the website data file is up to date.
+
+`python backend/parity_check.py` (needs Node 22.6 or newer) runs 4,000 random cases through both the Python engine and the website's TypeScript engine and confirms the answers are identical.
 
 ## Run it locally
 
