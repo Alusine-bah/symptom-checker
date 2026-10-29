@@ -110,7 +110,7 @@ docs/        screenshots
 - **Not a diagnostic tool.** Many illnesses look alike, and some serious ones can have mild or no symptoms.
 - **Small scope.** 100 diseases cannot cover everything. A person can have something this app does not know about.
 - **No travel history yet.** Someone who has just returned from another region is scored by the region they select.
-- **Medical content is unreviewed.** Descriptions and weights were drafted with AI assistance and public sources and have not been reviewed by a clinician. French text has not been reviewed by a native medical translator.
+- **Medical content is unreviewed.** Descriptions and weights are based on general medical knowledge and public sources, and have not been reviewed by a clinician. French text has not been reviewed by a native medical translator.
 - **Privacy.** The app stores nothing on a server. Language and region are saved only in your own browser.
 - **Pregnancy is only partly covered.** Warning signs trigger an emergency alert, but there is no after-birth (postpartum) mode, and the engine does not weigh gestational age.
 
