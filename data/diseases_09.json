@@ -129,15 +129,15 @@
   "source_url": "https://medlineplus.gov/eczema.html",
   "en": {
    "name": "Eczema (atopic dermatitis)",
-   "description": "A long-term skin condition causing dry, very itchy, red or scaly patches that come and go. It is common in children and is not contagious.",
-   "cause": "A mix of a sensitive skin barrier, inherited tendency and triggers such as soaps, dust, heat, stress or certain fabrics.",
-   "prevention": "Moisturize skin often, use mild soap, avoid known triggers, keep nails short, and see a health worker if skin becomes weeping, painful or infected."
+   "description": "A term for several types of skin swelling, also called dermatitis; the most common type is atopic dermatitis. Most types cause dry, itchy skin and rashes on the face, inside the elbows, behind the knees, and on the hands and feet. It is most common in babies and children, but adults can have it too. It is not contagious.",
+   "cause": "The cause is unknown. It is likely caused by both genetic and environmental factors.",
+   "prevention": "Avoid things that irritate your skin, such as certain soaps, fabrics and lotions, as well as stress and allergens such as food, pollen and animals. Treatments may include medicines, skin creams, light therapy and good skin care."
   },
   "fr": {
    "name": "Eczéma (dermatite atopique)",
-   "description": "Maladie chronique de la peau avec des plaques sèches, rouges ou squameuses qui démangent beaucoup et qui vont et viennent. Elle est fréquente chez l'enfant et n'est pas contagieuse.",
-   "cause": "Association d'une barrière cutanée sensible, d'une prédisposition héréditaire et de facteurs déclenchants comme les savons, la poussière, la chaleur, le stress ou certains tissus.",
-   "prevention": "Hydratez souvent la peau, utilisez un savon doux, évitez les facteurs déclenchants, gardez les ongles courts, et consultez si la peau suinte, devient douloureuse ou s'infecte."
+   "description": "Terme désignant plusieurs types de gonflement de la peau, aussi appelés dermatites ; le plus fréquent est la dermatite atopique. La plupart des types provoquent une peau sèche qui démange et des éruptions sur le visage, à l'intérieur des coudes, derrière les genoux, sur les mains et sur les pieds. Elle est plus fréquente chez les bébés et les enfants, mais les adultes peuvent en avoir aussi. Elle n'est pas contagieuse.",
+   "cause": "La cause est inconnue. Elle est probablement due à la fois à des facteurs génétiques et environnementaux.",
+   "prevention": "Évitez ce qui irrite la peau, comme certains savons, tissus et lotions, ainsi que le stress et les allergènes comme certains aliments, le pollen et les animaux. Les traitements peuvent comprendre des médicaments, des crèmes, la photothérapie et de bons soins de la peau."
   },
   "regions": {
    "west_africa": 3,
