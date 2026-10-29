@@ -10,7 +10,7 @@ const en = {
   s1Title: "Disease information",
   s1Items: [
     "Every disease links to a public-health page (WHO, CDC or MedlinePlus). Use that page to confirm what you read here.",
-    "The text was checked against those pages. 42 diseases have been compared line by line, and any wording the page did not support was removed. The rest passed an automatic screen that looks for the key terms, which is a rough test and not proof.",
+    "The text was checked against those pages. 52 diseases have been compared line by line, and any wording the page did not support was removed. The rest passed an automatic screen that looks for the key terms, which is a rough test and not proof.",
     "Where the cited page leaves out an important warning sign, the warning is kept for safety and labelled “General safety advice (not from the cited page)”.",
   ],
   s2Title: "Estimates, not published figures",
@@ -75,7 +75,7 @@ const fr: AboutStrings = {
   s1Title: "Informations sur les maladies",
   s1Items: [
     "Chaque maladie renvoie vers une page de santé publique (OMS, CDC ou MedlinePlus). Utilisez cette page pour confirmer ce que vous lisez ici.",
-    "Les textes ont été comparés à ces pages. 42 maladies ont été comparées ligne par ligne, et tout ce que la page ne confirmait pas a été retiré. Les autres ont passé un contrôle automatique qui recherche les termes clés, un test approximatif et non une preuve.",
+    "Les textes ont été comparés à ces pages. 52 maladies ont été comparées ligne par ligne, et tout ce que la page ne confirmait pas a été retiré. Les autres ont passé un contrôle automatique qui recherche les termes clés, un test approximatif et non une preuve.",
     "Quand la page citée omet un signe d'alerte important, l'avertissement est conservé par sécurité et étiqueté « Conseil de sécurité général (ne provient pas de la page citée) ».",
   ],
   s2Title: "Estimations, pas des chiffres publiés",
