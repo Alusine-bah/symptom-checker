@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import type { Lang } from "@/lib/api";
+import { ABOUT } from "@/lib/aboutStrings";
 import { useApp } from "./AppProvider";
 
 export default function Header() {
@@ -18,6 +19,9 @@ export default function Header() {
           </Link>
           <Link href="/diseases" className="hover:text-emerald-700">
             {t.navEncyclopedia}
+          </Link>
+          <Link href="/about" className="hover:text-emerald-700">
+            {ABOUT[lang].nav}
           </Link>
           <label className="flex items-center gap-2">
             <span className="sr-only">{t.language}</span>

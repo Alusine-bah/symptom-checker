@@ -5,7 +5,7 @@ This page says plainly what in the app is sourced, what is estimated, and what h
 ## 1. Disease text (descriptions, causes, prevention)
 
 - **How it was made:** drafted with AI assistance from general medical knowledge, in English and French, then linked to a public-health page for the same disease (WHO, CDC or MedlinePlus).
-- **What that means:** the wording is *not copied* from those pages, and it has **not yet been checked line by line** against them. Each disease links to the page a reader should use to confirm it.
+- **What that means:** the wording is *not copied* from those pages. 17 diseases have been compared line by line with their pages (see `docs/VERIFICATION_LOG.md`); the rest have only passed the automatic screen in section 3. Each disease links to the page a reader should use to confirm it.
 - **Safety wording** (for example "go to emergency care if...") was added deliberately to entries where an emergency can hide.
 
 ## 2. Estimates that are not published figures
@@ -39,7 +39,7 @@ The content check is a rough screen, not proof: it flags wording that the cited 
 
 ## 4. What is still needed
 
-- A line-by-line comparison of each disease text with its cited page.
+- A line-by-line comparison of the remaining diseases with their cited pages.
 - Review of the weights, region levels, urgency levels and danger signs by a doctor, nurse or other qualified clinician.
 - Review of the French medical wording by a native French-speaking health professional.
 
@@ -51,4 +51,4 @@ Fill this in after each run of `verify_sources.py`:
 
 | Date | Links checked | Broken | Blocked (checked by eye) | Notes |
 |---|---|---|---|---|
-|  |  |  |  |  |
+| 2026-10-30 | 100 | 0 | 5 CDC pages (pertussis, group A strep, ringworm, scrub typhus, hand-foot-mouth): all open and show the right disease | 95 passed the script. The UTI wording is flagged by the content screen only because it now says the cited page gives no cause detail. |
