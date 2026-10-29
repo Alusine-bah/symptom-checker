@@ -126,6 +126,7 @@ def get_disease(slug: str, lang: str = "en"):
         "prevention": d[f"prevention_{l}"],
         "urgency": d["urgency"],
         "source_url": d["source_url"],
+        "extra_sources": d["extra_sources"],
         "regions": [
             {"code": code, "name": kb["regions"][code][f"name_{l}"], "prevalence": level}
             for code, level in sorted(d["prevalence"].items(), key=lambda kv: -kv[1])

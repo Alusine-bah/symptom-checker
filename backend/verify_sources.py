@@ -212,6 +212,16 @@ def check_one(d, content=False):
     return row
 
 
+def expand_sources(diseases):
+    """One check per link: the main source, then each extra source (named slug+src2, slug+src3 ...)."""
+    out = []
+    for d in diseases:
+        out.append(d)
+        for n, src in enumerate(d.get("extra_sources", []), start=2):
+            out.append({**d, "slug": f"{d['slug']}+src{n}", "source_url": src["url"]})
+    return out
+
+
 # ---------------------------------------------------------------- report merging
 def merge_rows(existing, new, order):
     """Replace the rows of re-checked diseases in an existing report, keeping the rest."""
@@ -239,9 +249,10 @@ def main(argv=None):
         if not diseases:
             sys.exit("No disease matches --only")
 
-    print(f"Checking {len(diseases)} links{' and page content' if args.content else ''} ...")
+    targets = expand_sources(diseases)
+    print(f"Checking {len(targets)} links{' and page content' if args.content else ''} ...")
     with ThreadPoolExecutor(max_workers=args.workers) as pool:
-        rows = list(pool.map(lambda d: check_one(d, content=args.content), diseases))
+        rows = list(pool.map(lambda d: check_one(d, content=args.content), targets))
 
     counts = {}
     for r in rows:

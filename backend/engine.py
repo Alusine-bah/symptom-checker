@@ -50,7 +50,10 @@ def load_knowledge():
         d = dict(r)
         d["weights"] = {}
         d["prevalence"] = {}
+        d["extra_sources"] = []
         diseases[d["id"]] = d
+    for r in con.execute("SELECT * FROM disease_sources ORDER BY disease_id, position"):
+        diseases[r["disease_id"]]["extra_sources"].append({"title": r["title"], "url": r["url"]})
     for r in con.execute("SELECT * FROM disease_symptoms"):
         diseases[r["disease_id"]]["weights"][symptom_slug_by_id[r["symptom_id"]]] = r["weight"]
     for r in con.execute("SELECT * FROM disease_regions"):

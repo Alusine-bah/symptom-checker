@@ -13,6 +13,7 @@ export type KDisease = {
   category: number;
   urgency: Urgency;
   source_url: string;
+  extra_sources: { title: string; url: string }[];
   en: Texts;
   fr: Texts;
   weights: Record<string, number>;

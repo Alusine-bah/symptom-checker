@@ -65,6 +65,11 @@ def main():
                  en["prevention"], fr["prevention"], d["urgency"],
                  d.get("icd11"), d["source_url"]))
             disease_ids[d["slug"]] = disease_id
+            for pos, src in enumerate(d.get("extra_sources", []), start=1):
+                if not src.get("title") or not str(src.get("url", "")).startswith("https://"):
+                    raise SystemExit(f"Bad extra source in '{d['slug']}': {src}")
+                con.execute("INSERT INTO disease_sources VALUES (?,?,?,?)",
+                            (disease_id, pos, src["title"], src["url"]))
             for code, level in d["regions"].items():
                 if code not in region_ids:
                     raise SystemExit(f"Unknown region '{code}' in '{d['slug']}'")

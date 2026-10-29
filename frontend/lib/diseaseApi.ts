@@ -18,6 +18,7 @@ export type DiseaseDetail = {
   prevention: string;
   urgency: Urgency;
   source_url: string;
+  extra_sources: { title: string; url: string }[];
   regions: { code: string; name: string; prevalence: number }[];
   symptoms: { slug: string; name: string; weight: number }[];
 };
@@ -51,6 +52,7 @@ export async function getDisease(slug: string, lang: Lang): Promise<DiseaseDetai
     prevention: t.prevention,
     urgency: d.urgency,
     source_url: d.source_url,
+    extra_sources: d.extra_sources,
     regions: Object.entries(d.prevalence)
       .sort((a, b) => b[1] - a[1])
       .map(([code, prevalence]) => ({ code, name: regionName(code), prevalence })),

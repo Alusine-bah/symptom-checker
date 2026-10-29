@@ -33,6 +33,11 @@ def test_every_disease_has_symptoms_regions_and_source(kb):
         assert d["prevalence"], f"{d['slug']} has no regions"
         assert d["source_url"].startswith("https://"), d["slug"]
         assert d["name_fr"] and d["description_fr"], f"{d['slug']} lacks French text"
+        for src in d["extra_sources"]:
+            assert src["title"].strip(), d["slug"]
+            assert src["url"].startswith("https://"), (d["slug"], src)
+        urls = [d["source_url"]] + [s["url"] for s in d["extra_sources"]]
+        assert len(urls) == len(set(urls)), f"{d['slug']} repeats a source"
 
 
 def test_weights_are_between_0_and_1(kb):

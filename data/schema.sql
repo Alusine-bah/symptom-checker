@@ -52,3 +52,12 @@ CREATE TABLE disease_symptoms (
   weight REAL NOT NULL CHECK (weight BETWEEN 0 AND 1),
   PRIMARY KEY (disease_id, symptom_id)
 );
+
+-- Extra trusted sources for a disease (beyond the main source_url): CDC, MedlinePlus, NHS, published papers
+CREATE TABLE disease_sources (
+  disease_id INTEGER NOT NULL REFERENCES diseases(id),
+  position INTEGER NOT NULL,
+  title TEXT NOT NULL,
+  url TEXT NOT NULL,
+  PRIMARY KEY (disease_id, position)
+);

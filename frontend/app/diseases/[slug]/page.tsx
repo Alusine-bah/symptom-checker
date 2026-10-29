@@ -132,6 +132,26 @@ function DiseaseDetailInner() {
         </ul>
       </section>
 
+      {d.extra_sources.length > 0 && (
+        <section className="mt-6">
+          <h2 className="font-semibold">{e.moreSourcesTitle}</h2>
+          <ul className="mt-2 list-disc space-y-1 pl-5 text-sm">
+            {d.extra_sources.map((s) => (
+              <li key={s.url}>
+                <a
+                  href={s.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="font-medium text-emerald-700 hover:underline"
+                >
+                  {s.title} ↗
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
+
       <div className="mt-8 flex flex-wrap items-center gap-4">
         <Link
           href="/check"

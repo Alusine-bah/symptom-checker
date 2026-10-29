@@ -23,11 +23,13 @@ def main():
     for path in sorted(glob.glob(os.path.join(DATA, "diseases_*.json"))):
         with open(path, encoding="utf-8") as f:
             for d in json.load(f):
-                total += 1
-                status = check(d["source_url"])
-                if status != 200:
-                    bad += 1
-                    print(f"[{status}] {d['slug']}: {d['source_url']}")
+                urls = [d["source_url"]] + [s["url"] for s in d.get("extra_sources", [])]
+                for url in urls:
+                    total += 1
+                    status = check(url)
+                    if status != 200:
+                        bad += 1
+                        print(f"[{status}] {d['slug']}: {url}")
     print(f"Checked {total} links, {bad} need attention")
 
 if __name__ == "__main__":

@@ -150,3 +150,12 @@ def test_merge_rows_replaces_only_rechecked_diseases():
     new = [{"slug": "a", "result": "OK"}]
     merged = merge_rows(old, new, ["a", "b"])
     assert [(r["slug"], r["result"]) for r in merged] == [("a", "OK"), ("b", "OK")]
+
+
+def test_extra_sources_are_checked_too():
+    from verify_sources import expand_sources
+    d = {"slug": "x", "source_url": "https://a.example/1",
+         "extra_sources": [{"title": "T", "url": "https://b.example/2"}]}
+    out = expand_sources([d, {"slug": "y", "source_url": "https://c.example/3"}])
+    assert [t["slug"] for t in out] == ["x", "x+src2", "y"]
+    assert out[1]["source_url"] == "https://b.example/2"

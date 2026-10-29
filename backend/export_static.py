@@ -45,6 +45,7 @@ def build_data():
                 "category": d["category_id"],
                 "urgency": d["urgency"],
                 "source_url": d["source_url"],
+                "extra_sources": d["extra_sources"],
                 "en": {
                     "name": d["name_en"],
                     "description": d["description_en"],

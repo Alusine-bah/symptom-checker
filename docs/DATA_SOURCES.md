@@ -5,7 +5,7 @@ This page says plainly what in the app is sourced, what is estimated, and what h
 ## 1. Disease text (descriptions, causes, prevention)
 
 - **How it was made:** written from general medical knowledge, in English and French, and linked to a public-health page for the same disease (WHO, CDC or MedlinePlus).
-- **What that means:** the wording is *not copied* from those pages. 52 diseases have been compared line by line with their pages (see `docs/VERIFICATION_LOG.md`); the rest have only passed the automatic screen in section 3. Each disease links to the page a reader should use to confirm it.
+- **What that means:** the wording is *not copied* from those pages. 52 diseases have been compared line by line with their pages (see `docs/VERIFICATION_LOG.md`); the rest have only passed the automatic screen in section 3. Each disease links to a main page, and to additional trusted sources (CDC, MedlinePlus, NHS or published papers) where a point is not on the main page. A point missing from one page is not treated as wrong: it is kept if another trusted source supports it, and the log says which.
 - **Safety wording** (for example "go to emergency care if...") was added deliberately to entries where an emergency can hide.
 
 ## 2. Estimates that are not published figures
