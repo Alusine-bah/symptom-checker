@@ -6,8 +6,8 @@
    "symptoms":{"rash":0.9,"itching":0.85,"skin_sores":0.5,"fever":0.6,"fatigue":0.4,"headache":0.3,"loss_of_appetite":0.3}},
 
   {"slug":"mumps","cat":7,"urgency":"routine","source_url":"https://medlineplus.gov/mumps.html",
-   "en":{"name":"Mumps","description":"A viral infection causing painful swelling of the glands at the sides of the face, with fever and tiredness.","cause":"Mumps virus, spread by coughing, sneezing and shared items.","prevention":"Two doses of the MMR vaccine."},
-   "fr":{"name":"Oreillons","description":"Infection virale avec gonflement douloureux des glandes sur les côtés du visage, accompagné de fièvre et de fatigue.","cause":"Virus des oreillons, transmis par la toux, les éternuements et les objets partagés.","prevention":"Deux doses du vaccin ROR."},
+   "en":{"name":"Mumps","description":"A viral illness that starts with fever, headache, muscle aches and tiredness, followed by swollen, tender glands under the ears or jaw. Symptoms last 7 to 10 days and serious complications are rare. There is no treatment, but the MMR vaccine prevents it.","cause":"Mumps virus, passed from person to person through close contact.","prevention":"The measles-mumps-rubella (MMR) vaccine."},
+   "fr":{"name":"Oreillons","description":"Maladie virale qui débute par de la fièvre, des maux de tête, des douleurs musculaires et de la fatigue, puis les glandes salivaires situées sous les oreilles ou la mâchoire deviennent gonflées et douloureuses. Les symptômes durent 7 à 10 jours et les complications graves sont rares. Il n'existe pas de traitement, mais le vaccin ROR la prévient.","cause":"Virus des oreillons, qui se transmet d'une personne à l'autre par contact étroit.","prevention":"Le vaccin contre la rougeole, les oreillons et la rubéole (ROR)."},
    "regions":{"west_africa":2,"east_africa":2,"central_africa":2,"southern_africa":2,"north_africa":2,"middle_east":2,"south_asia":2,"southeast_east_asia":2,"latin_america":2,"europe_namerica_oceania":1},
    "symptoms":{"swollen_glands":0.9,"fever":0.6,"headache":0.4,"muscle_aches":0.4,"fatigue":0.4,"loss_of_appetite":0.4,"ear_pain":0.3}},
 
