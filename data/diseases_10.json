@@ -228,15 +228,15 @@
   "source_url": "https://medlineplus.gov/backpain.html",
   "en": {
    "name": "Back pain (muscle strain)",
-   "description": "Aching or stiffness in the lower or upper back, most often from strained muscles or ligaments after lifting, an awkward movement or long sitting. It usually improves within a few weeks. Seek care urgently for weakness or numbness in the legs, trouble controlling urine or stool, fever, or pain after a fall.",
-   "cause": "Strained muscles or ligaments, poor posture, heavy lifting, long sitting, and sometimes disc or joint problems.",
-   "prevention": "Stay active, lift with bent knees, avoid sitting for long periods, strengthen the back and belly muscles, and keep a healthy weight."
+   "description": "Back pain can range from a dull, constant ache to a sudden, sharp pain, and it affects 8 out of 10 people at some point in their lives. Acute back pain usually lasts from a few days to a few weeks, and most back pain goes away on its own, though it may take a while. Call a health care provider if it is severe or does not improve after three days, or if it follows an injury. General safety advice (not from the cited page): seek urgent care for weakness or numbness in the legs, trouble controlling urine or stool, or fever.",
+   "cause": "The cited page does not name specific causes; it says treatment depends on what is causing the pain.",
+   "prevention": "Staying in bed for more than 1 or 2 days can make back pain worse. The cited page links to guides on posture, office ergonomics and strengthening exercises."
   },
   "fr": {
    "name": "Mal de dos (effort musculaire)",
-   "description": "Douleur ou raideur dans le bas ou le haut du dos, le plus souvent due à un muscle ou un ligament étiré après un effort, un mouvement brusque ou une position assise prolongée. Elle s'améliore généralement en quelques semaines. Consultez en urgence en cas de faiblesse ou d'engourdissement des jambes, de difficulté à retenir les urines ou les selles, de fièvre, ou de douleur après une chute.",
-   "cause": "Muscles ou ligaments étirés, mauvaise posture, port de charges lourdes, position assise prolongée, et parfois problèmes de disque ou d'articulation.",
-   "prevention": "Restez actif, soulevez en pliant les genoux, évitez de rester assis trop longtemps, renforcez les muscles du dos et du ventre, et gardez un poids sain."
+   "description": "Une douleur dorsale peut aller d'une douleur sourde et constante à une douleur soudaine et aiguë, et elle touche 8 personnes sur 10 à un moment de leur vie. La douleur dorsale aiguë dure généralement de quelques jours à quelques semaines, et la plupart disparaissent d'elles-mêmes, parfois lentement. Appelez un professionnel de santé si elle est intense ou ne s'améliore pas après trois jours, ou si elle suit une blessure. Conseil de sécurité général (ne provient pas de la page citée) : consultez en urgence en cas de faiblesse ou d'engourdissement des jambes, de difficulté à contrôler l'urine ou les selles, ou de fièvre.",
+   "cause": "La page citée ne nomme pas de causes précises ; elle indique que le traitement dépend de ce qui provoque la douleur.",
+   "prevention": "Rester alité plus d'un ou deux jours peut aggraver la douleur dorsale. La page citée renvoie vers des guides sur la posture, l'ergonomie au bureau et les exercices de renforcement."
   },
   "regions": {
    "west_africa": 3,
@@ -301,15 +301,15 @@
   "source_url": "https://medlineplus.gov/gallstones.html",
   "en": {
    "name": "Gallstones",
-   "description": "Hard stones that form in the gallbladder and can block the bile duct, causing sudden, severe pain in the upper right belly, often after a fatty meal, with nausea or vomiting. Fever, yellow skin or eyes, or pain lasting more than a few hours need urgent care.",
-   "cause": "Too much cholesterol or bile pigment in the bile, linked to being overweight, rapid weight loss, pregnancy and family history. They are more common in women.",
-   "prevention": "Keep a healthy weight, eat regular, lower-fat meals with fibre, avoid crash diets, and see a health worker for repeated attacks of belly pain."
+   "description": "Gallstones form when substances in bile harden, and the stones are usually what block the bile ducts. Signs of a gallstone attack may include nausea, vomiting, or pain in the abdomen, back, or just under the right arm, and attacks usually happen after you eat. Gallstones are often found during imaging for other conditions, and without symptoms treatment is usually not needed. General safety advice (not from the cited page): get urgent care for fever, yellow skin or eyes, or pain lasting more than a few hours.",
+   "cause": "Substances in bile that harden. Gallstones are most common in older adults, women, people who are overweight, and Native Americans and Mexican Americans.",
+   "prevention": "The cited page gives no prevention advice. It lists a resource called \"Dieting and Gallstones\"; ask a health worker for advice."
   },
   "fr": {
    "name": "Calculs biliaires",
-   "description": "Pierres dures qui se forment dans la vésicule biliaire et peuvent bloquer le canal biliaire, provoquant une douleur brutale et intense en haut à droite du ventre, souvent après un repas gras, avec nausées ou vomissements. De la fièvre, une peau ou des yeux jaunes, ou une douleur de plus de quelques heures nécessitent des soins urgents.",
-   "cause": "Trop de cholestérol ou de pigments dans la bile, lié au surpoids, à un amaigrissement rapide, à la grossesse et aux antécédents familiaux. Ils sont plus fréquents chez la femme.",
-   "prevention": "Gardez un poids sain, mangez des repas réguliers, moins gras et riches en fibres, évitez les régimes drastiques, et consultez en cas de crises répétées de douleur au ventre."
+   "description": "Les calculs biliaires se forment quand des substances de la bile durcissent, et ce sont généralement eux qui bloquent les voies biliaires. Les signes d'une crise peuvent comprendre nausées, vomissements ou douleur dans l'abdomen, le dos ou juste sous le bras droit, et les crises surviennent généralement après un repas. Les calculs sont souvent découverts lors d'une imagerie pour une autre affection, et sans symptômes un traitement n'est généralement pas nécessaire. Conseil de sécurité général (ne provient pas de la page citée) : consultez en urgence en cas de fièvre, de peau ou d'yeux jaunes, ou de douleur qui dure plus de quelques heures.",
+   "cause": "Des substances de la bile qui durcissent. Les calculs biliaires sont plus fréquents chez les personnes âgées, les femmes et les personnes en surpoids, ainsi que chez les Amérindiens et les Américains d'origine mexicaine.",
+   "prevention": "La page citée ne donne aucun conseil de prévention. Elle mentionne une ressource intitulée « Dieting and Gallstones » : demandez conseil à un professionnel de santé."
   },
   "regions": {
    "west_africa": 2,

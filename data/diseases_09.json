@@ -275,15 +275,15 @@
   "source_url": "https://medlineplus.gov/hernia.html",
   "en": {
    "name": "Hernia (groin or belly-wall lump)",
-   "description": "A bulge where part of the gut pushes through a weak spot in the belly wall, often in the groin. It may come and go and ache when lifting or coughing. Go to emergency care if the lump becomes hard, very painful or cannot be pushed back, or you vomit.",
-   "cause": "A weak area in the belly wall, made worse by heavy lifting, straining, chronic cough, pregnancy or being overweight.",
-   "prevention": "Avoid heavy lifting and straining, treat chronic cough and constipation, keep a healthy weight, and see a health worker for any new lump."
+   "description": "A hernia happens when part of an internal organ or tissue bulges through a weak area of muscle. Most hernias are in the abdomen, and the most common type is in the groin. Untreated hernias can cause pain and health problems. General safety advice (not from the cited page): go to emergency care if the lump becomes hard, very painful or cannot be pushed back, or you vomit.",
+   "cause": "A combination of muscle weakness and straining, such as with heavy lifting, might contribute. Some people are born with weak abdominal muscles and may be more likely to get a hernia.",
+   "prevention": "The cited page does not discuss prevention. Treatment is usually surgery to repair the opening in the muscle wall, so see a health worker for any new lump."
   },
   "fr": {
    "name": "Hernie (boule de l'aine ou de la paroi du ventre)",
-   "description": "Bosse formée lorsqu'une partie de l'intestin passe à travers une zone fragile de la paroi du ventre, souvent à l'aine. Elle peut aller et venir et faire mal en soulevant une charge ou en toussant. Allez aux urgences si la boule devient dure, très douloureuse, ne rentre plus, ou si vous vomissez.",
-   "cause": "Zone fragile de la paroi du ventre, aggravée par les efforts de soulèvement, la poussée, la toux chronique, la grossesse ou le surpoids.",
-   "prevention": "Évitez de soulever de lourdes charges et de forcer, soignez la toux chronique et la constipation, gardez un poids sain, et consultez pour toute nouvelle boule."
+   "description": "Une hernie survient quand une partie d'un organe ou d'un tissu interne fait saillie à travers une zone affaiblie du muscle. La plupart des hernies se trouvent dans l'abdomen, et le type le plus fréquent se situe à l'aine. Une hernie non traitée peut causer des douleurs et des problèmes de santé. Conseil de sécurité général (ne provient pas de la page citée) : allez aux urgences si la bosse devient dure, très douloureuse ou impossible à repousser, ou si vous vomissez.",
+   "cause": "L'association d'une faiblesse musculaire et d'efforts, comme soulever des charges lourdes, peut y contribuer. Certaines personnes naissent avec des muscles abdominaux faibles et risquent davantage d'avoir une hernie.",
+   "prevention": "La page citée ne parle pas de prévention. Le traitement est généralement une chirurgie pour réparer l'ouverture dans la paroi musculaire : consultez un professionnel de santé pour toute nouvelle bosse."
   },
   "regions": {
    "west_africa": 2,
