@@ -127,17 +127,18 @@
   "cat": 5,
   "urgency": "self_care",
   "source_url": "https://medlineplus.gov/eczema.html",
+  "extra_sources": [{"title":"NHS: Atopic eczema","url":"https://www.nhs.uk/conditions/atopic-eczema/"}],
   "en": {
    "name": "Eczema (atopic dermatitis)",
-   "description": "A term for several types of skin swelling, also called dermatitis; the most common type is atopic dermatitis. Most types cause dry, itchy skin and rashes on the face, inside the elbows, behind the knees, and on the hands and feet. It is most common in babies and children, but adults can have it too. It is not contagious.",
-   "cause": "The cause is unknown. It is likely caused by both genetic and environmental factors.",
-   "prevention": "Avoid things that irritate your skin, such as certain soaps, fabrics and lotions, as well as stress and allergens such as food, pollen and animals. Treatments may include medicines, skin creams, light therapy and good skin care."
+   "description": "A term for several types of skin swelling, also called dermatitis; the most common type is atopic dermatitis. It causes itchy skin that can become dry, cracked, crusty, scaly or thickened, with rashes on the face, inside the elbows, behind the knees, and on the hands and feet. It comes and goes in flare-ups, is most common in babies and children, and is not contagious.",
+   "cause": "The cause is unknown. It is likely caused by both genetic and environmental factors. Flare-ups can be triggered by soap, washing detergent, some fabrics, pets, pollen, house-dust mites, certain foods, heat or changes in temperature, and stress.",
+   "prevention": "Avoid the things that make your eczema worse, moisturise often (at least twice a day, even when the skin improves), wash with an emollient instead of soap, keep cool, keep nails short and try not to scratch. Treatments may include medicines, skin creams and light therapy. Get urgent advice if the skin is blistered, crusty, leaking fluid, has pus-filled spots, is painful, swollen or warm, or you have a high temperature, as these can signal infection."
   },
   "fr": {
    "name": "Eczéma (dermatite atopique)",
-   "description": "Terme désignant plusieurs types de gonflement de la peau, aussi appelés dermatites ; le plus fréquent est la dermatite atopique. La plupart des types provoquent une peau sèche qui démange et des éruptions sur le visage, à l'intérieur des coudes, derrière les genoux, sur les mains et sur les pieds. Elle est plus fréquente chez les bébés et les enfants, mais les adultes peuvent en avoir aussi. Elle n'est pas contagieuse.",
-   "cause": "La cause est inconnue. Elle est probablement due à la fois à des facteurs génétiques et environnementaux.",
-   "prevention": "Évitez ce qui irrite la peau, comme certains savons, tissus et lotions, ainsi que le stress et les allergènes comme certains aliments, le pollen et les animaux. Les traitements peuvent comprendre des médicaments, des crèmes, la photothérapie et de bons soins de la peau."
+   "description": "Terme désignant plusieurs types d'inflammation de la peau, aussi appelés dermatites ; le type le plus courant est la dermatite atopique. Elle provoque une peau qui démange et qui peut devenir sèche, craquelée, croûteuse, squameuse ou épaissie, avec des éruptions sur le visage, à l'intérieur des coudes, derrière les genoux, et sur les mains et les pieds. Elle évolue par poussées, est plus fréquente chez les bébés et les enfants, et n'est pas contagieuse.",
+   "cause": "La cause est inconnue. Elle est probablement due à la fois à des facteurs génétiques et environnementaux. Les poussées peuvent être déclenchées par le savon, la lessive, certains tissus, les animaux de compagnie, le pollen, les acariens de la poussière, certains aliments, la chaleur ou les variations de température, et le stress.",
+   "prevention": "Évitez ce qui aggrave votre eczéma, hydratez la peau souvent (au moins deux fois par jour, même quand elle va mieux), lavez-vous avec un émollient plutôt qu'avec du savon, restez au frais, gardez les ongles courts et essayez de ne pas gratter. Les traitements peuvent comprendre des médicaments, des crèmes et la photothérapie. Demandez un avis urgent si la peau présente des cloques, des croûtes, un écoulement, des boutons de pus, si elle est douloureuse, gonflée ou chaude, ou si vous avez une forte fièvre, car ces signes peuvent indiquer une infection."
   },
   "regions": {
    "west_africa": 3,
@@ -273,17 +274,18 @@
   "cat": 3,
   "urgency": "routine",
   "source_url": "https://medlineplus.gov/hernia.html",
+  "extra_sources": [{"title":"NIDDK (US National Institutes of Health): Inguinal hernia","url":"https://www.niddk.nih.gov/health-information/digestive-diseases/inguinal-hernia"}],
   "en": {
    "name": "Hernia (groin or belly-wall lump)",
-   "description": "A hernia happens when part of an internal organ or tissue bulges through a weak area of muscle. Most hernias are in the abdomen, and the most common type is in the groin. Untreated hernias can cause pain and health problems. General safety advice (not from the cited page): go to emergency care if the lump becomes hard, very painful or cannot be pushed back, or you vomit.",
-   "cause": "A combination of muscle weakness and straining, such as with heavy lifting, might contribute. Some people are born with weak abdominal muscles and may be more likely to get a hernia.",
-   "prevention": "The cited page does not discuss prevention. Treatment is usually surgery to repair the opening in the muscle wall, so see a health worker for any new lump."
+   "description": "A hernia happens when part of an internal organ or tissue bulges through a weak area of muscle. Most hernias are in the abdomen, and the most common type is in the groin. There may be a bulge in the groin (or scrotum), with discomfort, pain, heaviness or burning that gets worse with straining, lifting, coughing or standing for long and eases with rest. Untreated hernias can cause pain and health problems. A strangulated hernia is life-threatening: get help right away if the bulge suddenly gets larger or cannot be pushed back, you have fever or redness over it, sudden or severe pain, or signs of a blocked bowel (belly pain, bloating, nausea, vomiting).",
+   "cause": "A weak area in the muscle wall, together with pressure inside the abdomen, such as from a chronic cough or constipation, heavy lifting, or standing or walking for many hours a day. Some people are born with weak abdominal muscles. Older age, being male and a family history also raise the risk.",
+   "prevention": "The cited pages do not discuss prevention. Treatment is usually surgery to repair the opening in the muscle wall, so see a health worker for any new lump."
   },
   "fr": {
    "name": "Hernie (boule de l'aine ou de la paroi du ventre)",
-   "description": "Une hernie survient quand une partie d'un organe ou d'un tissu interne fait saillie à travers une zone affaiblie du muscle. La plupart des hernies se trouvent dans l'abdomen, et le type le plus fréquent se situe à l'aine. Une hernie non traitée peut causer des douleurs et des problèmes de santé. Conseil de sécurité général (ne provient pas de la page citée) : allez aux urgences si la bosse devient dure, très douloureuse ou impossible à repousser, ou si vous vomissez.",
-   "cause": "L'association d'une faiblesse musculaire et d'efforts, comme soulever des charges lourdes, peut y contribuer. Certaines personnes naissent avec des muscles abdominaux faibles et risquent davantage d'avoir une hernie.",
-   "prevention": "La page citée ne parle pas de prévention. Le traitement est généralement une chirurgie pour réparer l'ouverture dans la paroi musculaire : consultez un professionnel de santé pour toute nouvelle bosse."
+   "description": "Une hernie survient quand une partie d'un organe interne ou d'un tissu fait saillie à travers une zone faible du muscle. La plupart des hernies sont dans l'abdomen, et le type le plus courant est dans l'aine. On peut observer une bosse dans l'aine (ou le scrotum), avec une gêne, une douleur, une sensation de lourdeur ou de brûlure qui augmente avec l'effort, le port de charges, la toux ou la station debout prolongée et diminue au repos. Une hernie non traitée peut causer des douleurs et des problèmes de santé. Une hernie étranglée met la vie en danger : demandez de l'aide immédiatement si la bosse grossit brusquement ou ne peut plus être repoussée, en cas de fièvre ou de rougeur sur la bosse, de douleur soudaine ou intense, ou de signes d'occlusion intestinale (douleur au ventre, ballonnement, nausées, vomissements).",
+   "cause": "Une zone faible de la paroi musculaire, associée à une pression dans l'abdomen, par exemple à cause d'une toux chronique ou d'une constipation, du port de charges lourdes, ou d'une station debout ou de la marche pendant de nombreuses heures par jour. Certaines personnes naissent avec des muscles abdominaux faibles. L'âge avancé, le sexe masculin et les antécédents familiaux augmentent aussi le risque.",
+   "prevention": "Les pages citées n'abordent pas la prévention. Le traitement est généralement une chirurgie pour réparer l'ouverture dans la paroi musculaire ; consultez donc un agent de santé pour toute nouvelle bosse."
   },
   "regions": {
    "west_africa": 2,
