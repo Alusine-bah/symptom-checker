@@ -6,6 +6,7 @@ import { Suspense, useEffect, useState } from "react";
 import { useApp } from "@/components/AppProvider";
 import { getDisease, type DiseaseDetail } from "@/lib/diseaseApi";
 import { getMedicinesForDisease } from "@/lib/medicineApi";
+import { reportUrl } from "@/lib/report";
 import {
   ENC,
   PREV_BADGE,
@@ -182,6 +183,19 @@ function DiseaseDetailInner() {
           </ul>
         </section>
       )}
+
+      <section className="mt-8 rounded-xl border border-slate-200 bg-white p-5">
+        <h2 className="font-semibold">{e.reportTitle}</h2>
+        <p className="mt-1 text-sm text-slate-600">{e.reportText}</p>
+        <a
+          href={reportUrl(`Disease: ${d.name}`, `/diseases/${slug}`)}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="mt-3 inline-block text-sm font-medium text-emerald-700 hover:underline"
+        >
+          {e.reportLink}
+        </a>
+      </section>
 
       <div className="mt-8 flex flex-wrap items-center gap-4">
         <Link

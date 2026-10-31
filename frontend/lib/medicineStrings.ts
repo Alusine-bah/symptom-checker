@@ -78,8 +78,6 @@ const fr: MedStrings = {
 
 export const MED: Record<Lang, MedStrings> = { en, fr };
 
-export const REPORT_URL = "https://github.com/Alusine-bah/symptom-checker/issues/new";
-
 export const STATUS_BADGE: Record<"draft" | "reviewed", string> = {
   draft: "bg-amber-100 text-amber-800",
   reviewed: "bg-emerald-100 text-emerald-800",

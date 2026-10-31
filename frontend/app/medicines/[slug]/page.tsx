@@ -5,7 +5,8 @@ import { useParams } from "next/navigation";
 import { Suspense, useEffect, useState } from "react";
 import { useApp } from "@/components/AppProvider";
 import { getMedicine, type MedicineDetail } from "@/lib/medicineApi";
-import { MED, REPORT_URL, STATUS_BADGE, type MedStrings } from "@/lib/medicineStrings";
+import { MED, STATUS_BADGE, type MedStrings } from "@/lib/medicineStrings";
+import { reportUrl } from "@/lib/report";
 
 type Status = "loading" | "ok" | "missing";
 
@@ -153,7 +154,7 @@ function MedicineInner() {
         <h2 className="font-semibold">{m.reportTitle}</h2>
         <p className="mt-1 text-sm text-slate-600">{m.reportText}</p>
         <a
-          href={REPORT_URL}
+          href={reportUrl(`Medicine: ${med.name}`, `/medicines/${med.slug}`)}
           target="_blank"
           rel="noopener noreferrer"
           className="mt-3 inline-block text-sm font-medium text-emerald-700 hover:underline"
