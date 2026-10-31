@@ -4,17 +4,18 @@
   "cat": 1,
   "urgency": "routine",
   "source_url": "https://medlineplus.gov/dehydration.html",
+  "extra_sources": [{"title":"NHS: Dehydration","url":"https://www.nhs.uk/conditions/dehydration/"}],
   "en": {
    "name": "Dehydration",
-   "description": "When the body loses more water than it takes in, for example from diarrhea, vomiting, fever or heat. It causes thirst, dark urine, dizziness and tiredness, and can become dangerous, especially in babies, young children and older people.",
-   "cause": "Not drinking enough, or losing fluids through diarrhea, vomiting, sweating, fever or heat.",
-   "prevention": "Drink safe water often, give extra fluids and oral rehydration solution during diarrhea or vomiting, and seek care quickly for babies, for very dry mouth, or when little urine is passed."
+   "description": "When the body loses more fluid than it takes in. Adults may have intense thirst, dry mouth, dark and less frequent urine, dry skin, tiredness and dizziness (NHS also lists headache and sunken eyes). Babies and young children may have a dry mouth, no tears when crying, no wet diapers for 3 or more hours, a sunken soft spot, unusual sleepiness or irritability. Seek urgent care for confusion, fainting, no urination, rapid heartbeat or breathing, or signs of shock.",
+   "cause": "Diarrhea or vomiting, heavy sweating, fever, frequent urination from some medicines or illnesses, and not drinking enough. Higher risk: older adults (who may feel less thirsty), infants and young children, people with diabetes, cystic fibrosis or kidney disease, and people who exercise or work outdoors in the heat.",
+   "prevention": "Drink enough fluids every day (pale urine is a sign of good hydration, NHS), and drink more in hot weather, during exercise and when ill. When sick, take small sips if keeping liquids down is hard. Children should be given oral rehydration solution; ask a pharmacist for it if vomiting or diarrhea causes significant fluid loss. Seek urgent advice for a baby with few wet nappies, a sunken soft spot, drowsiness or few tears, or an adult with dizziness that does not go away or much less urine."
   },
   "fr": {
    "name": "Déshydratation",
-   "description": "Situation où le corps perd plus d'eau qu'il n'en reçoit, par exemple en cas de diarrhée, de vomissements, de fièvre ou de chaleur. Elle provoque soif, urines foncées, vertiges et fatigue, et peut devenir dangereuse, surtout chez les bébés, les jeunes enfants et les personnes âgées.",
-   "cause": "Boire trop peu, ou perdre des liquides par la diarrhée, les vomissements, la transpiration, la fièvre ou la chaleur.",
-   "prevention": "Buvez souvent de l'eau potable, donnez davantage de liquides et une solution de réhydratation orale en cas de diarrhée ou de vomissements, et consultez vite pour un bébé, une bouche très sèche ou si peu d'urine est émise."
+   "description": "Quand l'organisme perd plus de liquide qu'il n'en absorbe. Les adultes peuvent ressentir une soif intense, une bouche sèche, des urines foncées et moins fréquentes, une peau sèche, de la fatigue et des vertiges (le NHS cite aussi maux de tête et yeux creusés). Les bébés et jeunes enfants peuvent avoir la bouche sèche, pas de larmes en pleurant, pas de couche mouillée depuis 3 heures ou plus, une fontanelle creusée, une somnolence inhabituelle ou de l'irritabilité. Consultez en urgence en cas de confusion, d'évanouissement, d'absence d'urine, de pouls ou respiration rapides, ou de signes de choc.",
+   "cause": "Diarrhée ou vomissements, forte transpiration, fièvre, mictions fréquentes dues à certains médicaments ou maladies, et apport de liquides insuffisant. Risque plus élevé : personnes âgées (qui peuvent ressentir moins la soif), nourrissons et jeunes enfants, personnes atteintes de diabète, de mucoviscidose ou de maladie rénale, et personnes qui font de l'exercice ou travaillent dehors par temps chaud.",
+   "prevention": "Boire suffisamment chaque jour (des urines pâles sont un signe de bonne hydratation, NHS), et boire davantage par temps chaud, pendant l'exercice et en cas de maladie. En cas de maladie, prendre de petites gorgées si les liquides sont difficiles à garder. Les enfants doivent recevoir une solution de réhydratation orale ; en demander à un pharmacien si des vomissements ou une diarrhée entraînent une perte de liquide importante. Demander un avis urgent pour un bébé qui mouille peu de couches, avec une fontanelle creusée, de la somnolence ou peu de larmes, ou pour un adulte dont les vertiges persistent ou dont les urines diminuent nettement."
   },
   "regions": {
    "west_africa": 3,
@@ -45,17 +46,18 @@
   "cat": 9,
   "urgency": "routine",
   "source_url": "https://medlineplus.gov/chronickidneydisease.html",
+  "extra_sources": [{"title":"CDC: Chronic Kidney Disease Basics","url":"https://www.cdc.gov/kidney-disease/about/index.html"},{"title":"NHS: Chronic kidney disease","url":"https://www.nhs.uk/conditions/kidney-disease/"}],
   "en": {
    "name": "Chronic kidney disease",
-   "description": "Long-term damage to the kidneys that develops slowly. Early on there may be no symptoms; later there can be swelling of the legs and face, tiredness, poor appetite and changes in urine. Blood and urine tests are needed to find it.",
-   "cause": "High blood pressure, diabetes, repeated infections, and other kidney damage, including from some painkillers and herbal products.",
-   "prevention": "Control blood pressure and blood sugar, avoid unnecessary painkillers, treat infections early, and have regular kidney checks if you have high blood pressure or diabetes."
+   "description": "Long-term damage to the kidneys. Many people have no symptoms until the disease is advanced. Later symptoms can include tiredness, swelling of the ankles, feet or hands, shortness of breath, feeling sick and blood in the urine (NHS); CDC adds anemia, more frequent infections, poor appetite and depression. Blood and urine tests are the only way to confirm it, and people at risk should be tested regularly.",
+   "cause": "Diabetes and high blood pressure are the leading causes (about two-thirds of new cases of kidney failure, CDC). NHS also lists high cholesterol, kidney infections, glomerulonephritis, inherited polycystic kidney disease, blocked urine flow (recurring kidney stones, an enlarged prostate), and long-term regular use of certain medicines such as NSAIDs and lithium. Smoking can worsen kidney disease.",
+   "prevention": "Keep blood pressure under control (CDC: near 140/90 mm Hg or below, or the target your doctor sets) and keep blood sugar in your target range if you have diabetes. Eat less salt, stay physically active, keep a healthy weight, limit alcohol and do not smoke. Take medicines as prescribed and ask a doctor before regular long-term use of anti-inflammatory painkillers (NHS lists NSAIDs as a possible cause). Have regular kidney checks (blood and urine tests) if you are at risk, for example with high blood pressure or diabetes."
   },
   "fr": {
    "name": "Maladie rénale chronique",
-   "description": "Atteinte durable des reins qui se développe lentement. Au début, il peut n'y avoir aucun symptôme ; plus tard apparaissent un gonflement des jambes et du visage, de la fatigue, une perte d'appétit et des changements des urines. Des analyses de sang et d'urine sont nécessaires pour la découvrir.",
-   "cause": "Hypertension, diabète, infections répétées et autres atteintes des reins, y compris par certains antidouleurs et produits à base de plantes.",
-   "prevention": "Contrôlez la tension et la glycémie, évitez les antidouleurs inutiles, traitez tôt les infections, et faites vérifier régulièrement vos reins si vous avez de l'hypertension ou du diabète."
+   "description": "Une atteinte durable des reins. Beaucoup de personnes n'ont aucun symptôme avant un stade avancé. Les symptômes plus tardifs peuvent comprendre fatigue, gonflement des chevilles, des pieds ou des mains, essoufflement, nausées et sang dans les urines (NHS) ; le CDC ajoute anémie, infections plus fréquentes, perte d'appétit et dépression. Seules les analyses de sang et d'urine permettent de la confirmer, et les personnes à risque doivent être testées régulièrement.",
+   "cause": "Le diabète et l'hypertension artérielle sont les principales causes (environ deux tiers des nouveaux cas d'insuffisance rénale, CDC). Le NHS cite aussi un cholestérol élevé, les infections rénales, la glomérulonéphrite, la polykystose rénale héréditaire, les obstacles à l'écoulement de l'urine (calculs récidivants, prostate augmentée de volume) et l'utilisation régulière et prolongée de certains médicaments comme les AINS et le lithium. Le tabagisme peut aggraver la maladie rénale.",
+   "prevention": "Maintenir la tension artérielle sous contrôle (CDC : proche de 140/90 mm Hg ou moins, ou l'objectif fixé par le médecin) et la glycémie dans la cible en cas de diabète. Manger moins de sel, rester actif, garder un poids sain, limiter l'alcool et ne pas fumer. Prendre ses médicaments comme prescrits et demander l'avis d'un médecin avant un usage régulier et prolongé d'anti-inflammatoires (le NHS cite les AINS comme cause possible). Faire des bilans rénaux réguliers (analyses de sang et d'urine) en cas de risque, par exemple d'hypertension ou de diabète."
   },
   "regions": {
    "west_africa": 3,
@@ -86,17 +88,18 @@
   "cat": 7,
   "urgency": "self_care",
   "source_url": "https://medlineplus.gov/sinusitis.html",
+  "extra_sources": [{"title":"CDC: Sinus Infection Basics","url":"https://www.cdc.gov/sinus-infection/about/index.html"},{"title":"NHS: Sinusitis","url":"https://www.nhs.uk/conditions/sinusitis-sinus-infection/"}],
   "en": {
    "name": "Sinusitis (sinus infection)",
-   "description": "Inflammation of the air spaces behind the nose, cheeks and forehead, usually after a cold. It causes a blocked or runny nose, pressure or pain in the face, and headache. Most cases clear on their own within about ten days.",
-   "cause": "Usually a virus after a cold, sometimes bacteria or allergies.",
-   "prevention": "Treat colds and allergies early, wash hands often, avoid smoke and polluted air, and see a health worker if it lasts more than ten days or you have a high fever."
+   "description": "Inflammation of the sinuses. Symptoms are a runny or blocked nose, facial pain, pressure or tenderness around the cheeks, eyes or forehead, headache, postnasal drip, sore throat, cough, bad breath and sometimes fever. NHS adds a reduced sense of smell and green or yellow mucus. Acute sinusitis lasts up to 4 weeks, and it often clears up on its own within that time; chronic sinusitis lasts more than 12 weeks.",
+   "cause": "Usually a virus, often after a cold or flu, which makes the sinus lining swell and blocks mucus drainage; bacteria cause some cases. Allergies, nasal problems and certain diseases can also cause sinusitis (MedlinePlus).",
+   "prevention": "Wash hands often, get recommended vaccines (such as flu and pneumococcal), limit close contact with people who have colds, avoid smoking and secondhand smoke, use a clean humidifier (CDC), and avoid your allergy triggers (NHS). See a health worker if symptoms last more than 10 days, fever lasts more than 3 to 4 days, symptoms worsen after improving, there is severe headache or facial pain, or you keep getting sinus infections (CDC)."
   },
   "fr": {
    "name": "Sinusite",
-   "description": "Inflammation des cavités situées derrière le nez, les joues et le front, généralement après un rhume. Elle provoque un nez bouché ou qui coule, une pression ou une douleur au visage et des maux de tête. La plupart des cas guérissent d'eux-mêmes en une dizaine de jours.",
-   "cause": "Le plus souvent un virus après un rhume, parfois des bactéries ou des allergies.",
-   "prevention": "Soignez tôt les rhumes et les allergies, lavez-vous souvent les mains, évitez la fumée et l'air pollué, et consultez si cela dure plus de dix jours ou en cas de forte fièvre."
+   "description": "Inflammation des sinus. Les symptômes sont un nez qui coule ou bouché, une douleur, une pression ou une sensibilité du visage au niveau des joues, des yeux ou du front, des maux de tête, un écoulement postérieur, un mal de gorge, de la toux, une mauvaise haleine et parfois de la fièvre. Le NHS ajoute une baisse de l'odorat et des mucosités vertes ou jaunes. La sinusite aiguë dure jusqu'à 4 semaines et guérit souvent seule dans ce délai ; la sinusite chronique dure plus de 12 semaines.",
+   "cause": "Le plus souvent un virus, souvent après un rhume ou une grippe, qui fait gonfler la muqueuse des sinus et empêche le drainage du mucus ; les bactéries en causent une partie des cas. Les allergies, des problèmes nasaux et certaines maladies peuvent aussi provoquer une sinusite (MedlinePlus).",
+   "prevention": "Se laver souvent les mains, se faire vacciner selon les recommandations (grippe, pneumocoque), limiter les contacts étroits avec les personnes enrhumées, éviter le tabac et la fumée secondaire, utiliser un humidificateur propre (CDC), et éviter ses facteurs déclenchants allergiques (NHS). Consulter si les symptômes durent plus de 10 jours, si la fièvre dure plus de 3 à 4 jours, si les symptômes s'aggravent après une amélioration, en cas de violent mal de tête ou de douleur du visage, ou si les sinusites se répètent (CDC)."
   },
   "regions": {
    "west_africa": 3,
@@ -164,17 +167,18 @@
   "cat": 5,
   "urgency": "routine",
   "source_url": "https://medlineplus.gov/hives.html",
+  "extra_sources": [{"title":"NHS: Hives","url":"https://www.nhs.uk/conditions/hives/"},{"title":"MedlinePlus: Hives (encyclopedia)","url":"https://medlineplus.gov/ency/article/000845.htm"}],
   "en": {
    "name": "Hives (urticaria)",
-   "description": "Raised, very itchy welts on the skin that appear suddenly and move around, often from an allergy, infection or medicine. Go to emergency care at once if there is swelling of the lips, tongue or throat, or trouble breathing.",
-   "cause": "An allergic or other reaction to foods, medicines, insect stings, infections, heat or stress; often no cause is found.",
-   "prevention": "Avoid known triggers, stop and report any medicine you think caused it, and seek emergency care for swelling of the face or throat or trouble breathing."
+   "description": "Raised, itchy welts on the skin: red or skin-coloured, with defined edges, that can grow, spread and merge, and that shift shape and come and go within minutes or hours. They may itch, sting or burn. A single welt rarely lasts more than 48 hours, and hives usually go away on their own; lasting over 6 weeks is called chronic. In rare cases swelling of the airways makes breathing hard. Call emergency services for swelling of the lips, mouth, tongue or throat, trouble breathing, wheezing, a tight throat, faintness or confusion.",
+   "cause": "The body releasing histamine and other chemicals, usually in an allergic reaction to a drug or food; people with other allergies are more likely to get hives. Other triggers are insect bites or stings, pollen, animal dander, infections, emotional stress, heat, cold, sun, sweating or exercise, pressure on the skin and tight clothing. Often the cause is not known.",
+   "prevention": "Avoid substances that trigger your allergic reactions, and note your personal triggers. A pharmacist can advise on antihistamines. Contact a doctor urgently or call NHS 111 if hives do not improve after 2 days, spread, keep coming back, come with a high temperature, or you have swelling under the skin; call emergency services for swelling of the lips, tongue or throat or trouble breathing."
   },
   "fr": {
    "name": "Urticaire",
-   "description": "Plaques en relief qui démangent beaucoup, apparaissant brusquement sur la peau et se déplaçant, souvent à cause d'une allergie, d'une infection ou d'un médicament. Allez immédiatement aux urgences en cas de gonflement des lèvres, de la langue ou de la gorge, ou de difficulté à respirer.",
-   "cause": "Réaction allergique ou autre à des aliments, des médicaments, des piqûres d'insectes, des infections, la chaleur ou le stress ; souvent aucune cause n'est trouvée.",
-   "prevention": "Évitez les déclencheurs connus, arrêtez et signalez tout médicament suspect, et allez aux urgences en cas de gonflement du visage ou de la gorge ou de difficulté à respirer."
+   "description": "Des plaques en relief qui démangent : rouges ou de la couleur de la peau, aux bords nets, pouvant grossir, s'étendre et fusionner, et qui changent de forme et vont et viennent en quelques minutes ou heures. Elles peuvent démanger, piquer ou brûler. Une plaque dure rarement plus de 48 heures, et l'urticaire disparaît généralement seule ; au-delà de 6 semaines, on parle d'urticaire chronique. Dans de rares cas, un gonflement des voies respiratoires gêne la respiration. Appelez les secours en cas de gonflement des lèvres, de la bouche, de la langue ou de la gorge, de difficulté à respirer, de sifflement, de gorge serrée, de malaise ou de confusion.",
+   "cause": "L'organisme libère de l'histamine et d'autres substances, généralement lors d'une réaction allergique à un médicament ou à un aliment ; les personnes ayant d'autres allergies ont plus de risque d'avoir de l'urticaire. Autres déclencheurs : piqûres ou morsures d'insectes, pollen, squames d'animaux, infections, stress émotionnel, chaleur, froid, soleil, transpiration ou exercice, pression sur la peau et vêtements serrés. Souvent la cause n'est pas connue.",
+   "prevention": "Éviter les substances qui déclenchent vos réactions allergiques et repérer vos déclencheurs personnels. Un pharmacien peut conseiller des antihistaminiques. Contactez un médecin en urgence ou le NHS 111 si l'urticaire ne s'améliore pas après 2 jours, s'étend, revient régulièrement, s'accompagne d'une forte température, ou en cas de gonflement sous la peau ; appelez les secours en cas de gonflement des lèvres, de la langue ou de la gorge ou de difficulté à respirer."
   },
   "regions": {
    "west_africa": 3,
@@ -199,17 +203,18 @@
   "cat": 3,
   "urgency": "self_care",
   "source_url": "https://medlineplus.gov/gerd.html",
+  "extra_sources": [{"title":"NHS: Heartburn and acid reflux","url":"https://www.nhs.uk/conditions/heartburn-and-acid-reflux/"}],
   "en": {
    "name": "Heartburn and acid reflux (GERD)",
-   "description": "Stomach acid flowing back up, causing a burning feeling behind the breastbone and a sour taste, often after meals or when lying down. Chest pain can have other causes, so any chest pain should be checked urgently.",
-   "cause": "A weak valve between the stomach and the food pipe, made worse by large or fatty meals, being overweight, smoking, alcohol and some medicines.",
-   "prevention": "Eat smaller meals, avoid eating late at night, limit fatty food, alcohol and smoking, raise the head of the bed, and see a health worker if it is frequent or you have trouble swallowing."
+   "description": "Stomach contents flowing back up. The most common symptom is heartburn, a burning feeling in the chest or throat, with a sour taste of acid; symptoms are often worse after eating, when lying down and when bending over. Other symptoms include a dry cough or hoarse voice, bad breath, bloating, feeling sick and trouble swallowing. Chest pain with shortness of breath, or pain in the jaw or arm, needs immediate medical help because it can signal a heart problem.",
+   "cause": "The muscle at the lower end of the food pipe (the valve) weakens or relaxes at the wrong time, letting stomach contents back up. Risk factors are being overweight, pregnancy, smoking or secondhand smoke, a hiatal hernia, and certain foods, drinks and medicines (NHS: coffee, tomatoes, alcohol, chocolate, fatty or spicy food, and anti-inflammatory painkillers such as ibuprofen).",
+   "prevention": "Eat smaller meals and avoid lying down for 2 to 3 hours after eating (MedlinePlus); NHS advises not eating within 3 to 4 hours of bedtime. Limit trigger foods such as fatty and spicy food, chocolate and caffeine, avoid alcohol and smoking, lose weight if needed, avoid clothes tight at the waist, and raise the head of the bed by 10 to 20 cm (extra pillows can make it worse). See a GP if you have heartburn most days, lifestyle changes are not helping, food sticks in your throat, you are often sick, you lose weight without trying, or symptoms are getting worse."
   },
   "fr": {
    "name": "Brûlures d'estomac et reflux acide (RGO)",
-   "description": "Remontée d'acide de l'estomac provoquant une sensation de brûlure derrière le sternum et un goût acide, souvent après les repas ou en position allongée. Une douleur à la poitrine peut avoir d'autres causes : toute douleur thoracique doit être vérifiée en urgence.",
-   "cause": "Un clapet affaibli entre l'estomac et l'œsophage, aggravé par les repas copieux ou gras, le surpoids, le tabac, l'alcool et certains médicaments.",
-   "prevention": "Mangez moins à chaque repas, évitez de manger tard le soir, limitez les aliments gras, l'alcool et le tabac, surélevez la tête du lit, et consultez si c'est fréquent ou si vous avez du mal à avaler."
+   "description": "Remontée du contenu de l'estomac. Le symptôme le plus courant est la brûlure d'estomac, une sensation de brûlure dans la poitrine ou la gorge, avec un goût acide ; les symptômes sont souvent pires après les repas, en position allongée et en se penchant. Autres symptômes : toux sèche ou voix enrouée, mauvaise haleine, ballonnements, nausées et difficultés à avaler. Une douleur thoracique avec essoufflement, ou une douleur à la mâchoire ou au bras, nécessite une aide médicale immédiate car elle peut signaler un problème cardiaque.",
+   "cause": "Le muscle situé à l'extrémité inférieure de l'œsophage (le sphincter) s'affaiblit ou se relâche au mauvais moment, laissant remonter le contenu de l'estomac. Les facteurs de risque sont le surpoids, la grossesse, le tabagisme ou la fumée secondaire, une hernie hiatale, et certains aliments, boissons et médicaments (NHS : café, tomates, alcool, chocolat, aliments gras ou épicés, et anti-inflammatoires comme l'ibuprofène).",
+   "prevention": "Manger de plus petits repas et éviter de s'allonger pendant 2 à 3 heures après avoir mangé (MedlinePlus) ; le NHS conseille de ne pas manger dans les 3 à 4 heures précédant le coucher. Limiter les aliments déclencheurs comme les aliments gras et épicés, le chocolat et la caféine, éviter l'alcool et le tabac, perdre du poids si nécessaire, éviter les vêtements serrés à la taille, et surélever la tête du lit de 10 à 20 cm (des oreillers supplémentaires peuvent aggraver les symptômes). Consulter si vous avez des brûlures presque tous les jours, si les changements de mode de vie ne suffisent pas, si les aliments restent coincés dans la gorge, si vous avez souvent des nausées, si vous perdez du poids sans raison ou si les symptômes s'aggravent."
   },
   "regions": {
    "west_africa": 3,
@@ -238,17 +243,18 @@
   "cat": 3,
   "urgency": "self_care",
   "source_url": "https://medlineplus.gov/hemorrhoids.html",
+  "extra_sources": [{"title":"NHS: Piles (haemorrhoids)","url":"https://www.nhs.uk/conditions/piles-haemorrhoids/"}],
   "en": {
    "name": "Hemorrhoids (piles)",
-   "description": "Swollen veins around the anus that cause itching, pain, a lump, or bright red blood on the stool or toilet paper. They are common and usually not serious, but bleeding should still be checked.",
-   "cause": "Straining with hard stools, constipation, long sitting, pregnancy and being overweight.",
-   "prevention": "Eat fibre and drink plenty of water, avoid straining, do not sit for long on the toilet, and see a health worker if there is repeated bleeding."
+   "description": "Swollen veins around the anus. External hemorrhoids cause itching, hard tender lumps near the anus and pain, especially when sitting; internal hemorrhoids cause bright red blood on the stool, toilet paper or in the toilet, and are usually painless unless they prolapse (protrude). NHS adds mucus, and a feeling that you still need to go. Symptoms often settle within a few days.",
+   "cause": "Too much pressure on the veins around the anus: straining during bowel movements, sitting on the toilet for long periods, chronic constipation or diarrhea, a low-fibre diet, frequently lifting heavy objects, and weakening of supporting tissue with aging and pregnancy. NHS also lists being overweight.",
+   "prevention": "Eat high-fibre foods, drink enough fluids, avoid straining, do not delay going when you feel the urge, avoid sitting on the toilet for long periods, and limit alcohol and caffeine (NHS). See a health worker for any rectal bleeding, because other conditions can cause it, and if symptoms continue after 1 week of home treatment. Seek urgent help (NHS) for painless bleeding, pus, a very high temperature, or heavy bleeding with large clots or severe pain."
   },
   "fr": {
    "name": "Hémorroïdes",
-   "description": "Veines gonflées autour de l'anus provoquant démangeaisons, douleur, une boule, ou du sang rouge vif sur les selles ou le papier. Elles sont fréquentes et en général sans gravité, mais un saignement doit tout de même être vérifié.",
-   "cause": "Efforts de poussée avec des selles dures, constipation, station assise prolongée, grossesse et surpoids.",
-   "prevention": "Mangez des fibres et buvez beaucoup d'eau, évitez de forcer, ne restez pas longtemps aux toilettes, et consultez en cas de saignement répété."
+   "description": "Veines gonflées autour de l'anus. Les hémorroïdes externes provoquent démangeaisons, boules dures et sensibles près de l'anus et douleur, surtout en position assise ; les hémorroïdes internes provoquent du sang rouge vif sur les selles, le papier toilette ou dans la cuvette, et sont généralement indolores sauf en cas de prolapsus (sortie). Le NHS ajoute du mucus et la sensation de ne pas avoir fini d'aller à la selle. Les symptômes disparaissent souvent en quelques jours.",
+   "cause": "Une pression excessive sur les veines autour de l'anus : efforts de poussée à la selle, station prolongée aux toilettes, constipation ou diarrhée chroniques, alimentation pauvre en fibres, port fréquent de charges lourdes, et affaiblissement des tissus de soutien avec l'âge et la grossesse. Le NHS cite aussi le surpoids.",
+   "prevention": "Manger des aliments riches en fibres, boire suffisamment, éviter de pousser, ne pas retarder l'envie d'aller à la selle, éviter de rester longtemps aux toilettes, et limiter l'alcool et la caféine (NHS). Consulter pour tout saignement rectal, car d'autres maladies peuvent le causer, et si les symptômes persistent après 1 semaine de traitement à domicile. Demander une aide urgente (NHS) en cas de saignement indolore, de pus, de température très élevée, ou de saignement abondant avec gros caillots ou douleur intense."
   },
   "regions": {
    "west_africa": 3,
@@ -310,17 +316,18 @@
   "cat": 3,
   "urgency": "routine",
   "source_url": "https://medlineplus.gov/irritablebowelsyndrome.html",
+  "extra_sources": [{"title":"NHS: Symptoms of IBS","url":"https://www.nhs.uk/conditions/irritable-bowel-syndrome-ibs/symptoms/"}],
   "en": {
    "name": "Irritable bowel syndrome",
-   "description": "A common long-term gut condition causing belly pain, bloating, and diarrhea, constipation or both in turn. It does not damage the gut, but blood in the stool, weight loss or fever need to be checked for other causes.",
-   "cause": "Not fully understood. Stress, certain foods and gut infections can trigger symptoms.",
-   "prevention": "Eat regular meals, notice and avoid trigger foods, stay active, manage stress, and see a health worker if you have blood in stool, weight loss or night-time symptoms."
+   "description": "A long-term gut condition affecting the large intestine. Symptoms come and go in flare-ups: stomach pain or cramps (often worse after eating and easing after a bowel movement), bloating, diarrhea, constipation, or both in turn. It does not harm the intestines. There is no single test; doctors may order tests to rule out other diseases.",
+   "cause": "The exact cause is unknown. NHS lists possible triggers: certain foods (such as spicy or fatty foods), alcohol and caffeine, stress and anxiety, and regular antibiotic use; flare-ups can also happen with no obvious trigger. MedlinePlus links to information on post-infectious IBS but gives no details.",
+   "prevention": "Most people can control symptoms with diet, stress management, probiotics and medicine (MedlinePlus). Notice and avoid your trigger foods, drinks and stressors. See a GP if you think you have IBS and symptoms have lasted more than 4 weeks. Get urgent advice (NHS) for unexplained weight loss, bleeding from the bottom or bloody diarrhea, a hard lump or swelling in the tummy, shortness of breath, palpitations or unusually pale skin."
   },
   "fr": {
    "name": "Syndrome de l'intestin irritable",
-   "description": "Affection digestive fréquente et durable provoquant des douleurs au ventre, des ballonnements, et de la diarrhée, de la constipation ou les deux en alternance. Elle n'abîme pas l'intestin, mais du sang dans les selles, une perte de poids ou de la fièvre doivent faire rechercher une autre cause.",
-   "cause": "Mal comprise. Le stress, certains aliments et des infections digestives peuvent déclencher les symptômes.",
-   "prevention": "Mangez à heures régulières, repérez et évitez les aliments déclencheurs, restez actif, gérez le stress, et consultez en cas de sang dans les selles, de perte de poids ou de symptômes nocturnes."
+   "description": "Une affection intestinale de longue durée touchant le gros intestin. Les symptômes vont et viennent par poussées : douleurs ou crampes d'estomac (souvent pires après les repas et soulagées par une selle), ballonnements, diarrhée, constipation, ou les deux en alternance. Elle n'abîme pas les intestins. Il n'existe pas de test unique ; les médecins peuvent prescrire des examens pour écarter d'autres maladies.",
+   "cause": "La cause exacte est inconnue. Le NHS cite comme déclencheurs possibles certains aliments (épicés ou gras), l'alcool et la caféine, le stress et l'anxiété, et la prise régulière d'antibiotiques ; des poussées peuvent aussi survenir sans déclencheur évident. MedlinePlus renvoie à des informations sur le SII post-infectieux mais sans détails.",
+   "prevention": "La plupart des personnes peuvent contrôler leurs symptômes par l'alimentation, la gestion du stress, les probiotiques et des médicaments (MedlinePlus). Repérer et éviter vos aliments, boissons et sources de stress déclenchants. Consulter si vous pensez avoir un SII et que les symptômes durent depuis plus de 4 semaines. Demander un avis urgent (NHS) en cas de perte de poids inexpliquée, de saignement anal ou de diarrhée sanglante, de masse ou gonflement dur du ventre, d'essoufflement, de palpitations ou de pâleur inhabituelle."
   },
   "regions": {
    "west_africa": 2,
@@ -349,17 +356,18 @@
   "cat": 3,
   "urgency": "self_care",
   "source_url": "https://medlineplus.gov/constipation.html",
+  "extra_sources": [{"title":"NHS: Constipation","url":"https://www.nhs.uk/conditions/constipation/"}],
   "en": {
    "name": "Constipation",
-   "description": "Hard, dry or infrequent stools that are difficult to pass, often with a swollen belly or mild belly pain. It is very common and usually improves with fluids, fibre and activity. See a health worker if it is new in an older person, lasts weeks, or comes with blood or weight loss.",
-   "cause": "Too little fibre or water, little activity, ignoring the urge to go, some medicines, and pregnancy.",
-   "prevention": "Eat fibre-rich foods such as fruit, vegetables and whole grains, drink enough water, stay active, and go when you feel the urge."
+   "description": "Fewer than three bowel movements a week, or hard, dry, lumpy stools that are painful or need straining to pass, sometimes with a feeling that the bowels have not fully emptied, stomach ache, bloating or feeling sick. Most people get constipated at some point; it usually lasts a short time and is not serious. It is more common during pregnancy, after birth and in people over 65.",
+   "cause": "Low fibre intake, not drinking enough fluids, little physical activity, regularly ignoring the urge to go, changes to diet or routine, side effects of some medicines (including regular laxative use, MedlinePlus), and stress, anxiety or depression (NHS). Rarely, medical conditions such as diverticular disease or bowel cancer.",
+   "prevention": "Eat more fibre gradually (fruit, vegetables, whole grains, bran, oats), drink plenty of fluids, take regular exercise such as a daily walk, keep a regular toilet routine and go when you feel the urge, and rest your feet on a low stool. Use laxatives only short term and when advised. See a health worker if it is not improving, or if you have blood in your poo, unexplained weight loss, a sudden change in bowel habits, tummy pain, or constant tiredness."
   },
   "fr": {
    "name": "Constipation",
-   "description": "Selles dures, sèches ou rares, difficiles à évacuer, souvent avec un ventre gonflé ou de légères douleurs. Elle est très fréquente et s'améliore généralement avec des liquides, des fibres et de l'activité. Consultez si elle est nouvelle chez une personne âgée, dure des semaines, ou s'accompagne de sang ou d'une perte de poids.",
-   "cause": "Trop peu de fibres ou d'eau, peu d'activité, envie ignorée, certains médicaments et la grossesse.",
-   "prevention": "Mangez des aliments riches en fibres comme les fruits, les légumes et les céréales complètes, buvez assez d'eau, restez actif et allez aux toilettes dès que vous en ressentez le besoin."
+   "description": "Moins de trois selles par semaine, ou selles dures, sèches et en boulettes, douloureuses ou nécessitant de pousser, avec parfois une sensation de vidange incomplète, des maux de ventre, des ballonnements ou des nausées. La plupart des gens sont constipés à un moment donné ; c'est généralement passager et sans gravité. Elle est plus fréquente pendant la grossesse, après l'accouchement et chez les personnes de plus de 65 ans.",
+   "cause": "Un apport insuffisant en fibres, un manque de liquides, peu d'activité physique, le fait d'ignorer régulièrement l'envie d'aller à la selle, des changements d'alimentation ou de routine, les effets secondaires de certains médicaments (y compris l'usage régulier de laxatifs, MedlinePlus), et le stress, l'anxiété ou la dépression (NHS). Rarement, des maladies comme la diverticulose ou le cancer de l'intestin.",
+   "prevention": "Augmenter progressivement les fibres (fruits, légumes, céréales complètes, son, avoine), boire beaucoup de liquides, faire de l'exercice régulièrement, par exemple une marche quotidienne, garder une routine régulière aux toilettes et y aller dès que l'envie se présente, et poser les pieds sur un petit tabouret. N'utiliser des laxatifs que brièvement et sur conseil. Consulter si la constipation ne s'améliore pas, ou en cas de sang dans les selles, de perte de poids inexpliquée, de changement brutal du transit, de douleurs abdominales ou de fatigue constante."
   },
   "regions": {
    "west_africa": 3,

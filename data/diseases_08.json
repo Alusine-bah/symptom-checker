@@ -316,17 +316,18 @@
   "cat": 5,
   "urgency": "urgent",
   "source_url": "https://medlineplus.gov/shingles.html",
+  "extra_sources": [{"title":"CDC: About Shingles","url":"https://www.cdc.gov/shingles/about/index.html"}],
   "en": {
    "name": "Shingles (herpes zoster)",
-   "description": "A painful rash of fluid-filled blisters that appears on one side of the body, caused by the chickenpox virus waking up again. It often starts with burning or tingling pain and can lead to long-lasting nerve pain.",
-   "cause": "Varicella-zoster virus coming back in someone who has had chickenpox. It is more common with older age, stress or weak immunity, including HIV.",
-   "prevention": "The shingles vaccine where available. See a health worker quickly, because early treatment works best, and go urgently if the rash is near the eye."
+   "description": "A painful rash caused by the varicella-zoster virus, the same virus that causes chickenpox. Early signs are burning or shooting pain, tingling or itching, usually on one side of the body or face; a blistering rash follows within several days, typically in a single stripe, and the blisters scab over in about 7 to 10 days. Some people also have fever, headache, chills or an upset stomach. The most common complication is long-lasting nerve pain (postherpetic neuralgia). Shingles affecting the eye can cause vision loss, which may be temporary or permanent.",
+   "cause": "The varicella-zoster virus staying in the body after chickenpox and reactivating years later. Risk rises with age (highest over 50) and with a weakened immune system, including HIV, certain cancers, and medicines such as steroids or post-transplant drugs. MedlinePlus adds that infection or stress can temporarily weaken immunity and raise risk (CDC does not mention stress).",
+   "prevention": "Vaccination: CDC recommends 2 doses of the Shingrix vaccine for adults aged 50 and over, and for adults 19 and over with weakened immune systems. There is no cure, but antiviral medicines shorten and soften the illness and may help prevent lasting nerve pain; they work best when started within 3 days of the rash appearing, so contact a provider right away. Pain relievers, cool compresses, calamine lotion and oatmeal baths can ease pain and itching. Because eye involvement can cost sight, a rash near the eye needs urgent care."
   },
   "fr": {
    "name": "Zona (herpès zoster)",
-   "description": "Éruption douloureuse de cloques remplies de liquide, apparaissant d'un seul côté du corps, causée par le réveil du virus de la varicelle. Elle commence souvent par des brûlures ou des picotements et peut laisser des douleurs nerveuses durables.",
-   "cause": "Virus varicelle-zona qui se réactive chez une personne ayant déjà eu la varicelle. Il est plus fréquent avec l'âge, le stress ou une immunité affaiblie, y compris le VIH.",
-   "prevention": "Vaccin contre le zona lorsqu'il est disponible. Consultez rapidement, car un traitement précoce est plus efficace, et allez en urgence si l'éruption est près de l'œil."
+   "description": "Une éruption douloureuse causée par le virus varicelle-zona, le même que celui de la varicelle. Les premiers signes sont une douleur à type de brûlure ou de décharge, des fourmillements ou des démangeaisons, généralement d'un seul côté du corps ou du visage ; une éruption de cloques suit en quelques jours, typiquement en bande unique, et les cloques sèchent en croûtes en 7 à 10 jours environ. Certaines personnes ont aussi de la fièvre, des maux de tête, des frissons ou des maux d'estomac. La complication la plus fréquente est une douleur nerveuse durable (névralgie post-zostérienne). Un zona touchant l'œil peut causer une perte de vision, temporaire ou permanente.",
+   "cause": "Le virus varicelle-zona qui reste dans l'organisme après la varicelle et se réactive des années plus tard. Le risque augmente avec l'âge (maximal après 50 ans) et avec un système immunitaire affaibli, notamment par le VIH, certains cancers et des médicaments comme les stéroïdes ou les traitements après greffe. MedlinePlus ajoute qu'une infection ou le stress peuvent affaiblir temporairement l'immunité et augmenter le risque (le CDC ne mentionne pas le stress).",
+   "prevention": "Vaccination : le CDC recommande 2 doses du vaccin Shingrix pour les adultes de 50 ans et plus, et pour les adultes de 19 ans et plus dont le système immunitaire est affaibli. Il n'existe pas de traitement curatif, mais les antiviraux raccourcissent et atténuent la maladie et peuvent aider à prévenir les douleurs nerveuses durables ; ils agissent mieux s'ils sont débutés dans les 3 jours suivant l'apparition de l'éruption, il faut donc consulter sans attendre. Les antalgiques, les compresses froides, la lotion à la calamine et les bains à l'avoine peuvent soulager douleur et démangeaisons. Comme l'atteinte de l'œil peut faire perdre la vue, une éruption près de l'œil nécessite des soins urgents."
   },
   "regions": {
    "west_africa": 3,
@@ -355,17 +356,18 @@
   "cat": 5,
   "urgency": "urgent",
   "source_url": "https://medlineplus.gov/ency/article/000855.htm",
+  "extra_sources": [{"title":"NHS: Cellulitis","url":"https://www.nhs.uk/conditions/cellulitis/"}],
   "en": {
    "name": "Cellulitis (bacterial skin infection)",
-   "description": "A bacterial infection of the skin and the tissue underneath, causing a red, hot, swollen and painful area that spreads. It can become serious if it is not treated.",
-   "cause": "Bacteria such as streptococcus and staphylococcus entering through cuts, insect bites, cracked skin or sores.",
-   "prevention": "Clean and cover cuts and wounds, treat skin cracks and athlete's foot, and see a health worker if redness spreads or you develop a fever."
+   "description": "A bacterial infection of the skin. Symptoms are painful, hot and swollen skin, usually red (less obvious on brown or black skin), possibly with blistering, spreading redness, tight glossy skin, and fever, chills, sweating, fatigue or swollen painful glands. It is most common on the lower legs. It cannot be caught from another person. Early antibiotic treatment can stop it becoming more serious.",
+   "cause": "Staphylococcus and streptococcus bacteria cause most cases. They get in through a break in the skin: cracked skin between the toes, cuts and wounds, insect, animal or human bites, skin ulcers (from diabetes or poor circulation) and surgical wounds; sometimes the break is too small to see. Risk is higher with poor circulation, a weakened immune system, lymphoedema or a previous episode.",
+   "prevention": "Keep skin clean and well moisturised to prevent cracking, clean cuts and wounds (wash with soap and water and cover them), wear suitable footwear and gloves to prevent cuts, and treat athlete's foot promptly if you are at higher risk. See a provider right away if you have symptoms. Call emergency services (NHS) if cellulitis comes with a very high temperature, fast heartbeat or breathing, purple patches, confusion or faintness, and contact your doctor if you do not feel better 2 to 3 days after starting antibiotics."
   },
   "fr": {
    "name": "Cellulite infectieuse (infection bactérienne de la peau)",
-   "description": "Infection bactérienne de la peau et des tissus situés dessous, avec une zone rouge, chaude, gonflée et douloureuse qui s'étend. Elle peut devenir grave si elle n'est pas traitée.",
-   "cause": "Bactéries comme le streptocoque et le staphylocoque qui pénètrent par des coupures, des piqûres d'insectes, une peau gercée ou des plaies.",
-   "prevention": "Nettoyez et couvrez les coupures et les plaies, traitez les gerçures et le pied d'athlète, et consultez si la rougeur s'étend ou si de la fièvre apparaît."
+   "description": "Une infection bactérienne de la peau. Les symptômes sont une peau douloureuse, chaude et gonflée, généralement rouge (moins visible sur peau brune ou noire), parfois avec des cloques, une rougeur qui s'étend, une peau tendue et luisante, ainsi que fièvre, frissons, sueurs, fatigue ou ganglions gonflés et douloureux. Elle est la plus fréquente aux jambes. Elle ne se transmet pas d'une personne à l'autre. Un traitement antibiotique précoce peut éviter qu'elle ne s'aggrave.",
+   "cause": "Les bactéries staphylocoque et streptocoque causent la plupart des cas. Elles pénètrent par une brèche de la peau : peau fissurée entre les orteils, coupures et plaies, morsures ou piqûres d'insectes, d'animaux ou d'humains, ulcères cutanés (liés au diabète ou à une mauvaise circulation) et plaies chirurgicales ; parfois la brèche est trop petite pour être vue. Le risque est plus élevé en cas de mauvaise circulation, d'immunité affaiblie, de lymphœdème ou d'épisode antérieur.",
+   "prevention": "Garder la peau propre et bien hydratée pour éviter les gerçures, nettoyer les coupures et plaies (laver à l'eau et au savon et les couvrir), porter des chaussures adaptées et des gants pour éviter les blessures, et traiter rapidement un pied d'athlète en cas de risque élevé. Consulter sans attendre en cas de symptômes. Appeler les secours (NHS) si la cellulite s'accompagne d'une température très élevée, d'un pouls ou d'une respiration rapides, de plaques violettes, de confusion ou de malaise, et contacter son médecin si l'on ne va pas mieux 2 à 3 jours après le début des antibiotiques."
   },
   "regions": {
    "west_africa": 3,
