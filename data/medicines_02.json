@@ -1,0 +1,738 @@
+[
+ {
+  "slug": "amoxicillin",
+  "status": "draft",
+  "last_checked": "2026-11-01",
+  "diseases": [
+   "pneumonia",
+   "ear_infection",
+   "tooth_decay_abscess",
+   "peptic_ulcer"
+  ],
+  "sources": [
+   {
+    "title": "NHS: Amoxicillin (overview)",
+    "url": "https://www.nhs.uk/medicines/amoxicillin/"
+   },
+   {
+    "title": "NHS: How and when to take amoxicillin",
+    "url": "https://www.nhs.uk/medicines/amoxicillin/how-and-when-to-take-amoxicillin/"
+   },
+   {
+    "title": "NHS: Who can and cannot take amoxicillin",
+    "url": "https://www.nhs.uk/medicines/amoxicillin/who-can-and-cannot-take-amoxicillin/"
+   },
+   {
+    "title": "NHS: Side effects of amoxicillin",
+    "url": "https://www.nhs.uk/medicines/amoxicillin/side-effects-of-amoxicillin/"
+   },
+   {
+    "title": "NHS: Pregnancy, breastfeeding and fertility while taking amoxicillin",
+    "url": "https://www.nhs.uk/medicines/amoxicillin/pregnancy-breastfeeding-and-fertility-while-taking-amoxicillin/"
+   },
+   {
+    "title": "NHS: Taking amoxicillin with other medicines and herbal supplements",
+    "url": "https://www.nhs.uk/medicines/amoxicillin/taking-amoxicillin-with-other-medicines-and-herbal-supplements/"
+   }
+  ],
+  "en": {
+   "name": "Amoxicillin",
+   "what_it_is": [
+    "An antibiotic used to treat bacterial infections (NHS)."
+   ],
+   "used_for": [
+    "The NHS lists chest infection, dental abscess, ear infections and stomach ulcer."
+   ],
+   "how_used": [
+    "Capsules: the usual dose on the NHS page is 250 mg to 500 mg, 3 times a day. The page does not label this explicitly as the adult dose.",
+    "Liquid comes as 125 mg per 5 ml or 250 mg per 5 ml (NHS). Measure it with the syringe or spoon supplied, not a kitchen teaspoon.",
+    "Children: the NHS says the dose may be lower but gives no dose by age or weight. Follow the label or ask a health worker.",
+    "Spread the doses evenly through the day. It can be taken with or without food. Swallow capsules whole with water.",
+    "Finish the full course even if you feel better. Tell a doctor if you do not feel better after 3 to 5 days, or if you feel worse at any point (NHS). The page does not state the total length of a course.",
+    "Missed dose: take it as soon as you remember unless the next dose is nearly due. Never take two doses at once."
+   ],
+   "who_careful": [
+    "Tell a doctor before starting if you have ever had an allergic reaction to amoxicillin, penicillin or another medicine (NHS).",
+    "Also tell them if you have liver or kidney problems, are due to have blood or urine tests, have recently had or are due to have a vaccination, or have glandular fever (it can cause a rash) (NHS)."
+   ],
+   "other_medicines": [
+    "The NHS lists medicines that may interact: methotrexate, warfarin, the gout medicines probenecid and allopurinol, and other antibiotics. The list is not complete.",
+    "There is not enough information to say herbal remedies and supplements are safe with it."
+   ],
+   "side_effects": [
+    "Common (up to 1 in 10 people): skin rash, feeling sick, diarrhoea. With diarrhoea drink plenty of fluids. If you take the combined or progestogen-only pill and have severe watery diarrhoea or diarrhoea lasting over 24 hours, the pill may not protect against pregnancy (NHS).",
+    "Rare but serious: diarrhoea with blood or mucus; pale poo, dark pee or yellow skin or eyes; unusual bruising; joint or muscle pain starting about 2 days into treatment; a rash with circular red patches and a high temperature. Stop it and call a doctor (NHS).",
+    "A delayed allergic reaction can appear about 7 to 12 days after taking the capsules, usually a mild rash, sometimes with fever, joint pain or swollen glands (NHS)."
+   ],
+   "pregnancy": [
+    "The NHS says it is safe to take amoxicillin during pregnancy, and to check with a pharmacist or doctor first.",
+    "While breastfeeding it is OK to take: only tiny amounts get into breast milk. Rarely a baby has mild diarrhoea, drowsiness or a rash. Seek advice if the baby feeds poorly, is sick, has diarrhoea, thrush or a rash, or is sleepier than usual (NHS)."
+   ],
+   "urgent": [
+    "Get urgent help at the nearest health facility for signs of a severe allergic reaction: sudden swelling of the lips, mouth, throat or tongue; very fast or difficult breathing; a tight throat; blue, grey or pale skin or lips; sudden confusion, drowsiness or dizziness; fainting; or a limp, unresponsive child. The NHS says to call 999 in the UK."
+   ],
+   "open_points": [
+    "Doses for children by age or weight are not given. The WHO and national child-pneumonia guidance should be added once readable.",
+    "The length of treatment for each infection is not given on the NHS page.",
+    "The NHS pages describe UK products and UK emergency numbers. Strengths, brands and local guidance in Sierra Leone still need checking by the reviewer.",
+    "The Sierra Leone Standard Treatment Guidelines have not been checked."
+   ]
+  },
+  "fr": {
+   "name": "Amoxicilline",
+   "what_it_is": [
+    "Un antibiotique utilisé pour traiter les infections bactériennes (NHS)."
+   ],
+   "used_for": [
+    "Le NHS cite l'infection de la poitrine, l'abcès dentaire, les infections de l'oreille et l'ulcère de l'estomac."
+   ],
+   "how_used": [
+    "Gélules : la dose habituelle sur la page du NHS est de 250 mg à 500 mg, 3 fois par jour. La page n'indique pas explicitement qu'il s'agit de la dose adulte.",
+    "Le liquide existe en 125 mg par 5 ml ou 250 mg par 5 ml (NHS). Le mesurer avec la seringue ou la cuillère fournie, pas avec une cuillère de cuisine.",
+    "Enfants : le NHS indique que la dose peut être plus faible mais ne donne pas de dose selon l'âge ou le poids. Suivre la notice ou demander à un professionnel de santé.",
+    "Répartir les prises régulièrement dans la journée. Il peut être pris avec ou sans repas. Avaler les gélules entières avec de l'eau.",
+    "Terminer le traitement complet même si l'on se sent mieux. Prévenir un médecin si l'on ne va pas mieux après 3 à 5 jours, ou si l'on se sent plus mal à tout moment (NHS). La page n'indique pas la durée totale du traitement.",
+    "Dose oubliée : la prendre dès que l'on s'en souvient, sauf si la prochaine prise est proche. Ne jamais prendre deux doses à la fois."
+   ],
+   "who_careful": [
+    "Prévenir un médecin avant de commencer si vous avez déjà eu une réaction allergique à l'amoxicilline, à la pénicilline ou à un autre médicament (NHS).",
+    "Le dire aussi en cas de problèmes de foie ou de reins, d'analyses de sang ou d'urine prévues, de vaccination récente ou prévue, ou de mononucléose (elle peut provoquer une éruption) (NHS)."
+   ],
+   "other_medicines": [
+    "Le NHS cite des médicaments qui peuvent interagir : le méthotrexate, la warfarine, les médicaments contre la goutte probénécide et allopurinol, et d'autres antibiotiques. La liste n'est pas complète.",
+    "Il n'y a pas assez d'informations pour dire que les plantes et compléments sont sans danger avec ce médicament."
+   ],
+   "side_effects": [
+    "Fréquents (jusqu'à 1 personne sur 10) : éruption cutanée, nausées, diarrhée. En cas de diarrhée, boire beaucoup. Si vous prenez la pilule combinée ou progestative et avez une diarrhée aqueuse sévère ou de plus de 24 heures, la pilule peut ne pas protéger contre la grossesse (NHS).",
+    "Rares mais graves : diarrhée avec du sang ou du mucus ; selles pâles, urines foncées ou peau ou yeux jaunes ; ecchymoses inhabituelles ; douleurs articulaires ou musculaires environ 2 jours après le début ; éruption avec des plaques rouges circulaires et forte fièvre. L'arrêter et appeler un médecin (NHS).",
+    "Une réaction allergique tardive peut apparaître environ 7 à 12 jours après la prise des gélules, le plus souvent une éruption légère, parfois avec fièvre, douleurs articulaires ou ganglions gonflés (NHS)."
+   ],
+   "pregnancy": [
+    "Le NHS indique que l'amoxicilline est sans danger pendant la grossesse, et de demander d'abord conseil à un pharmacien ou un médecin.",
+    "Pendant l'allaitement, c'est possible : seules de très petites quantités passent dans le lait. Rarement, le bébé a une diarrhée légère, de la somnolence ou une éruption. Demander conseil si le bébé tète mal, vomit, a la diarrhée, du muguet ou une éruption, ou est plus endormi que d'habitude (NHS)."
+   ],
+   "urgent": [
+    "Chercher une aide urgente au centre de santé le plus proche en cas de signes d'allergie grave : gonflement soudain des lèvres, de la bouche, de la gorge ou de la langue ; respiration très rapide ou difficile ; gorge serrée ; peau ou lèvres bleues, grises ou pâles ; confusion, somnolence ou vertiges soudains ; évanouissement ; ou enfant mou et sans réaction. Le NHS indique d'appeler le 999 au Royaume-Uni."
+   ],
+   "open_points": [
+    "Les doses pour les enfants selon l'âge ou le poids ne sont pas données. Les recommandations de l'OMS et nationales sur la pneumonie de l'enfant doivent être ajoutées une fois lisibles.",
+    "La durée du traitement pour chaque infection n'est pas donnée sur la page du NHS.",
+    "Les pages du NHS décrivent des produits et des numéros d'urgence du Royaume-Uni. Les dosages, les marques et les recommandations locales en Sierra Leone doivent encore être vérifiés par le relecteur.",
+    "Les directives nationales de traitement de la Sierra Leone n'ont pas été vérifiées."
+   ]
+  }
+ },
+ {
+  "slug": "metronidazole",
+  "status": "draft",
+  "last_checked": "2026-11-01",
+  "diseases": [
+   "bacterial_vaginosis",
+   "pelvic_inflammatory_disease",
+   "tooth_decay_abscess"
+  ],
+  "sources": [
+   {
+    "title": "NHS: Metronidazole (overview)",
+    "url": "https://www.nhs.uk/medicines/metronidazole/"
+   },
+   {
+    "title": "NHS: How and when to take or use metronidazole",
+    "url": "https://www.nhs.uk/medicines/metronidazole/how-and-when-to-take-or-use-metronidazole/"
+   },
+   {
+    "title": "NHS: Who can and cannot take metronidazole",
+    "url": "https://www.nhs.uk/medicines/metronidazole/who-can-and-cannot-take-metronidazole/"
+   },
+   {
+    "title": "NHS: Side effects of metronidazole",
+    "url": "https://www.nhs.uk/medicines/metronidazole/side-effects-of-metronidazole/"
+   },
+   {
+    "title": "NHS: Taking metronidazole with other medicines and herbal supplements",
+    "url": "https://www.nhs.uk/medicines/metronidazole/taking-metronidazole-with-other-medicines-and-herbal-supplements/"
+   }
+  ],
+  "en": {
+   "name": "Metronidazole",
+   "what_it_is": [
+    "An antibiotic medicine used to treat infections (NHS)."
+   ],
+   "used_for": [
+    "The NHS lists bacterial vaginosis, dental abscess, gum disease, pelvic inflammatory disease and rosacea."
+   ],
+   "how_used": [
+    "The NHS page gives no milligram amounts. It says some infections need a single dose and others a 2-week course, usually 2 or 3 times a day (tablets, liquid or suppositories).",
+    "Vaginal gel for bacterial vaginosis: one applicator full every night for 5 nights (NHS).",
+    "Children: the dose is lower and based on age or weight. No figures are given on the NHS page.",
+    "Tablets: swallow whole with water, with or just after food. Liquid: take without food (NHS).",
+    "Carry on until the course is finished, even if you feel better (NHS)."
+   ],
+   "who_careful": [
+    "Tell a doctor if you have had an allergic reaction to metronidazole or another medicine, are pregnant or breastfeeding, think you may be unable to stop drinking alcohol during treatment, or are having blood tests (NHS).",
+    "For tablets, liquid or suppositories, also tell them if you are on dialysis, have liver problems or have a disease of the nervous system. For the vaginal gel, tell them if you may have vaginal thrush or your period is due (NHS)."
+   ],
+   "other_medicines": [
+    "The NHS page on other medicines names disulfiram as one to check with a doctor or pharmacist. It gives no details."
+   ],
+   "side_effects": [
+    "Common: feeling or being sick, diarrhoea, a metallic taste or furry tongue. Contact a doctor if sickness or diarrhoea lasts more than 24 hours (NHS).",
+    "Rare but serious (under 1 in 1,000): yellow skin or eyes; unexpected infections, mouth ulcers, bruising, bleeding gums or extreme tiredness; severe stomach pain that may spread to the back; blurred or double vision. Stop it and call a doctor (NHS)."
+   ],
+   "pregnancy": [
+    "The NHS tells people who are pregnant or breastfeeding to tell their doctor before using it. The NHS pregnancy page could not be read, so no further advice is given here."
+   ],
+   "urgent": [
+    "Get urgent help at the nearest health facility for: headache with high temperature, stiff neck, feeling unwell and sensitivity to bright light (possible meningitis); hallucinations, confusion or trouble speaking (stop the medicine); or signs of a severe allergic reaction (swelling of lips, mouth, throat or tongue, difficult breathing, tight throat, blue or grey skin, sudden confusion, fainting). The NHS says to call 999 in the UK."
+   ],
+   "open_points": [
+    "The NHS pages do not list amoebiasis, giardiasis or trichomoniasis, which metronidazole is also used for in many countries. A source for these uses (for example WHO or CDC) has not been added yet, so those diseases are not linked.",
+    "Milligram doses are not on the NHS page. They should be added from the WHO or the national guideline.",
+    "The NHS interaction page did not state the alcohol warning, so none is given here. The reviewer should check the leaflet and add it with a source.",
+    "The NHS pages describe UK products and UK emergency numbers. Strengths, brands and local guidance in Sierra Leone still need checking by the reviewer."
+   ]
+  },
+  "fr": {
+   "name": "Métronidazole",
+   "what_it_is": [
+    "Un antibiotique utilisé pour traiter des infections (NHS)."
+   ],
+   "used_for": [
+    "Le NHS cite la vaginose bactérienne, l'abcès dentaire, la maladie des gencives, l'infection pelvienne et la rosacée."
+   ],
+   "how_used": [
+    "La page du NHS ne donne pas de doses en milligrammes. Elle indique que certaines infections demandent une dose unique et d'autres un traitement de 2 semaines, le plus souvent 2 ou 3 fois par jour (comprimés, liquide ou suppositoires).",
+    "Gel vaginal pour la vaginose bactérienne : un applicateur plein chaque soir pendant 5 nuits (NHS).",
+    "Enfants : la dose est plus faible et dépend de l'âge ou du poids. Aucun chiffre n'est donné sur la page du NHS.",
+    "Comprimés : avaler entiers avec de l'eau, pendant ou juste après un repas. Liquide : prendre sans nourriture (NHS).",
+    "Continuer jusqu'à la fin du traitement, même si l'on se sent mieux (NHS)."
+   ],
+   "who_careful": [
+    "Prévenir un médecin en cas de réaction allergique passée au métronidazole ou à un autre médicament, de grossesse ou d'allaitement, si vous pensez ne pas pouvoir vous abstenir d'alcool pendant le traitement, ou si vous avez des analyses de sang (NHS).",
+    "Pour les comprimés, le liquide ou les suppositoires, le dire aussi en cas de dialyse, de problèmes de foie ou de maladie du système nerveux. Pour le gel vaginal, le dire en cas de possible muguet vaginal ou de règles prévues (NHS)."
+   ],
+   "other_medicines": [
+    "La page du NHS sur les autres médicaments cite le disulfirame comme un médicament à vérifier avec un médecin ou un pharmacien. Elle ne donne pas de détails."
+   ],
+   "side_effects": [
+    "Fréquents : nausées ou vomissements, diarrhée, goût métallique ou langue chargée. Consulter si les nausées ou la diarrhée durent plus de 24 heures (NHS).",
+    "Rares mais graves (moins de 1 sur 1 000) : peau ou yeux jaunes ; infections inattendues, aphtes, ecchymoses, saignement des gencives ou grande fatigue ; douleur sévère au ventre pouvant irradier dans le dos ; vision floue ou double. L'arrêter et appeler un médecin (NHS)."
+   ],
+   "pregnancy": [
+    "Le NHS demande aux femmes enceintes ou qui allaitent de prévenir leur médecin avant de l'utiliser. La page du NHS sur la grossesse n'a pas pu être lue, donc aucun autre conseil n'est donné ici."
+   ],
+   "urgent": [
+    "Chercher une aide urgente au centre de santé le plus proche en cas de : mal de tête avec forte fièvre, raideur de la nuque, malaise et sensibilité à la lumière vive (méningite possible) ; hallucinations, confusion ou difficulté à parler (arrêter le médicament) ; ou signes d'allergie grave (gonflement des lèvres, de la bouche, de la gorge ou de la langue, respiration difficile, gorge serrée, peau bleue ou grise, confusion soudaine, évanouissement). Le NHS indique d'appeler le 999 au Royaume-Uni."
+   ],
+   "open_points": [
+    "Les pages du NHS ne citent pas l'amibiase, la giardiase ni la trichomonase, pour lesquelles le métronidazole est aussi utilisé dans de nombreux pays. Une source pour ces usages (par exemple l'OMS ou le CDC) n'a pas encore été ajoutée, donc ces maladies ne sont pas liées.",
+    "Les doses en milligrammes ne figurent pas sur la page du NHS. Elles doivent être ajoutées à partir de l'OMS ou de la directive nationale.",
+    "La page du NHS sur les interactions n'indique pas d'avertissement sur l'alcool, donc aucun n'est donné ici. Le relecteur doit vérifier la notice et l'ajouter avec une source.",
+    "Les pages du NHS décrivent des produits et des numéros d'urgence du Royaume-Uni. Les dosages, les marques et les recommandations locales en Sierra Leone doivent encore être vérifiés par le relecteur."
+   ]
+  }
+ },
+ {
+  "slug": "ibuprofen",
+  "status": "draft",
+  "last_checked": "2026-11-01",
+  "diseases": [
+   "migraine",
+   "tension_headache",
+   "menstrual_cramps",
+   "back_pain_muscular",
+   "tooth_decay_abscess"
+  ],
+  "sources": [
+   {
+    "title": "NHS: Ibuprofen for adults (last reviewed 27 August 2025)",
+    "url": "https://www.nhs.uk/medicines/ibuprofen-for-adults/"
+   }
+  ],
+  "en": {
+   "name": "Ibuprofen",
+   "what_it_is": [
+    "A painkiller of the type called non-steroidal anti-inflammatory drug (NSAID) (NHS). This entry covers the adult use described by the NHS (age 18 or over)."
+   ],
+   "used_for": [
+    "The NHS lists headaches and migraines, joint and muscle pain, pain after an injury, toothache, period pain, and lowering a high temperature.",
+    "The NHS advises trying paracetamol first if you can take it, because ibuprofen can cause more side effects."
+   ],
+   "how_used": [
+    "Adults, 200 mg tablets or capsules: 1 or 2 whole with water, up to 3 times a day, at least 4 hours apart, no more than 6 in 24 hours (NHS).",
+    "Adults, 400 mg tablets or capsules: 1 whole, up to 3 times a day, at least 4 hours apart, no more than 3 in 24 hours (NHS).",
+    "Do not take tablets or capsules for more than 10 days unless a doctor advises it. See a health worker if pain gets worse or does not go away (NHS).",
+    "Doses for liquids, granules and long-acting or dissolving tablets are not given: follow the packet. Doses for children are not covered here."
+   ],
+   "who_careful": [
+    "The NHS says it is not suitable if you have had an allergic reaction to ibuprofen, aspirin or another NSAID; have or have had a stomach ulcer; have asthma or allergies such as hay fever; have chickenpox; have a heart, liver or kidney condition; have blood clotting problems; have had a stroke; or are pregnant or trying to conceive."
+   ],
+   "other_medicines": [
+    "May not mix well with: anticoagulants such as warfarin, steroid medicines, antidepressants and blood-pressure medicines (NHS).",
+    "Do not take it with other NSAIDs such as naproxen or aspirin: the risk of serious side effects rises. It can be taken with paracetamol if needed. Try to avoid large amounts of alcohol (NHS)."
+   ],
+   "side_effects": [
+    "Common: indigestion and stomach aches, feeling or being sick, headaches, rash, dizziness, diarrhoea or constipation (NHS).",
+    "Serious and mostly rare: stomach ulcers or internal bleeding, severe allergic reaction, and kidney problems. The risk is higher with high doses or long-term use (NHS)."
+   ],
+   "pregnancy": [
+    "The NHS says to avoid ibuprofen in pregnancy unless a doctor or pharmacist advises otherwise. Paracetamol is usually the best painkiller in pregnancy.",
+    "Breastfeeding: check with a pharmacist or doctor first. Paracetamol is usually preferred, but ibuprofen can often be used if needed (NHS)."
+   ],
+   "urgent": [
+    "If someone has taken more than the packet says, or you suspect a serious side effect, get urgent help at the nearest health facility. The NHS advises calling NHS 111 in the UK."
+   ],
+   "open_points": [
+    "Doses for children are not included. The NHS page covers adults only.",
+    "The NHS lists 'joint and muscle pain' in general. Only muscular back pain is linked here; osteoarthritis and other conditions have not been matched to a source.",
+    "The NHS pages describe UK products and UK emergency numbers. Strengths, brands and local guidance in Sierra Leone still need checking by the reviewer."
+   ]
+  },
+  "fr": {
+   "name": "Ibuprofène",
+   "what_it_is": [
+    "Un antalgique de la famille des anti-inflammatoires non stéroïdiens (AINS) (NHS). Cette fiche porte sur l'usage adulte décrit par le NHS (18 ans ou plus)."
+   ],
+   "used_for": [
+    "Le NHS cite les maux de tête et migraines, les douleurs articulaires et musculaires, la douleur après une blessure, le mal de dents, les règles douloureuses et la baisse d'une forte température.",
+    "Le NHS conseille d'essayer d'abord le paracétamol si l'on peut en prendre, car l'ibuprofène peut causer plus d'effets indésirables."
+   ],
+   "how_used": [
+    "Adultes, comprimés ou gélules de 200 mg : 1 ou 2 entiers avec de l'eau, jusqu'à 3 fois par jour, espacés d'au moins 4 heures, pas plus de 6 en 24 heures (NHS).",
+    "Adultes, comprimés ou gélules de 400 mg : 1 entier, jusqu'à 3 fois par jour, espacés d'au moins 4 heures, pas plus de 3 en 24 heures (NHS).",
+    "Ne pas prendre les comprimés ou gélules plus de 10 jours sauf avis d'un médecin. Consulter si la douleur s'aggrave ou ne passe pas (NHS).",
+    "Les doses pour les liquides, les granulés et les comprimés à libération prolongée ou orodispersibles ne sont pas données : suivre la notice. Les doses pour les enfants ne sont pas couvertes ici."
+   ],
+   "who_careful": [
+    "Le NHS indique qu'il ne convient pas en cas de réaction allergique à l'ibuprofène, à l'aspirine ou à un autre AINS ; d'ulcère de l'estomac actuel ou passé ; d'asthme ou d'allergies comme le rhume des foins ; de varicelle ; de maladie du cœur, du foie ou des reins ; de troubles de la coagulation ; d'accident vasculaire cérébral passé ; ou de grossesse ou de désir de grossesse."
+   ],
+   "other_medicines": [
+    "Peut mal se combiner avec : les anticoagulants comme la warfarine, les corticoïdes, les antidépresseurs et les médicaments contre l'hypertension (NHS).",
+    "Ne pas le prendre avec d'autres AINS comme le naproxène ou l'aspirine : le risque d'effets graves augmente. Il peut être pris avec du paracétamol si besoin. Éviter de grandes quantités d'alcool (NHS)."
+   ],
+   "side_effects": [
+    "Fréquents : indigestion et maux de ventre, nausées ou vomissements, maux de tête, éruption, vertiges, diarrhée ou constipation (NHS).",
+    "Graves et surtout rares : ulcères de l'estomac ou saignement interne, allergie grave et problèmes de reins. Le risque est plus élevé avec de fortes doses ou une utilisation prolongée (NHS)."
+   ],
+   "pregnancy": [
+    "Le NHS indique d'éviter l'ibuprofène pendant la grossesse sauf avis d'un médecin ou d'un pharmacien. Le paracétamol est généralement le meilleur antalgique pendant la grossesse.",
+    "Allaitement : demander d'abord conseil à un pharmacien ou un médecin. Le paracétamol est généralement préféré, mais l'ibuprofène peut souvent être utilisé si besoin (NHS)."
+   ],
+   "urgent": [
+    "Si quelqu'un a pris plus que la notice ne l'indique, ou si vous soupçonnez un effet indésirable grave, chercher une aide urgente au centre de santé le plus proche. Le NHS conseille d'appeler le 111 au Royaume-Uni."
+   ],
+   "open_points": [
+    "Les doses pour les enfants ne sont pas incluses. La page du NHS ne concerne que les adultes.",
+    "Le NHS cite de façon générale « douleurs articulaires et musculaires ». Seules les douleurs musculaires du dos sont liées ici ; l'arthrose et d'autres maladies n'ont pas été reliées à une source.",
+    "Les pages du NHS décrivent des produits et des numéros d'urgence du Royaume-Uni. Les dosages, les marques et les recommandations locales en Sierra Leone doivent encore être vérifiés par le relecteur."
+   ]
+  }
+ },
+ {
+  "slug": "doxycycline",
+  "status": "draft",
+  "last_checked": "2026-11-01",
+  "diseases": [
+   "sti_gonorrhea_chlamydia",
+   "uti",
+   "pneumonia",
+   "malaria"
+  ],
+  "sources": [
+   {
+    "title": "NHS: Doxycycline",
+    "url": "https://www.nhs.uk/medicines/doxycycline/"
+   }
+  ],
+  "en": {
+   "name": "Doxycycline",
+   "what_it_is": [
+    "An antibiotic available only with a prescription (NHS)."
+   ],
+   "used_for": [
+    "The NHS lists bacterial infections including some urinary tract infections, sexually transmitted infections, chest infections and gum infections.",
+    "It is also sometimes used for acne and rosacea, and to prevent malaria when travelling to areas where malaria is common (NHS)."
+   ],
+   "how_used": [
+    "The NHS page gives no milligram doses. It says most people take it once or twice a day for a few days or weeks, depending on the reason. Follow the packet or leaflet and the prescriber."
+   ],
+   "who_careful": [
+    "The NHS says most adults and children aged 12 years or over can take it. It is not usually given to younger children because it can affect how their teeth develop.",
+    "Tell the prescriber if you have had an allergic reaction to doxycycline or another antibiotic, have a liver or kidney condition, lupus or myasthenia gravis, have problems with alcohol dependence, or are pregnant or breastfeeding (NHS)."
+   ],
+   "other_medicines": [
+    "May not mix well with: anticoagulants such as warfarin, antacids and other indigestion treatments, acne medicines, and medicines or supplements containing iron or zinc (NHS). The page does not explain how far apart to take them."
+   ],
+   "side_effects": [
+    "Common: headaches, feeling sick, being sick, rash (NHS).",
+    "Serious: severe allergic reaction, sensitivity of the skin to the sun (rash, itching, redness; this may be harder to see on brown or black skin), bowel inflammation (stomach ache and bloody diarrhoea), and blood-cell changes (tiredness, easy bruising, frequent illness) (NHS)."
+   ],
+   "pregnancy": [
+    "Not usually used in pregnancy because it can affect the baby's teeth. A doctor may recommend it if the benefits outweigh the risks; the NHS says risks are lower if taken early, within the first 13 weeks.",
+    "Not usually used while breastfeeding because of a risk of side effects in the baby or effects on teeth. A doctor may recommend it for short-term use if the benefits outweigh the risks (NHS)."
+   ],
+   "urgent": [
+    "If someone has taken more than prescribed, or has signs of a serious side effect, get urgent help at the nearest health facility. The NHS advises calling NHS 111 in the UK."
+   ],
+   "open_points": [
+    "Doses are not given because the NHS page has none. They should be added from the WHO or the national guideline for each use.",
+    "Use in cholera, plague, leptospirosis, brucellosis and scrub typhus is common in guidelines, but no source has been read for these yet, so those diseases are not linked.",
+    "The NHS page mentions malaria prevention for travellers only. Its use for malaria in people who live in endemic areas needs a separate source.",
+    "The NHS pages describe UK products and UK emergency numbers. Strengths, brands and local guidance in Sierra Leone still need checking by the reviewer."
+   ]
+  },
+  "fr": {
+   "name": "Doxycycline",
+   "what_it_is": [
+    "Un antibiotique disponible uniquement sur ordonnance (NHS)."
+   ],
+   "used_for": [
+    "Le NHS cite les infections bactériennes, notamment certaines infections urinaires, infections sexuellement transmissibles, infections de la poitrine et infections des gencives.",
+    "Il est aussi parfois utilisé contre l'acné et la rosacée, et pour prévenir le paludisme en voyage dans les zones où il est fréquent (NHS)."
+   ],
+   "how_used": [
+    "La page du NHS ne donne pas de doses en milligrammes. Elle indique que la plupart des gens le prennent une ou deux fois par jour pendant quelques jours ou semaines, selon le motif. Suivre la notice et le prescripteur."
+   ],
+   "who_careful": [
+    "Le NHS indique que la plupart des adultes et des enfants de 12 ans ou plus peuvent le prendre. Il n'est généralement pas donné aux enfants plus jeunes car il peut affecter le développement des dents.",
+    "Prévenir le prescripteur en cas de réaction allergique à la doxycycline ou à un autre antibiotique, de maladie du foie ou des reins, de lupus ou de myasthénie, de dépendance à l'alcool, ou de grossesse ou d'allaitement (NHS)."
+   ],
+   "other_medicines": [
+    "Peut mal se combiner avec : les anticoagulants comme la warfarine, les antiacides et autres traitements de l'indigestion, les médicaments contre l'acné, et les médicaments ou compléments contenant du fer ou du zinc (NHS). La page n'explique pas l'espacement à respecter."
+   ],
+   "side_effects": [
+    "Fréquents : maux de tête, nausées, vomissements, éruption (NHS).",
+    "Graves : allergie grave, sensibilité de la peau au soleil (éruption, démangeaisons, rougeur ; plus difficile à voir sur une peau brune ou noire), inflammation de l'intestin (douleur au ventre et diarrhée sanglante) et modifications des cellules du sang (fatigue, ecchymoses faciles, maladies fréquentes) (NHS)."
+   ],
+   "pregnancy": [
+    "Généralement non utilisé pendant la grossesse car il peut affecter les dents du bébé. Un médecin peut le recommander si les bénéfices dépassent les risques ; le NHS indique que les risques sont plus faibles s'il est pris tôt, dans les 13 premières semaines.",
+    "Généralement non utilisé pendant l'allaitement en raison d'un risque d'effets chez le bébé ou sur les dents. Un médecin peut le recommander pour une courte durée si les bénéfices dépassent les risques (NHS)."
+   ],
+   "urgent": [
+    "Si quelqu'un a pris plus que la dose prescrite, ou a des signes d'effet grave, chercher une aide urgente au centre de santé le plus proche. Le NHS conseille d'appeler le 111 au Royaume-Uni."
+   ],
+   "open_points": [
+    "Les doses ne sont pas données car la page du NHS n'en contient pas. Elles doivent être ajoutées à partir de l'OMS ou de la directive nationale pour chaque usage.",
+    "L'usage dans le choléra, la peste, la leptospirose, la brucellose et le typhus des broussailles est courant dans les recommandations, mais aucune source n'a encore été lue pour eux, donc ces maladies ne sont pas liées.",
+    "La page du NHS ne mentionne la prévention du paludisme que pour les voyageurs. Son usage contre le paludisme chez les personnes vivant en zone d'endémie demande une source distincte.",
+    "Les pages du NHS décrivent des produits et des numéros d'urgence du Royaume-Uni. Les dosages, les marques et les recommandations locales en Sierra Leone doivent encore être vérifiés par le relecteur."
+   ]
+  }
+ },
+ {
+  "slug": "ferrous-sulfate",
+  "status": "draft",
+  "last_checked": "2026-11-01",
+  "diseases": [
+   "iron_deficiency_anemia"
+  ],
+  "sources": [
+   {
+    "title": "NHS: Ferrous sulfate (overview)",
+    "url": "https://www.nhs.uk/medicines/ferrous-sulfate/"
+   },
+   {
+    "title": "NHS: How and when to take ferrous sulfate",
+    "url": "https://www.nhs.uk/medicines/ferrous-sulfate/how-and-when-to-take-ferrous-sulfate/"
+   },
+   {
+    "title": "NHS: Who can and cannot take ferrous sulfate",
+    "url": "https://www.nhs.uk/medicines/ferrous-sulfate/who-can-and-cannot-take-ferrous-sulfate/"
+   },
+   {
+    "title": "NHS: Side effects of ferrous sulfate",
+    "url": "https://www.nhs.uk/medicines/ferrous-sulfate/side-effects-of-ferrous-sulfate/"
+   },
+   {
+    "title": "WHO eLENA: Daily iron supplementation in pregnant women",
+    "url": "https://www.who.int/tools/elena/interventions/daily-iron-pregnancy"
+   }
+  ],
+  "en": {
+   "name": "Ferrous sulfate (iron tablets)",
+   "what_it_is": [
+    "An iron medicine used to treat and prevent iron deficiency anaemia (NHS)."
+   ],
+   "used_for": [
+    "Treating and preventing iron deficiency anaemia (NHS)."
+   ],
+   "how_used": [
+    "Adults, to treat anaemia, 200 mg tablets: usually one tablet once a day, though a doctor may prescribe 2 to 3 times a day. If side effects occur a doctor may suggest taking it every other day (NHS).",
+    "Adults, to prevent anaemia, 200 mg tablets: one tablet once a day (NHS).",
+    "Children: the NHS says a doctor sets the dose from age and blood results (weight too under 12). It gives no numeric child dose, so none is given here.",
+    "Best taken on an empty stomach, about 30 minutes before eating or 2 hours after. Take it with or after food if it upsets the stomach. Vitamin C or orange juice may help absorption. Avoid tea, coffee, eggs and dairy within 2 hours (NHS).",
+    "In pregnancy, the WHO recommends 30 mg to 60 mg of elemental iron daily together with 400 µg of folic acid. The WHO page gives no length of course (WHO eLENA)."
+   ],
+   "who_careful": [
+    "The NHS says most adults and some children aged 12 and over can take it with a doctor's or pharmacist's advice. Speak to a doctor first if you have had an allergic reaction to it; have an anaemia not caused by low iron; have haemochromatosis or haemosiderosis; have sickle cell anaemia or thalassaemia; have a stomach ulcer, stomach surgery or bowel disease; receive repeated blood transfusions; or have blood in your urine."
+   ],
+   "other_medicines": [
+    "The NHS interaction page was not read, so no medicine interactions are listed here. The NHS doxycycline page lists iron among products that may not mix well with doxycycline."
+   ],
+   "side_effects": [
+    "Common: feeling or being sick, stomach discomfort or heartburn, loss of appetite, constipation, diarrhoea, darker poo (usually not a concern) and black-stained teeth (NHS).",
+    "Serious: black, tar-like or red stools, or blood in or on the stool: talk to a doctor straight away, especially if you feel unwell. Rarely, a severe allergic reaction (NHS)."
+   ],
+   "pregnancy": [
+    "The NHS pregnancy page for ferrous sulfate was not read. The WHO recommends iron and folic acid in pregnancy as described under 'How it is used'."
+   ],
+   "urgent": [
+    "Taking more than the recommended dose can cause vomiting, stomach pain or diarrhoea. Serious cases can involve vomiting blood, seizure or unconsciousness. Get urgent help at the nearest health facility. Keep iron tablets out of the sight and reach of children: an overdose may be fatal (NHS)."
+   ],
+   "open_points": [
+    "The NHS page gives no numeric child dose and no maximum daily dose. Child doses should be added from WHO or national guidance.",
+    "The WHO eLENA page does not give a year for its recommendation; it says it replaces the 2012 WHO guideline on daily iron and folic acid in pregnant women.",
+    "Where malaria is common, advice on iron in children is not covered here.",
+    "The NHS pages describe UK products and UK emergency numbers. Strengths, brands and local guidance in Sierra Leone still need checking by the reviewer."
+   ]
+  },
+  "fr": {
+   "name": "Sulfate ferreux (comprimés de fer)",
+   "what_it_is": [
+    "Un médicament à base de fer utilisé pour traiter et prévenir l'anémie par manque de fer (NHS)."
+   ],
+   "used_for": [
+    "Traiter et prévenir l'anémie par manque de fer (NHS)."
+   ],
+   "how_used": [
+    "Adultes, pour traiter l'anémie, comprimés de 200 mg : en général un comprimé une fois par jour, mais un médecin peut prescrire 2 à 3 fois par jour. En cas d'effets indésirables, un médecin peut proposer de le prendre un jour sur deux (NHS).",
+    "Adultes, pour prévenir l'anémie, comprimés de 200 mg : un comprimé une fois par jour (NHS).",
+    "Enfants : le NHS indique qu'un médecin fixe la dose selon l'âge et les résultats sanguins (le poids aussi avant 12 ans). Il ne donne pas de dose chiffrée pour l'enfant, donc aucune n'est donnée ici.",
+    "Idéalement pris à jeun, environ 30 minutes avant un repas ou 2 heures après. Le prendre pendant ou après un repas s'il irrite l'estomac. La vitamine C ou le jus d'orange peut aider l'absorption. Éviter le thé, le café, les œufs et les produits laitiers dans les 2 heures (NHS).",
+    "Pendant la grossesse, l'OMS recommande 30 mg à 60 mg de fer élémentaire par jour avec 400 µg d'acide folique. La page de l'OMS ne donne pas de durée de traitement (OMS eLENA)."
+   ],
+   "who_careful": [
+    "Le NHS indique que la plupart des adultes et certains enfants de 12 ans et plus peuvent le prendre avec l'avis d'un médecin ou d'un pharmacien. Demander d'abord l'avis d'un médecin en cas de réaction allergique passée ; d'anémie non due à un manque de fer ; d'hémochromatose ou d'hémosidérose ; de drépanocytose ou de thalassémie ; d'ulcère de l'estomac, de chirurgie de l'estomac ou de maladie de l'intestin ; de transfusions répétées ; ou de sang dans les urines."
+   ],
+   "other_medicines": [
+    "La page du NHS sur les interactions n'a pas été lue, donc aucune interaction médicamenteuse n'est listée ici. La page du NHS sur la doxycycline cite le fer parmi les produits qui peuvent mal se combiner avec la doxycycline."
+   ],
+   "side_effects": [
+    "Fréquents : nausées ou vomissements, gêne à l'estomac ou brûlures, perte d'appétit, constipation, diarrhée, selles plus foncées (généralement sans gravité) et dents tachées en noir (NHS).",
+    "Graves : selles noires comme du goudron ou rouges, ou sang dans ou sur les selles : consulter sans attendre, surtout si l'on se sent mal. Rarement, une allergie grave (NHS)."
+   ],
+   "pregnancy": [
+    "La page du NHS sur la grossesse pour le sulfate ferreux n'a pas été lue. L'OMS recommande le fer et l'acide folique pendant la grossesse comme décrit sous « Comment il s'utilise »."
+   ],
+   "urgent": [
+    "Prendre plus que la dose recommandée peut causer des vomissements, des douleurs au ventre ou de la diarrhée. Les cas graves peuvent comporter des vomissements de sang, des convulsions ou une perte de connaissance. Chercher une aide urgente au centre de santé le plus proche. Garder les comprimés de fer hors de la vue et de la portée des enfants : une surdose peut être mortelle (NHS)."
+   ],
+   "open_points": [
+    "La page du NHS ne donne ni dose chiffrée pour l'enfant ni dose maximale par jour. Les doses pour l'enfant doivent être ajoutées à partir de l'OMS ou des recommandations nationales.",
+    "La page eLENA de l'OMS ne donne pas d'année pour sa recommandation ; elle indique qu'elle remplace la directive OMS de 2012 sur le fer et l'acide folique quotidiens chez la femme enceinte.",
+    "Là où le paludisme est fréquent, les conseils sur le fer chez l'enfant ne sont pas couverts ici.",
+    "Les pages du NHS décrivent des produits et des numéros d'urgence du Royaume-Uni. Les dosages, les marques et les recommandations locales en Sierra Leone doivent encore être vérifiés par le relecteur."
+   ]
+  }
+ },
+ {
+  "slug": "folic-acid",
+  "status": "draft",
+  "last_checked": "2026-11-01",
+  "diseases": [],
+  "sources": [
+   {
+    "title": "NHS: Folic acid",
+    "url": "https://www.nhs.uk/medicines/folic-acid/"
+   },
+   {
+    "title": "WHO eLENA: Daily iron supplementation in pregnant women",
+    "url": "https://www.who.int/tools/elena/interventions/daily-iron-pregnancy"
+   }
+  ],
+  "en": {
+   "name": "Folic acid (vitamin B9)",
+   "what_it_is": [
+    "A man-made form of vitamin B9, also called folate. It comes as tablets, a liquid, or in multivitamins (NHS)."
+   ],
+   "used_for": [
+    "The NHS lists: treating folate deficiency anaemia; helping a baby's brain, skull and spinal cord develop properly and lowering the risk of spina bifida; stopping folate levels getting too low during dialysis; and preventing side effects of methotrexate."
+   ],
+   "how_used": [
+    "The NHS page gives no milligram doses: it depends on the type and the reason. Follow the prescriber.",
+    "In pregnancy, the NHS says to take a supplement for the first 12 weeks, and if planning a pregnancy to start before conception, ideally 3 months before. Some women need a higher dose: ask a pharmacist, midwife or doctor (NHS).",
+    "The WHO recommends 400 µg (0.4 mg) of folic acid daily with 30 mg to 60 mg of elemental iron in pregnancy, started as early as possible, ideally before conception, to prevent neural tube defects. The page gives no length of course (WHO eLENA).",
+    "Missed dose: take it as soon as you remember, then the next at the usual time. Do not take two doses to make up (NHS)."
+   ],
+   "who_careful": [
+    "May not be suitable if you have had an allergic reaction to it, have vitamin B12 deficiency or pernicious anaemia, have a coronary stent, or have cancer (NHS).",
+    "Tablets or liquid can usually be taken by most adults and children over 12 months. Multivitamins with folic acid are not recommended for children under 12 (NHS)."
+   ],
+   "other_medicines": [
+    "May not mix well with epilepsy medicines (phenytoin, phenobarbital, primidone), the antibiotics chloramphenicol and co-trimoxazole, sulfasalazine, lithium, and aspirin (NHS).",
+    "Avoid or limit alcohol: it can affect how well folic acid works (NHS)."
+   ],
+   "side_effects": [
+    "Tablets: bloating, wind, feeling sick, loss of appetite. Liquid: also diarrhoea, vomiting and an itchy rash (NHS).",
+    "Rarely, a severe allergic reaction: swollen face, throat or tongue, a raised itchy rash, difficulty breathing (NHS)."
+   ],
+   "pregnancy": [
+    "The NHS says it is often taken in pregnancy; ask a doctor or pharmacist if unsure, and check before taking a multivitamin with folic acid. It can usually be taken while breastfeeding; check first with a pharmacist or doctor."
+   ],
+   "urgent": [
+    "An extra single dose is unlikely to cause problems, but too many multivitamin tablets can be dangerous. If someone has taken too much, or has signs of a severe allergic reaction, get urgent help at the nearest health facility. The NHS advises calling NHS 111 in the UK."
+   ],
+   "open_points": [
+    "No disease page is linked yet, because the encyclopedia has no entry for folate deficiency or neural tube defects. This is a gap to fill under the maternal and newborn health branch.",
+    "The higher dose for women at higher risk is not stated on the NHS page and is not given here.",
+    "The NHS pages describe UK products and UK emergency numbers. Strengths, brands and local guidance in Sierra Leone still need checking by the reviewer."
+   ]
+  },
+  "fr": {
+   "name": "Acide folique (vitamine B9)",
+   "what_it_is": [
+    "Une forme artificielle de la vitamine B9, aussi appelée folate. Elle existe en comprimés, en liquide ou dans des multivitamines (NHS)."
+   ],
+   "used_for": [
+    "Le NHS cite : traiter l'anémie par carence en folates ; aider le cerveau, le crâne et la moelle épinière du bébé à se former correctement et réduire le risque de spina bifida ; empêcher que les folates deviennent trop bas pendant la dialyse ; et prévenir les effets indésirables du méthotrexate."
+   ],
+   "how_used": [
+    "La page du NHS ne donne pas de doses en milligrammes : cela dépend du type et du motif. Suivre le prescripteur.",
+    "Pendant la grossesse, le NHS indique de prendre un supplément pendant les 12 premières semaines, et si l'on prévoit une grossesse de commencer avant la conception, idéalement 3 mois avant. Certaines femmes ont besoin d'une dose plus élevée : demander à un pharmacien, une sage-femme ou un médecin (NHS).",
+    "L'OMS recommande 400 µg (0,4 mg) d'acide folique par jour avec 30 mg à 60 mg de fer élémentaire pendant la grossesse, à commencer le plus tôt possible, idéalement avant la conception, pour prévenir les anomalies du tube neural. La page ne donne pas de durée (OMS eLENA).",
+    "Dose oubliée : la prendre dès que l'on s'en souvient, puis la suivante à l'heure habituelle. Ne pas prendre deux doses pour compenser (NHS)."
+   ],
+   "who_careful": [
+    "Peut ne pas convenir en cas de réaction allergique passée, de carence en vitamine B12 ou d'anémie pernicieuse, de stent coronaire ou de cancer (NHS).",
+    "Les comprimés ou le liquide peuvent en général être pris par la plupart des adultes et des enfants de plus de 12 mois. Les multivitamines contenant de l'acide folique ne sont pas recommandées avant 12 ans (NHS)."
+   ],
+   "other_medicines": [
+    "Peut mal se combiner avec les médicaments de l'épilepsie (phénytoïne, phénobarbital, primidone), les antibiotiques chloramphénicol et cotrimoxazole, la sulfasalazine, le lithium et l'aspirine (NHS).",
+    "Éviter ou limiter l'alcool : il peut affecter l'efficacité de l'acide folique (NHS)."
+   ],
+   "side_effects": [
+    "Comprimés : ballonnements, gaz, nausées, perte d'appétit. Liquide : aussi diarrhée, vomissements et éruption qui démange (NHS).",
+    "Rarement, une allergie grave : gonflement du visage, de la gorge ou de la langue, éruption en relief qui démange, difficulté à respirer (NHS)."
+   ],
+   "pregnancy": [
+    "Le NHS indique qu'il est souvent pris pendant la grossesse ; demander à un médecin ou un pharmacien en cas de doute, et vérifier avant de prendre un multivitamine contenant de l'acide folique. Il peut en général être pris pendant l'allaitement ; demander d'abord à un pharmacien ou un médecin."
+   ],
+   "urgent": [
+    "Une dose supplémentaire isolée a peu de chances de poser problème, mais trop de comprimés de multivitamines peut être dangereux. Si quelqu'un en a trop pris, ou a des signes d'allergie grave, chercher une aide urgente au centre de santé le plus proche. Le NHS conseille d'appeler le 111 au Royaume-Uni."
+   ],
+   "open_points": [
+    "Aucune fiche de maladie n'est liée pour l'instant, car l'encyclopédie n'a pas de fiche sur la carence en folates ni sur les anomalies du tube neural. C'est une lacune à combler dans la branche santé maternelle et néonatale.",
+    "La dose plus élevée pour les femmes à risque accru n'est pas indiquée sur la page du NHS et n'est pas donnée ici.",
+    "Les pages du NHS décrivent des produits et des numéros d'urgence du Royaume-Uni. Les dosages, les marques et les recommandations locales en Sierra Leone doivent encore être vérifiés par le relecteur."
+   ]
+  }
+ },
+ {
+  "slug": "vitamin-a",
+  "status": "draft",
+  "last_checked": "2026-11-01",
+  "diseases": [],
+  "sources": [
+   {
+    "title": "Community Eye Health Journal (2013): Vitamin A supplementation: who, when and how",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3936689"
+   }
+  ],
+  "en": {
+   "name": "Vitamin A supplements",
+   "what_it_is": [
+    "A vitamin given as a high-dose oral liquid to young children in places where vitamin A deficiency is a public health problem. This entry summarises a journal article that sets out WHO advice (Community Eye Health, 2013)."
+   ],
+   "used_for": [
+    "Children aged 6–59 months in communities where vitamin A deficiency is a public health problem. The article defines this as night blindness in at least 1% of children aged 24–59 months, or deficiency in at least 20% of infants and children aged 6–59 months."
+   ],
+   "how_used": [
+    "Children 6–11 months: 100,000 IU, once. Children 12–59 months: 200,000 IU every 4–6 months. Given as an oil-based liquid of retinyl palmitate or retinyl acetate (article, citing WHO advice).",
+    "The article says WHO does not recommend supplementation for newborns or infants aged 1–5 months."
+   ],
+   "who_careful": [
+    "High-dose supplements are contra-indicated in pregnancy because of uncertain effects on the unborn child. High-dose supplementation immediately after delivery is not recommended (article, citing WHO 2011)."
+   ],
+   "side_effects": [
+    "In trials, uncommon, brief and mild effects were reported in children: irritability, headache, fever, diarrhoea, nausea and vomiting (article)."
+   ],
+   "pregnancy": [
+    "Routine supplementation in pregnancy is not recommended: pregnant women should get vitamin A from food. Only where deficiency is a severe public health problem, the article gives a low dose of up to 10,000 IU daily or up to 25,000 IU weekly for at least 12 weeks until delivery."
+   ],
+   "open_points": [
+    "This summary comes from a 2013 journal article, not from the WHO guideline itself. The current WHO guideline and any updates since 2013 have not been checked.",
+    "Vitamin A in measles and severe malnutrition is part of standard child-health guidance, but it is not covered by this article, so those diseases are not linked yet.",
+    "Safety of the dose in a child who has just received it elsewhere, and the national schedule in Sierra Leone, are not covered."
+   ]
+  },
+  "fr": {
+   "name": "Suppléments de vitamine A",
+   "what_it_is": [
+    "Une vitamine donnée en liquide buvable à forte dose aux jeunes enfants là où la carence en vitamine A est un problème de santé publique. Cette fiche résume un article de revue qui présente les recommandations de l'OMS (Community Eye Health, 2013)."
+   ],
+   "used_for": [
+    "Enfants de 6 à 59 mois dans les communautés où la carence en vitamine A est un problème de santé publique. L'article le définit par une cécité nocturne chez au moins 1 % des enfants de 24 à 59 mois, ou une carence chez au moins 20 % des nourrissons et enfants de 6 à 59 mois."
+   ],
+   "how_used": [
+    "Enfants de 6 à 11 mois : 100 000 UI, une fois. Enfants de 12 à 59 mois : 200 000 UI tous les 4 à 6 mois. Donné sous forme de liquide huileux de palmitate ou d'acétate de rétinyle (article, citant les recommandations de l'OMS).",
+    "L'article indique que l'OMS ne recommande pas la supplémentation chez les nouveau-nés ni chez les nourrissons de 1 à 5 mois."
+   ],
+   "who_careful": [
+    "Les suppléments à forte dose sont contre-indiqués pendant la grossesse en raison d'effets incertains sur l'enfant à naître. La supplémentation à forte dose juste après l'accouchement n'est pas recommandée (article, citant l'OMS 2011)."
+   ],
+   "side_effects": [
+    "Dans les essais, des effets peu fréquents, brefs et légers ont été rapportés chez les enfants : irritabilité, mal de tête, fièvre, diarrhée, nausées et vomissements (article)."
+   ],
+   "pregnancy": [
+    "La supplémentation systématique pendant la grossesse n'est pas recommandée : les femmes enceintes doivent obtenir la vitamine A par l'alimentation. Seulement là où la carence est un problème grave de santé publique, l'article cite une faible dose allant jusqu'à 10 000 UI par jour ou 25 000 UI par semaine pendant au moins 12 semaines jusqu'à l'accouchement."
+   ],
+   "open_points": [
+    "Ce résumé provient d'un article de revue de 2013 et non de la directive de l'OMS elle-même. La directive actuelle de l'OMS et les mises à jour depuis 2013 n'ont pas été vérifiées.",
+    "La vitamine A dans la rougeole et la malnutrition sévère fait partie des recommandations habituelles de santé de l'enfant, mais elle n'est pas couverte par cet article, donc ces maladies ne sont pas encore liées.",
+    "La sécurité de la dose chez un enfant qui vient de la recevoir ailleurs, et le calendrier national de la Sierra Leone, ne sont pas couverts."
+   ]
+  }
+ },
+ {
+  "slug": "albendazole",
+  "status": "draft",
+  "last_checked": "2026-11-01",
+  "diseases": [
+   "intestinal_worms"
+  ],
+  "sources": [
+   {
+    "title": "WHO eLENA: Deworming to improve nutrition and health in children",
+    "url": "https://www.who.int/tools/elena/interventions/deworming"
+   }
+  ],
+  "en": {
+   "name": "Albendazole (and mebendazole)",
+   "what_it_is": [
+    "Medicines used against intestinal worms (soil-transmitted helminths). This entry covers the WHO preventive-treatment programmes for at-risk groups, not treatment of one person."
+   ],
+   "used_for": [
+    "WHO preventive chemotherapy for children aged 12–23 months, preschool children aged 1–4 years and school-age children aged 5–12 years (up to 14 years in some settings), where soil-transmitted worm infection is common (WHO eLENA)."
+   ],
+   "how_used": [
+    "Albendazole 400 mg as a single dose, or mebendazole 500 mg as a single dose (WHO eLENA).",
+    "Children younger than 24 months: a half dose of albendazole, 200 mg (WHO eLENA).",
+    "Treatment is given where infection with any soil-transmitted worm is 20% or more among children, once a year; twice a year where it is more than 50% (WHO eLENA)."
+   ],
+   "open_points": [
+    "The WHO eLENA page gives no advice on pregnancy, side effects, cautions or interactions, so none are given here.",
+    "Treatment of a single person with worms, doses for adults, and the other worm diseases (such as lymphatic filariasis and onchocerciasis, where other medicines are used) are not covered yet.",
+    "The page does not give the year of the WHO guideline it lists. The reviewer should check the current Sierra Leone deworming schedule."
+   ]
+  },
+  "fr": {
+   "name": "Albendazole (et mébendazole)",
+   "what_it_is": [
+    "Médicaments utilisés contre les vers intestinaux (helminthes transmis par le sol). Cette fiche porte sur les programmes de traitement préventif de l'OMS pour les groupes à risque, pas sur le traitement d'une seule personne."
+   ],
+   "used_for": [
+    "Chimiothérapie préventive de l'OMS pour les enfants de 12 à 23 mois, les enfants d'âge préscolaire de 1 à 4 ans et les enfants d'âge scolaire de 5 à 12 ans (jusqu'à 14 ans dans certains contextes), là où l'infection par les vers transmis par le sol est fréquente (OMS eLENA)."
+   ],
+   "how_used": [
+    "Albendazole 400 mg en dose unique, ou mébendazole 500 mg en dose unique (OMS eLENA).",
+    "Enfants de moins de 24 mois : une demi-dose d'albendazole, 200 mg (OMS eLENA).",
+    "Le traitement est donné là où l'infection par un ver transmis par le sol atteint 20 % ou plus chez les enfants, une fois par an ; deux fois par an là où elle dépasse 50 % (OMS eLENA)."
+   ],
+   "open_points": [
+    "La page eLENA de l'OMS ne donne aucun conseil sur la grossesse, les effets indésirables, les précautions ou les interactions, donc aucun n'est donné ici.",
+    "Le traitement d'une seule personne ayant des vers, les doses pour les adultes et les autres maladies à vers (comme la filariose lymphatique et l'onchocercose, où d'autres médicaments sont utilisés) ne sont pas encore couverts.",
+    "La page ne donne pas l'année de la directive de l'OMS qu'elle cite. Le relecteur doit vérifier le calendrier actuel de déparasitage en Sierra Leone."
+   ]
+  }
+ }
+]
