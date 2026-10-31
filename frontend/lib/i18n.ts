@@ -4,6 +4,7 @@ const en = {
   appName: "Symptom Checker",
   navCheck: "Check symptoms",
   navEncyclopedia: "Disease encyclopedia",
+  navMedicines: "Medicines guide",
   language: "Language",
   heroTitle: "Choose your region",
   heroText:
@@ -74,6 +75,7 @@ const fr: Strings = {
   appName: "Vérificateur de symptômes",
   navCheck: "Vérifier les symptômes",
   navEncyclopedia: "Encyclopédie des maladies",
+  navMedicines: "Guide des médicaments",
   language: "Langue",
   heroTitle: "Choisissez votre région",
   heroText:

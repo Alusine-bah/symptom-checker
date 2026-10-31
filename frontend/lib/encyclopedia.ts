@@ -30,6 +30,8 @@ const en = {
     "Not everyone has every sign, and many illnesses look alike. Only a health worker can diagnose.",
   sourceLabel: "Source",
   moreSourcesTitle: "Additional sources",
+  medicinesTitle: "Related medicines",
+  medicineDraft: "draft",
   checkCta: "Check my symptoms",
   notFound: "Disease not found.",
 };
@@ -67,6 +69,8 @@ const fr: EncStrings = {
     "Tout le monde n'a pas tous les signes, et beaucoup de maladies se ressemblent. Seul un professionnel de santé peut poser un diagnostic.",
   sourceLabel: "Source",
   moreSourcesTitle: "Sources complémentaires",
+  medicinesTitle: "Médicaments liés",
+  medicineDraft: "brouillon",
   checkCta: "Vérifier mes symptômes",
   notFound: "Maladie introuvable.",
 };

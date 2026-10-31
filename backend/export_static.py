@@ -11,8 +11,10 @@ import os
 import sqlite3
 
 from engine import DB_PATH, load_knowledge
+from medicines import build_medicines
 
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "frontend", "lib", "knowledge.json")
+MED_OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "frontend", "lib", "medicines.json")
 
 
 def build_data():
@@ -69,6 +71,11 @@ def build_data():
     return data
 
 
+def build_medicine_data(data=None):
+    data = data or build_data()
+    return build_medicines({d["slug"] for d in data["diseases"]})
+
+
 def main():
     data = build_data()
 
@@ -78,6 +85,12 @@ def main():
     size = os.path.getsize(OUT)
     print(f"Wrote {os.path.normpath(OUT)} ({size // 1024} KB): "
           f"{len(data['diseases'])} diseases, {len(data['symptoms'])} symptoms, {len(data['regions'])} regions")
+
+    meds = build_medicine_data(data)
+    with open(MED_OUT, "w", encoding="utf-8") as f:
+        json.dump(meds, f, ensure_ascii=False, separators=(",", ":"))
+    print(f"Wrote {os.path.normpath(MED_OUT)} ({os.path.getsize(MED_OUT) // 1024} KB): "
+          f"{len(meds)} medicines")
 
 
 if __name__ == "__main__":

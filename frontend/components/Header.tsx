@@ -20,6 +20,9 @@ export default function Header() {
           <Link href="/diseases" className="hover:text-emerald-700">
             {t.navEncyclopedia}
           </Link>
+          <Link href="/medicines" className="hover:text-emerald-700">
+            {t.navMedicines}
+          </Link>
           <Link href="/about" className="hover:text-emerald-700">
             {ABOUT[lang].nav}
           </Link>

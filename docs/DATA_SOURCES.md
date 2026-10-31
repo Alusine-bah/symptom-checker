@@ -52,3 +52,7 @@ Fill this in after each run of `verify_sources.py`:
 | Date | Links checked | Broken | Blocked (checked by eye) | Notes |
 |---|---|---|---|---|
 | 2026-10-30 | 100 | 0 | 5 CDC pages (pertussis, group A strep, ringworm, scrub typhus, hand-foot-mouth): all open and show the right disease | 95 passed the script. The UTI wording is flagged by the content screen only because it now says the cited page gives no cause detail. |
+
+## Medicines guide
+
+Medicine entries live in `data/medicines_*.json` and are validated by `backend/medicines.py`. Each entry is written in our own words from named public sources (WHO, national guidelines, CDC, FDA labels), with a source beside every dose figure. Every entry carries a status: **draft** (published, not yet clinically reviewed) or **reviewed** (needs a reviewer name and date). Entries are educational and are not prescriptions. Gaps and unconfirmed points are listed in each entry under "open points".

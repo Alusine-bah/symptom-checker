@@ -5,6 +5,7 @@ import { useParams } from "next/navigation";
 import { Suspense, useEffect, useState } from "react";
 import { useApp } from "@/components/AppProvider";
 import { getDisease, type DiseaseDetail } from "@/lib/diseaseApi";
+import { getMedicinesForDisease } from "@/lib/medicineApi";
 import {
   ENC,
   PREV_BADGE,
@@ -22,6 +23,7 @@ function DiseaseDetailInner() {
   const { lang } = useApp();
   const e = ENC[lang];
   const [d, setD] = useState<DiseaseDetail | null>(null);
+  const [meds, setMeds] = useState<{ slug: string; name: string; status: string }[]>([]);
   const [status, setStatus] = useState<Status>("loading");
 
   useEffect(() => {
@@ -39,6 +41,16 @@ function DiseaseDetailInner() {
       .catch(() => {
         if (!cancelled) setStatus("error");
       });
+    return () => {
+      cancelled = true;
+    };
+  }, [slug, lang]);
+
+  useEffect(() => {
+    let cancelled = false;
+    getMedicinesForDisease(slug, lang).then((list) => {
+      if (!cancelled) setMeds(list);
+    });
     return () => {
       cancelled = true;
     };
@@ -131,6 +143,25 @@ function DiseaseDetailInner() {
           ))}
         </ul>
       </section>
+
+      {meds.length > 0 && (
+        <section className="mt-6">
+          <h2 className="font-semibold">{e.medicinesTitle}</h2>
+          <ul className="mt-2 flex flex-wrap gap-2">
+            {meds.map((x) => (
+              <li key={x.slug}>
+                <Link
+                  href={`/medicines/${x.slug}`}
+                  className="block rounded-full bg-slate-100 px-3 py-1 text-sm hover:bg-emerald-100"
+                >
+                  {x.name}
+                  {x.status === "draft" ? ` (${e.medicineDraft})` : ""}
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
 
       {d.extra_sources.length > 0 && (
         <section className="mt-6">
