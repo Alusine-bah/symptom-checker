@@ -85,17 +85,18 @@
   "cat": 10,
   "urgency": "routine",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/sexually-transmitted-infections-(stis)",
+  "extra_sources": [{"title":"CDC: About Trichomoniasis","url":"https://www.cdc.gov/trichomoniasis/about/index.html"}],
   "en": {
    "name": "Trichomoniasis",
-   "description": "A common, curable sexually transmitted infection caused by a parasite. Women may notice frothy, smelly discharge, itching, and pain when urinating or during sex. Many people have no symptoms.",
-   "cause": "Trichomonas vaginalis parasite, spread through sex.",
-   "prevention": "Condoms, testing, and treating all partners at the same time."
+   "description": "A common, curable sexually transmitted infection caused by a parasite (WHO: one of four curable STIs; an estimated 156 million new infections in 2020). About 70% of people have no symptoms but can still pass it on (CDC). Women may have itching, burning, redness or soreness of the genitals, discomfort when urinating, or a clear, white, yellowish or greenish vaginal discharge, sometimes fishy-smelling. Men may have itching or irritation inside the penis, burning after urinating or ejaculating, or discharge. Symptoms can appear 5 to 28 days after infection, or much later, and may come and go.",
+   "cause": "The parasite Trichomonas vaginalis (CDC), spread through vaginal, penile or anal sex without a condom with a partner who has it; vagina-to-vagina spread is also possible.",
+   "prevention": "Correct and consistent condom use (WHO, CDC); not having sex is the only complete protection. Testing, because symptoms alone cannot confirm it. Treat all partners at the same time (WHO, CDC) with a course of oral pills, safe in pregnancy; avoid sex until treatment is finished and retest about 3 months later, since about 1 in 5 people are reinfected within 3 months (CDC)."
   },
   "fr": {
    "name": "Trichomonase",
-   "description": "Infection sexuellement transmissible fréquente et guérissable, causée par un parasite. Les femmes peuvent remarquer des pertes mousseuses et malodorantes, des démangeaisons et des douleurs en urinant ou pendant les rapports. Beaucoup de personnes n'ont aucun symptôme.",
-   "cause": "Parasite Trichomonas vaginalis, transmis par les rapports sexuels.",
-   "prevention": "Préservatifs, dépistage, et traitement de tous les partenaires en même temps."
+   "description": "Une infection sexuellement transmissible fréquente et curable, causée par un parasite (OMS : l'une des quatre IST curables ; environ 156 millions de nouvelles infections en 2020). Environ 70 % des personnes n'ont aucun symptôme mais peuvent quand même la transmettre (CDC). Les femmes peuvent avoir des démangeaisons, des brûlures, une rougeur ou une douleur des organes génitaux, une gêne en urinant, ou des pertes vaginales claires, blanches, jaunâtres ou verdâtres, parfois à odeur de poisson. Les hommes peuvent avoir des démangeaisons ou une irritation à l'intérieur du pénis, des brûlures après la miction ou l'éjaculation, ou un écoulement. Les symptômes peuvent apparaître 5 à 28 jours après l'infection, ou bien plus tard, et peuvent aller et venir.",
+   "cause": "Le parasite Trichomonas vaginalis (CDC), transmis lors de rapports vaginaux, pénis-anus ou anaux sans préservatif avec un partenaire infecté ; la transmission vagin à vagin est aussi possible.",
+   "prevention": "Utilisation correcte et systématique du préservatif (OMS, CDC) ; ne pas avoir de rapports est la seule protection complète. Dépistage, car les symptômes seuls ne permettent pas de confirmer l'infection. Traiter tous les partenaires en même temps (OMS, CDC) par une cure de comprimés, sans danger pendant la grossesse ; éviter les rapports jusqu'à la fin du traitement et refaire un test environ 3 mois plus tard, car environ 1 personne sur 5 est réinfectée dans les 3 mois (CDC)."
   },
   "regions": {
    "west_africa": 3,
@@ -123,17 +124,18 @@
   "cat": 10,
   "urgency": "urgent",
   "source_url": "https://medlineplus.gov/pelvicinflammatorydisease.html",
+  "extra_sources": [{"title":"CDC: About Pelvic Inflammatory Disease","url":"https://www.cdc.gov/pid/about/index.html"}],
   "en": {
    "name": "Pelvic inflammatory disease (PID)",
-   "description": "An infection of the womb, tubes and ovaries, often after an untreated sexually transmitted infection. It causes lower belly pain, unusual discharge and fever, and can harm future fertility if it is not treated early.",
-   "cause": "Bacteria, often from chlamydia or gonorrhea, travelling upwards from the vagina and cervix.",
-   "prevention": "Condoms, testing and treating sexually transmitted infections, and prompt care for lower belly pain."
+   "description": "An infection of the uterus, ovaries and other female reproductive organs, often a complication of an untreated sexually transmitted infection. Many people have mild symptoms or none. The most common symptom is lower abdominal pain; others are fever, foul-smelling vaginal discharge, bleeding between periods, pain or bleeding during sex, and burning when urinating. Scarring can block the fallopian tubes and cause ectopic pregnancy, infertility and long-term pelvic pain; waiting too long for treatment raises the risk, and treatment cannot reverse existing damage.",
+   "cause": "Many kinds of bacteria can cause it, but gonorrhea and chlamydia are the most common causes. Risk factors include being sexually active and 25 or younger, more than one partner, an untreated STI, previous PID, douching, and an IUD (small risk, mainly in the first three weeks after insertion).",
+   "prevention": "Use condoms correctly every time, limit partners, get tested for chlamydia and gonorrhea (yearly if sexually active and under 25) and treat STIs promptly, avoid douching, and see a doctor for any of the symptoms. If treated, finish all the antibiotics even if symptoms go away, and tell recent partners so they can be tested and treated (CDC, MedlinePlus)."
   },
   "fr": {
    "name": "Maladie inflammatoire pelvienne",
-   "description": "Infection de l'utérus, des trompes et des ovaires, souvent après une infection sexuellement transmissible non traitée. Elle provoque des douleurs au bas-ventre, des pertes inhabituelles et de la fièvre, et peut nuire à la fertilité si elle n'est pas traitée tôt.",
-   "cause": "Bactéries, souvent de la chlamydia ou de la gonorrhée, qui remontent depuis le vagin et le col de l'utérus.",
-   "prevention": "Préservatifs, dépistage et traitement des infections sexuellement transmissibles, et consultation rapide en cas de douleur au bas-ventre."
+   "description": "Une infection de l'utérus, des ovaires et des autres organes génitaux féminins, souvent une complication d'une infection sexuellement transmissible non traitée. Beaucoup de personnes ont des symptômes légers ou aucun. Le symptôme le plus fréquent est une douleur du bas-ventre ; les autres sont fièvre, pertes vaginales malodorantes, saignements entre les règles, douleur ou saignement pendant les rapports, et brûlures en urinant. Les cicatrices peuvent obstruer les trompes et causer une grossesse extra-utérine, une infertilité et des douleurs pelviennes durables ; attendre trop longtemps pour se faire traiter augmente le risque, et le traitement ne peut pas réparer les dommages existants.",
+   "cause": "De nombreux types de bactéries peuvent en être la cause, mais la gonorrhée et la chlamydia sont les causes les plus fréquentes. Les facteurs de risque comprennent une activité sexuelle à 25 ans ou moins, plus d'un partenaire, une IST non traitée, une MIP antérieure, les douches vaginales et un stérilet (risque faible, surtout durant les trois premières semaines suivant la pose).",
+   "prevention": "Utiliser correctement un préservatif à chaque rapport, limiter le nombre de partenaires, se faire dépister pour la chlamydia et la gonorrhée (chaque année si l'on est sexuellement active et a moins de 25 ans) et traiter rapidement les IST, éviter les douches vaginales, et consulter en cas de l'un de ces symptômes. En cas de traitement, terminer tous les antibiotiques même si les symptômes disparaissent, et prévenir les partenaires récents pour qu'ils soient testés et traités (CDC, MedlinePlus)."
   },
   "regions": {
    "west_africa": 3,
@@ -162,17 +164,18 @@
   "cat": 10,
   "urgency": "self_care",
   "source_url": "https://medlineplus.gov/vaginitis.html",
+  "extra_sources": [{"title":"NHS: Thrush in men and women","url":"https://www.nhs.uk/conditions/thrush-in-men-and-women/"},{"title":"CDC: Candidiasis Basics","url":"https://www.cdc.gov/candidiasis/about/index.html"}],
   "en": {
    "name": "Vaginal yeast infection (candidiasis)",
-   "description": "A common fungal infection causing itching, soreness and a thick, white discharge, usually without a strong smell. It is not a sexually transmitted infection, although it can occasionally be passed on.",
-   "cause": "Overgrowth of Candida yeast, often after antibiotics, in pregnancy, with diabetes, or with tight, damp clothing.",
-   "prevention": "Wear loose cotton underwear, avoid douching and scented products, keep blood sugar controlled if you have diabetes, and see a health worker if it keeps coming back."
+   "description": "A common fungal infection. Symptoms are a thick white discharge that can look like cottage cheese (it may be watery), usually with little or no smell, and an itchy, red, sore vagina and vulva; stinging when passing urine or during sex is common (NHS). It is not classed as a sexually transmitted infection, although sex can trigger it and it can occasionally be passed on. In men it can cause irritation, burning and redness of the penis head and foreskin.",
+   "cause": "Overgrowth of Candida, a fungus that is normally harmless. Risk factors include antibiotics, pregnancy, poorly controlled diabetes, birth control pills, corticosteroid medicines, a weakened immune system and hormone replacement therapy; warm, moist conditions help it take hold.",
+   "prevention": "Wear cotton underwear and avoid tight underwear or clothing that traps heat and moisture, avoid douches, vaginal sprays and deodorants, wash with water and an emollient instead of soap and dry thoroughly (NHS), and keep diabetes well controlled. See a doctor if it is your first episode, if you are pregnant, under 16 or over 60, if treatment has not worked, or if it returns more than 4 times in 12 months (NHS). Antifungal creams can weaken condoms and diaphragms."
   },
   "fr": {
    "name": "Mycose vaginale (candidose)",
-   "description": "Infection fongique fréquente avec démangeaisons, irritation et pertes blanches épaisses, généralement sans forte odeur. Ce n'est pas une infection sexuellement transmissible, même si elle peut parfois se transmettre.",
-   "cause": "Prolifération de la levure Candida, souvent après des antibiotiques, pendant la grossesse, en cas de diabète, ou avec des vêtements serrés et humides.",
-   "prevention": "Portez des sous-vêtements en coton amples, évitez les douches vaginales et les produits parfumés, contrôlez votre glycémie en cas de diabète, et consultez si les épisodes reviennent."
+   "description": "Une infection fongique courante. Les symptômes sont des pertes blanches épaisses pouvant ressembler à du fromage blanc (elles peuvent être aqueuses), généralement peu ou pas odorantes, et un vagin et une vulve qui démangent, rouges et douloureux ; des picotements en urinant ou pendant les rapports sont fréquents (NHS). Elle n'est pas classée parmi les infections sexuellement transmissibles, bien que les rapports puissent la déclencher et qu'elle puisse occasionnellement être transmise. Chez l'homme, elle peut provoquer irritation, brûlure et rougeur du gland et du prépuce.",
+   "cause": "Prolifération de Candida, un champignon normalement inoffensif. Les facteurs de risque comprennent les antibiotiques, la grossesse, un diabète mal contrôlé, la pilule contraceptive, les corticoïdes, un système immunitaire affaibli et le traitement hormonal substitutif ; des conditions chaudes et humides favorisent son développement.",
+   "prevention": "Porter des sous-vêtements en coton et éviter les sous-vêtements serrés ou les vêtements qui retiennent la chaleur et l'humidité, éviter les douches vaginales, sprays et déodorants vaginaux, se laver à l'eau avec un émollient plutôt qu'au savon et bien sécher (NHS), et bien contrôler un éventuel diabète. Consulter si c'est un premier épisode, en cas de grossesse, avant 16 ans ou après 60 ans, si le traitement n'a pas marché, ou si elle revient plus de 4 fois en 12 mois (NHS). Les crèmes antifongiques peuvent fragiliser les préservatifs et les diaphragmes."
   },
   "regions": {
    "west_africa": 3,
@@ -199,17 +202,18 @@
   "cat": 10,
   "urgency": "routine",
   "source_url": "https://medlineplus.gov/ency/patientinstructions/000687.htm",
+  "extra_sources": [{"title":"CDC: About Bacterial Vaginosis","url":"https://www.cdc.gov/bacterial-vaginosis/about/index.html"}],
   "en": {
    "name": "Bacterial vaginosis",
-   "description": "A common imbalance of vaginal bacteria causing thin, grey or white discharge with a fishy smell. It is not caused by poor hygiene, but it can raise the risk of other infections and of problems in pregnancy.",
-   "cause": "Overgrowth of certain bacteria that replace the normal healthy bacteria. Douching and new or multiple sex partners raise the risk.",
-   "prevention": "Avoid douching and scented soaps, limit the number of partners, and see a health worker for testing and treatment, especially if you are pregnant."
+   "description": "A common, treatable imbalance of vaginal bacteria, with more unhealthy than healthy bacteria. Many people have no symptoms. Others have a thin white or gray discharge, sometimes with a strong fishy smell (especially after sex), burning when urinating, and itching inside or outside the vagina. Untreated BV in pregnancy is linked to preterm birth and low birth weight, so treatment matters for pregnant people.",
+   "cause": "The exact cause is unknown. Douching, not using condoms, and new or multiple sex partners can disrupt the balance of vaginal bacteria; antibiotics and an IUD are also listed as risk factors (MedlinePlus). It mostly affects people who are sexually active. You cannot get BV from toilet seats, bedding or swimming pools (CDC).",
+   "prevention": "Experts do not fully understand how to prevent BV, but these steps may lower the risk: not having sex, limiting the number of partners, using condoms correctly every time, and not douching. See a health worker for testing and treatment, especially if pregnant."
   },
   "fr": {
    "name": "Vaginose bactérienne",
-   "description": "Déséquilibre fréquent des bactéries vaginales avec des pertes fines, grises ou blanches à l'odeur de poisson. Elle n'est pas due à un manque d'hygiène, mais elle peut augmenter le risque d'autres infections et de problèmes pendant la grossesse.",
-   "cause": "Prolifération de certaines bactéries qui remplacent les bactéries normales et protectrices. Les douches vaginales et les partenaires nouveaux ou multiples augmentent le risque.",
-   "prevention": "Évitez les douches vaginales et les savons parfumés, limitez le nombre de partenaires, et consultez pour un dépistage et un traitement, surtout si vous êtes enceinte."
+   "description": "Un déséquilibre fréquent et curable des bactéries vaginales, avec davantage de bactéries nocives que de bactéries bénéfiques. Beaucoup de personnes n'ont aucun symptôme. D'autres ont des pertes fines blanches ou grises, parfois à forte odeur de poisson (surtout après les rapports), des brûlures en urinant, et des démangeaisons à l'intérieur ou à l'extérieur du vagin. Une vaginose non traitée pendant la grossesse est associée à un accouchement prématuré et à un faible poids de naissance ; le traitement est donc important pour les femmes enceintes.",
+   "cause": "La cause exacte est inconnue. Les douches vaginales, l'absence de préservatif et les nouveaux partenaires ou partenaires multiples peuvent perturber l'équilibre des bactéries vaginales ; les antibiotiques et le stérilet sont aussi cités comme facteurs de risque (MedlinePlus). Elle touche surtout les personnes sexuellement actives. On ne peut pas attraper une vaginose par les sièges de toilettes, la literie ou les piscines (CDC).",
+   "prevention": "Les experts ne comprennent pas entièrement comment prévenir la vaginose, mais ces mesures peuvent réduire le risque : ne pas avoir de rapports, limiter le nombre de partenaires, utiliser correctement un préservatif à chaque rapport et éviter les douches vaginales. Consulter pour un dépistage et un traitement, surtout en cas de grossesse."
   },
   "regions": {
    "west_africa": 3,
@@ -275,17 +279,18 @@
   "cat": 5,
   "urgency": "self_care",
   "source_url": "https://medlineplus.gov/headlice.html",
+  "extra_sources": [{"title":"CDC: About Head Lice","url":"https://www.cdc.gov/lice/about/head-lice.html"}],
   "en": {
    "name": "Head lice",
-   "description": "Tiny insects that live on the scalp and cause intense itching. You may see small white eggs (nits) stuck to the hair near the scalp. Head lice are common in children and spread by close contact.",
-   "cause": "Head lice, spread by head-to-head contact and sometimes by shared combs, hats or bedding.",
-   "prevention": "Do not share combs, hats or bedding, check family members, treat everyone affected at the same time, and comb the hair with a fine-toothed comb."
+   "description": "Tiny insects that live on the scalp. Itching, caused by an allergic reaction to the bites, is the most common symptom, though it can take four to six weeks to appear after a first infestation and many people have no symptoms. Other signs are a tickling feeling in the hair, trouble sleeping (lice are most active in the dark), and scratch sores that can become infected. Head lice do not transmit disease. They are found by seeing a louse or nit (egg), and are most common in children aged 3 to 11.",
+   "cause": "Head lice, which crawl but cannot hop or fly. They spread mostly by head-to-head contact, and less commonly by shared hats, scarves, combs, brushes or towels and recently used beds or pillows. Personal hygiene and cleanliness have nothing to do with getting them, and animals do not get or spread them.",
+   "prevention": "Avoid head-to-head contact and do not share hats, combs, brushes, towels or hair accessories. Check family members and treat everyone affected at the same time; after treatment remove dead lice and nits with a fine-toothed comb and recheck every 2 to 3 days for 2 to 3 weeks. Wash items used in the two days before treatment in hot water and dry on high heat, or seal them in a plastic bag for two weeks. Pregnant women and parents of young children should check with a pharmacist or provider before choosing a product."
   },
   "fr": {
    "name": "Poux de tête",
-   "description": "Minuscules insectes qui vivent sur le cuir chevelu et provoquent de fortes démangeaisons. On peut voir de petits œufs blancs (lentes) collés aux cheveux près du cuir chevelu. Les poux sont fréquents chez l'enfant et se transmettent par contact étroit.",
-   "cause": "Poux de tête, transmis par contact tête contre tête et parfois par des peignes, des chapeaux ou de la literie partagés.",
-   "prevention": "Ne partagez pas peignes, chapeaux ni literie, vérifiez les membres de la famille, traitez toutes les personnes touchées en même temps, et peignez les cheveux avec un peigne fin."
+   "description": "De minuscules insectes qui vivent sur le cuir chevelu. Les démangeaisons, dues à une réaction allergique aux piqûres, sont le symptôme le plus courant, bien qu'elles puissent mettre quatre à six semaines à apparaître après une première infestation et que beaucoup de personnes n'aient aucun symptôme. Autres signes : une sensation de chatouillement dans les cheveux, des troubles du sommeil (les poux sont plus actifs dans le noir) et des lésions de grattage pouvant s'infecter. Les poux de tête ne transmettent pas de maladie. On les repère en voyant un pou ou une lente (œuf), et ils sont plus fréquents chez les enfants de 3 à 11 ans.",
+   "cause": "Les poux de tête, qui rampent mais ne sautent ni ne volent. Ils se transmettent surtout par contact tête contre tête, et plus rarement par le partage de chapeaux, écharpes, peignes, brosses ou serviettes et de lits ou oreillers utilisés récemment. L'hygiène personnelle et la propreté n'ont rien à voir avec l'infestation, et les animaux ne les attrapent ni ne les transmettent.",
+   "prevention": "Éviter le contact tête contre tête et ne pas partager chapeaux, peignes, brosses, serviettes ni accessoires pour cheveux. Examiner les membres de la famille et traiter en même temps toutes les personnes atteintes ; après le traitement, retirer poux morts et lentes avec un peigne fin et revérifier tous les 2 à 3 jours pendant 2 à 3 semaines. Laver à l'eau chaude et sécher à haute température les objets utilisés dans les deux jours précédant le traitement, ou les enfermer dans un sac en plastique pendant deux semaines. Les femmes enceintes et les parents de jeunes enfants doivent demander conseil à un pharmacien ou à un professionnel de santé avant de choisir un produit."
   },
   "regions": {
    "west_africa": 3,
