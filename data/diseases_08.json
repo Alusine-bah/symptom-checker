@@ -44,17 +44,18 @@
   "cat": 3,
   "urgency": "routine",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/hepatitis-c",
+  "extra_sources": [{"title":"CDC: Clinical Overview of Hepatitis C","url":"https://www.cdc.gov/hepatitis-c/hcp/clinical-overview/index.html"}],
   "en": {
    "name": "Hepatitis C",
-   "description": "A viral liver infection spread through blood. Most people have no early symptoms, and it can slowly damage the liver over many years. It can now be cured with antiviral treatment.",
-   "cause": "Hepatitis C virus, spread through unsafe injections, shared needles or razors, unscreened blood, and sometimes from mother to baby.",
-   "prevention": "Safe injections, screened blood, not sharing needles or razors, and testing if you may have been exposed."
+   "description": "A viral liver infection spread through blood. Acute infection often causes no symptoms; when they appear they can include fever, fatigue, loss of appetite, nausea, vomiting, abdominal pain, dark urine, pale stools, joint pain and jaundice. Chronic infection often goes unnoticed for decades, until serious liver damage causes symptoms. It can be cured: antiviral treatment (direct-acting antivirals, 8 to 24 weeks) cures more than 95% of people.",
+   "cause": "The hepatitis C virus, spread through exposure to infectious blood: unsafe injections and medical procedures, reused or poorly sterilized needles and syringes, sharing injection equipment, and unscreened blood transfusions. Less commonly it passes from mother to baby, through sex involving blood, through unregulated tattooing, and by sharing blood-contaminated personal items such as razors or toothbrushes (CDC). It is not spread by breast milk, food, water or casual contact (WHO).",
+   "prevention": "There is no vaccine. Safe health-care injections, safe disposal of needles and medical waste, harm-reduction services for people who inject drugs, screening of donated blood, barrier methods such as condoms, and not sharing razors or toothbrushes. Testing has two steps: an antibody test, then an RNA test to confirm chronic infection; about 30% of people clear the virus on their own."
   },
   "fr": {
    "name": "Hépatite C",
-   "description": "Infection virale du foie transmise par le sang. La plupart des personnes n'ont aucun symptôme au début, et elle peut abîmer lentement le foie pendant de nombreuses années. Elle peut aujourd'hui être guérie par un traitement antiviral.",
-   "cause": "Virus de l'hépatite C, transmis par les injections non sécurisées, le partage d'aiguilles ou de rasoirs, le sang non testé, et parfois de la mère à l'enfant.",
-   "prevention": "Injections sécurisées, sang testé, ne pas partager aiguilles ni rasoirs, et dépistage en cas d'exposition possible."
+   "description": "Une infection virale du foie transmise par le sang. L'infection aiguë ne provoque souvent aucun symptôme ; quand ils apparaissent, ils peuvent comprendre fièvre, fatigue, perte d'appétit, nausées, vomissements, douleurs abdominales, urines foncées, selles pâles, douleurs articulaires et jaunisse. L'infection chronique passe souvent inaperçue pendant des décennies, jusqu'à ce que des lésions hépatiques graves provoquent des symptômes. Elle peut être guérie : le traitement antiviral (antiviraux à action directe, 8 à 24 semaines) guérit plus de 95 % des personnes.",
+   "cause": "Le virus de l'hépatite C, transmis par l'exposition à du sang infecté : injections et actes médicaux non sécurisés, aiguilles et seringues réutilisées ou mal stérilisées, partage de matériel d'injection, et transfusions de sang non dépisté. Plus rarement, il passe de la mère à l'enfant, par des rapports sexuels impliquant du sang, par des tatouages non réglementés, et par le partage d'objets personnels souillés de sang comme les rasoirs ou les brosses à dents (CDC). Il ne se transmet pas par le lait maternel, les aliments, l'eau ou un contact occasionnel (OMS).",
+   "prevention": "Il n'existe pas de vaccin. Injections médicales sécurisées, élimination sûre des aiguilles et des déchets médicaux, services de réduction des risques pour les personnes qui s'injectent des drogues, dépistage du sang donné, méthodes de barrière comme les préservatifs, et ne pas partager rasoirs ou brosses à dents. Le dépistage se fait en deux étapes : un test d'anticorps, puis un test ARN pour confirmer l'infection chronique ; environ 30 % des personnes éliminent le virus spontanément."
   },
   "regions": {
    "west_africa": 2,
