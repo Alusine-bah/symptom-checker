@@ -4,10 +4,11 @@
   "status": "draft",
   "last_checked": "2026-11-01",
   "diseases": [
-   "pneumonia",
+   "acute_bronchitis",
    "ear_infection",
-   "tooth_decay_abscess",
-   "peptic_ulcer"
+   "peptic_ulcer",
+   "pneumonia",
+   "tooth_decay_abscess"
   ],
   "sources": [
    {
@@ -33,6 +34,10 @@
    {
     "title": "NHS: Taking amoxicillin with other medicines and herbal supplements",
     "url": "https://www.nhs.uk/medicines/amoxicillin/taking-amoxicillin-with-other-medicines-and-herbal-supplements/"
+   },
+   {
+    "title": "Ministry of Health, Kingdom of Swaziland (2012): Standard Treatment Guidelines and Essential Medicines List of Common Medical Conditions in the Kingdom of Swaziland, 1st edition (supported by PEPFAR, USAID and the SPS Program, Management Sciences for Health)",
+    "url": null
    }
   ],
   "en": {
@@ -41,7 +46,8 @@
     "An antibiotic used to treat bacterial infections (NHS)."
    ],
    "used_for": [
-    "The NHS lists chest infection, dental abscess, ear infections and stomach ulcer."
+    "The NHS lists chest infection, dental abscess, ear infections and stomach ulcer.",
+    "The Eswatini 2012 guideline also uses it for purulent acute bronchitis and for infected flare-ups of chronic bronchitis."
    ],
    "how_used": [
     "Capsules: the usual dose on the NHS page is 250 mg to 500 mg, 3 times a day. The page does not label this explicitly as the adult dose.",
@@ -49,7 +55,10 @@
     "Children: the NHS says the dose may be lower but gives no dose by age or weight. Follow the label or ask a health worker.",
     "Spread the doses evenly through the day. It can be taken with or without food. Swallow capsules whole with water.",
     "Finish the full course even if you feel better. Tell a doctor if you do not feel better after 3 to 5 days, or if you feel worse at any point (NHS). The page does not state the total length of a course.",
-    "Missed dose: take it as soon as you remember unless the next dose is nearly due. Never take two doses at once."
+    "Missed dose: take it as soon as you remember unless the next dose is nearly due. Never take two doses at once.",
+    "Purulent acute bronchitis, adults: 500 mg by mouth every 8 hours for 4 or more days. For people allergic to penicillin the guideline gives erythromycin 500 mg every 6 hours for 5 to 7 days. Antibiotics are not indicated for uncomplicated bronchitis (Eswatini STG 2012).",
+    "Acute bronchitis, children: antibiotics only if there is high temperature, nutritional deficiency, heart disease, previous pneumonia or weakened immunity (for example AIDS). Dose: 250 mg every 8 hours for 7 days (Eswatini STG 2012).",
+    "Chronic bronchitis with infection, adults: 500 mg by mouth every 8 hours (Eswatini STG 2012). The duration was not read."
    ],
    "who_careful": [
     "Tell a doctor before starting if you have ever had an allergic reaction to amoxicillin, penicillin or another medicine (NHS).",
@@ -75,7 +84,9 @@
     "Doses for children by age or weight are not given. The WHO and national child-pneumonia guidance should be added once readable.",
     "The length of treatment for each infection is not given on the NHS page.",
     "The NHS pages describe UK products and UK emergency numbers. Strengths, brands and local guidance in Sierra Leone still need checking by the reviewer.",
-    "The Sierra Leone Standard Treatment Guidelines have not been checked."
+    "The Sierra Leone Standard Treatment Guidelines have not been checked.",
+    "The Eswatini 2012 doses above cover bronchitis only. The same guideline's doses for pneumonia, ear infection and dental infection were not read.",
+    "This guideline is from Eswatini (then Swaziland), 2012, not Sierra Leone. It is a national government guideline, but it is old and the doses and policies in Sierra Leone may differ. The reviewer should compare with the current Sierra Leone Standard Treatment Guidelines."
    ]
   },
   "fr": {
@@ -84,7 +95,8 @@
     "Un antibiotique utilisé pour traiter les infections bactériennes (NHS)."
    ],
    "used_for": [
-    "Le NHS cite l'infection de la poitrine, l'abcès dentaire, les infections de l'oreille et l'ulcère de l'estomac."
+    "Le NHS cite l'infection de la poitrine, l'abcès dentaire, les infections de l'oreille et l'ulcère de l'estomac.",
+    "La directive d'Eswatini de 2012 l'utilise aussi pour la bronchite aiguë purulente et pour les poussées infectées de bronchite chronique."
    ],
    "how_used": [
     "Gélules : la dose habituelle sur la page du NHS est de 250 mg à 500 mg, 3 fois par jour. La page n'indique pas explicitement qu'il s'agit de la dose adulte.",
@@ -92,7 +104,10 @@
     "Enfants : le NHS indique que la dose peut être plus faible mais ne donne pas de dose selon l'âge ou le poids. Suivre la notice ou demander à un professionnel de santé.",
     "Répartir les prises régulièrement dans la journée. Il peut être pris avec ou sans repas. Avaler les gélules entières avec de l'eau.",
     "Terminer le traitement complet même si l'on se sent mieux. Prévenir un médecin si l'on ne va pas mieux après 3 à 5 jours, ou si l'on se sent plus mal à tout moment (NHS). La page n'indique pas la durée totale du traitement.",
-    "Dose oubliée : la prendre dès que l'on s'en souvient, sauf si la prochaine prise est proche. Ne jamais prendre deux doses à la fois."
+    "Dose oubliée : la prendre dès que l'on s'en souvient, sauf si la prochaine prise est proche. Ne jamais prendre deux doses à la fois.",
+    "Bronchite aiguë purulente, adultes : 500 mg par voie orale toutes les 8 heures pendant 4 jours ou plus. Pour les personnes allergiques à la pénicilline, la directive donne l'érythromycine 500 mg toutes les 6 heures pendant 5 à 7 jours. Les antibiotiques ne sont pas indiqués en cas de bronchite non compliquée (STG d'Eswatini 2012).",
+    "Bronchite aiguë, enfants : antibiotiques seulement en cas de forte fièvre, de carence nutritionnelle, de maladie du cœur, de pneumonie antérieure ou d'immunité affaiblie (par exemple SIDA). Dose : 250 mg toutes les 8 heures pendant 7 jours (STG d'Eswatini 2012).",
+    "Bronchite chronique avec infection, adultes : 500 mg par voie orale toutes les 8 heures (STG d'Eswatini 2012). La durée n'a pas été lue."
    ],
    "who_careful": [
     "Prévenir un médecin avant de commencer si vous avez déjà eu une réaction allergique à l'amoxicilline, à la pénicilline ou à un autre médicament (NHS).",
@@ -118,7 +133,9 @@
     "Les doses pour les enfants selon l'âge ou le poids ne sont pas données. Les recommandations de l'OMS et nationales sur la pneumonie de l'enfant doivent être ajoutées une fois lisibles.",
     "La durée du traitement pour chaque infection n'est pas donnée sur la page du NHS.",
     "Les pages du NHS décrivent des produits et des numéros d'urgence du Royaume-Uni. Les dosages, les marques et les recommandations locales en Sierra Leone doivent encore être vérifiés par le relecteur.",
-    "Les directives nationales de traitement de la Sierra Leone n'ont pas été vérifiées."
+    "Les directives nationales de traitement de la Sierra Leone n'ont pas été vérifiées.",
+    "Les doses d'Eswatini 2012 ci-dessus ne concernent que la bronchite. Les doses de la même directive pour la pneumonie, l'otite et l'infection dentaire n'ont pas été lues.",
+    "Cette directive vient d'Eswatini (alors Swaziland), 2012, et non de la Sierra Leone. C'est une directive nationale officielle, mais elle est ancienne et les doses et politiques en Sierra Leone peuvent différer. Le relecteur doit la comparer à la version actuelle des directives nationales de traitement de la Sierra Leone."
    ]
   }
  },
@@ -694,12 +711,16 @@
    {
     "title": "WHO eLENA: Deworming to improve nutrition and health in children",
     "url": "https://www.who.int/tools/elena/interventions/deworming"
+   },
+   {
+    "title": "Ministry of Health, Kingdom of Swaziland (2012): Standard Treatment Guidelines and Essential Medicines List of Common Medical Conditions in the Kingdom of Swaziland, 1st edition (supported by PEPFAR, USAID and the SPS Program, Management Sciences for Health)",
+    "url": null
    }
   ],
   "en": {
    "name": "Albendazole (and mebendazole)",
    "what_it_is": [
-    "Medicines used against intestinal worms (soil-transmitted helminths). This entry covers the WHO preventive-treatment programmes for at-risk groups, not treatment of one person."
+    "Medicines used against intestinal worms (soil-transmitted helminths). This entry covers the WHO preventive-treatment programmes for at-risk groups, and the treatment of one person from the Eswatini 2012 national guideline."
    ],
    "used_for": [
     "WHO preventive chemotherapy for children aged 12–23 months, preschool children aged 1–4 years and school-age children aged 5–12 years (up to 14 years in some settings), where soil-transmitted worm infection is common (WHO eLENA)."
@@ -707,18 +728,28 @@
    "how_used": [
     "Albendazole 400 mg as a single dose, or mebendazole 500 mg as a single dose (WHO eLENA).",
     "Children younger than 24 months: a half dose of albendazole, 200 mg (WHO eLENA).",
-    "Treatment is given where infection with any soil-transmitted worm is 20% or more among children, once a year; twice a year where it is more than 50% (WHO eLENA)."
+    "Treatment is given where infection with any soil-transmitted worm is 20% or more among children, once a year; twice a year where it is more than 50% (WHO eLENA).",
+    "Treating one person with roundworm (ascariasis): albendazole 400 mg by mouth as a single dose, or 20 mL of suspension as a single dose (Eswatini STG 2012). The national list has albendazole 200 mg tablets and 20 mg/mL suspension.",
+    "For hookworm, tapeworm and whipworm the same guideline gives mebendazole 500 mg by mouth as a single dose for adults, and 250 mg as a single dose for children under 2 years (Eswatini STG 2012).",
+    "The guideline advises de-worming children regularly, every 3 to 6 months, as prevention against hookworm and whipworm (Eswatini STG 2012)."
    ],
    "open_points": [
-    "The WHO eLENA page gives no advice on pregnancy, side effects, cautions or interactions, so none are given here.",
-    "Treatment of a single person with worms, doses for adults, and the other worm diseases (such as lymphatic filariasis and onchocerciasis, where other medicines are used) are not covered yet.",
-    "The page does not give the year of the WHO guideline it lists. The reviewer should check the current Sierra Leone deworming schedule."
+    "The WHO eLENA page gives no advice on pregnancy, side effects, cautions or interactions. The pregnancy advice above comes from the Eswatini 2012 guideline only; the WHO advice on pregnancy has not been checked.",
+    "Doses for the other worm diseases (such as lymphatic filariasis and onchocerciasis, where other medicines are used) are not covered yet.",
+    "The WHO eLENA page does not give the year of the WHO guideline it lists. The reviewer should check the current Sierra Leone deworming schedule.",
+    "This guideline is from Eswatini (then Swaziland), 2012, not Sierra Leone. It is a national government guideline, but it is old and the doses and policies in Sierra Leone may differ. The reviewer should compare with the current Sierra Leone Standard Treatment Guidelines."
+   ],
+   "who_careful": [
+    "The guideline says to refer people with abdominal tenderness, pain and vomiting when treating roundworm, because the worms can form a mass or block the bowel (Eswatini STG 2012)."
+   ],
+   "pregnancy": [
+    "The Eswatini guideline says anthelmintic medicines including mebendazole are not safe in pregnancy because they may cause congenital defects, so treatment should be delayed until after delivery. It says to refer pregnant women with roundworm."
    ]
   },
   "fr": {
    "name": "Albendazole (et mébendazole)",
    "what_it_is": [
-    "Médicaments utilisés contre les vers intestinaux (helminthes transmis par le sol). Cette fiche porte sur les programmes de traitement préventif de l'OMS pour les groupes à risque, pas sur le traitement d'une seule personne."
+    "Médicaments utilisés contre les vers intestinaux (helminthes transmis par le sol). Cette fiche porte sur les programmes de traitement préventif de l'OMS pour les groupes à risque, et sur le traitement d'une personne selon la directive nationale d'Eswatini de 2012."
    ],
    "used_for": [
     "Chimiothérapie préventive de l'OMS pour les enfants de 12 à 23 mois, les enfants d'âge préscolaire de 1 à 4 ans et les enfants d'âge scolaire de 5 à 12 ans (jusqu'à 14 ans dans certains contextes), là où l'infection par les vers transmis par le sol est fréquente (OMS eLENA)."
@@ -726,12 +757,22 @@
    "how_used": [
     "Albendazole 400 mg en dose unique, ou mébendazole 500 mg en dose unique (OMS eLENA).",
     "Enfants de moins de 24 mois : une demi-dose d'albendazole, 200 mg (OMS eLENA).",
-    "Le traitement est donné là où l'infection par un ver transmis par le sol atteint 20 % ou plus chez les enfants, une fois par an ; deux fois par an là où elle dépasse 50 % (OMS eLENA)."
+    "Le traitement est donné là où l'infection par un ver transmis par le sol atteint 20 % ou plus chez les enfants, une fois par an ; deux fois par an là où elle dépasse 50 % (OMS eLENA).",
+    "Traiter une personne atteinte d'ascaridiose : albendazole 400 mg par voie orale en dose unique, ou 20 ml de suspension en dose unique (STG d'Eswatini 2012). La liste nationale comprend des comprimés d'albendazole de 200 mg et une suspension de 20 mg/ml.",
+    "Pour l'ankylostomiase, le ténia et la trichocéphalose, la même directive donne le mébendazole 500 mg par voie orale en dose unique chez l'adulte, et 250 mg en dose unique chez l'enfant de moins de 2 ans (STG d'Eswatini 2012).",
+    "La directive conseille de déparasiter régulièrement les enfants, tous les 3 à 6 mois, en prévention de l'ankylostomiase et de la trichocéphalose (STG d'Eswatini 2012)."
    ],
    "open_points": [
-    "La page eLENA de l'OMS ne donne aucun conseil sur la grossesse, les effets indésirables, les précautions ou les interactions, donc aucun n'est donné ici.",
-    "Le traitement d'une seule personne ayant des vers, les doses pour les adultes et les autres maladies à vers (comme la filariose lymphatique et l'onchocercose, où d'autres médicaments sont utilisés) ne sont pas encore couverts.",
-    "La page ne donne pas l'année de la directive de l'OMS qu'elle cite. Le relecteur doit vérifier le calendrier actuel de déparasitage en Sierra Leone."
+    "La page eLENA de l'OMS ne donne aucun conseil sur la grossesse, les effets indésirables, les précautions ou les interactions. Le conseil sur la grossesse ci-dessus vient uniquement de la directive d'Eswatini de 2012 ; les recommandations de l'OMS sur la grossesse n'ont pas été vérifiées.",
+    "Les doses pour les autres maladies à vers (comme la filariose lymphatique et l'onchocercose, où d'autres médicaments sont utilisés) ne sont pas encore couvertes.",
+    "La page eLENA de l'OMS ne donne pas l'année de la directive de l'OMS qu'elle cite. Le relecteur doit vérifier le calendrier actuel de déparasitage en Sierra Leone.",
+    "Cette directive vient d'Eswatini (alors Swaziland), 2012, et non de la Sierra Leone. C'est une directive nationale officielle, mais elle est ancienne et les doses et politiques en Sierra Leone peuvent différer. Le relecteur doit la comparer à la version actuelle des directives nationales de traitement de la Sierra Leone."
+   ],
+   "who_careful": [
+    "La directive demande d'orienter vers un niveau supérieur les personnes ayant une sensibilité de l'abdomen, des douleurs et des vomissements lors du traitement de l'ascaridiose, car les vers peuvent former une masse ou obstruer l'intestin (STG d'Eswatini 2012)."
+   ],
+   "pregnancy": [
+    "La directive d'Eswatini indique que les antihelminthiques, dont le mébendazole, ne sont pas sûrs pendant la grossesse car ils peuvent causer des malformations congénitales ; le traitement doit donc être retardé jusqu'après l'accouchement. Elle demande d'orienter les femmes enceintes atteintes d'ascaridiose."
    ]
   }
  }

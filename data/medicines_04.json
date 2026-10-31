@@ -1,0 +1,116 @@
+[
+ {
+  "slug": "salbutamol",
+  "status": "draft",
+  "last_checked": "2026-11-01",
+  "diseases": [
+   "asthma"
+  ],
+  "sources": [
+   {
+    "title": "Ministry of Health, Kingdom of Swaziland (2012): Standard Treatment Guidelines and Essential Medicines List of Common Medical Conditions in the Kingdom of Swaziland, 1st edition (supported by PEPFAR, USAID and the SPS Program, Management Sciences for Health)",
+    "url": null
+   }
+  ],
+  "en": {
+   "name": "Salbutamol (albuterol)",
+   "what_it_is": [
+    "A reliever medicine for asthma that opens the airways. The Eswatini national essential medicines list has it as an inhaler (100 micrograms), syrup (2 mg per 5 ml) and tablets (4 mg), available at all levels of care."
+   ],
+   "used_for": [
+    "Asthma, including an acute attack (Eswatini STG 2012)."
+   ],
+   "how_used": [
+    "Adults: inhaled salbutamol (short acting) 200 micrograms every 4 to 6 hours, or salbutamol 4 mg by mouth up to 4 times a day (Eswatini STG 2012).",
+    "Children: inhaled salbutamol (short acting) 200 micrograms through a spacer every 4 to 6 hours (Eswatini STG 2012).",
+    "Acute attack, adults: oxygen 8 litres per minute by mask, make sure the person is hydrated, and give nebulised salbutamol. A steroid is also given. Refer urgently if there is no response in 3 hours (Eswatini STG 2012). The nebulised dose was not stated.",
+    "Acute attack, children: oxygen 2 litres per minute by nasal prongs, hydration, nebulised salbutamol and a steroid; refer urgently if there is no response (Eswatini STG 2012)."
+   ],
+   "urgent": [
+    "The guideline says to refer moderate and severe attacks. Signs of a severe attack in children: unable to speak or feed, wheeze absent, impaired consciousness, chest indrawing, breathing faster than 40 per minute (Eswatini STG 2012, table 16.1A).",
+    "Signs of a severe attack in adults: able to say only words, agitated or drowsy or confused, breathing often faster than 30 per minute, wheeze loud or absent, pulse above 120 per minute (Eswatini STG 2012, table 16.1B)."
+   ],
+   "open_points": [
+    "The Eswatini guideline pages read do not give cautions, side effects, interactions or pregnancy advice for salbutamol, so none are given here. These need another source (for example the WHO or a medicine leaflet).",
+    "Asthma preventer medicines (such as inhaled beclometasone) are part of the same guideline but are not in this entry.",
+    "This guideline is from Eswatini (then Swaziland), 2012, not Sierra Leone. It is a national government guideline, but it is old and the doses and policies in Sierra Leone may differ. The reviewer should compare with the current Sierra Leone Standard Treatment Guidelines."
+   ]
+  },
+  "fr": {
+   "name": "Salbutamol",
+   "what_it_is": [
+    "Un médicament de soulagement de l'asthme qui ouvre les voies respiratoires. La liste nationale des médicaments essentiels d'Eswatini le comprend sous forme d'inhalateur (100 microgrammes), de sirop (2 mg par 5 ml) et de comprimés (4 mg), disponible à tous les niveaux de soins."
+   ],
+   "used_for": [
+    "Asthme, y compris la crise aiguë (STG d'Eswatini 2012)."
+   ],
+   "how_used": [
+    "Adultes : salbutamol inhalé (action rapide) 200 microgrammes toutes les 4 à 6 heures, ou salbutamol 4 mg par voie orale jusqu'à 4 fois par jour (STG d'Eswatini 2012).",
+    "Enfants : salbutamol inhalé (action rapide) 200 microgrammes avec une chambre d'inhalation toutes les 4 à 6 heures (STG d'Eswatini 2012).",
+    "Crise aiguë, adultes : oxygène 8 litres par minute au masque, s'assurer de l'hydratation, et donner du salbutamol en nébulisation. Un corticoïde est aussi donné. Orienter en urgence en l'absence de réponse en 3 heures (STG d'Eswatini 2012). La dose en nébulisation n'est pas indiquée.",
+    "Crise aiguë, enfants : oxygène 2 litres par minute par lunettes nasales, hydratation, salbutamol en nébulisation et un corticoïde ; orienter en urgence en l'absence de réponse (STG d'Eswatini 2012)."
+   ],
+   "urgent": [
+    "La directive demande d'orienter les crises modérées et sévères. Signes de crise sévère chez l'enfant : incapable de parler ou de s'alimenter, sifflement absent, conscience altérée, tirage thoracique, respiration de plus de 40 par minute (STG d'Eswatini 2012, tableau 16.1A).",
+    "Signes de crise sévère chez l'adulte : ne peut dire que des mots, agité ou somnolent ou confus, respiration souvent de plus de 30 par minute, sifflement fort ou absent, pouls de plus de 120 par minute (STG d'Eswatini 2012, tableau 16.1B)."
+   ],
+   "open_points": [
+    "Les pages de la directive d'Eswatini lues ne donnent ni précautions, ni effets indésirables, ni interactions, ni conseil sur la grossesse pour le salbutamol, donc aucun n'est donné ici. Ces points demandent une autre source (par exemple l'OMS ou une notice de médicament).",
+    "Les médicaments de fond de l'asthme (comme la béclométasone inhalée) font partie de la même directive mais ne figurent pas dans cette fiche.",
+    "Cette directive vient d'Eswatini (alors Swaziland), 2012, et non de la Sierra Leone. C'est une directive nationale officielle, mais elle est ancienne et les doses et politiques en Sierra Leone peuvent différer. Le relecteur doit la comparer à la version actuelle des directives nationales de traitement de la Sierra Leone."
+   ]
+  }
+ },
+ {
+  "slug": "praziquantel",
+  "status": "draft",
+  "last_checked": "2026-11-01",
+  "diseases": [
+   "schistosomiasis"
+  ],
+  "sources": [
+   {
+    "title": "Ministry of Health, Kingdom of Swaziland (2012): Standard Treatment Guidelines and Essential Medicines List of Common Medical Conditions in the Kingdom of Swaziland, 1st edition (supported by PEPFAR, USAID and the SPS Program, Management Sciences for Health)",
+    "url": null
+   }
+  ],
+  "en": {
+   "name": "Praziquantel",
+   "what_it_is": [
+    "A medicine used to treat schistosomiasis (bilharzia), a disease caused by a blood fluke (Schistosoma) whose larvae enter the skin from contaminated water. The Eswatini national essential medicines list has it as a 600 mg tablet, available at all levels of care and marked vital."
+   ],
+   "used_for": [
+    "Schistosomiasis caused by S. haematobium (urinary tract), S. mansoni (gut) or S. japonicum (gut) (Eswatini STG 2012).",
+    "The guideline lists blood-stained urine at the end of urination and frequent urination (urinary type), and abdominal pain with blood-stained mucus in the stool and an enlarged liver (gut type) among the signs."
+   ],
+   "how_used": [
+    "40 mg per kg of body weight by mouth, as a single dose (Eswatini STG 2012). The guideline does not give different doses for children or for the different species.",
+    "Prevention advice in the same guideline: avoid urinating or defecating in or near water, avoid washing or stepping in contaminated water, and make sure cases are treated."
+   ],
+   "open_points": [
+    "The guideline pages read give no cautions, side effects, interactions, pregnancy advice or when to get urgent help for praziquantel, so none are given here. These need another source (for example WHO or CDC).",
+    "The WHO schistosomiasis fact sheet and the CDC page could not be read, so mass treatment programmes and dosing by height are not covered.",
+    "This guideline is from Eswatini (then Swaziland), 2012, not Sierra Leone. It is a national government guideline, but it is old and the doses and policies in Sierra Leone may differ. The reviewer should compare with the current Sierra Leone Standard Treatment Guidelines."
+   ]
+  },
+  "fr": {
+   "name": "Praziquantel",
+   "what_it_is": [
+    "Un médicament utilisé pour traiter la schistosomiase (bilharziose), une maladie causée par un ver plat du sang (Schistosoma) dont les larves pénètrent la peau à partir d'une eau contaminée. La liste nationale des médicaments essentiels d'Eswatini le comprend sous forme de comprimé de 600 mg, disponible à tous les niveaux de soins et classé vital."
+   ],
+   "used_for": [
+    "Schistosomiase due à S. haematobium (voies urinaires), S. mansoni (intestin) ou S. japonicum (intestin) (STG d'Eswatini 2012).",
+    "La directive cite parmi les signes les urines teintées de sang en fin de miction et les mictions fréquentes (forme urinaire), et les douleurs abdominales avec des selles contenant du mucus sanglant et un foie augmenté de volume (forme intestinale)."
+   ],
+   "how_used": [
+    "40 mg par kg de poids corporel par voie orale, en dose unique (STG d'Eswatini 2012). La directive ne donne pas de doses différentes pour les enfants ni pour les différentes espèces.",
+    "Conseils de prévention de la même directive : éviter d'uriner ou de déféquer dans l'eau ou près de l'eau, éviter de se laver ou de marcher dans une eau contaminée, et veiller à ce que les cas soient traités."
+   ],
+   "open_points": [
+    "Les pages de la directive lues ne donnent ni précautions, ni effets indésirables, ni interactions, ni conseil sur la grossesse, ni consigne d'aide urgente pour le praziquantel, donc aucun n'est donné ici. Ces points demandent une autre source (par exemple l'OMS ou le CDC).",
+    "La fiche d'information de l'OMS sur la schistosomiase et la page du CDC n'ont pas pu être lues, donc les programmes de traitement de masse et la dose selon la taille ne sont pas couverts.",
+    "Cette directive vient d'Eswatini (alors Swaziland), 2012, et non de la Sierra Leone. C'est une directive nationale officielle, mais elle est ancienne et les doses et politiques en Sierra Leone peuvent différer. Le relecteur doit la comparer à la version actuelle des directives nationales de traitement de la Sierra Leone."
+   ]
+  }
+ }
+]
