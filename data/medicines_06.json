@@ -1,0 +1,128 @@
+[
+ {
+  "slug": "tranexamic-acid",
+  "status": "draft",
+  "last_checked": "2026-11-01",
+  "diseases": [],
+  "sources": [
+   {
+    "title": "WHO (2017): Managing complications in pregnancy and childbirth: a guide for midwives and doctors, 2nd edition. Licence CC BY-NC-SA 3.0 IGO. This entry adapts and summarises it and is shared under the same licence; WHO does not endorse this adaptation.",
+    "url": null
+   },
+   {
+    "title": "Semrau K et al. (2025): Implementation strategies for WHO guidelines to prevent, detect, and treat postpartum haemorrhage. Cochrane Database of Systematic Reviews, CD016223 (background section summarising WHO recommendations)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11863301"
+   }
+  ],
+  "en": {
+   "name": "Tranexamic acid",
+   "what_it_is": [
+    "A medicine given by slow injection into a vein to help control heavy bleeding after childbirth."
+   ],
+   "used_for": [
+    "The 2017 WHO guide says to give it if oxytocin and other womb-contracting medicines fail to stop the bleeding, or if the bleeding may be partly due to a tear or injury (WHO 2017).",
+    "A 2025 review summarising the WHO recommendations says early use within 3 hours of birth, in addition to standard care, is recommended for clinically diagnosed postpartum haemorrhage after vaginal or caesarean birth, and that the first-line care bundle includes uterine massage, an oxytocic medicine and tranexamic acid, IV fluids, examination of the genital tract and escalation of care (Cochrane 2025)."
+   ],
+   "how_used": [
+    "1 g slowly into a vein; repeat after 30 minutes if bleeding continues; no more than 10 mg per kg of body weight, 3 to 4 times a day (WHO 2017, table S-11).",
+    "This is hospital and health-worker care. It must be given by a trained health worker, not at home."
+   ],
+   "who_careful": [
+    "WHO lists a history of blood clotting disease or active clotting inside the blood vessels, and convulsions, as precautions (WHO 2017, table S-11)."
+   ],
+   "open_points": [
+    "The two sources differ on when to give it: the 2017 guide says when other medicines fail, while the 2025 review says early, within 3 hours of birth, as part of the first-line bundle. The reviewer should check the current WHO recommendation and the Sierra Leone guideline.",
+    "The sources read do not give side effects, interactions or advice on pregnancy and breastfeeding for tranexamic acid, so none are given here.",
+    "The Eswatini guideline and the South Africa guideline were not checked for this medicine.",
+    "The English text is adapted from WHO material. The French text is our own translation and was not created by the World Health Organization (WHO). WHO is not responsible for the content or accuracy of this translation. The original English edition is the binding and authentic edition."
+   ]
+  },
+  "fr": {
+   "name": "Acide tranexamique",
+   "what_it_is": [
+    "Un médicament donné en injection intraveineuse lente pour aider à maîtriser un saignement abondant après l'accouchement."
+   ],
+   "used_for": [
+    "Le guide de l'OMS de 2017 indique de le donner si l'ocytocine et les autres médicaments qui font contracter l'utérus ne stoppent pas le saignement, ou si le saignement peut être en partie dû à une déchirure ou une lésion (OMS 2017).",
+    "Une revue de 2025 résumant les recommandations de l'OMS indique que l'utilisation précoce dans les 3 heures suivant la naissance, en plus des soins habituels, est recommandée en cas d'hémorragie du post-partum diagnostiquée cliniquement après un accouchement par voie basse ou par césarienne, et que le paquet de soins de première ligne comprend le massage de l'utérus, un médicament utérotonique et l'acide tranexamique, des soluté IV, l'examen des voies génitales et l'escalade des soins (Cochrane 2025)."
+   ],
+   "how_used": [
+    "1 g lentement en intraveineuse ; répéter après 30 minutes si le saignement continue ; pas plus de 10 mg par kg de poids corporel, 3 à 4 fois par jour (OMS 2017, tableau S-11).",
+    "Ce sont des soins hospitaliers et de professionnels de santé. Ils doivent être donnés par un professionnel de santé formé, pas à la maison."
+   ],
+   "who_careful": [
+    "L'OMS cite comme précautions un antécédent de maladie de la coagulation ou une coagulation active dans les vaisseaux sanguins, et les convulsions (OMS 2017, tableau S-11)."
+   ],
+   "open_points": [
+    "Les deux sources diffèrent sur le moment : le guide de 2017 indique en cas d'échec des autres médicaments, alors que la revue de 2025 indique de façon précoce, dans les 3 heures suivant la naissance, dans le cadre du paquet de première ligne. Le relecteur doit vérifier la recommandation actuelle de l'OMS et la directive de la Sierra Leone.",
+    "Les sources lues ne donnent ni effets indésirables, ni interactions, ni conseil sur la grossesse et l'allaitement pour l'acide tranexamique, donc aucun n'est donné ici.",
+    "La directive d'Eswatini et la directive d'Afrique du Sud n'ont pas été consultées pour ce médicament.",
+    "Le texte anglais est adapté de documents de l'OMS. Le texte français est notre propre traduction et n'a pas été créé par l'Organisation mondiale de la Santé (OMS). L'OMS n'est pas responsable du contenu ni de l'exactitude de cette traduction. L'édition originale en anglais est l'édition faisant foi."
+   ]
+  }
+ },
+ {
+  "slug": "sulfadoxine-pyrimethamine",
+  "status": "draft",
+  "last_checked": "2026-11-01",
+  "diseases": [
+   "malaria"
+  ],
+  "sources": [
+   {
+    "title": "USAID Maternal and Child Survival Program (2018): 2016 WHO Antenatal Care Guidelines: Malaria in Pregnancy Frequently Asked Questions (summary of WHO advice)",
+    "url": null
+   }
+  ],
+  "en": {
+   "name": "Sulfadoxine-pyrimethamine (SP) in pregnancy",
+   "what_it_is": [
+    "An antimalarial medicine given to pregnant women at scheduled visits to prevent malaria, called intermittent preventive treatment in pregnancy (IPTp). The source says SP is the only medicine currently recommended for IPTp, even in areas with high levels of SP resistance, and that WHO recommends IPTp in sub-Saharan African countries with moderate to high malaria transmission (USAID MCSP 2018, summarising WHO advice)."
+   ],
+   "used_for": [
+    "Preventing malaria and its harm to the mother and baby during pregnancy. Pregnant women should also sleep under an insecticide-treated net every night (USAID MCSP 2018)."
+   ],
+   "how_used": [
+    "One full dose is 1,500 mg of sulfadoxine with 75 mg of pyrimethamine, which is three tablets of 500 mg / 25 mg. Give it as directly observed treatment (USAID MCSP 2018).",
+    "Do not give it before week 13 of pregnancy. Give the first dose as early as possible in the second trimester, the second dose 1 month later, and the later doses from the 20-week visit onwards, always at least 1 month apart. It can be given safely from the start of the second trimester until delivery (USAID MCSP 2018).",
+    "The source says the period from 13 to 20 weeks, when the placenta is forming and parasite numbers are highest, is critical, so a visit between 13 and 16 weeks is recommended for the first dose (USAID MCSP 2018)."
+   ],
+   "who_careful": [
+    "Pregnant women who are taking cotrimoxazole should not be given SP, because of an increased risk of side effects when both are taken together (USAID MCSP 2018). The WHO 2006 cotrimoxazole guideline likewise says such women do not need SP."
+   ],
+   "other_medicines": [
+    "Folic acid at 5 mg or more a day should not be given with SP, because it counteracts SP's effect against malaria. The 400 µg (0.4 mg) dose can be given at the same time (USAID MCSP 2018)."
+   ],
+   "open_points": [
+    "The source read gives no side effects or advice on breastfeeding for SP, so none are given here.",
+    "This entry covers prevention in pregnancy only. It is not about SP used for other purposes or about treating malaria in pregnancy.",
+    "The source is a 2018 programme summary of WHO advice, not WHO's own text. The current WHO malaria guidelines and the Sierra Leone national schedule for IPTp have not been checked and must be compared before this entry is marked reviewed."
+   ]
+  },
+  "fr": {
+   "name": "Sulfadoxine-pyriméthamine (SP) pendant la grossesse",
+   "what_it_is": [
+    "Un médicament antipaludique donné aux femmes enceintes lors de rendez-vous programmés pour prévenir le paludisme, appelé traitement préventif intermittent pendant la grossesse (TPIg). La source indique que la SP est le seul médicament actuellement recommandé pour le TPIg, même dans les zones de forte résistance à la SP, et que l'OMS recommande le TPIg dans les pays d'Afrique subsaharienne où la transmission du paludisme est modérée à élevée (USAID MCSP 2018, résumant les recommandations de l'OMS)."
+   ],
+   "used_for": [
+    "Prévenir le paludisme et ses effets néfastes sur la mère et le bébé pendant la grossesse. Les femmes enceintes doivent aussi dormir chaque nuit sous une moustiquaire imprégnée d'insecticide (USAID MCSP 2018)."
+   ],
+   "how_used": [
+    "Une dose complète est de 1 500 mg de sulfadoxine avec 75 mg de pyriméthamine, soit trois comprimés de 500 mg / 25 mg. La donner sous observation directe (USAID MCSP 2018).",
+    "Ne pas la donner avant la 13e semaine de grossesse. Donner la première dose le plus tôt possible au deuxième trimestre, la deuxième dose 1 mois plus tard, puis les doses suivantes à partir de la consultation de 20 semaines, toujours à au moins 1 mois d'intervalle. Elle peut être donnée sans danger du début du deuxième trimestre jusqu'à l'accouchement (USAID MCSP 2018).",
+    "La source indique que la période de 13 à 20 semaines, lorsque le placenta se forme et que le nombre de parasites est le plus élevé, est critique, donc une consultation entre 13 et 16 semaines est recommandée pour la première dose (USAID MCSP 2018)."
+   ],
+   "who_careful": [
+    "Les femmes enceintes qui prennent du cotrimoxazole ne doivent pas recevoir de SP, en raison d'un risque accru d'effets indésirables lorsque les deux sont pris ensemble (USAID MCSP 2018). La directive de l'OMS de 2006 sur le cotrimoxazole indique de même que ces femmes n'ont pas besoin de SP."
+   ],
+   "other_medicines": [
+    "L'acide folique à 5 mg ou plus par jour ne doit pas être donné avec la SP, car il s'oppose à son effet contre le paludisme. La dose de 400 µg (0,4 mg) peut être donnée en même temps (USAID MCSP 2018)."
+   ],
+   "open_points": [
+    "La source lue ne donne ni effets indésirables ni conseil sur l'allaitement pour la SP, donc aucun n'est donné ici.",
+    "Cette fiche porte uniquement sur la prévention pendant la grossesse. Elle ne concerne pas l'usage de la SP à d'autres fins ni le traitement du paludisme pendant la grossesse.",
+    "La source est un résumé de programme de 2018 des recommandations de l'OMS, et non le texte de l'OMS lui-même. Les directives actuelles de l'OMS sur le paludisme et le calendrier national du TPIg en Sierra Leone n'ont pas été vérifiés et doivent être comparés avant de marquer cette fiche comme relue."
+   ]
+  }
+ }
+]

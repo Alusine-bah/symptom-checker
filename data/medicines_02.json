@@ -501,6 +501,10 @@
    {
     "title": "Ministry of Health, Kingdom of Swaziland (2012): Standard Treatment Guidelines and Essential Medicines List of Common Medical Conditions in the Kingdom of Swaziland, 1st edition (supported by PEPFAR, USAID and the SPS Program, Management Sciences for Health)",
     "url": null
+   },
+   {
+    "title": "WHO (2016): WHO recommendations on antenatal care for a positive pregnancy experience, executive summary",
+    "url": null
    }
   ],
   "en": {
@@ -518,7 +522,8 @@
     "Best taken on an empty stomach, about 30 minutes before eating or 2 hours after. Take it with or after food if it upsets the stomach. Vitamin C or orange juice may help absorption. Avoid tea, coffee, eggs and dairy within 2 hours (NHS).",
     "In pregnancy, the WHO recommends 30 mg to 60 mg of elemental iron daily together with 400 µg of folic acid. The WHO page gives no length of course (WHO eLENA).",
     "Anaemia in pregnancy, prevention (all antenatal patients): ferrous sulphate 200 mg by mouth daily with food, plus folic acid 5 mg daily, plus vitamin C daily (Eswatini STG 2012).",
-    "Anaemia in pregnancy, treatment: if haemoglobin is below 11 g/dL, ferrous sulphate 200 mg by mouth 3 times a day with food, and for 1 month afterwards at the preventive dose (Eswatini STG 2012)."
+    "Anaemia in pregnancy, treatment: if haemoglobin is below 11 g/dL, ferrous sulphate 200 mg by mouth 3 times a day with food, and for 1 month afterwards at the preventive dose (Eswatini STG 2012).",
+    "The WHO writes the pregnancy dose as elemental iron. It says 60 mg of elemental iron equals 300 mg of ferrous sulfate heptahydrate (or 180 mg of ferrous fumarate, or 500 mg of ferrous gluconate), and 120 mg of elemental iron equals 600 mg of ferrous sulfate heptahydrate (WHO 2016, footnotes). The weekly option is 120 mg of elemental iron with 2,800 µg of folic acid when daily iron causes side effects (see the folic acid entry)."
    ],
    "who_careful": [
     "The NHS says most adults and some children aged 12 and over can take it with a doctor's or pharmacist's advice. Speak to a doctor first if you have had an allergic reaction to it; have an anaemia not caused by low iron; have haemochromatosis or haemosiderosis; have sickle cell anaemia or thalassaemia; have a stomach ulcer, stomach surgery or bowel disease; receive repeated blood transfusions; or have blood in your urine."
@@ -542,7 +547,7 @@
     "The WHO eLENA page does not give a year for its recommendation; it says it replaces the 2012 WHO guideline on daily iron and folic acid in pregnant women.",
     "Where malaria is common, advice on iron in children is not covered here.",
     "The NHS pages describe UK products and UK emergency numbers. Strengths, brands and local guidance in Sierra Leone still need checking by the reviewer.",
-    "The WHO figure for pregnancy is 30 mg to 60 mg of elemental iron a day, while the Eswatini guideline gives a 200 mg ferrous sulphate tablet. These are different ways of writing the dose. The reviewer should check how much elemental iron the tablet used in Sierra Leone contains.",
+    "The WHO figure for pregnancy is 30 mg to 60 mg of elemental iron a day, while the Eswatini guideline gives a 200 mg ferrous sulphate tablet. If the Eswatini tablet is the heptahydrate form, 200 mg is about 40 mg of elemental iron, which is within the WHO range; the Eswatini guideline does not say which form it means. The reviewer should check the iron content of the tablet used in Sierra Leone.",
     "This guideline is from Eswatini (then Swaziland), 2012, not Sierra Leone. It is a national government guideline, but it is old and the doses and policies in Sierra Leone may differ. The reviewer should compare with the current Sierra Leone Standard Treatment Guidelines."
    ]
   },
@@ -561,7 +566,8 @@
     "Idéalement pris à jeun, environ 30 minutes avant un repas ou 2 heures après. Le prendre pendant ou après un repas s'il irrite l'estomac. La vitamine C ou le jus d'orange peut aider l'absorption. Éviter le thé, le café, les œufs et les produits laitiers dans les 2 heures (NHS).",
     "Pendant la grossesse, l'OMS recommande 30 mg à 60 mg de fer élémentaire par jour avec 400 µg d'acide folique. La page de l'OMS ne donne pas de durée de traitement (OMS eLENA).",
     "Anémie pendant la grossesse, prévention (toutes les femmes suivies en consultation prénatale) : sulfate ferreux 200 mg par voie orale par jour avec un repas, plus acide folique 5 mg par jour, plus vitamine C par jour (STG d'Eswatini 2012).",
-    "Anémie pendant la grossesse, traitement : si l'hémoglobine est inférieure à 11 g/dL, sulfate ferreux 200 mg par voie orale 3 fois par jour avec un repas, puis pendant 1 mois à la dose préventive (STG d'Eswatini 2012)."
+    "Anémie pendant la grossesse, traitement : si l'hémoglobine est inférieure à 11 g/dL, sulfate ferreux 200 mg par voie orale 3 fois par jour avec un repas, puis pendant 1 mois à la dose préventive (STG d'Eswatini 2012).",
+    "L'OMS exprime la dose de la grossesse en fer élémentaire. Elle indique que 60 mg de fer élémentaire équivalent à 300 mg de sulfate ferreux heptahydraté (ou 180 mg de fumarate ferreux, ou 500 mg de gluconate ferreux), et que 120 mg de fer élémentaire équivalent à 600 mg de sulfate ferreux heptahydraté (OMS 2016, notes de bas de page). L'option hebdomadaire est de 120 mg de fer élémentaire avec 2 800 µg d'acide folique lorsque le fer quotidien cause des effets indésirables (voir la fiche acide folique)."
    ],
    "who_careful": [
     "Le NHS indique que la plupart des adultes et certains enfants de 12 ans et plus peuvent le prendre avec l'avis d'un médecin ou d'un pharmacien. Demander d'abord l'avis d'un médecin en cas de réaction allergique passée ; d'anémie non due à un manque de fer ; d'hémochromatose ou d'hémosidérose ; de drépanocytose ou de thalassémie ; d'ulcère de l'estomac, de chirurgie de l'estomac ou de maladie de l'intestin ; de transfusions répétées ; ou de sang dans les urines."
@@ -585,7 +591,7 @@
     "La page eLENA de l'OMS ne donne pas d'année pour sa recommandation ; elle indique qu'elle remplace la directive OMS de 2012 sur le fer et l'acide folique quotidiens chez la femme enceinte.",
     "Là où le paludisme est fréquent, les conseils sur le fer chez l'enfant ne sont pas couverts ici.",
     "Les pages du NHS décrivent des produits et des numéros d'urgence du Royaume-Uni. Les dosages, les marques et les recommandations locales en Sierra Leone doivent encore être vérifiés par le relecteur.",
-    "Le chiffre de l'OMS pour la grossesse est de 30 mg à 60 mg de fer élémentaire par jour, alors que la directive d'Eswatini donne un comprimé de sulfate ferreux de 200 mg. Ce sont deux façons d'écrire la dose. Le relecteur doit vérifier la quantité de fer élémentaire du comprimé utilisé en Sierra Leone.",
+    "Le chiffre de l'OMS pour la grossesse est de 30 mg à 60 mg de fer élémentaire par jour, alors que la directive d'Eswatini donne un comprimé de sulfate ferreux de 200 mg. Si le comprimé d'Eswatini est la forme heptahydratée, 200 mg correspondent à environ 40 mg de fer élémentaire, ce qui est dans la fourchette de l'OMS ; la directive d'Eswatini ne précise pas de quelle forme il s'agit. Le relecteur doit vérifier la teneur en fer du comprimé utilisé en Sierra Leone.",
     "Cette directive vient d'Eswatini (alors Swaziland), 2012, et non de la Sierra Leone. C'est une directive nationale officielle, mais elle est ancienne et les doses et politiques en Sierra Leone peuvent différer. Le relecteur doit la comparer à la version actuelle des directives nationales de traitement de la Sierra Leone."
    ]
   }
@@ -607,6 +613,14 @@
    {
     "title": "Ministry of Health, Kingdom of Swaziland (2012): Standard Treatment Guidelines and Essential Medicines List of Common Medical Conditions in the Kingdom of Swaziland, 1st edition (supported by PEPFAR, USAID and the SPS Program, Management Sciences for Health)",
     "url": null
+   },
+   {
+    "title": "WHO (2016): WHO recommendations on antenatal care for a positive pregnancy experience, executive summary",
+    "url": null
+   },
+   {
+    "title": "USAID Maternal and Child Survival Program (2018): 2016 WHO Antenatal Care Guidelines: Malaria in Pregnancy Frequently Asked Questions (summary of WHO advice)",
+    "url": null
    }
   ],
   "en": {
@@ -622,7 +636,8 @@
     "In pregnancy, the NHS says to take a supplement for the first 12 weeks, and if planning a pregnancy to start before conception, ideally 3 months before. Some women need a higher dose: ask a pharmacist, midwife or doctor (NHS).",
     "The WHO recommends 400 µg (0.4 mg) of folic acid daily with 30 mg to 60 mg of elemental iron in pregnancy, started as early as possible, ideally before conception, to prevent neural tube defects. The page gives no length of course (WHO eLENA).",
     "Missed dose: take it as soon as you remember, then the next at the usual time. Do not take two doses to make up (NHS).",
-    "The Eswatini guideline gives folic acid 5 mg by mouth daily for all antenatal patients, together with ferrous sulphate 200 mg daily and vitamin C, to prevent anaemia in pregnancy (Eswatini STG 2012)."
+    "The Eswatini guideline gives folic acid 5 mg by mouth daily for all antenatal patients, together with ferrous sulphate 200 mg daily and vitamin C, to prevent anaemia in pregnancy (Eswatini STG 2012). Warning: 5 mg a day should not be given with sulfadoxine-pyrimethamine (see 'Other medicines').",
+    "WHO recommends 30 mg to 60 mg of elemental iron and 400 µg (0.4 mg) of folic acid every day in pregnancy to prevent maternal anaemia, puerperal sepsis, low birth weight and preterm birth. If daily iron is not acceptable because of side effects, or where fewer than 20% of pregnant women are anaemic, WHO gives a once-weekly option of 120 mg elemental iron with 2,800 µg (2.8 mg) of folic acid. Folic acid should start as early as possible, ideally before conception (WHO 2016, antenatal care recommendations)."
    ],
    "who_careful": [
     "May not be suitable if you have had an allergic reaction to it, have vitamin B12 deficiency or pernicious anaemia, have a coronary stent, or have cancer (NHS).",
@@ -630,7 +645,9 @@
    ],
    "other_medicines": [
     "May not mix well with epilepsy medicines (phenytoin, phenobarbital, primidone), the antibiotics chloramphenicol and co-trimoxazole, sulfasalazine, lithium, and aspirin (NHS).",
-    "Avoid or limit alcohol: it can affect how well folic acid works (NHS)."
+    "Avoid or limit alcohol: it can affect how well folic acid works (NHS).",
+    "Malaria prevention in pregnancy: folic acid at 5 mg or more a day should not be given together with sulfadoxine-pyrimethamine (SP), because it counteracts SP's effect against malaria. The 400 µg (0.4 mg) dose does not interfere with SP (USAID MCSP 2018, summarising WHO advice).",
+    "In pregnant women with sickle cell disease on high-dose folic acid, there is no agreed advice. The same source says 1 mg a day has not been shown to interfere with SP and these women need specialist care (USAID MCSP 2018)."
    ],
    "side_effects": [
     "Tablets: bloating, wind, feeling sick, loss of appetite. Liquid: also diarrhoea, vomiting and an itchy rash (NHS).",
@@ -646,7 +663,7 @@
     "No disease page is linked yet, because the encyclopedia has no entry for folate deficiency or neural tube defects. This is a gap to fill under the maternal and newborn health branch.",
     "The higher dose for women at higher risk is not stated on the NHS page and is not given here.",
     "The NHS pages describe UK products and UK emergency numbers. Strengths, brands and local guidance in Sierra Leone still need checking by the reviewer.",
-    "The doses of the two sources differ: WHO recommends 400 µg (0.4 mg) of folic acid daily in pregnancy to prevent neural tube defects, while the Eswatini guideline gives 5 mg daily to prevent anaemia in pregnancy. They may be for different purposes, but this is not stated. The reviewer should decide which applies in Sierra Leone.",
+    "The doses of the sources differ: WHO recommends 400 µg (0.4 mg) of folic acid daily in pregnancy, while the Eswatini guideline gives 5 mg daily to prevent anaemia in pregnancy. Where sulfadoxine-pyrimethamine is given in pregnancy, as in Sierra Leone, 5 mg or more should not be used with it. The reviewer should decide which dose applies in Sierra Leone.",
     "This guideline is from Eswatini (then Swaziland), 2012, not Sierra Leone. It is a national government guideline, but it is old and the doses and policies in Sierra Leone may differ. The reviewer should compare with the current Sierra Leone Standard Treatment Guidelines."
    ]
   },
@@ -663,7 +680,8 @@
     "Pendant la grossesse, le NHS indique de prendre un supplément pendant les 12 premières semaines, et si l'on prévoit une grossesse de commencer avant la conception, idéalement 3 mois avant. Certaines femmes ont besoin d'une dose plus élevée : demander à un pharmacien, une sage-femme ou un médecin (NHS).",
     "L'OMS recommande 400 µg (0,4 mg) d'acide folique par jour avec 30 mg à 60 mg de fer élémentaire pendant la grossesse, à commencer le plus tôt possible, idéalement avant la conception, pour prévenir les anomalies du tube neural. La page ne donne pas de durée (OMS eLENA).",
     "Dose oubliée : la prendre dès que l'on s'en souvient, puis la suivante à l'heure habituelle. Ne pas prendre deux doses pour compenser (NHS).",
-    "La directive d'Eswatini donne l'acide folique 5 mg par voie orale par jour pour toutes les femmes suivies en consultation prénatale, avec le sulfate ferreux 200 mg par jour et la vitamine C, pour prévenir l'anémie pendant la grossesse (STG d'Eswatini 2012)."
+    "La directive d'Eswatini donne l'acide folique 5 mg par voie orale par jour pour toutes les femmes suivies en consultation prénatale, avec le sulfate ferreux 200 mg par jour et la vitamine C, pour prévenir l'anémie pendant la grossesse (STG d'Eswatini 2012). Attention : 5 mg par jour ne doit pas être donné avec la sulfadoxine-pyriméthamine (voir « Autres médicaments »).",
+    "L'OMS recommande 30 mg à 60 mg de fer élémentaire et 400 µg (0,4 mg) d'acide folique chaque jour pendant la grossesse pour prévenir l'anémie maternelle, la septicémie puerpérale, l'insuffisance de poids à la naissance et la naissance prématurée. Si le fer quotidien n'est pas acceptable en raison des effets indésirables, ou lorsque moins de 20 % des femmes enceintes sont anémiques, l'OMS donne une option hebdomadaire de 120 mg de fer élémentaire avec 2 800 µg (2,8 mg) d'acide folique. L'acide folique doit être commencé le plus tôt possible, idéalement avant la conception (OMS 2016, recommandations sur les soins prénatals)."
    ],
    "who_careful": [
     "Peut ne pas convenir en cas de réaction allergique passée, de carence en vitamine B12 ou d'anémie pernicieuse, de stent coronaire ou de cancer (NHS).",
@@ -671,7 +689,9 @@
    ],
    "other_medicines": [
     "Peut mal se combiner avec les médicaments de l'épilepsie (phénytoïne, phénobarbital, primidone), les antibiotiques chloramphénicol et cotrimoxazole, la sulfasalazine, le lithium et l'aspirine (NHS).",
-    "Éviter ou limiter l'alcool : il peut affecter l'efficacité de l'acide folique (NHS)."
+    "Éviter ou limiter l'alcool : il peut affecter l'efficacité de l'acide folique (NHS).",
+    "Prévention du paludisme pendant la grossesse : l'acide folique à 5 mg ou plus par jour ne doit pas être donné avec la sulfadoxine-pyriméthamine (SP), car il s'oppose à son effet contre le paludisme. La dose de 400 µg (0,4 mg) n'interfère pas avec la SP (USAID MCSP 2018, résumant les recommandations de l'OMS).",
+    "Chez les femmes enceintes drépanocytaires sous fortes doses d'acide folique, il n'existe pas de recommandation consensuelle. La même source indique que 1 mg par jour n'a pas été montré comme interférant avec la SP et que ces femmes ont besoin de soins spécialisés (USAID MCSP 2018)."
    ],
    "side_effects": [
     "Comprimés : ballonnements, gaz, nausées, perte d'appétit. Liquide : aussi diarrhée, vomissements et éruption qui démange (NHS).",
@@ -687,7 +707,7 @@
     "Aucune fiche de maladie n'est liée pour l'instant, car l'encyclopédie n'a pas de fiche sur la carence en folates ni sur les anomalies du tube neural. C'est une lacune à combler dans la branche santé maternelle et néonatale.",
     "La dose plus élevée pour les femmes à risque accru n'est pas indiquée sur la page du NHS et n'est pas donnée ici.",
     "Les pages du NHS décrivent des produits et des numéros d'urgence du Royaume-Uni. Les dosages, les marques et les recommandations locales en Sierra Leone doivent encore être vérifiés par le relecteur.",
-    "Les doses des deux sources diffèrent : l'OMS recommande 400 µg (0,4 mg) d'acide folique par jour pendant la grossesse pour prévenir les anomalies du tube neural, alors que la directive d'Eswatini donne 5 mg par jour pour prévenir l'anémie de la grossesse. Les objectifs peuvent être différents, mais ce n'est pas précisé. Le relecteur doit décider laquelle s'applique en Sierra Leone.",
+    "Les doses des sources diffèrent : l'OMS recommande 400 µg (0,4 mg) d'acide folique par jour pendant la grossesse, alors que la directive d'Eswatini donne 5 mg par jour pour prévenir l'anémie de la grossesse. Là où la sulfadoxine-pyriméthamine est donnée pendant la grossesse, comme en Sierra Leone, 5 mg ou plus ne doivent pas être utilisés avec elle. Le relecteur doit décider quelle dose s'applique en Sierra Leone.",
     "Cette directive vient d'Eswatini (alors Swaziland), 2012, et non de la Sierra Leone. C'est une directive nationale officielle, mais elle est ancienne et les doses et politiques en Sierra Leone peuvent différer. Le relecteur doit la comparer à la version actuelle des directives nationales de traitement de la Sierra Leone."
    ]
   }

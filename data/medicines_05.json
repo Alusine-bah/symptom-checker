@@ -8,6 +8,14 @@
    {
     "title": "Ministry of Health, Kingdom of Swaziland (2012): Standard Treatment Guidelines and Essential Medicines List of Common Medical Conditions in the Kingdom of Swaziland, 1st edition (supported by PEPFAR, USAID and the SPS Program, Management Sciences for Health)",
     "url": null
+   },
+   {
+    "title": "WHO (2017): Managing complications in pregnancy and childbirth: a guide for midwives and doctors, 2nd edition. Licence CC BY-NC-SA 3.0 IGO. This entry adapts and summarises it and is shared under the same licence; WHO does not endorse this adaptation.",
+    "url": null
+   },
+   {
+    "title": "Semrau K et al. (2025): Implementation strategies for WHO guidelines to prevent, detect, and treat postpartum haemorrhage. Cochrane Database of Systematic Reviews, CD016223 (background section summarising WHO recommendations)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11863301"
    }
   ],
   "en": {
@@ -16,26 +24,29 @@
     "A hormone medicine that makes the womb (uterus) contract. In the Eswatini guideline it is used to stop bleeding after a miscarriage or abortion and after childbirth, and to prevent that bleeding."
    ],
    "used_for": [
-    "Bleeding after an abortion (miscarriage), and heavy bleeding after childbirth (postpartum haemorrhage, PPH), defined as blood loss of more than 500 mL or less if it affects the woman's condition (Eswatini STG 2012).",
-    "Prevention of heavy bleeding after childbirth, as part of active management of the third stage of labour by skilled staff (Eswatini STG 2012)."
+    "Preventing heavy bleeding after childbirth (postpartum haemorrhage, PPH) in all births, and treating it (WHO 2017; Eswatini STG 2012).",
+    "Bleeding after a miscarriage or abortion (Eswatini STG 2012; WHO 2017)."
    ],
    "how_used": [
-    "Bleeding after an abortion: oxytocin 5 to 10 IU into a muscle, or 20 to 40 IU in 1,000 mL of 5% dextrose as a drip into a vein at 5 to 20 drops a minute depending on the contractions. Contractions should not come more than 5 in 10 minutes. If bleeding continues, repeat after 30 minutes (Eswatini STG 2012).",
-    "Heavy bleeding after childbirth: start a drip, and give oxytocin 10 to 40 IU into a vein, then refer to a higher level of care (Eswatini STG 2012).",
-    "Prevention after childbirth: oxytocin injection 10 IU, given as part of active management of the third stage of labour by skilled staff (Eswatini STG 2012).",
+    "Prevention: oxytocin 10 units into a muscle immediately after the baby is born, once it is certain there is no second baby. WHO calls oxytocin the preferred medicine because it works within 2 to 3 minutes, has minimal side effects and can be used in all women (WHO 2017). The Eswatini guideline also gives 10 IU as an injection (Eswatini STG 2012).",
+    "A 2025 review summarising the WHO recommendations says that where a woman giving birth vaginally already has a drip in place, slow intravenous 10 units is recommended in preference to the muscle injection (Cochrane 2025).",
+    "Treatment of PPH: intravenous oxytocin alone is the medicine of choice. WHO gives 20 units in 1 litre of IV fluid run at the fastest rate possible, or 10 units into a muscle; then 20 units in 1 litre at 40 drops a minute (with a giving set of 20 drops per mL), with no more than 3 litres of IV fluid containing oxytocin. It must not be given as an IV bolus (WHO 2017, table S-11).",
+    "The Eswatini guideline gives 10 to 40 IU into a vein with a drip for PPH, then referral (Eswatini STG 2012). This differs in how it is written from the WHO regimen above; the reviewer should check which is used in Sierra Leone.",
+    "Bleeding after a miscarriage or abortion: the Eswatini guideline gives 5 to 10 IU into a muscle, or 20 to 40 IU in 1,000 mL of 5% dextrose as a drip at 5 to 20 drops a minute depending on the contractions, with no more than 5 contractions in 10 minutes, repeated after 30 minutes if bleeding continues (Eswatini STG 2012). WHO gives 40 units in 1 litre of IV fluid at 40 drops a minute as an option when misoprostol is not available (WHO 2017). The WHO text says this applies after 16 weeks, while its table lists it for pregnancies of more than 12 to 14 weeks.",
     "This is hospital and health-worker care. It must be given by a trained health worker, not at home."
    ],
    "who_careful": [
-    "The guideline cautions against using other uterus-contracting agents of the hypertonic type together with oxytocin when treating bleeding after an abortion."
+    "Check that there is no second baby before giving an injectable medicine that makes the womb contract (WHO 2017). Do not give oxytocin as an IV bolus (WHO 2017). The Eswatini guideline cautions against using other hypertonic womb-contracting agents with oxytocin for bleeding after an abortion."
    ],
    "urgent": [
     "Signs of shock named in the guideline: cold moist skin, rapid pulse, and systolic blood pressure below 90 mm Hg. Refer every woman with vaginal bleeding."
    ],
    "open_points": [
-    "The guideline pages read do not give side effects, pregnancy or breastfeeding advice, or the strength of the ampoules, so none are given here. These need another source (for example WHO).",
-    "The WHO recommendations on preventing and treating postpartum haemorrhage were not read and may give different doses and routes. The reviewer should compare them and the Sierra Leone guideline before this entry is marked reviewed.",
+    "The sources read do not give side effects, pregnancy or breastfeeding advice, or the strength of the ampoules, so none are given here.",
+    "The WHO and Eswatini regimens for PPH are written differently (see above). The 2017 WHO guide may have been updated by later WHO recommendations; the 2025 review notes slow IV 10 units as preferred when a drip is in place. The reviewer should compare with the current WHO recommendation and the Sierra Leone guideline before this entry is marked reviewed.",
     "No disease page exists yet for postpartum haemorrhage or miscarriage. This is a gap to fill in the maternal and newborn health branch.",
-    "This guideline is from Eswatini (then Swaziland), 2012, not Sierra Leone. It is a national government guideline, but it is old and the doses and policies in Sierra Leone may differ. The reviewer should compare with the current Sierra Leone Standard Treatment Guidelines."
+    "The English text is adapted from WHO material. The French text is our own translation and was not created by the World Health Organization (WHO). WHO is not responsible for the content or accuracy of this translation. The original English edition is the binding and authentic edition.",
+    "The Eswatini guideline is from 2012 and is not from Sierra Leone. The reviewer should compare with the current Sierra Leone Standard Treatment Guidelines."
    ]
   },
   "fr": {
@@ -44,26 +55,29 @@
     "Un médicament hormonal qui fait contracter l'utérus. Dans la directive d'Eswatini, il sert à arrêter les saignements après une fausse couche ou un avortement et après l'accouchement, et à prévenir ces saignements."
    ],
    "used_for": [
-    "Saignement après un avortement (fausse couche), et saignement abondant après l'accouchement (hémorragie du post-partum, HPP), défini comme une perte de sang de plus de 500 ml ou moins si elle affecte l'état de la femme (STG d'Eswatini 2012).",
-    "Prévention des saignements abondants après l'accouchement, dans le cadre de la prise en charge active de la troisième phase du travail par du personnel qualifié (STG d'Eswatini 2012)."
+    "Prévenir les saignements abondants après l'accouchement (hémorragie du post-partum, HPP) pour toutes les naissances, et les traiter (OMS 2017 ; STG d'Eswatini 2012).",
+    "Saignement après une fausse couche ou un avortement (STG d'Eswatini 2012 ; OMS 2017)."
    ],
    "how_used": [
-    "Saignement après un avortement : ocytocine 5 à 10 UI en intramusculaire, ou 20 à 40 UI dans 1 000 ml de dextrose à 5 % en perfusion intraveineuse à 5 à 20 gouttes par minute selon les contractions. Les contractions ne doivent pas dépasser 5 en 10 minutes. Si le saignement continue, répéter après 30 minutes (STG d'Eswatini 2012).",
-    "Saignement abondant après l'accouchement : poser une perfusion et donner l'ocytocine 10 à 40 UI en intraveineuse, puis orienter vers un niveau de soins supérieur (STG d'Eswatini 2012).",
-    "Prévention après l'accouchement : ocytocine en injection 10 UI, donnée dans le cadre de la prise en charge active de la troisième phase du travail par du personnel qualifié (STG d'Eswatini 2012).",
+    "Prévention : ocytocine 10 unités en intramusculaire immédiatement après la naissance du bébé, une fois qu'on est sûr qu'il n'y a pas de second bébé. L'OMS la considère comme le médicament à privilégier car elle agit en 2 à 3 minutes, a très peu d'effets indésirables et peut être utilisée chez toutes les femmes (OMS 2017). La directive d'Eswatini donne aussi 10 UI en injection (STG d'Eswatini 2012).",
+    "Une revue de 2025 résumant les recommandations de l'OMS indique que lorsqu'une femme qui accouche par voie basse a déjà une perfusion en place, 10 unités en intraveineuse lente sont recommandées de préférence à l'injection intramusculaire (Cochrane 2025).",
+    "Traitement de l'HPP : l'ocytocine intraveineuse seule est le médicament de choix. L'OMS donne 20 unités dans 1 litre de soluté IV passé le plus vite possible, ou 10 unités en intramusculaire ; puis 20 unités dans 1 litre à 40 gouttes par minute (avec un nécessaire de perfusion de 20 gouttes par ml), sans dépasser 3 litres de soluté IV contenant de l'ocytocine. Elle ne doit pas être donnée en bolus IV (OMS 2017, tableau S-11).",
+    "La directive d'Eswatini donne 10 à 40 UI en intraveineuse avec une perfusion pour l'HPP, puis une orientation (STG d'Eswatini 2012). Cette formulation diffère du schéma de l'OMS ci-dessus ; le relecteur doit vérifier lequel est utilisé en Sierra Leone.",
+    "Saignement après une fausse couche ou un avortement : la directive d'Eswatini donne 5 à 10 UI en intramusculaire, ou 20 à 40 UI dans 1 000 ml de dextrose à 5 % en perfusion à 5 à 20 gouttes par minute selon les contractions, sans dépasser 5 contractions en 10 minutes, à répéter après 30 minutes si le saignement continue (STG d'Eswatini 2012). L'OMS donne 40 unités dans 1 litre de soluté IV à 40 gouttes par minute comme option lorsque le misoprostol n'est pas disponible (OMS 2017). Le texte de l'OMS indique que cela s'applique après 16 semaines, alors que son tableau le cite pour les grossesses de plus de 12 à 14 semaines.",
     "Ce sont des soins hospitaliers et de professionnels de santé. Ils doivent être donnés par un professionnel de santé formé, pas à la maison."
    ],
    "who_careful": [
-    "La directive déconseille d'associer d'autres produits provoquant des contractions de l'utérus de type hypertonique à l'ocytocine lors du traitement d'un saignement après un avortement."
+    "Vérifier qu'il n'y a pas de second bébé avant de donner un médicament injectable qui fait contracter l'utérus (OMS 2017). Ne pas donner l'ocytocine en bolus IV (OMS 2017). La directive d'Eswatini déconseille d'associer d'autres produits hypertoniques provoquant des contractions de l'utérus à l'ocytocine pour un saignement après un avortement."
    ],
    "urgent": [
     "Signes de choc cités par la directive : peau froide et moite, pouls rapide et tension systolique inférieure à 90 mm Hg. Orienter toute femme qui a un saignement vaginal."
    ],
    "open_points": [
-    "Les pages de la directive lues ne donnent ni effets indésirables, ni conseil sur la grossesse ou l'allaitement, ni dosage des ampoules, donc aucun n'est donné ici. Ces points demandent une autre source (par exemple l'OMS).",
-    "Les recommandations de l'OMS sur la prévention et le traitement de l'hémorragie du post-partum n'ont pas été lues et peuvent donner d'autres doses et voies. Le relecteur doit les comparer, ainsi que la directive de la Sierra Leone, avant de marquer cette fiche comme relue.",
+    "Les sources lues ne donnent ni effets indésirables, ni conseil sur la grossesse ou l'allaitement, ni dosage des ampoules, donc aucun n'est donné ici.",
+    "Les schémas de l'OMS et d'Eswatini pour l'HPP sont formulés différemment (voir ci-dessus). Le guide de l'OMS de 2017 peut avoir été mis à jour par des recommandations plus récentes ; la revue de 2025 indique que 10 unités en IV lente sont préférées lorsqu'une perfusion est en place. Le relecteur doit comparer avec la recommandation actuelle de l'OMS et la directive de la Sierra Leone avant de marquer cette fiche comme relue.",
     "Il n'existe pas encore de fiche maladie pour l'hémorragie du post-partum ni la fausse couche. C'est une lacune à combler dans la branche santé maternelle et néonatale.",
-    "Cette directive vient d'Eswatini (alors Swaziland), 2012, et non de la Sierra Leone. C'est une directive nationale officielle, mais elle est ancienne et les doses et politiques en Sierra Leone peuvent différer. Le relecteur doit la comparer à la version actuelle des directives nationales de traitement de la Sierra Leone."
+    "Le texte anglais est adapté de documents de l'OMS. Le texte français est notre propre traduction et n'a pas été créé par l'Organisation mondiale de la Santé (OMS). L'OMS n'est pas responsable du contenu ni de l'exactitude de cette traduction. L'édition originale en anglais est l'édition faisant foi.",
+    "La directive d'Eswatini date de 2012 et ne vient pas de la Sierra Leone. Le relecteur doit comparer avec la version actuelle des directives nationales de traitement de la Sierra Leone."
    ]
   }
  },
@@ -76,6 +90,10 @@
    {
     "title": "Ministry of Health, Kingdom of Swaziland (2012): Standard Treatment Guidelines and Essential Medicines List of Common Medical Conditions in the Kingdom of Swaziland, 1st edition (supported by PEPFAR, USAID and the SPS Program, Management Sciences for Health)",
     "url": null
+   },
+   {
+    "title": "WHO (2017): Managing complications in pregnancy and childbirth: a guide for midwives and doctors, 2nd edition. Licence CC BY-NC-SA 3.0 IGO. This entry adapts and summarises it and is shared under the same licence; WHO does not endorse this adaptation.",
+    "url": null
    }
   ],
   "en": {
@@ -84,20 +102,27 @@
     "A medicine that makes the womb (uterus) contract. In the Eswatini guideline it is used to treat and prevent heavy bleeding after childbirth. The guideline marks it as distributed on demand by specialists."
    ],
    "used_for": [
-    "Heavy bleeding after childbirth (postpartum haemorrhage, PPH) and its prevention (Eswatini STG 2012)."
+    "Treating heavy bleeding after childbirth when intravenous oxytocin is not available or does not work, preventing it when oxytocin is not available, and treating a miscarriage (WHO 2017; Eswatini STG 2012)."
    ],
    "how_used": [
-    "Treatment of heavy bleeding after childbirth: misoprostol 800 micrograms under the tongue, as an alternative to oxytocin or ergometrine, then refer to a higher level of care (Eswatini STG 2012).",
-    "Prevention after childbirth: misoprostol 600 micrograms by mouth, as an alternative to an oxytocin injection of 10 IU, as part of active management of the third stage of labour (Eswatini STG 2012).",
+    "Treatment of PPH: misoprostol 800 micrograms under the tongue, repeated with 200 to 800 micrograms if needed, with no more than 1,600 micrograms in total (WHO 2017, table S-11). The Eswatini guideline also gives 800 micrograms under the tongue (Eswatini STG 2012). WHO says prostaglandins must not be given into a vein because they can be fatal.",
+    "Prevention of PPH when oxytocin is not available: misoprostol 600 micrograms by mouth, after making sure there is no second baby (WHO 2017; Eswatini STG 2012).",
+    "Miscarriage, inevitable abortion: under 12 to 14 weeks, 800 micrograms by the vagina or under the tongue every 3 to 12 hours, at most 3 doses; over 12 to 14 weeks, 400 micrograms every 3 hours, at most 5 doses (WHO 2017, table S-4).",
+    "Miscarriage, incomplete abortion: under 12 to 14 weeks, 400 micrograms under the tongue or 600 micrograms by mouth, one dose; over 12 to 14 weeks, 200 micrograms by the vagina every 4 hours until the womb empties, at most 800 micrograms. WHO says the best doses for incomplete abortion have not been settled and gives this as a reasonable protocol (WHO 2017, table S-4).",
+    "Complete abortion with heavy bleeding afterwards: 800 micrograms for post-abortion bleeding (WHO 2017).",
     "This is hospital and health-worker care. It must be given by a trained health worker, not at home."
    ],
    "urgent": [
     "Signs of shock named in the guideline: cold moist skin, rapid pulse, and systolic blood pressure below 90 mm Hg. Refer every woman with vaginal bleeding."
    ],
    "open_points": [
-    "The guideline pages read do not give cautions, side effects, interactions, or advice on pregnancy and breastfeeding for misoprostol, so none are given here. These need another source (for example WHO).",
-    "The WHO recommendations on postpartum haemorrhage were not read and may give different doses. The reviewer should compare them and the Sierra Leone guideline before this entry is marked reviewed.",
-    "This guideline is from Eswatini (then Swaziland), 2012, not Sierra Leone. It is a national government guideline, but it is old and the doses and policies in Sierra Leone may differ. The reviewer should compare with the current Sierra Leone Standard Treatment Guidelines."
+    "The sources read do not give side effects, interactions, or advice on breastfeeding for misoprostol, so none are given here.",
+    "The WHO guide is from 2017. The reviewer should compare with the current WHO recommendation and the Sierra Leone guideline before this entry is marked reviewed.",
+    "The English text is adapted from WHO material. The French text is our own translation and was not created by the World Health Organization (WHO). WHO is not responsible for the content or accuracy of this translation. The original English edition is the binding and authentic edition.",
+    "The Eswatini guideline is from 2012 and is not from Sierra Leone. The reviewer should compare with the current Sierra Leone Standard Treatment Guidelines."
+   ],
+   "who_careful": [
+    "Make sure there is no second baby before giving large doses of misoprostol by mouth after birth. WHO says not to use oral misoprostol to speed up labour (WHO 2017)."
    ]
   },
   "fr": {
@@ -106,20 +131,27 @@
     "Un médicament qui fait contracter l'utérus. Dans la directive d'Eswatini, il sert à traiter et à prévenir les saignements abondants après l'accouchement. La directive le classe parmi les médicaments distribués sur demande par des spécialistes."
    ],
    "used_for": [
-    "Saignement abondant après l'accouchement (hémorragie du post-partum, HPP) et sa prévention (STG d'Eswatini 2012)."
+    "Traiter un saignement abondant après l'accouchement lorsque l'ocytocine intraveineuse n'est pas disponible ou ne fonctionne pas, le prévenir lorsque l'ocytocine n'est pas disponible, et traiter une fausse couche (OMS 2017 ; STG d'Eswatini 2012)."
    ],
    "how_used": [
-    "Traitement d'un saignement abondant après l'accouchement : misoprostol 800 microgrammes sous la langue, comme alternative à l'ocytocine ou à l'ergométrine, puis orientation vers un niveau de soins supérieur (STG d'Eswatini 2012).",
-    "Prévention après l'accouchement : misoprostol 600 microgrammes par voie orale, comme alternative à l'injection d'ocytocine de 10 UI, dans le cadre de la prise en charge active de la troisième phase du travail (STG d'Eswatini 2012).",
+    "Traitement de l'HPP : misoprostol 800 microgrammes sous la langue, à répéter avec 200 à 800 microgrammes si nécessaire, sans dépasser 1 600 microgrammes au total (OMS 2017, tableau S-11). La directive d'Eswatini donne aussi 800 microgrammes sous la langue (STG d'Eswatini 2012). L'OMS précise que les prostaglandines ne doivent pas être données par voie intraveineuse car elles peuvent être mortelles.",
+    "Prévention de l'HPP lorsque l'ocytocine n'est pas disponible : misoprostol 600 microgrammes par voie orale, après s'être assuré qu'il n'y a pas de second bébé (OMS 2017 ; STG d'Eswatini 2012).",
+    "Fausse couche, avortement inévitable : avant 12 à 14 semaines, 800 microgrammes par voie vaginale ou sous la langue toutes les 3 à 12 heures, 3 doses au maximum ; après 12 à 14 semaines, 400 microgrammes toutes les 3 heures, 5 doses au maximum (OMS 2017, tableau S-4).",
+    "Fausse couche, avortement incomplet : avant 12 à 14 semaines, 400 microgrammes sous la langue ou 600 microgrammes par voie orale, une dose ; après 12 à 14 semaines, 200 microgrammes par voie vaginale toutes les 4 heures jusqu'à l'évacuation de l'utérus, 800 microgrammes au maximum. L'OMS indique que les meilleures doses pour l'avortement incomplet n'ont pas été établies et donne ceci comme protocole raisonnable (OMS 2017, tableau S-4).",
+    "Avortement complet suivi d'un saignement abondant : 800 microgrammes pour l'hémorragie après avortement (OMS 2017).",
     "Ce sont des soins hospitaliers et de professionnels de santé. Ils doivent être donnés par un professionnel de santé formé, pas à la maison."
    ],
    "urgent": [
     "Signes de choc cités par la directive : peau froide et moite, pouls rapide et tension systolique inférieure à 90 mm Hg. Orienter toute femme qui a un saignement vaginal."
    ],
    "open_points": [
-    "Les pages de la directive lues ne donnent ni précautions, ni effets indésirables, ni interactions, ni conseil sur la grossesse et l'allaitement pour le misoprostol, donc aucun n'est donné ici. Ces points demandent une autre source (par exemple l'OMS).",
-    "Les recommandations de l'OMS sur l'hémorragie du post-partum n'ont pas été lues et peuvent donner d'autres doses. Le relecteur doit les comparer, ainsi que la directive de la Sierra Leone, avant de marquer cette fiche comme relue.",
-    "Cette directive vient d'Eswatini (alors Swaziland), 2012, et non de la Sierra Leone. C'est une directive nationale officielle, mais elle est ancienne et les doses et politiques en Sierra Leone peuvent différer. Le relecteur doit la comparer à la version actuelle des directives nationales de traitement de la Sierra Leone."
+    "Les sources lues ne donnent ni effets indésirables, ni interactions, ni conseil sur l'allaitement pour le misoprostol, donc aucun n'est donné ici.",
+    "Le guide de l'OMS date de 2017. Le relecteur doit comparer avec la recommandation actuelle de l'OMS et la directive de la Sierra Leone avant de marquer cette fiche comme relue.",
+    "Le texte anglais est adapté de documents de l'OMS. Le texte français est notre propre traduction et n'a pas été créé par l'Organisation mondiale de la Santé (OMS). L'OMS n'est pas responsable du contenu ni de l'exactitude de cette traduction. L'édition originale en anglais est l'édition faisant foi.",
+    "La directive d'Eswatini date de 2012 et ne vient pas de la Sierra Leone. Le relecteur doit comparer avec la version actuelle des directives nationales de traitement de la Sierra Leone."
+   ],
+   "who_careful": [
+    "S'assurer qu'il n'y a pas de second bébé avant de donner de fortes doses de misoprostol par voie orale après la naissance. L'OMS indique de ne pas utiliser le misoprostol par voie orale pour accélérer le travail (OMS 2017)."
    ]
   }
  },
@@ -132,6 +164,10 @@
    {
     "title": "Ministry of Health, Kingdom of Swaziland (2012): Standard Treatment Guidelines and Essential Medicines List of Common Medical Conditions in the Kingdom of Swaziland, 1st edition (supported by PEPFAR, USAID and the SPS Program, Management Sciences for Health)",
     "url": null
+   },
+   {
+    "title": "WHO (2017): Managing complications in pregnancy and childbirth: a guide for midwives and doctors, 2nd edition. Licence CC BY-NC-SA 3.0 IGO. This entry adapts and summarises it and is shared under the same licence; WHO does not endorse this adaptation.",
+    "url": null
    }
   ],
   "en": {
@@ -143,17 +179,23 @@
     "Heavy bleeding after childbirth (postpartum haemorrhage, PPH) and, as a tablet, after bleeding has been controlled (Eswatini STG 2012)."
    ],
    "how_used": [
-    "Treatment of heavy bleeding after childbirth: 0.2 to 0.4 mg into a vein or a muscle immediately, as an alternative to oxytocin or misoprostol, then refer to a higher level of care (Eswatini STG 2012).",
-    "After the bleeding has stopped and the uterus is firmly contracted: 1 tablet by mouth 3 times a day for 3 days (Eswatini STG 2012). The tablet strength was not stated.",
+    "Treatment of PPH, if intravenous oxytocin is not available or bleeding does not respond: 0.2 mg into a muscle or slowly into a vein; repeat 0.2 mg into a muscle after 15 minutes; if needed 0.2 mg into a muscle or slowly into a vein every 4 hours; at most five doses (1.0 mg in total) (WHO 2017, table S-11). The Eswatini guideline gives 0.2 to 0.4 mg into a vein or a muscle immediately (Eswatini STG 2012).",
+    "Prevention of PPH when oxytocin is not available: ergometrine 0.2 mg into a muscle (or methylergometrine), or the fixed oxytocin-ergometrine injection (1 mL = 5 IU oxytocin + 0.5 mg ergometrine) (WHO 2017).",
+    "After the bleeding has stopped and the uterus is firmly contracted, the Eswatini guideline gives 1 tablet by mouth 3 times a day for 3 days. The tablet strength was not stated (Eswatini STG 2012).",
     "This is hospital and health-worker care. It must be given by a trained health worker, not at home."
    ],
    "urgent": [
     "Signs of shock named in the guideline: cold moist skin, rapid pulse, and systolic blood pressure below 90 mm Hg. Refer every woman with vaginal bleeding."
    ],
    "open_points": [
-    "The guideline pages read do not give cautions, side effects, interactions, or advice on pregnancy and breastfeeding for ergometrine, so none are given here. These need another source (for example WHO).",
-    "The WHO recommendations on postpartum haemorrhage were not read and may give different doses. The reviewer should compare them and the Sierra Leone guideline before this entry is marked reviewed.",
-    "This guideline is from Eswatini (then Swaziland), 2012, not Sierra Leone. It is a national government guideline, but it is old and the doses and policies in Sierra Leone may differ. The reviewer should compare with the current Sierra Leone Standard Treatment Guidelines."
+    "The Eswatini guideline gives no caution about high blood pressure for ergometrine, but WHO does (see above). The WHO caution should be followed. The Eswatini dose of 0.2 to 0.4 mg also differs from WHO's 0.2 mg doses.",
+    "The sources read do not give side effects, interactions, or advice on pregnancy and breastfeeding for ergometrine, so none are given here.",
+    "The WHO guide is from 2017. The reviewer should compare with the current WHO recommendation and the Sierra Leone guideline before this entry is marked reviewed.",
+    "The English text is adapted from WHO material. The French text is our own translation and was not created by the World Health Organization (WHO). WHO is not responsible for the content or accuracy of this translation. The original English edition is the binding and authentic edition.",
+    "The Eswatini guideline is from 2012 and is not from Sierra Leone. The reviewer should compare with the current Sierra Leone Standard Treatment Guidelines."
+   ],
+   "who_careful": [
+    "WHO says do not give ergometrine to women with pre-eclampsia, eclampsia or high blood pressure, because it increases the risk of convulsions and stroke. Other precautions it lists are heart disease and retained placenta. Do not use ergometrine for a retained placenta because it causes a tight contraction of the womb (WHO 2017)."
    ]
   },
   "fr": {
@@ -165,17 +207,23 @@
     "Saignement abondant après l'accouchement (hémorragie du post-partum, HPP) et, sous forme de comprimé, après contrôle du saignement (STG d'Eswatini 2012)."
    ],
    "how_used": [
-    "Traitement d'un saignement abondant après l'accouchement : 0,2 à 0,4 mg en intraveineuse ou en intramusculaire immédiatement, comme alternative à l'ocytocine ou au misoprostol, puis orientation vers un niveau de soins supérieur (STG d'Eswatini 2012).",
-    "Après l'arrêt du saignement et lorsque l'utérus est bien contracté : 1 comprimé par voie orale 3 fois par jour pendant 3 jours (STG d'Eswatini 2012). Le dosage du comprimé n'est pas indiqué.",
+    "Traitement de l'HPP, si l'ocytocine intraveineuse n'est pas disponible ou si le saignement ne répond pas : 0,2 mg en intramusculaire ou lentement en intraveineuse ; répéter 0,2 mg en intramusculaire après 15 minutes ; si nécessaire 0,2 mg en intramusculaire ou lentement en intraveineuse toutes les 4 heures ; cinq doses au maximum (1,0 mg au total) (OMS 2017, tableau S-11). La directive d'Eswatini donne 0,2 à 0,4 mg en intraveineuse ou en intramusculaire immédiatement (STG d'Eswatini 2012).",
+    "Prévention de l'HPP lorsque l'ocytocine n'est pas disponible : ergométrine 0,2 mg en intramusculaire (ou méthylergométrine), ou l'injection fixe ocytocine-ergométrine (1 ml = 5 UI d'ocytocine + 0,5 mg d'ergométrine) (OMS 2017).",
+    "Après l'arrêt du saignement et lorsque l'utérus est bien contracté, la directive d'Eswatini donne 1 comprimé par voie orale 3 fois par jour pendant 3 jours. Le dosage du comprimé n'est pas indiqué (STG d'Eswatini 2012).",
     "Ce sont des soins hospitaliers et de professionnels de santé. Ils doivent être donnés par un professionnel de santé formé, pas à la maison."
    ],
    "urgent": [
     "Signes de choc cités par la directive : peau froide et moite, pouls rapide et tension systolique inférieure à 90 mm Hg. Orienter toute femme qui a un saignement vaginal."
    ],
    "open_points": [
-    "Les pages de la directive lues ne donnent ni précautions, ni effets indésirables, ni interactions, ni conseil sur la grossesse et l'allaitement pour l'ergométrine, donc aucun n'est donné ici. Ces points demandent une autre source (par exemple l'OMS).",
-    "Les recommandations de l'OMS sur l'hémorragie du post-partum n'ont pas été lues et peuvent donner d'autres doses. Le relecteur doit les comparer, ainsi que la directive de la Sierra Leone, avant de marquer cette fiche comme relue.",
-    "Cette directive vient d'Eswatini (alors Swaziland), 2012, et non de la Sierra Leone. C'est une directive nationale officielle, mais elle est ancienne et les doses et politiques en Sierra Leone peuvent différer. Le relecteur doit la comparer à la version actuelle des directives nationales de traitement de la Sierra Leone."
+    "La directive d'Eswatini ne donne pas de précaution sur la tension élevée pour l'ergométrine, mais l'OMS en donne une (voir ci-dessus). La précaution de l'OMS doit être suivie. La dose d'Eswatini de 0,2 à 0,4 mg diffère aussi des doses de 0,2 mg de l'OMS.",
+    "Les sources lues ne donnent ni effets indésirables, ni interactions, ni conseil sur la grossesse et l'allaitement pour l'ergométrine, donc aucun n'est donné ici.",
+    "Le guide de l'OMS date de 2017. Le relecteur doit comparer avec la recommandation actuelle de l'OMS et la directive de la Sierra Leone avant de marquer cette fiche comme relue.",
+    "Le texte anglais est adapté de documents de l'OMS. Le texte français est notre propre traduction et n'a pas été créé par l'Organisation mondiale de la Santé (OMS). L'OMS n'est pas responsable du contenu ni de l'exactitude de cette traduction. L'édition originale en anglais est l'édition faisant foi.",
+    "La directive d'Eswatini date de 2012 et ne vient pas de la Sierra Leone. Le relecteur doit comparer avec la version actuelle des directives nationales de traitement de la Sierra Leone."
+   ],
+   "who_careful": [
+    "L'OMS indique de ne pas donner l'ergométrine aux femmes ayant une pré-éclampsie, une éclampsie ou une tension élevée, car elle augmente le risque de convulsions et d'accident vasculaire cérébral. Les autres précautions citées sont une maladie du cœur et une rétention placentaire. Ne pas utiliser l'ergométrine pour un placenta retenu car elle provoque une contraction serrée de l'utérus (OMS 2017)."
    ]
   }
  },
@@ -188,6 +236,10 @@
    {
     "title": "Ministry of Health, Kingdom of Swaziland (2012): Standard Treatment Guidelines and Essential Medicines List of Common Medical Conditions in the Kingdom of Swaziland, 1st edition (supported by PEPFAR, USAID and the SPS Program, Management Sciences for Health)",
     "url": null
+   },
+   {
+    "title": "WHO (2017): Managing complications in pregnancy and childbirth: a guide for midwives and doctors, 2nd edition. Licence CC BY-NC-SA 3.0 IGO. This entry adapts and summarises it and is shared under the same licence; WHO does not endorse this adaptation.",
+    "url": null
    }
   ],
   "en": {
@@ -199,26 +251,30 @@
     "Pregnancy-induced hypertension is high blood pressure (140/90 mm Hg or higher) from 20 weeks of pregnancy together with protein in the urine, swelling, or both. Severe pre-eclampsia may lead to convulsions in the mother. Eclampsia is pregnancy-induced hypertension with convulsions (Eswatini STG 2012)."
    ],
    "how_used": [
-    "Set up a drip first. Loading dose: 4 g of 20% magnesium sulphate into a vein over 5 minutes, then promptly 10 g of 50% solution: 5 g deep into the muscle of each buttock, each with 1 mL of 2% lignocaine in the same syringe. If convulsions come back after 15 minutes, give 2 g of 50% solution into a vein over 5 minutes (Eswatini STG 2012).",
-    "Maintenance: 5 g of 50% solution with 1 mL of 2% lignocaine deep into the muscle of alternate buttocks every 4 hours, continued for 24 hours after delivery or after the last convulsion, whichever is later. If the 50% solution is not available: 1 g of 20% solution into a vein every hour by continuous drip (Eswatini STG 2012).",
-    "If magnesium sulphate is not available the guideline gives diazepam as the alternative (not covered in this entry).",
+    "WHO calls magnesium sulfate the drug of choice for preventing and treating convulsions in severe pre-eclampsia and eclampsia, and says convulsions in hospitalised women are most often caused by under-treatment (WHO 2017).",
+    "Muscle regimen, loading dose: 4 g of 20% solution into a vein over 5 minutes, then promptly 10 g of 50% solution, 5 g deep into the muscle of each buttock with 1 mL of 2% lidocaine in the same syringe. Warn the woman that she will feel warmth. Maintenance: 5 g of 50% solution with 1 mL of 2% lidocaine deep into alternate buttocks every 4 hours, continued for 24 hours after birth or after the last convulsion, whichever is later (WHO 2017, box S-4). The Eswatini guideline gives the same muscle regimen (Eswatini STG 2012).",
+    "Vein regimen, preferably with an infusion pump: loading dose 4 g of 50% solution into a vein; if convulsions come back after 15 minutes, 2 g of 50% solution into a vein over 5 minutes. Maintenance: 1 g an hour by infusion, continued for 24 hours after birth or after the last convulsion (WHO 2017, box S-4). The Eswatini guideline's vein option when 50% solution is not available is 1 g of 20% solution every hour by continuous drip (Eswatini STG 2012).",
+    "If magnesium sulphate is not available the Eswatini guideline gives diazepam as the alternative (not covered in this entry).",
     "This is hospital and health-worker care. It must be given by a trained health worker, not at home."
    ],
    "who_careful": [
-    "Watch for signs of magnesium toxicity: check the breathing rate, the knee-jerk (patellar) reflexes and the amount of urine passed (Eswatini STG 2012)."
+    "Before each repeat dose check that the breathing rate is at least 16 per minute, the knee-jerk (patellar) reflexes are present and the urine output is at least 30 mL an hour over the previous 4 hours. If not, delay the next muscle dose or withhold the vein infusion (WHO 2017, box S-5)."
    ],
    "side_effects": [
-    "The guideline names magnesium toxicity as the danger to monitor. If signs appear, the antidote is calcium gluconate 1 to 2 g given slowly into a vein, repeated as needed until the breathing rate rises (Eswatini STG 2012)."
+    "WHO says magnesium toxicity is rare but must be watched for. Keep the antidote ready. If breathing stops, help the breathing (mask and bag, or a breathing tube) and give calcium gluconate 1 g (10 mL of 10% solution) slowly into a vein over 3 minutes until breathing returns (WHO 2017, box S-5). The Eswatini guideline gives calcium gluconate 1 to 2 g given slowly into a vein, repeated until the breathing rate rises (Eswatini STG 2012)."
    ],
    "urgent": [
-    "The guideline aims for delivery within 8 hours for an unconscious woman with eclampsia (convulsions with high blood pressure in pregnancy) and within 12 hours for a conscious one. Eclampsia needs hospital care."
+    "WHO lists these warning signs for severe pre-eclampsia and eclampsia: raised blood pressure, headache, blurred vision, convulsions or loss of consciousness. WHO says to start medicines for high blood pressure when the top number is 160 mm Hg or more or the bottom number is 110 mm Hg or more (WHO 2017). These conditions need hospital care.",
+    "The Eswatini guideline aims for delivery within 8 hours for an unconscious woman with eclampsia and within 12 hours for a conscious one (Eswatini STG 2012)."
    ],
    "open_points": [
     "This regimen is for hospital care only. It is published so that its source can be checked, not for self-treatment.",
-    "The guideline pages read give no advice on breastfeeding or interactions for magnesium sulphate, and the blood-pressure medicines in the same section (dihydralazine, nifedipine) are not covered here.",
-    "The WHO recommendations for pre-eclampsia and eclampsia were not read and may give a different regimen. They must be compared with this entry and the Sierra Leone guideline before it is marked reviewed.",
+    "The WHO vein loading dose is written in the guide as 4 g of 50% solution, while the muscle regimen uses 20% solution for its vein loading dose. This should be checked against the original WHO page before the entry is marked reviewed.",
+    "The blood-pressure medicines used with magnesium sulfate, the WHO advice on magnesium sulfate in preterm birth, and breastfeeding or interaction advice are not covered here.",
+    "The WHO guide is from 2017. The reviewer should compare with the current WHO recommendation and the Sierra Leone guideline before this entry is marked reviewed.",
     "No disease page exists yet for pre-eclampsia or eclampsia. This is a gap to fill in the maternal and newborn health branch.",
-    "This guideline is from Eswatini (then Swaziland), 2012, not Sierra Leone. It is a national government guideline, but it is old and the doses and policies in Sierra Leone may differ. The reviewer should compare with the current Sierra Leone Standard Treatment Guidelines."
+    "The English text is adapted from WHO material. The French text is our own translation and was not created by the World Health Organization (WHO). WHO is not responsible for the content or accuracy of this translation. The original English edition is the binding and authentic edition.",
+    "The Eswatini guideline is from 2012 and is not from Sierra Leone. The reviewer should compare with the current Sierra Leone Standard Treatment Guidelines."
    ]
   },
   "fr": {
@@ -230,26 +286,30 @@
     "L'hypertension de la grossesse est une tension élevée (140/90 mm Hg ou plus) à partir de 20 semaines de grossesse, avec des protéines dans les urines, un gonflement, ou les deux. La pré-éclampsie sévère peut provoquer des convulsions chez la mère. L'éclampsie est l'hypertension de la grossesse avec convulsions (STG d'Eswatini 2012)."
    ],
    "how_used": [
-    "Poser d'abord une perfusion. Dose de charge : 4 g de sulfate de magnésium à 20 % en intraveineuse en 5 minutes, puis rapidement 10 g de solution à 50 % : 5 g en intramusculaire profonde dans chaque fesse, chacune avec 1 ml de lidocaïne à 2 % dans la même seringue. Si les convulsions reviennent après 15 minutes, donner 2 g de solution à 50 % en intraveineuse en 5 minutes (STG d'Eswatini 2012).",
-    "Entretien : 5 g de solution à 50 % avec 1 ml de lidocaïne à 2 % en intramusculaire profonde dans une fesse en alternance toutes les 4 heures, poursuivi pendant 24 heures après l'accouchement ou après la dernière convulsion, selon ce qui est le plus tardif. Si la solution à 50 % n'est pas disponible : 1 g de solution à 20 % en intraveineuse toutes les heures en perfusion continue (STG d'Eswatini 2012).",
-    "Si le sulfate de magnésium n'est pas disponible, la directive donne le diazépam comme alternative (non couvert dans cette fiche).",
+    "L'OMS considère le sulfate de magnésium comme le médicament de choix pour prévenir et traiter les convulsions de la pré-éclampsie sévère et de l'éclampsie, et indique que les convulsions chez les femmes hospitalisées sont le plus souvent dues à un traitement insuffisant (OMS 2017).",
+    "Schéma intramusculaire, dose de charge : 4 g de solution à 20 % en intraveineuse en 5 minutes, puis rapidement 10 g de solution à 50 %, 5 g en intramusculaire profonde dans chaque fesse avec 1 ml de lidocaïne à 2 % dans la même seringue. Prévenir la femme qu'elle ressentira de la chaleur. Entretien : 5 g de solution à 50 % avec 1 ml de lidocaïne à 2 % en intramusculaire profonde dans une fesse en alternance toutes les 4 heures, poursuivi pendant 24 heures après l'accouchement ou après la dernière convulsion, selon ce qui est le plus tardif (OMS 2017, encadré S-4). La directive d'Eswatini donne le même schéma intramusculaire (STG d'Eswatini 2012).",
+    "Schéma intraveineux, de préférence avec une pompe à perfusion : dose de charge 4 g de solution à 50 % en intraveineuse ; si les convulsions reviennent après 15 minutes, 2 g de solution à 50 % en intraveineuse en 5 minutes. Entretien : 1 g par heure en perfusion, poursuivi pendant 24 heures après l'accouchement ou après la dernière convulsion (OMS 2017, encadré S-4). L'option intraveineuse de la directive d'Eswatini lorsque la solution à 50 % n'est pas disponible est 1 g de solution à 20 % toutes les heures en perfusion continue (STG d'Eswatini 2012).",
+    "Si le sulfate de magnésium n'est pas disponible, la directive d'Eswatini donne le diazépam comme alternative (non couvert dans cette fiche).",
     "Ce sont des soins hospitaliers et de professionnels de santé. Ils doivent être donnés par un professionnel de santé formé, pas à la maison."
    ],
    "who_careful": [
-    "Surveiller les signes de toxicité du magnésium : contrôler la fréquence respiratoire, les réflexes rotuliens et la quantité d'urine émise (STG d'Eswatini 2012)."
+    "Avant chaque nouvelle dose, vérifier que la fréquence respiratoire est d'au moins 16 par minute, que les réflexes rotuliens sont présents et que la diurèse est d'au moins 30 ml par heure au cours des 4 heures précédentes. Sinon, retarder la prochaine dose intramusculaire ou suspendre la perfusion intraveineuse (OMS 2017, encadré S-5)."
    ],
    "side_effects": [
-    "La directive cite la toxicité du magnésium comme le danger à surveiller. Si des signes apparaissent, l'antidote est le gluconate de calcium 1 à 2 g en intraveineuse lente, répété si nécessaire jusqu'à ce que la fréquence respiratoire remonte (STG d'Eswatini 2012)."
+    "L'OMS indique que la toxicité du magnésium est rare mais doit être surveillée. Garder l'antidote prêt. Si la respiration s'arrête, assister la respiration (masque et ballon, ou tube respiratoire) et donner du gluconate de calcium 1 g (10 ml de solution à 10 %) lentement en intraveineuse en 3 minutes jusqu'au retour de la respiration (OMS 2017, encadré S-5). La directive d'Eswatini donne le gluconate de calcium 1 à 2 g en intraveineuse lente, répété jusqu'à ce que la fréquence respiratoire remonte (STG d'Eswatini 2012)."
    ],
    "urgent": [
-    "La directive vise un accouchement dans les 8 heures pour une femme inconsciente atteinte d'éclampsie (convulsions avec une tension élevée pendant la grossesse) et dans les 12 heures pour une femme consciente. L'éclampsie nécessite des soins hospitaliers."
+    "L'OMS cite ces signes d'alerte de la pré-éclampsie sévère et de l'éclampsie : tension élevée, mal de tête, vision floue, convulsions ou perte de connaissance. L'OMS indique de commencer les médicaments contre l'hypertension lorsque le chiffre supérieur est de 160 mm Hg ou plus ou le chiffre inférieur de 110 mm Hg ou plus (OMS 2017). Ces affections nécessitent des soins hospitaliers.",
+    "La directive d'Eswatini vise un accouchement dans les 8 heures pour une femme inconsciente atteinte d'éclampsie et dans les 12 heures pour une femme consciente (STG d'Eswatini 2012)."
    ],
    "open_points": [
     "Ce schéma est réservé aux soins hospitaliers. Il est publié pour que sa source puisse être vérifiée, pas pour un auto-traitement.",
-    "Les pages de directive lues ne donnent pas de conseil sur l'allaitement ni sur les interactions pour le sulfate de magnésium, et les médicaments contre l'hypertension de la même section (dihydralazine, nifédipine) ne sont pas couverts ici.",
-    "Les recommandations de l'OMS sur la pré-éclampsie et l'éclampsie n'ont pas été lues et peuvent donner un schéma différent. Elles doivent être comparées à cette fiche et à la directive de la Sierra Leone avant qu'elle soit marquée comme relue.",
+    "La dose de charge intraveineuse de l'OMS est écrite dans le guide comme 4 g de solution à 50 %, alors que le schéma intramusculaire utilise une solution à 20 % pour sa dose de charge intraveineuse. Cela doit être vérifié sur la page originale de l'OMS avant de marquer la fiche comme relue.",
+    "Les médicaments contre l'hypertension utilisés avec le sulfate de magnésium, les recommandations de l'OMS sur le sulfate de magnésium en cas de naissance prématurée, et les conseils sur l'allaitement ou les interactions ne sont pas couverts ici.",
+    "Le guide de l'OMS date de 2017. Le relecteur doit comparer avec la recommandation actuelle de l'OMS et la directive de la Sierra Leone avant de marquer cette fiche comme relue.",
     "Il n'existe pas encore de fiche maladie pour la pré-éclampsie ni l'éclampsie. C'est une lacune à combler dans la branche santé maternelle et néonatale.",
-    "Cette directive vient d'Eswatini (alors Swaziland), 2012, et non de la Sierra Leone. C'est une directive nationale officielle, mais elle est ancienne et les doses et politiques en Sierra Leone peuvent différer. Le relecteur doit la comparer à la version actuelle des directives nationales de traitement de la Sierra Leone."
+    "Le texte anglais est adapté de documents de l'OMS. Le texte français est notre propre traduction et n'a pas été créé par l'Organisation mondiale de la Santé (OMS). L'OMS n'est pas responsable du contenu ni de l'exactitude de cette traduction. L'édition originale en anglais est l'édition faisant foi.",
+    "La directive d'Eswatini date de 2012 et ne vient pas de la Sierra Leone. Le relecteur doit comparer avec la version actuelle des directives nationales de traitement de la Sierra Leone."
    ]
   }
  }
