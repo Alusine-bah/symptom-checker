@@ -4,17 +4,18 @@
   "cat": 10,
   "urgency": "routine",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/syphilis",
+  "extra_sources": [{"title":"CDC: About Syphilis","url":"https://www.cdc.gov/syphilis/about/index.html"}],
   "en": {
    "name": "Syphilis",
-   "description": "A bacterial sexually transmitted infection that often starts as a painless sore, followed later by a rash and swollen glands. It is easily cured with antibiotics, and untreated it can cause serious harm, including to unborn babies.",
-   "cause": "Treponema pallidum bacteria, spread through sex and from mother to child during pregnancy.",
-   "prevention": "Condoms, testing and treating partners, and syphilis testing at antenatal visits."
+   "description": "A bacterial sexually transmitted infection. Many people have no noticeable symptoms. In the primary stage a firm, painless sore (chancre) appears where the infection entered, often on the genitals, anus, mouth or lips; it often goes unnoticed and heals by itself (WHO: 3 to 10 days; CDC: 3 to 6 weeks) while the infection continues. In the secondary stage a non-itchy rash often appears on the palms and soles; CDC also lists fever, swollen lymph glands, sore throat, patchy hair loss and fatigue. Untreated, it can progress over years to damage the brain, heart and blood vessels, and it can cause stillbirth and congenital syphilis in babies. It is curable with antibiotics.",
+   "cause": "The bacterium Treponema pallidum. It spreads mainly through contact with infectious sores during oral, vaginal and anal sex, from mother to baby during pregnancy, and through blood transfusion (WHO). It is not spread by casual contact with objects such as toilet seats or utensils (CDC).",
+   "prevention": "Correct and consistent condom use; sores in areas a condom does not cover can still spread infection. People at higher risk should be tested at least once a year, and people diagnosed should tell their partners. Pregnant women should be tested at the first prenatal visit and treated immediately if positive; benzathine penicillin G is the recommended treatment in pregnancy."
   },
   "fr": {
    "name": "Syphilis",
-   "description": "Infection bactérienne sexuellement transmissible qui commence souvent par une plaie indolore, suivie plus tard d'une éruption et de ganglions enflés. Elle se guérit facilement avec des antibiotiques ; non traitée, elle peut causer de graves complications, y compris chez le bébé à naître.",
-   "cause": "Bactérie Treponema pallidum, transmise par les rapports sexuels et de la mère à l'enfant pendant la grossesse.",
-   "prevention": "Préservatifs, dépistage et traitement des partenaires, et test de la syphilis lors des consultations prénatales."
+   "description": "Une infection bactérienne sexuellement transmissible. Beaucoup de personnes n'ont aucun symptôme visible. Au stade primaire, une plaie ferme et indolore (chancre) apparaît à l'endroit où l'infection est entrée, souvent sur les organes génitaux, l'anus, la bouche ou les lèvres ; elle passe souvent inaperçue et guérit seule (OMS : 3 à 10 jours ; CDC : 3 à 6 semaines) alors que l'infection continue. Au stade secondaire, une éruption sans démangeaisons apparaît souvent sur les paumes et la plante des pieds ; le CDC cite aussi fièvre, ganglions gonflés, mal de gorge, chute de cheveux par plaques et fatigue. Sans traitement, elle peut évoluer sur des années vers des lésions du cerveau, du cœur et des vaisseaux, et provoquer mortinaissance et syphilis congénitale chez les bébés. Elle se guérit par antibiotiques.",
+   "cause": "La bactérie Treponema pallidum. Elle se transmet surtout par contact avec des lésions contagieuses lors de rapports oraux, vaginaux et anaux, de la mère à l'enfant pendant la grossesse, et par transfusion sanguine (OMS). Elle ne se transmet pas par un contact occasionnel avec des objets comme les sièges de toilettes ou les couverts (CDC).",
+   "prevention": "Utilisation correcte et systématique du préservatif ; les lésions situées sur des zones non couvertes par le préservatif peuvent quand même transmettre l'infection. Les personnes à risque élevé doivent être dépistées au moins une fois par an, et les personnes diagnostiquées doivent prévenir leurs partenaires. Les femmes enceintes doivent être dépistées dès la première consultation prénatale et traitées immédiatement si le test est positif ; la benzathine pénicilline G est le traitement recommandé pendant la grossesse."
   },
   "regions": {
    "west_africa": 2,
@@ -233,17 +234,18 @@
   "cat": 1,
   "urgency": "emergency",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/plague",
+  "extra_sources": [{"title":"CDC: Preventing Plague","url":"https://www.cdc.gov/plague/prevention/index.html"},{"title":"CDC: Signs and Symptoms of Plague","url":"https://www.cdc.gov/plague/signs-symptoms/index.html"}],
   "en": {
    "name": "Plague",
-   "description": "A serious bacterial infection spread by fleas from rats and other animals. The bubonic form causes sudden fever, chills and very painful swollen glands. Plague needs urgent treatment with antibiotics.",
-   "cause": "Yersinia pestis bacteria, spread by flea bites, contact with infected animals, or from person to person in the pneumonic form.",
-   "prevention": "Keep rats and fleas out of homes, avoid handling sick or dead animals, store food safely, and seek urgent care for fever with painful swollen glands in plague areas."
+   "description": "A serious bacterial infection. Bubonic plague, the most common form, causes sudden fever, chills, headache, body aches, weakness, nausea and painful swollen lymph nodes (buboes) and can spread to the lungs or bloodstream. Pneumonic plague (lung form) causes breathing difficulty and cough, sometimes with bloody sputum, is the most contagious, and can be fatal within 18 to 24 hours if untreated. Septicaemic plague causes bleeding under the skin, darkening skin and possible organ failure. Antibiotics work if started early, so seek immediate medical attention.",
+   "cause": "Mainly bites from infected fleas, or contact with infected body fluids or tissues of animals. The pneumonic form spreads from person to person by inhaling respiratory droplets, and is the only form that does so (CDC).",
+   "prevention": "Avoid flea bites and do not handle animal carcasses; wear gloves when handling or skinning potentially infected animals (CDC). Reduce rodent habitat and food supplies around homes, rodent-proof buildings, use flea control on pets, and use repellent outdoors (CDC). Avoid direct contact with infected body fluids and tissues, and use precautions when caring for suspected patients. WHO recommends vaccination only for high-risk groups such as laboratory staff and health workers."
   },
   "fr": {
    "name": "Peste",
-   "description": "Infection bactérienne grave transmise par les puces des rats et d'autres animaux. La forme bubonique provoque une fièvre brutale, des frissons et des ganglions enflés très douloureux. La peste nécessite un traitement antibiotique urgent.",
-   "cause": "Bactérie Yersinia pestis, transmise par les piqûres de puces, le contact avec des animaux infectés, ou d'une personne à l'autre dans la forme pulmonaire.",
-   "prevention": "Gardez rats et puces hors des maisons, évitez de manipuler des animaux malades ou morts, conservez les aliments à l'abri, et consultez d'urgence en cas de fièvre avec ganglions très douloureux dans les zones de peste."
+   "description": "Une infection bactérienne grave. La peste bubonique, forme la plus fréquente, provoque fièvre brutale, frissons, maux de tête, courbatures, faiblesse, nausées et ganglions lymphatiques gonflés et douloureux (bubons), et peut gagner les poumons ou le sang. La peste pulmonaire provoque une gêne respiratoire et une toux, parfois avec des crachats sanglants, est la plus contagieuse, et peut être mortelle en 18 à 24 heures sans traitement. La peste septicémique provoque des saignements sous la peau, un noircissement de la peau et une possible défaillance d'organes. Les antibiotiques sont efficaces s'ils sont débutés tôt ; il faut donc consulter immédiatement.",
+   "cause": "Surtout les piqûres de puces infectées, ou le contact avec les liquides biologiques ou tissus d'animaux infectés. La forme pulmonaire se transmet d'une personne à l'autre par inhalation de gouttelettes respiratoires, et c'est la seule forme qui le fait (CDC).",
+   "prevention": "Éviter les piqûres de puces et ne pas manipuler les cadavres d'animaux ; porter des gants pour manipuler ou dépouiller des animaux potentiellement infectés (CDC). Réduire l'habitat et les sources de nourriture des rongeurs autour des habitations, rendre les bâtiments inaccessibles aux rongeurs, traiter les animaux de compagnie contre les puces et utiliser un répulsif en plein air (CDC). Éviter le contact direct avec les liquides et tissus infectés et prendre des précautions pour soigner les patients suspects. L'OMS ne recommande la vaccination que pour les groupes à haut risque, comme le personnel de laboratoire et les agents de santé."
   },
   "regions": {
    "east_africa": 2,
