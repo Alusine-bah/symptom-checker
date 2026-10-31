@@ -146,7 +146,8 @@
   "diseases": [
    "bacterial_vaginosis",
    "pelvic_inflammatory_disease",
-   "tooth_decay_abscess"
+   "tooth_decay_abscess",
+   "trichomoniasis"
   ],
   "sources": [
    {
@@ -168,6 +169,10 @@
    {
     "title": "NHS: Taking metronidazole with other medicines and herbal supplements",
     "url": "https://www.nhs.uk/medicines/metronidazole/taking-metronidazole-with-other-medicines-and-herbal-supplements/"
+   },
+   {
+    "title": "Ministry of Health, Kingdom of Swaziland (2012): Standard Treatment Guidelines and Essential Medicines List of Common Medical Conditions in the Kingdom of Swaziland, 1st edition (supported by PEPFAR, USAID and the SPS Program, Management Sciences for Health)",
+    "url": null
    }
   ],
   "en": {
@@ -183,7 +188,11 @@
     "Vaginal gel for bacterial vaginosis: one applicator full every night for 5 nights (NHS).",
     "Children: the dose is lower and based on age or weight. No figures are given on the NHS page.",
     "Tablets: swallow whole with water, with or just after food. Liquid: take without food (NHS).",
-    "Carry on until the course is finished, even if you feel better (NHS)."
+    "Carry on until the course is finished, even if you feel better (NHS).",
+    "Vaginal discharge in a woman who is not pregnant: metronidazole 2 g by mouth immediately, or 400 mg by mouth every 12 hours for 7 days. The guideline gives it together with ciprofloxacin 500 mg and doxycycline 100 mg every 12 hours for 7 days when gonorrhoea is suspected (Eswatini STG 2012).",
+    "Pelvic inflammatory disease: metronidazole 400 mg by mouth every 12 hours for 14 days, together with doxycycline 100 mg every 12 hours for 14 days and one of ciprofloxacin 500 mg by mouth, spectinomycin 2 g injected, or ceftriaxone 250 mg injected, each as a single dose (Eswatini STG 2012).",
+    "Infection after a miscarriage or abortion: metronidazole 400 mg by mouth every 8 hours for 7 days with amoxicillin 500 mg every 6 hours for 7 days (erythromycin instead of amoxicillin if allergic to penicillin) (Eswatini STG 2012).",
+    "Infection after childbirth (puerperal sepsis): metronidazole 500 mg into a vein every 8 hours for at least 3 doses, then 400 mg by mouth every 8 hours once the woman improves, together with other antibiotics. The woman is referred to hospital after the first doses (Eswatini STG 2012)."
    ],
    "who_careful": [
     "Tell a doctor if you have had an allergic reaction to metronidazole or another medicine, are pregnant or breastfeeding, think you may be unable to stop drinking alcohol during treatment, or are having blood tests (NHS).",
@@ -197,16 +206,18 @@
     "Rare but serious (under 1 in 1,000): yellow skin or eyes; unexpected infections, mouth ulcers, bruising, bleeding gums or extreme tiredness; severe stomach pain that may spread to the back; blurred or double vision. Stop it and call a doctor (NHS)."
    ],
    "pregnancy": [
-    "The NHS tells people who are pregnant or breastfeeding to tell their doctor before using it. The NHS pregnancy page could not be read, so no further advice is given here."
+    "The NHS tells people who are pregnant or breastfeeding to tell their doctor before using it. The NHS pregnancy page could not be read, so no further advice is given here.",
+    "The Eswatini guideline says metronidazole is contraindicated in the first trimester of pregnancy. For pregnant women with a vaginal discharge it gives metronidazole with spectinomycin and erythromycin (Eswatini STG 2012). The NHS advice to tell your doctor if you are pregnant applies."
    ],
    "urgent": [
     "Get urgent help at the nearest health facility for: headache with high temperature, stiff neck, feeling unwell and sensitivity to bright light (possible meningitis); hallucinations, confusion or trouble speaking (stop the medicine); or signs of a severe allergic reaction (swelling of lips, mouth, throat or tongue, difficult breathing, tight throat, blue or grey skin, sudden confusion, fainting). The NHS says to call 999 in the UK."
    ],
    "open_points": [
-    "The NHS pages do not list amoebiasis, giardiasis or trichomoniasis, which metronidazole is also used for in many countries. A source for these uses (for example WHO or CDC) has not been added yet, so those diseases are not linked.",
-    "Milligram doses are not on the NHS page. They should be added from the WHO or the national guideline.",
+    "The NHS pages do not list amoebiasis or giardiasis, which metronidazole is also used for in many countries. No source has been read for these yet, so those diseases are not linked. Trichomoniasis is linked because the Eswatini guideline treats vaginal discharge with metronidazole.",
+    "Milligram doses come only from the Eswatini 2012 guideline and only for gynaecological and childbirth infections. Doses for children and for other uses (such as dental infection) are not given.",
     "The NHS interaction page did not state the alcohol warning, so none is given here. The reviewer should check the leaflet and add it with a source.",
-    "The NHS pages describe UK products and UK emergency numbers. Strengths, brands and local guidance in Sierra Leone still need checking by the reviewer."
+    "The NHS pages describe UK products and UK emergency numbers. Strengths, brands and local guidance in Sierra Leone still need checking by the reviewer.",
+    "This guideline is from Eswatini (then Swaziland), 2012, not Sierra Leone. It is a national government guideline, but it is old and the doses and policies in Sierra Leone may differ. The reviewer should compare with the current Sierra Leone Standard Treatment Guidelines."
    ]
   },
   "fr": {
@@ -222,7 +233,11 @@
     "Gel vaginal pour la vaginose bactérienne : un applicateur plein chaque soir pendant 5 nuits (NHS).",
     "Enfants : la dose est plus faible et dépend de l'âge ou du poids. Aucun chiffre n'est donné sur la page du NHS.",
     "Comprimés : avaler entiers avec de l'eau, pendant ou juste après un repas. Liquide : prendre sans nourriture (NHS).",
-    "Continuer jusqu'à la fin du traitement, même si l'on se sent mieux (NHS)."
+    "Continuer jusqu'à la fin du traitement, même si l'on se sent mieux (NHS).",
+    "Écoulement vaginal chez une femme non enceinte : métronidazole 2 g par voie orale immédiatement, ou 400 mg par voie orale toutes les 12 heures pendant 7 jours. La directive le donne avec la ciprofloxacine 500 mg et la doxycycline 100 mg toutes les 12 heures pendant 7 jours lorsqu'une gonorrhée est suspectée (STG d'Eswatini 2012).",
+    "Infection pelvienne : métronidazole 400 mg par voie orale toutes les 12 heures pendant 14 jours, avec la doxycycline 100 mg toutes les 12 heures pendant 14 jours et l'un des médicaments suivants en dose unique : ciprofloxacine 500 mg par voie orale, spectinomycine 2 g en injection, ou ceftriaxone 250 mg en injection (STG d'Eswatini 2012).",
+    "Infection après une fausse couche ou un avortement : métronidazole 400 mg par voie orale toutes les 8 heures pendant 7 jours avec l'amoxicilline 500 mg toutes les 6 heures pendant 7 jours (érythromycine à la place de l'amoxicilline en cas d'allergie à la pénicilline) (STG d'Eswatini 2012).",
+    "Infection après l'accouchement (septicémie puerpérale) : métronidazole 500 mg en intraveineuse toutes les 8 heures pendant au moins 3 doses, puis 400 mg par voie orale toutes les 8 heures dès que la femme va mieux, avec d'autres antibiotiques. La femme est orientée vers l'hôpital après les premières doses (STG d'Eswatini 2012)."
    ],
    "who_careful": [
     "Prévenir un médecin en cas de réaction allergique passée au métronidazole ou à un autre médicament, de grossesse ou d'allaitement, si vous pensez ne pas pouvoir vous abstenir d'alcool pendant le traitement, ou si vous avez des analyses de sang (NHS).",
@@ -236,16 +251,18 @@
     "Rares mais graves (moins de 1 sur 1 000) : peau ou yeux jaunes ; infections inattendues, aphtes, ecchymoses, saignement des gencives ou grande fatigue ; douleur sévère au ventre pouvant irradier dans le dos ; vision floue ou double. L'arrêter et appeler un médecin (NHS)."
    ],
    "pregnancy": [
-    "Le NHS demande aux femmes enceintes ou qui allaitent de prévenir leur médecin avant de l'utiliser. La page du NHS sur la grossesse n'a pas pu être lue, donc aucun autre conseil n'est donné ici."
+    "Le NHS demande aux femmes enceintes ou qui allaitent de prévenir leur médecin avant de l'utiliser. La page du NHS sur la grossesse n'a pas pu être lue, donc aucun autre conseil n'est donné ici.",
+    "La directive d'Eswatini indique que le métronidazole est contre-indiqué au premier trimestre de la grossesse. Pour les femmes enceintes ayant un écoulement vaginal, elle donne le métronidazole avec la spectinomycine et l'érythromycine (STG d'Eswatini 2012). Le conseil du NHS de prévenir son médecin en cas de grossesse s'applique."
    ],
    "urgent": [
     "Chercher une aide urgente au centre de santé le plus proche en cas de : mal de tête avec forte fièvre, raideur de la nuque, malaise et sensibilité à la lumière vive (méningite possible) ; hallucinations, confusion ou difficulté à parler (arrêter le médicament) ; ou signes d'allergie grave (gonflement des lèvres, de la bouche, de la gorge ou de la langue, respiration difficile, gorge serrée, peau bleue ou grise, confusion soudaine, évanouissement). Le NHS indique d'appeler le 999 au Royaume-Uni."
    ],
    "open_points": [
-    "Les pages du NHS ne citent pas l'amibiase, la giardiase ni la trichomonase, pour lesquelles le métronidazole est aussi utilisé dans de nombreux pays. Une source pour ces usages (par exemple l'OMS ou le CDC) n'a pas encore été ajoutée, donc ces maladies ne sont pas liées.",
-    "Les doses en milligrammes ne figurent pas sur la page du NHS. Elles doivent être ajoutées à partir de l'OMS ou de la directive nationale.",
+    "Les pages du NHS ne citent pas l'amibiase ni la giardiase, pour lesquelles le métronidazole est aussi utilisé dans de nombreux pays. Aucune source n'a encore été lue pour elles, donc ces maladies ne sont pas liées. La trichomonase est liée car la directive d'Eswatini traite l'écoulement vaginal par le métronidazole.",
+    "Les doses en milligrammes viennent uniquement de la directive d'Eswatini de 2012 et seulement pour les infections gynécologiques et du post-partum. Les doses pour les enfants et pour les autres usages (comme l'infection dentaire) ne sont pas données.",
     "La page du NHS sur les interactions n'indique pas d'avertissement sur l'alcool, donc aucun n'est donné ici. Le relecteur doit vérifier la notice et l'ajouter avec une source.",
-    "Les pages du NHS décrivent des produits et des numéros d'urgence du Royaume-Uni. Les dosages, les marques et les recommandations locales en Sierra Leone doivent encore être vérifiés par le relecteur."
+    "Les pages du NHS décrivent des produits et des numéros d'urgence du Royaume-Uni. Les dosages, les marques et les recommandations locales en Sierra Leone doivent encore être vérifiés par le relecteur.",
+    "Cette directive vient d'Eswatini (alors Swaziland), 2012, et non de la Sierra Leone. C'est une directive nationale officielle, mais elle est ancienne et les doses et politiques en Sierra Leone peuvent différer. Le relecteur doit la comparer à la version actuelle des directives nationales de traitement de la Sierra Leone."
    ]
   }
  },
@@ -264,6 +281,10 @@
    {
     "title": "NHS: Ibuprofen for adults (last reviewed 27 August 2025)",
     "url": "https://www.nhs.uk/medicines/ibuprofen-for-adults/"
+   },
+   {
+    "title": "Ministry of Health, Kingdom of Swaziland (2012): Standard Treatment Guidelines and Essential Medicines List of Common Medical Conditions in the Kingdom of Swaziland, 1st edition (supported by PEPFAR, USAID and the SPS Program, Management Sciences for Health)",
+    "url": null
    }
   ],
   "en": {
@@ -279,7 +300,8 @@
     "Adults, 200 mg tablets or capsules: 1 or 2 whole with water, up to 3 times a day, at least 4 hours apart, no more than 6 in 24 hours (NHS).",
     "Adults, 400 mg tablets or capsules: 1 whole, up to 3 times a day, at least 4 hours apart, no more than 3 in 24 hours (NHS).",
     "Do not take tablets or capsules for more than 10 days unless a doctor advises it. See a health worker if pain gets worse or does not go away (NHS).",
-    "Doses for liquids, granules and long-acting or dissolving tablets are not given: follow the packet. Doses for children are not covered here."
+    "Doses for liquids, granules and long-acting or dissolving tablets are not given: follow the packet. Doses for children are not covered here.",
+    "The Eswatini 2012 guideline gives ibuprofen 200 mg to 400 mg by mouth every 8 hours for 2 to 3 days for period pain (primary dysmenorrhoea) and for abnormal uterine bleeding not caused by disease. Mefenamic acid 250 mg to 500 mg every 8 hours for 2 to 3 days is the alternative it names."
    ],
    "who_careful": [
     "The NHS says it is not suitable if you have had an allergic reaction to ibuprofen, aspirin or another NSAID; have or have had a stomach ulcer; have asthma or allergies such as hay fever; have chickenpox; have a heart, liver or kidney condition; have blood clotting problems; have had a stroke; or are pregnant or trying to conceive."
@@ -302,7 +324,8 @@
    "open_points": [
     "Doses for children are not included. The NHS page covers adults only.",
     "The NHS lists 'joint and muscle pain' in general. Only muscular back pain is linked here; osteoarthritis and other conditions have not been matched to a source.",
-    "The NHS pages describe UK products and UK emergency numbers. Strengths, brands and local guidance in Sierra Leone still need checking by the reviewer."
+    "The NHS pages describe UK products and UK emergency numbers. Strengths, brands and local guidance in Sierra Leone still need checking by the reviewer.",
+    "This guideline is from Eswatini (then Swaziland), 2012, not Sierra Leone. It is a national government guideline, but it is old and the doses and policies in Sierra Leone may differ. The reviewer should compare with the current Sierra Leone Standard Treatment Guidelines."
    ]
   },
   "fr": {
@@ -318,7 +341,8 @@
     "Adultes, comprimés ou gélules de 200 mg : 1 ou 2 entiers avec de l'eau, jusqu'à 3 fois par jour, espacés d'au moins 4 heures, pas plus de 6 en 24 heures (NHS).",
     "Adultes, comprimés ou gélules de 400 mg : 1 entier, jusqu'à 3 fois par jour, espacés d'au moins 4 heures, pas plus de 3 en 24 heures (NHS).",
     "Ne pas prendre les comprimés ou gélules plus de 10 jours sauf avis d'un médecin. Consulter si la douleur s'aggrave ou ne passe pas (NHS).",
-    "Les doses pour les liquides, les granulés et les comprimés à libération prolongée ou orodispersibles ne sont pas données : suivre la notice. Les doses pour les enfants ne sont pas couvertes ici."
+    "Les doses pour les liquides, les granulés et les comprimés à libération prolongée ou orodispersibles ne sont pas données : suivre la notice. Les doses pour les enfants ne sont pas couvertes ici.",
+    "La directive d'Eswatini de 2012 donne l'ibuprofène 200 mg à 400 mg par voie orale toutes les 8 heures pendant 2 à 3 jours pour les règles douloureuses (dysménorrhée primaire) et pour les saignements utérins anormaux non dus à une maladie. L'acide méfénamique 250 mg à 500 mg toutes les 8 heures pendant 2 à 3 jours est l'alternative qu'elle cite."
    ],
    "who_careful": [
     "Le NHS indique qu'il ne convient pas en cas de réaction allergique à l'ibuprofène, à l'aspirine ou à un autre AINS ; d'ulcère de l'estomac actuel ou passé ; d'asthme ou d'allergies comme le rhume des foins ; de varicelle ; de maladie du cœur, du foie ou des reins ; de troubles de la coagulation ; d'accident vasculaire cérébral passé ; ou de grossesse ou de désir de grossesse."
@@ -341,7 +365,8 @@
    "open_points": [
     "Les doses pour les enfants ne sont pas incluses. La page du NHS ne concerne que les adultes.",
     "Le NHS cite de façon générale « douleurs articulaires et musculaires ». Seules les douleurs musculaires du dos sont liées ici ; l'arthrose et d'autres maladies n'ont pas été reliées à une source.",
-    "Les pages du NHS décrivent des produits et des numéros d'urgence du Royaume-Uni. Les dosages, les marques et les recommandations locales en Sierra Leone doivent encore être vérifiés par le relecteur."
+    "Les pages du NHS décrivent des produits et des numéros d'urgence du Royaume-Uni. Les dosages, les marques et les recommandations locales en Sierra Leone doivent encore être vérifiés par le relecteur.",
+    "Cette directive vient d'Eswatini (alors Swaziland), 2012, et non de la Sierra Leone. C'est une directive nationale officielle, mais elle est ancienne et les doses et politiques en Sierra Leone peuvent différer. Le relecteur doit la comparer à la version actuelle des directives nationales de traitement de la Sierra Leone."
    ]
   }
  },
@@ -350,15 +375,20 @@
   "status": "draft",
   "last_checked": "2026-11-01",
   "diseases": [
-   "sti_gonorrhea_chlamydia",
-   "uti",
+   "malaria",
+   "pelvic_inflammatory_disease",
    "pneumonia",
-   "malaria"
+   "sti_gonorrhea_chlamydia",
+   "uti"
   ],
   "sources": [
    {
     "title": "NHS: Doxycycline",
     "url": "https://www.nhs.uk/medicines/doxycycline/"
+   },
+   {
+    "title": "Ministry of Health, Kingdom of Swaziland (2012): Standard Treatment Guidelines and Essential Medicines List of Common Medical Conditions in the Kingdom of Swaziland, 1st edition (supported by PEPFAR, USAID and the SPS Program, Management Sciences for Health)",
+    "url": null
    }
   ],
   "en": {
@@ -371,7 +401,7 @@
     "It is also sometimes used for acne and rosacea, and to prevent malaria when travelling to areas where malaria is common (NHS)."
    ],
    "how_used": [
-    "The NHS page gives no milligram doses. It says most people take it once or twice a day for a few days or weeks, depending on the reason. Follow the packet or leaflet and the prescriber."
+    "The NHS page gives no milligram doses. It says most people take it once or twice a day for a few days or weeks, depending on the reason. The Eswatini 2012 guideline gives 100 mg by mouth every 12 hours: for 7 days for a vaginal discharge when gonorrhoea or chlamydia is suspected (with ciprofloxacin 500 mg and metronidazole), and for 14 days for pelvic inflammatory disease (with metronidazole and a single dose of ciprofloxacin, spectinomycin or ceftriaxone). Follow the packet or leaflet and the prescriber."
    ],
    "who_careful": [
     "The NHS says most adults and children aged 12 years or over can take it. It is not usually given to younger children because it can affect how their teeth develop.",
@@ -386,16 +416,18 @@
    ],
    "pregnancy": [
     "Not usually used in pregnancy because it can affect the baby's teeth. A doctor may recommend it if the benefits outweigh the risks; the NHS says risks are lower if taken early, within the first 13 weeks.",
-    "Not usually used while breastfeeding because of a risk of side effects in the baby or effects on teeth. A doctor may recommend it for short-term use if the benefits outweigh the risks (NHS)."
+    "Not usually used while breastfeeding because of a risk of side effects in the baby or effects on teeth. A doctor may recommend it for short-term use if the benefits outweigh the risks (NHS).",
+    "The Eswatini guideline also says doxycycline is contraindicated in pregnancy (Eswatini STG 2012)."
    ],
    "urgent": [
     "If someone has taken more than prescribed, or has signs of a serious side effect, get urgent help at the nearest health facility. The NHS advises calling NHS 111 in the UK."
    ],
    "open_points": [
-    "Doses are not given because the NHS page has none. They should be added from the WHO or the national guideline for each use.",
+    "Doses for other uses are not given: the NHS page has none and only the gynaecological doses from the Eswatini guideline are included. They should be added from the WHO or the national guideline for each use.",
     "Use in cholera, plague, leptospirosis, brucellosis and scrub typhus is common in guidelines, but no source has been read for these yet, so those diseases are not linked.",
     "The NHS page mentions malaria prevention for travellers only. Its use for malaria in people who live in endemic areas needs a separate source.",
-    "The NHS pages describe UK products and UK emergency numbers. Strengths, brands and local guidance in Sierra Leone still need checking by the reviewer."
+    "The NHS pages describe UK products and UK emergency numbers. Strengths, brands and local guidance in Sierra Leone still need checking by the reviewer.",
+    "This guideline is from Eswatini (then Swaziland), 2012, not Sierra Leone. It is a national government guideline, but it is old and the doses and policies in Sierra Leone may differ. The reviewer should compare with the current Sierra Leone Standard Treatment Guidelines."
    ]
   },
   "fr": {
@@ -408,7 +440,7 @@
     "Il est aussi parfois utilisé contre l'acné et la rosacée, et pour prévenir le paludisme en voyage dans les zones où il est fréquent (NHS)."
    ],
    "how_used": [
-    "La page du NHS ne donne pas de doses en milligrammes. Elle indique que la plupart des gens le prennent une ou deux fois par jour pendant quelques jours ou semaines, selon le motif. Suivre la notice et le prescripteur."
+    "La page du NHS ne donne pas de doses en milligrammes. Elle indique que la plupart des gens le prennent une ou deux fois par jour pendant quelques jours ou semaines, selon le motif. La directive d'Eswatini de 2012 donne 100 mg par voie orale toutes les 12 heures : pendant 7 jours pour un écoulement vaginal lorsqu'une gonorrhée ou une chlamydiose est suspectée (avec la ciprofloxacine 500 mg et le métronidazole), et pendant 14 jours pour l'infection pelvienne (avec le métronidazole et une dose unique de ciprofloxacine, de spectinomycine ou de ceftriaxone). Suivre la notice et le prescripteur."
    ],
    "who_careful": [
     "Le NHS indique que la plupart des adultes et des enfants de 12 ans ou plus peuvent le prendre. Il n'est généralement pas donné aux enfants plus jeunes car il peut affecter le développement des dents.",
@@ -423,16 +455,18 @@
    ],
    "pregnancy": [
     "Généralement non utilisé pendant la grossesse car il peut affecter les dents du bébé. Un médecin peut le recommander si les bénéfices dépassent les risques ; le NHS indique que les risques sont plus faibles s'il est pris tôt, dans les 13 premières semaines.",
-    "Généralement non utilisé pendant l'allaitement en raison d'un risque d'effets chez le bébé ou sur les dents. Un médecin peut le recommander pour une courte durée si les bénéfices dépassent les risques (NHS)."
+    "Généralement non utilisé pendant l'allaitement en raison d'un risque d'effets chez le bébé ou sur les dents. Un médecin peut le recommander pour une courte durée si les bénéfices dépassent les risques (NHS).",
+    "La directive d'Eswatini indique aussi que la doxycycline est contre-indiquée pendant la grossesse (STG d'Eswatini 2012)."
    ],
    "urgent": [
     "Si quelqu'un a pris plus que la dose prescrite, ou a des signes d'effet grave, chercher une aide urgente au centre de santé le plus proche. Le NHS conseille d'appeler le 111 au Royaume-Uni."
    ],
    "open_points": [
-    "Les doses ne sont pas données car la page du NHS n'en contient pas. Elles doivent être ajoutées à partir de l'OMS ou de la directive nationale pour chaque usage.",
+    "Les doses pour les autres usages ne sont pas données : la page du NHS n'en contient pas et seules les doses gynécologiques de la directive d'Eswatini sont incluses. Elles doivent être ajoutées à partir de l'OMS ou de la directive nationale pour chaque usage.",
     "L'usage dans le choléra, la peste, la leptospirose, la brucellose et le typhus des broussailles est courant dans les recommandations, mais aucune source n'a encore été lue pour eux, donc ces maladies ne sont pas liées.",
     "La page du NHS ne mentionne la prévention du paludisme que pour les voyageurs. Son usage contre le paludisme chez les personnes vivant en zone d'endémie demande une source distincte.",
-    "Les pages du NHS décrivent des produits et des numéros d'urgence du Royaume-Uni. Les dosages, les marques et les recommandations locales en Sierra Leone doivent encore être vérifiés par le relecteur."
+    "Les pages du NHS décrivent des produits et des numéros d'urgence du Royaume-Uni. Les dosages, les marques et les recommandations locales en Sierra Leone doivent encore être vérifiés par le relecteur.",
+    "Cette directive vient d'Eswatini (alors Swaziland), 2012, et non de la Sierra Leone. C'est une directive nationale officielle, mais elle est ancienne et les doses et politiques en Sierra Leone peuvent différer. Le relecteur doit la comparer à la version actuelle des directives nationales de traitement de la Sierra Leone."
    ]
   }
  },
@@ -463,6 +497,10 @@
    {
     "title": "WHO eLENA: Daily iron supplementation in pregnant women",
     "url": "https://www.who.int/tools/elena/interventions/daily-iron-pregnancy"
+   },
+   {
+    "title": "Ministry of Health, Kingdom of Swaziland (2012): Standard Treatment Guidelines and Essential Medicines List of Common Medical Conditions in the Kingdom of Swaziland, 1st edition (supported by PEPFAR, USAID and the SPS Program, Management Sciences for Health)",
+    "url": null
    }
   ],
   "en": {
@@ -478,7 +516,9 @@
     "Adults, to prevent anaemia, 200 mg tablets: one tablet once a day (NHS).",
     "Children: the NHS says a doctor sets the dose from age and blood results (weight too under 12). It gives no numeric child dose, so none is given here.",
     "Best taken on an empty stomach, about 30 minutes before eating or 2 hours after. Take it with or after food if it upsets the stomach. Vitamin C or orange juice may help absorption. Avoid tea, coffee, eggs and dairy within 2 hours (NHS).",
-    "In pregnancy, the WHO recommends 30 mg to 60 mg of elemental iron daily together with 400 µg of folic acid. The WHO page gives no length of course (WHO eLENA)."
+    "In pregnancy, the WHO recommends 30 mg to 60 mg of elemental iron daily together with 400 µg of folic acid. The WHO page gives no length of course (WHO eLENA).",
+    "Anaemia in pregnancy, prevention (all antenatal patients): ferrous sulphate 200 mg by mouth daily with food, plus folic acid 5 mg daily, plus vitamin C daily (Eswatini STG 2012).",
+    "Anaemia in pregnancy, treatment: if haemoglobin is below 11 g/dL, ferrous sulphate 200 mg by mouth 3 times a day with food, and for 1 month afterwards at the preventive dose (Eswatini STG 2012)."
    ],
    "who_careful": [
     "The NHS says most adults and some children aged 12 and over can take it with a doctor's or pharmacist's advice. Speak to a doctor first if you have had an allergic reaction to it; have an anaemia not caused by low iron; have haemochromatosis or haemosiderosis; have sickle cell anaemia or thalassaemia; have a stomach ulcer, stomach surgery or bowel disease; receive repeated blood transfusions; or have blood in your urine."
@@ -494,13 +534,16 @@
     "The NHS pregnancy page for ferrous sulfate was not read. The WHO recommends iron and folic acid in pregnancy as described under 'How it is used'."
    ],
    "urgent": [
-    "Taking more than the recommended dose can cause vomiting, stomach pain or diarrhoea. Serious cases can involve vomiting blood, seizure or unconsciousness. Get urgent help at the nearest health facility. Keep iron tablets out of the sight and reach of children: an overdose may be fatal (NHS)."
+    "Taking more than the recommended dose can cause vomiting, stomach pain or diarrhoea. Serious cases can involve vomiting blood, seizure or unconsciousness. Get urgent help at the nearest health facility. Keep iron tablets out of the sight and reach of children: an overdose may be fatal (NHS).",
+    "The Eswatini guideline says to refer a pregnant woman with haemoglobin below 8 g/dL at any stage, below 10 g/dL after 34 weeks, a haemoglobin that does not respond (a rise of less than 1.5 g/dL over 2 weeks, or less than 2 g/dL over 3 weeks in early pregnancy), pallor with signs of chronic disease, or signs of heart failure."
    ],
    "open_points": [
     "The NHS page gives no numeric child dose and no maximum daily dose. Child doses should be added from WHO or national guidance.",
     "The WHO eLENA page does not give a year for its recommendation; it says it replaces the 2012 WHO guideline on daily iron and folic acid in pregnant women.",
     "Where malaria is common, advice on iron in children is not covered here.",
-    "The NHS pages describe UK products and UK emergency numbers. Strengths, brands and local guidance in Sierra Leone still need checking by the reviewer."
+    "The NHS pages describe UK products and UK emergency numbers. Strengths, brands and local guidance in Sierra Leone still need checking by the reviewer.",
+    "The WHO figure for pregnancy is 30 mg to 60 mg of elemental iron a day, while the Eswatini guideline gives a 200 mg ferrous sulphate tablet. These are different ways of writing the dose. The reviewer should check how much elemental iron the tablet used in Sierra Leone contains.",
+    "This guideline is from Eswatini (then Swaziland), 2012, not Sierra Leone. It is a national government guideline, but it is old and the doses and policies in Sierra Leone may differ. The reviewer should compare with the current Sierra Leone Standard Treatment Guidelines."
    ]
   },
   "fr": {
@@ -516,7 +559,9 @@
     "Adultes, pour prévenir l'anémie, comprimés de 200 mg : un comprimé une fois par jour (NHS).",
     "Enfants : le NHS indique qu'un médecin fixe la dose selon l'âge et les résultats sanguins (le poids aussi avant 12 ans). Il ne donne pas de dose chiffrée pour l'enfant, donc aucune n'est donnée ici.",
     "Idéalement pris à jeun, environ 30 minutes avant un repas ou 2 heures après. Le prendre pendant ou après un repas s'il irrite l'estomac. La vitamine C ou le jus d'orange peut aider l'absorption. Éviter le thé, le café, les œufs et les produits laitiers dans les 2 heures (NHS).",
-    "Pendant la grossesse, l'OMS recommande 30 mg à 60 mg de fer élémentaire par jour avec 400 µg d'acide folique. La page de l'OMS ne donne pas de durée de traitement (OMS eLENA)."
+    "Pendant la grossesse, l'OMS recommande 30 mg à 60 mg de fer élémentaire par jour avec 400 µg d'acide folique. La page de l'OMS ne donne pas de durée de traitement (OMS eLENA).",
+    "Anémie pendant la grossesse, prévention (toutes les femmes suivies en consultation prénatale) : sulfate ferreux 200 mg par voie orale par jour avec un repas, plus acide folique 5 mg par jour, plus vitamine C par jour (STG d'Eswatini 2012).",
+    "Anémie pendant la grossesse, traitement : si l'hémoglobine est inférieure à 11 g/dL, sulfate ferreux 200 mg par voie orale 3 fois par jour avec un repas, puis pendant 1 mois à la dose préventive (STG d'Eswatini 2012)."
    ],
    "who_careful": [
     "Le NHS indique que la plupart des adultes et certains enfants de 12 ans et plus peuvent le prendre avec l'avis d'un médecin ou d'un pharmacien. Demander d'abord l'avis d'un médecin en cas de réaction allergique passée ; d'anémie non due à un manque de fer ; d'hémochromatose ou d'hémosidérose ; de drépanocytose ou de thalassémie ; d'ulcère de l'estomac, de chirurgie de l'estomac ou de maladie de l'intestin ; de transfusions répétées ; ou de sang dans les urines."
@@ -532,13 +577,16 @@
     "La page du NHS sur la grossesse pour le sulfate ferreux n'a pas été lue. L'OMS recommande le fer et l'acide folique pendant la grossesse comme décrit sous « Comment il s'utilise »."
    ],
    "urgent": [
-    "Prendre plus que la dose recommandée peut causer des vomissements, des douleurs au ventre ou de la diarrhée. Les cas graves peuvent comporter des vomissements de sang, des convulsions ou une perte de connaissance. Chercher une aide urgente au centre de santé le plus proche. Garder les comprimés de fer hors de la vue et de la portée des enfants : une surdose peut être mortelle (NHS)."
+    "Prendre plus que la dose recommandée peut causer des vomissements, des douleurs au ventre ou de la diarrhée. Les cas graves peuvent comporter des vomissements de sang, des convulsions ou une perte de connaissance. Chercher une aide urgente au centre de santé le plus proche. Garder les comprimés de fer hors de la vue et de la portée des enfants : une surdose peut être mortelle (NHS).",
+    "La directive d'Eswatini demande d'orienter une femme enceinte dont l'hémoglobine est inférieure à 8 g/dL à n'importe quel stade, inférieure à 10 g/dL après 34 semaines, dont l'hémoglobine ne répond pas (augmentation de moins de 1,5 g/dL en 2 semaines, ou de moins de 2 g/dL en 3 semaines en début de grossesse), qui a une pâleur avec des signes de maladie chronique, ou des signes d'insuffisance cardiaque."
    ],
    "open_points": [
     "La page du NHS ne donne ni dose chiffrée pour l'enfant ni dose maximale par jour. Les doses pour l'enfant doivent être ajoutées à partir de l'OMS ou des recommandations nationales.",
     "La page eLENA de l'OMS ne donne pas d'année pour sa recommandation ; elle indique qu'elle remplace la directive OMS de 2012 sur le fer et l'acide folique quotidiens chez la femme enceinte.",
     "Là où le paludisme est fréquent, les conseils sur le fer chez l'enfant ne sont pas couverts ici.",
-    "Les pages du NHS décrivent des produits et des numéros d'urgence du Royaume-Uni. Les dosages, les marques et les recommandations locales en Sierra Leone doivent encore être vérifiés par le relecteur."
+    "Les pages du NHS décrivent des produits et des numéros d'urgence du Royaume-Uni. Les dosages, les marques et les recommandations locales en Sierra Leone doivent encore être vérifiés par le relecteur.",
+    "Le chiffre de l'OMS pour la grossesse est de 30 mg à 60 mg de fer élémentaire par jour, alors que la directive d'Eswatini donne un comprimé de sulfate ferreux de 200 mg. Ce sont deux façons d'écrire la dose. Le relecteur doit vérifier la quantité de fer élémentaire du comprimé utilisé en Sierra Leone.",
+    "Cette directive vient d'Eswatini (alors Swaziland), 2012, et non de la Sierra Leone. C'est une directive nationale officielle, mais elle est ancienne et les doses et politiques en Sierra Leone peuvent différer. Le relecteur doit la comparer à la version actuelle des directives nationales de traitement de la Sierra Leone."
    ]
   }
  },
@@ -555,6 +603,10 @@
    {
     "title": "WHO eLENA: Daily iron supplementation in pregnant women",
     "url": "https://www.who.int/tools/elena/interventions/daily-iron-pregnancy"
+   },
+   {
+    "title": "Ministry of Health, Kingdom of Swaziland (2012): Standard Treatment Guidelines and Essential Medicines List of Common Medical Conditions in the Kingdom of Swaziland, 1st edition (supported by PEPFAR, USAID and the SPS Program, Management Sciences for Health)",
+    "url": null
    }
   ],
   "en": {
@@ -569,7 +621,8 @@
     "The NHS page gives no milligram doses: it depends on the type and the reason. Follow the prescriber.",
     "In pregnancy, the NHS says to take a supplement for the first 12 weeks, and if planning a pregnancy to start before conception, ideally 3 months before. Some women need a higher dose: ask a pharmacist, midwife or doctor (NHS).",
     "The WHO recommends 400 µg (0.4 mg) of folic acid daily with 30 mg to 60 mg of elemental iron in pregnancy, started as early as possible, ideally before conception, to prevent neural tube defects. The page gives no length of course (WHO eLENA).",
-    "Missed dose: take it as soon as you remember, then the next at the usual time. Do not take two doses to make up (NHS)."
+    "Missed dose: take it as soon as you remember, then the next at the usual time. Do not take two doses to make up (NHS).",
+    "The Eswatini guideline gives folic acid 5 mg by mouth daily for all antenatal patients, together with ferrous sulphate 200 mg daily and vitamin C, to prevent anaemia in pregnancy (Eswatini STG 2012)."
    ],
    "who_careful": [
     "May not be suitable if you have had an allergic reaction to it, have vitamin B12 deficiency or pernicious anaemia, have a coronary stent, or have cancer (NHS).",
@@ -592,7 +645,9 @@
    "open_points": [
     "No disease page is linked yet, because the encyclopedia has no entry for folate deficiency or neural tube defects. This is a gap to fill under the maternal and newborn health branch.",
     "The higher dose for women at higher risk is not stated on the NHS page and is not given here.",
-    "The NHS pages describe UK products and UK emergency numbers. Strengths, brands and local guidance in Sierra Leone still need checking by the reviewer."
+    "The NHS pages describe UK products and UK emergency numbers. Strengths, brands and local guidance in Sierra Leone still need checking by the reviewer.",
+    "The doses of the two sources differ: WHO recommends 400 µg (0.4 mg) of folic acid daily in pregnancy to prevent neural tube defects, while the Eswatini guideline gives 5 mg daily to prevent anaemia in pregnancy. They may be for different purposes, but this is not stated. The reviewer should decide which applies in Sierra Leone.",
+    "This guideline is from Eswatini (then Swaziland), 2012, not Sierra Leone. It is a national government guideline, but it is old and the doses and policies in Sierra Leone may differ. The reviewer should compare with the current Sierra Leone Standard Treatment Guidelines."
    ]
   },
   "fr": {
@@ -607,7 +662,8 @@
     "La page du NHS ne donne pas de doses en milligrammes : cela dépend du type et du motif. Suivre le prescripteur.",
     "Pendant la grossesse, le NHS indique de prendre un supplément pendant les 12 premières semaines, et si l'on prévoit une grossesse de commencer avant la conception, idéalement 3 mois avant. Certaines femmes ont besoin d'une dose plus élevée : demander à un pharmacien, une sage-femme ou un médecin (NHS).",
     "L'OMS recommande 400 µg (0,4 mg) d'acide folique par jour avec 30 mg à 60 mg de fer élémentaire pendant la grossesse, à commencer le plus tôt possible, idéalement avant la conception, pour prévenir les anomalies du tube neural. La page ne donne pas de durée (OMS eLENA).",
-    "Dose oubliée : la prendre dès que l'on s'en souvient, puis la suivante à l'heure habituelle. Ne pas prendre deux doses pour compenser (NHS)."
+    "Dose oubliée : la prendre dès que l'on s'en souvient, puis la suivante à l'heure habituelle. Ne pas prendre deux doses pour compenser (NHS).",
+    "La directive d'Eswatini donne l'acide folique 5 mg par voie orale par jour pour toutes les femmes suivies en consultation prénatale, avec le sulfate ferreux 200 mg par jour et la vitamine C, pour prévenir l'anémie pendant la grossesse (STG d'Eswatini 2012)."
    ],
    "who_careful": [
     "Peut ne pas convenir en cas de réaction allergique passée, de carence en vitamine B12 ou d'anémie pernicieuse, de stent coronaire ou de cancer (NHS).",
@@ -630,7 +686,9 @@
    "open_points": [
     "Aucune fiche de maladie n'est liée pour l'instant, car l'encyclopédie n'a pas de fiche sur la carence en folates ni sur les anomalies du tube neural. C'est une lacune à combler dans la branche santé maternelle et néonatale.",
     "La dose plus élevée pour les femmes à risque accru n'est pas indiquée sur la page du NHS et n'est pas donnée ici.",
-    "Les pages du NHS décrivent des produits et des numéros d'urgence du Royaume-Uni. Les dosages, les marques et les recommandations locales en Sierra Leone doivent encore être vérifiés par le relecteur."
+    "Les pages du NHS décrivent des produits et des numéros d'urgence du Royaume-Uni. Les dosages, les marques et les recommandations locales en Sierra Leone doivent encore être vérifiés par le relecteur.",
+    "Les doses des deux sources diffèrent : l'OMS recommande 400 µg (0,4 mg) d'acide folique par jour pendant la grossesse pour prévenir les anomalies du tube neural, alors que la directive d'Eswatini donne 5 mg par jour pour prévenir l'anémie de la grossesse. Les objectifs peuvent être différents, mais ce n'est pas précisé. Le relecteur doit décider laquelle s'applique en Sierra Leone.",
+    "Cette directive vient d'Eswatini (alors Swaziland), 2012, et non de la Sierra Leone. C'est une directive nationale officielle, mais elle est ancienne et les doses et politiques en Sierra Leone peuvent différer. Le relecteur doit la comparer à la version actuelle des directives nationales de traitement de la Sierra Leone."
    ]
   }
  },
