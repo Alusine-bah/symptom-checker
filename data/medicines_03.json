@@ -1,0 +1,110 @@
+[
+ {
+  "slug": "cotrimoxazole",
+  "status": "draft",
+  "last_checked": "2026-11-01",
+  "diseases": [
+   "hiv"
+  ],
+  "sources": [
+   {
+    "title": "WHO (2006): Guidelines on co-trimoxazole prophylaxis for HIV-related infections among children, adolescents and adults: recommendations for a public health approach (ISBN 978 92 4 159470 7)",
+    "url": null
+   }
+  ],
+  "en": {
+   "name": "Cotrimoxazole (co-trimoxazole) for HIV prevention",
+   "what_it_is": [
+    "An antibiotic that combines sulfamethoxazole and trimethoprim, also called cotrimoxazole. This entry covers its use as daily preventive treatment (prophylaxis) for people living with HIV and children exposed to HIV, as set out in the WHO 2006 guideline."
+   ],
+   "used_for": [
+    "Preventing infections in people living with HIV. The guideline names PCP (a lung infection), toxoplasmosis, bacterial infections and malaria as targets, especially where bacterial infections and malaria are common.",
+    "Infants and children: all HIV-exposed infants from 4–6 weeks of age, continued until HIV infection is excluded. Children confirmed to have HIV: all under 1 year; ages 1–4 years if WHO clinical stage 2, 3 or 4, or CD4 below 25%; from age 5, follow the adult rules.",
+    "Adults and adolescents: everyone with WHO clinical stage 2, 3 or 4 disease; where CD4 counts are available, everyone with CD4 below 350 cells per mm³ (some countries use below 200), and stage 3 or 4 whatever the CD4 count. Some countries may offer it to everyone living with HIV."
+   ],
+   "how_used": [
+    "Children, once a day. Under 6 months: 100 mg sulfamethoxazole / 20 mg trimethoprim (2.5 ml of suspension, or one child tablet, or a quarter of a single-strength adult tablet). 6 months to 5 years: 200 mg / 40 mg (5 ml, two child tablets, or half a single-strength tablet). 6 to 14 years: 400 mg / 80 mg (10 ml, four child tablets, one single-strength tablet or half a double-strength tablet). Over 14 years: 800 mg / 160 mg (two single-strength tablets or one double-strength tablet). (WHO 2006, Table 3)",
+    "The suspension is 200 mg / 40 mg per 5 ml, the child tablet is 100 mg / 20 mg, the single-strength adult tablet is 400 mg / 80 mg and the double-strength tablet is 800 mg / 160 mg. Where weight bands are used instead of age: under 5 kg, 5–15 kg, 15–30 kg and over 30 kg for the four dose levels above. Children aged 6 months to 14 years may swallow crushed tablets. Splitting tablets into quarters is not best practice and should be done only if syrup is not available (WHO 2006).",
+    "Adults and adolescents: one double-strength tablet, or two single-strength tablets, once a day (total 960 mg: 800 mg sulfamethoxazole plus 160 mg trimethoprim). An option is one single-strength tablet twice a day (WHO 2006, section 7.4).",
+    "Prevention is usually long. Children living with HIV who start it stay on it until age 5, then are reassessed. For adults the general recommendation is to continue indefinitely; some countries may stop it once CD4 stays at or above 200 cells per mm³ for at least 6 months on antiretroviral treatment. HIV-exposed children stop once HIV infection is definitely excluded (WHO 2006).",
+    "Anyone who has had treated PCP should take it again as secondary prevention, at the same doses (WHO 2006).",
+    "Start cotrimoxazole first and begin antiretroviral treatment 2 weeks later if the person is stable and has no rash, because rash is the most common early side effect of both (WHO 2006)."
+   ],
+   "who_careful": [
+    "Do not give it to anyone who has had a severe (grade 4) reaction to cotrimoxazole or other sulfa drugs. Children and others with G6PD deficiency should not be given it either; routine G6PD testing is not recommended in resource-limited settings (WHO 2006).",
+    "The alternative named is dapsone: 2 mg/kg once daily for children and 100 mg a day for adults, if available. Dapsone is less effective than cotrimoxazole against PCP and does not cover as many germs. Dapsone can also cause haemolytic anaemia in G6PD deficiency (WHO 2006)."
+   ],
+   "other_medicines": [
+    "The guideline asks for attention to other medicines with overlapping toxicity, such as efavirenz, nevirapine and isoniazid. The effect of cotrimoxazole on antiretroviral toxicity is minimal in general; with zidovudine-containing regimens, extra blood toxicity is not significant except in advanced HIV disease (WHO 2006).",
+    "Malaria: people on cotrimoxazole prevention who get malaria should be treated, if possible, with an antimalarial that does not contain sulfadoxine/pyrimethamine. Pregnant women and children on cotrimoxazole do not need extra sulfadoxine/pyrimethamine preventive treatment (WHO 2006).",
+    "For a bacterial infection that appears while taking it, the guideline recommends using another antibiotic if available while continuing cotrimoxazole. For toxoplasmosis or PCP, the prevention is paused and full treatment is given, then prevention restarts (WHO 2006)."
+   ],
+   "side_effects": [
+    "The guideline says safety in long-term use is established. Side effects are uncommon and usually occur within the first few weeks. Skin reaction is the most common and is diagnosed by looking. Also watch for nausea, vomiting and jaundice (WHO 2006).",
+    "Severe reactions are uncommon but can include an extensive peeling rash, Stevens-Johnson syndrome, or severe anaemia or low blood counts. The medicine may need to be stopped. Everyone starting it, and their carers, should be told to stop it and go to the nearest health facility if they suspect a reaction (WHO 2006).",
+    "The guideline says no specific laboratory monitoring is required. Clinical check-ups should be done regularly, at least every 3 months. If available, a full blood count if anaemia is suspected and liver tests if liver problems are suspected (WHO 2006)."
+   ],
+   "pregnancy": [
+    "Pregnant women who meet the criteria should stay on cotrimoxazole throughout pregnancy, and if they need it during pregnancy it should be started at any stage. The guideline says the risk of life-threatening infection outweighs the theoretical risk of birth defects, and found no increase in cotrimoxazole-related side effects in pregnant women compared with non-pregnant women (WHO 2006).",
+    "Women who are breastfeeding should continue cotrimoxazole prevention (WHO 2006)."
+   ],
+   "urgent": [
+    "Stop it and get urgent help at the nearest health facility for any suspected reaction, especially a widespread or peeling rash, mouth or eye sores, jaundice, or marked paleness or tiredness (the severe reactions the guideline lists are extensive peeling rash, Stevens-Johnson syndrome, severe anaemia or low blood counts)."
+   ],
+   "open_points": [
+    "This entry is based only on the WHO 2006 guideline on cotrimoxazole prophylaxis. It is not about using cotrimoxazole to treat an infection such as a urinary tract infection, shigellosis or pneumonia. Those uses need a separate source and are not covered.",
+    "The guideline dates from 2006. WHO and national HIV guidance have changed since, including thresholds for starting and stopping. The current WHO guideline and the current Sierra Leone HIV treatment guideline have not been checked and must be compared before this is marked reviewed.",
+    "Only sections 6, 7 and 8 of the guideline (recommendations and doses) were read. The background chapter, the adverse-event grading annex and the evidence studies were not read, and no source was read for the common side-effect list beyond what the recommendations state.",
+    "The urgent-help examples (mouth or eye sores, marked paleness) are a plain-words reading of the severe reactions the guideline names and should be confirmed by the reviewer.",
+    "The guideline copyright is WHO 2006, all rights reserved, so the text is summarised in our own words and the dose tables are restated as facts with the source named."
+   ]
+  },
+  "fr": {
+   "name": "Cotrimoxazole pour la prévention liée au VIH",
+   "what_it_is": [
+    "Un antibiotique qui associe le sulfaméthoxazole et le triméthoprime, aussi appelé cotrimoxazole. Cette fiche porte sur son usage en traitement préventif quotidien (prophylaxie) chez les personnes vivant avec le VIH et les enfants exposés au VIH, tel que décrit dans la directive de l'OMS de 2006."
+   ],
+   "used_for": [
+    "Prévenir les infections chez les personnes vivant avec le VIH. La directive cite la pneumocystose (PCP, une infection pulmonaire), la toxoplasmose, les infections bactériennes et le paludisme, surtout là où les infections bactériennes et le paludisme sont fréquents.",
+    "Nourrissons et enfants : tous les nourrissons exposés au VIH dès 4 à 6 semaines, jusqu'à ce que l'infection par le VIH soit exclue. Enfants dont le VIH est confirmé : tous ceux de moins d'1 an ; de 1 à 4 ans si stade clinique 2, 3 ou 4 de l'OMS, ou CD4 inférieurs à 25 % ; à partir de 5 ans, suivre les règles de l'adulte.",
+    "Adultes et adolescents : toute personne au stade clinique 2, 3 ou 4 de l'OMS ; lorsque le comptage des CD4 est disponible, toute personne dont les CD4 sont inférieurs à 350 cellules par mm³ (certains pays utilisent moins de 200), et les stades 3 ou 4 quel que soit le taux de CD4. Certains pays peuvent l'offrir à toute personne vivant avec le VIH."
+   ],
+   "how_used": [
+    "Enfants, une fois par jour. Moins de 6 mois : 100 mg de sulfaméthoxazole / 20 mg de triméthoprime (2,5 ml de suspension, ou un comprimé pour enfant, ou un quart de comprimé adulte simple dosage). 6 mois à 5 ans : 200 mg / 40 mg (5 ml, deux comprimés pour enfant, ou un demi-comprimé simple dosage). 6 à 14 ans : 400 mg / 80 mg (10 ml, quatre comprimés pour enfant, un comprimé simple dosage ou un demi-comprimé double dosage). Plus de 14 ans : 800 mg / 160 mg (deux comprimés simple dosage ou un comprimé double dosage). (OMS 2006, tableau 3)",
+    "La suspension contient 200 mg / 40 mg par 5 ml, le comprimé pour enfant 100 mg / 20 mg, le comprimé adulte simple dosage 400 mg / 80 mg et le comprimé double dosage 800 mg / 160 mg. Lorsque l'on utilise le poids plutôt que l'âge : moins de 5 kg, 5 à 15 kg, 15 à 30 kg et plus de 30 kg pour les quatre niveaux de dose ci-dessus. Les enfants de 6 mois à 14 ans peuvent avaler des comprimés écrasés. Couper les comprimés en quarts n'est pas une bonne pratique et ne doit se faire que si le sirop n'est pas disponible (OMS 2006).",
+    "Adultes et adolescents : un comprimé double dosage, ou deux comprimés simple dosage, une fois par jour (total 960 mg : 800 mg de sulfaméthoxazole plus 160 mg de triméthoprime). Une option est un comprimé simple dosage deux fois par jour (OMS 2006, section 7.4).",
+    "La prévention est généralement longue. Les enfants vivant avec le VIH qui la commencent la poursuivent jusqu'à 5 ans, puis sont réévalués. Pour les adultes, la recommandation générale est de la poursuivre indéfiniment ; certains pays peuvent l'arrêter lorsque les CD4 restent à 200 cellules par mm³ ou plus pendant au moins 6 mois sous traitement antirétroviral. Les enfants exposés au VIH l'arrêtent lorsque l'infection par le VIH est définitivement exclue (OMS 2006).",
+    "Toute personne ayant eu une PCP traitée doit le reprendre en prévention secondaire, aux mêmes doses (OMS 2006).",
+    "Commencer d'abord le cotrimoxazole et débuter le traitement antirétroviral 2 semaines plus tard si la personne est stable et sans éruption, car l'éruption est l'effet indésirable précoce le plus fréquent des deux (OMS 2006)."
+   ],
+   "who_careful": [
+    "Ne pas le donner à toute personne ayant eu une réaction sévère (grade 4) au cotrimoxazole ou à d'autres sulfamides. Les enfants et autres personnes ayant un déficit en G6PD ne doivent pas non plus en recevoir ; le dépistage systématique du déficit en G6PD n'est pas recommandé dans les contextes à ressources limitées (OMS 2006).",
+    "L'alternative citée est la dapsone : 2 mg/kg une fois par jour chez l'enfant et 100 mg par jour chez l'adulte, si disponible. La dapsone est moins efficace que le cotrimoxazole contre la PCP et couvre moins de germes. La dapsone peut aussi provoquer une anémie hémolytique en cas de déficit en G6PD (OMS 2006)."
+   ],
+   "other_medicines": [
+    "La directive demande de prêter attention aux autres médicaments à toxicité cumulative, comme l'éfavirenz, la névirapine et l'isoniazide. L'effet du cotrimoxazole sur la toxicité des antirétroviraux est en général minime ; avec les schémas contenant de la zidovudine, la toxicité sanguine supplémentaire n'est pas significative sauf en cas de VIH avancé (OMS 2006).",
+    "Paludisme : les personnes sous prévention par cotrimoxazole qui font un paludisme doivent être traitées, si possible, avec un antipaludique ne contenant pas de sulfadoxine/pyriméthamine. Les femmes enceintes et les enfants sous cotrimoxazole n'ont pas besoin du traitement préventif supplémentaire par sulfadoxine/pyriméthamine (OMS 2006).",
+    "Pour une infection bactérienne survenant sous traitement, la directive recommande un autre antibiotique si disponible tout en poursuivant le cotrimoxazole. Pour la toxoplasmose ou la PCP, la prévention est suspendue et un traitement complet est donné, puis la prévention reprend (OMS 2006)."
+   ],
+   "side_effects": [
+    "La directive indique que la sécurité en usage prolongé est établie. Les effets indésirables sont peu fréquents et surviennent en général dans les premières semaines. La réaction cutanée est la plus fréquente et se diagnostique cliniquement. Surveiller aussi les nausées, les vomissements et la jaunisse (OMS 2006).",
+    "Les réactions sévères sont peu fréquentes mais peuvent comprendre une éruption étendue avec desquamation, un syndrome de Stevens-Johnson, ou une anémie sévère ou une baisse des cellules du sang. Le médicament peut devoir être arrêté. Toute personne qui le commence, et ses proches, doivent être informés d'arrêter et d'aller au centre de santé le plus proche en cas de suspicion de réaction (OMS 2006).",
+    "La directive indique qu'aucune surveillance biologique spécifique n'est nécessaire. Un suivi clinique doit être fait régulièrement, au moins tous les 3 mois. Si disponible, une numération sanguine en cas de suspicion d'anémie et un bilan du foie en cas de suspicion de problème hépatique (OMS 2006)."
+   ],
+   "pregnancy": [
+    "Les femmes enceintes qui remplissent les critères doivent rester sous cotrimoxazole pendant toute la grossesse, et si elles en ont besoin pendant la grossesse il doit être commencé à n'importe quel stade. La directive indique que le risque d'infection mortelle l'emporte sur le risque théorique de malformations, et n'a pas trouvé d'augmentation des effets indésirables liés au cotrimoxazole chez les femmes enceintes par rapport aux non enceintes (OMS 2006).",
+    "Les femmes qui allaitent doivent poursuivre la prévention par cotrimoxazole (OMS 2006)."
+   ],
+   "urgent": [
+    "L'arrêter et chercher une aide urgente au centre de santé le plus proche en cas de suspicion de réaction, surtout éruption étendue ou qui pèle, plaies de la bouche ou des yeux, jaunisse, ou pâleur ou fatigue marquée (les réactions sévères citées par la directive sont l'éruption étendue avec desquamation, le syndrome de Stevens-Johnson, l'anémie sévère ou la baisse des cellules du sang)."
+   ],
+   "open_points": [
+    "Cette fiche repose uniquement sur la directive de l'OMS de 2006 sur la prophylaxie par cotrimoxazole. Elle ne concerne pas l'utilisation du cotrimoxazole pour traiter une infection comme une infection urinaire, une shigellose ou une pneumonie. Ces usages demandent une source distincte et ne sont pas couverts.",
+    "La directive date de 2006. Les recommandations de l'OMS et nationales sur le VIH ont évolué depuis, y compris les seuils de début et d'arrêt. La directive actuelle de l'OMS et la directive nationale actuelle de la Sierra Leone sur le traitement du VIH n'ont pas été vérifiées et doivent être comparées avant de marquer cette fiche comme relue.",
+    "Seules les sections 6, 7 et 8 de la directive (recommandations et doses) ont été lues. Le chapitre de contexte, l'annexe de gradation des effets indésirables et les études n'ont pas été lus, et aucune source n'a été lue pour la liste des effets indésirables courants au-delà de ce que disent les recommandations.",
+    "Les exemples d'aide urgente (plaies de la bouche ou des yeux, pâleur marquée) sont une lecture en termes simples des réactions sévères citées par la directive et doivent être confirmés par le relecteur.",
+    "Le droit d'auteur de la directive est OMS 2006, tous droits réservés ; le texte est donc résumé avec nos propres mots et les tableaux de doses sont repris comme des faits avec la source citée."
+   ]
+  }
+ }
+]
