@@ -10,6 +10,14 @@
    {
     "title": "WHO (2006): Guidelines on co-trimoxazole prophylaxis for HIV-related infections among children, adolescents and adults: recommendations for a public health approach (ISBN 978 92 4 159470 7)",
     "url": null
+   },
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Standard Treatment Guidelines 2021 (3rd edition). Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://mohs.gov.sl/download/71/pharmaceutical-service/18081/standard-treatment-guidelines_sierra-leone-2021-edition.pdf"
+   },
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Essential Medicines List, 2021 edition. Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://chasl.sl/wp-content/uploads/2026/05/National-Essential-Medicines-List_Sierra_Leone-2021-Edition-1.pdf"
    }
   ],
   "en": {
@@ -56,7 +64,8 @@
     "The guideline dates from 2006. WHO and national HIV guidance have changed since, including thresholds for starting and stopping. The current WHO guideline and the current Sierra Leone HIV treatment guideline have not been checked and must be compared before this is marked reviewed.",
     "Only sections 6, 7 and 8 of the guideline (recommendations and doses) were read. The background chapter, the adverse-event grading annex and the evidence studies were not read, and no source was read for the common side-effect list beyond what the recommendations state.",
     "The urgent-help examples (mouth or eye sores, marked paleness) are a plain-words reading of the severe reactions the guideline names and should be confirmed by the reviewer.",
-    "The guideline copyright is WHO 2006, all rights reserved, so the text is summarised in our own words and the dose tables are restated as facts with the source named."
+    "The guideline copyright is WHO 2006, all rights reserved, so the text is summarised in our own words and the dose tables are restated as facts with the source named.",
+    "The Sierra Leone Standard Treatment Guidelines 2021 list co-trimoxazole for some infections (for example urinary infection) but the HIV section read does not give a cotrimoxazole prevention schedule. The Essential Medicines List 2021 text did not show co-trimoxazole when searched. The reviewer should check the national HIV guideline."
    ]
   },
   "fr": {
@@ -103,7 +112,8 @@
     "La directive date de 2006. Les recommandations de l'OMS et nationales sur le VIH ont évolué depuis, y compris les seuils de début et d'arrêt. La directive actuelle de l'OMS et la directive nationale actuelle de la Sierra Leone sur le traitement du VIH n'ont pas été vérifiées et doivent être comparées avant de marquer cette fiche comme relue.",
     "Seules les sections 6, 7 et 8 de la directive (recommandations et doses) ont été lues. Le chapitre de contexte, l'annexe de gradation des effets indésirables et les études n'ont pas été lus, et aucune source n'a été lue pour la liste des effets indésirables courants au-delà de ce que disent les recommandations.",
     "Les exemples d'aide urgente (plaies de la bouche ou des yeux, pâleur marquée) sont une lecture en termes simples des réactions sévères citées par la directive et doivent être confirmés par le relecteur.",
-    "Le droit d'auteur de la directive est OMS 2006, tous droits réservés ; le texte est donc résumé avec nos propres mots et les tableaux de doses sont repris comme des faits avec la source citée."
+    "Le droit d'auteur de la directive est OMS 2006, tous droits réservés ; le texte est donc résumé avec nos propres mots et les tableaux de doses sont repris comme des faits avec la source citée.",
+    "Les directives nationales de traitement de la Sierra Leone 2021 listent le cotrimoxazole pour certaines infections (par exemple l'infection urinaire) mais la section VIH lue ne donne pas de schéma de prévention par le cotrimoxazole. Le texte de la Liste des médicaments essentiels 2021 n'a pas montré le cotrimoxazole lors de la recherche. Le relecteur doit consulter la directive nationale sur le VIH."
    ]
   }
  }

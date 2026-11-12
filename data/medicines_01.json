@@ -23,7 +23,8 @@
     "Adults, 500 mg tablets or capsules: 1 or 2 per dose, at least 4 hours apart, no more than 8 in 24 hours (NHS).",
     "Adults, 1 g tablets: one at a time, at least 4 hours apart, no more than 4 in 24 hours (NHS).",
     "Do not take it for more than 3 days unless a doctor tells you to (NHS).",
-    "Children: the dose depends on weight and the product, and is not given here. Follow the label or ask a health worker."
+    "Sierra Leone Standard Treatment Guidelines 2021, mild pain: adults 1 g every 8 hours (500 mg in the elderly); children 10 to 15 mg for each kg of body weight every 6 hours.",
+    "Sierra Leone Essential Medicines List 2021: tablets of 100 mg, 250 mg and 500 mg are listed at all five levels of use shown in the list (T, S, CHC, CHP and MCHP)."
    ],
    "who_careful": [
     "The NHS says paracetamol is not suitable if you have had an allergic reaction to it, have a kidney or liver condition, or depend on alcohol or binge drink."
@@ -46,7 +47,9 @@
    "open_points": [
     "Doses for children are not included.",
     "The NHS pages describe UK products. Tablet strengths and limits in Sierra Leone still need checking by the reviewer.",
-    "A second source, for example the WHO Essential Medicines List entry, has not been added yet."
+    "A second source, for example the WHO Essential Medicines List entry, has not been added yet.",
+    "The NHS allows 1 g up to 4 times in 24 hours, while the Sierra Leone guideline gives 1 g every 8 hours for pain. The reviewer should decide which to show for Sierra Leone.",
+    "The Sierra Leone Standard Treatment Guidelines are the national guideline and should be given first place when they differ from other sources. The reviewer should confirm the figures against the printed 2021 edition."
    ]
   },
   "fr": {
@@ -62,7 +65,8 @@
     "Adultes, comprimés ou gélules de 500 mg : 1 ou 2 par prise, espacées d'au moins 4 heures, pas plus de 8 en 24 heures (NHS).",
     "Adultes, comprimés de 1 g : un seul à la fois, espacés d'au moins 4 heures, pas plus de 4 en 24 heures (NHS).",
     "Ne pas en prendre plus de 3 jours sauf avis d'un médecin (NHS).",
-    "Enfants : la dose dépend du poids et du produit, et n'est pas donnée ici. Suivre la notice ou demander à un professionnel de santé."
+    "Directives nationales de traitement de la Sierra Leone 2021, douleur légère : adultes 1 g toutes les 8 heures (500 mg chez les personnes âgées) ; enfants 10 à 15 mg par kg de poids corporel toutes les 6 heures.",
+    "Liste nationale des médicaments essentiels de la Sierra Leone 2021 : comprimés de 100 mg, 250 mg et 500 mg listés aux cinq niveaux d'utilisation indiqués dans la liste (T, S, CHC, CHP et MCHP)."
    ],
    "who_careful": [
     "Le NHS indique que le paracétamol ne convient pas si vous avez déjà eu une réaction allergique à ce médicament, si vous avez une maladie des reins ou du foie, ou si vous êtes dépendant de l'alcool ou buvez beaucoup en une seule occasion."
@@ -85,7 +89,9 @@
    "open_points": [
     "Les doses pour les enfants ne sont pas incluses.",
     "Les pages du NHS décrivent des produits du Royaume-Uni. Les dosages des comprimés et les limites en Sierra Leone doivent encore être vérifiés par le relecteur.",
-    "Une deuxième source, par exemple la fiche de la Liste modèle OMS des médicaments essentiels, n'a pas encore été ajoutée."
+    "Une deuxième source, par exemple la fiche de la Liste modèle OMS des médicaments essentiels, n'a pas encore été ajoutée.",
+    "Le NHS autorise 1 g jusqu'à 4 fois en 24 heures, alors que la directive de la Sierra Leone donne 1 g toutes les 8 heures pour la douleur. Le relecteur doit décider lequel afficher pour la Sierra Leone.",
+    "Les directives nationales de traitement de la Sierra Leone sont la référence nationale et doivent primer lorsqu'elles diffèrent des autres sources. Le relecteur doit confirmer les chiffres avec l'édition imprimée de 2021."
    ]
   },
   "sources": [
@@ -96,6 +102,14 @@
    {
     "title": "NHS: How and when to take paracetamol for adults",
     "url": "https://www.nhs.uk/medicines/paracetamol-for-adults/how-and-when-to-take-paracetamol-for-adults/"
+   },
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Standard Treatment Guidelines 2021 (3rd edition). Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://mohs.gov.sl/download/71/pharmaceutical-service/18081/standard-treatment-guidelines_sierra-leone-2021-edition.pdf"
+   },
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Essential Medicines List, 2021 edition. Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://chasl.sl/wp-content/uploads/2026/05/National-Essential-Medicines-List_Sierra_Leone-2021-Edition-1.pdf"
    }
   ]
  },
@@ -123,7 +137,10 @@
     "Keep breastfeeding and keep feeding. Salted drinks and soups can be used, but plain water, unsalted soups and sugary drinks (sweetened tea, fruit juice, fizzy drinks) are not suitable replacements for ORS.",
     "Mixing: follow the packet instructions. One older training guideline says each packet is mixed in 1 litre of water.",
     "Some dehydration, under a health worker, first 4 hours: approximate ORS amount by age (weight). Under 4 months (under 5 kg): 200 to 400 ml. 4 to 11 months (5 to 7.9 kg): 400 to 600 ml. 12 to 23 months (8 to 10.9 kg): 600 to 800 ml. 2 to 4 years (11 to 15.9 kg): 800 ml to 1.2 litres. 5 to 14 years (16 to 29.9 kg): 1.2 to 2 litres. 15 years and over (30 kg or more): 2.2 to 4 litres. Use age only when the weight is not known; the amount can also be worked out as weight in kg times 75 ml. Reassess after 4 hours.",
-    "Zinc: one 20 mg zinc sulfate tablet a day for 10 days (WHO rehydration plan). A 2005 training guideline gives half a tablet (10 mg) a day under 6 months and one tablet from 6 months, for 10 to 14 days, and a 2011 WHO page gives the same age split. The sources differ on the duration and on the dose under 6 months."
+    "Zinc: one 20 mg zinc sulfate tablet a day for 10 days (WHO rehydration plan). A 2005 training guideline gives half a tablet (10 mg) a day under 6 months and one tablet from 6 months, for 10 to 14 days, and a 2011 WHO page gives the same age split. The sources differ on the duration and on the dose under 6 months.",
+    "Sierra Leone Standard Treatment Guidelines 2021, diarrhoea in children with no dehydration: ORS after each loose stool, 50 to 100 ml under 24 months and 100 to 200 ml from 2 to 5 years. Some dehydration: ORS in the first 4 hours by weight or age, 200 to 400 ml under 4 months (under 6 kg), 400 to 700 ml from 4 to under 12 months, 700 to 900 ml from 12 months to under 2 years, and 900 to 1,400 ml from 2 to under 5 years.",
+    "Sierra Leone Standard Treatment Guidelines 2021, zinc sulphate for 14 days: 10 mg a day under 6 months (dissolved in water or expressed milk) and 20 mg a day over 6 months (chewed or dissolved in a drink). The same zinc doses are given for a child with cholera.",
+    "Sierra Leone Essential Medicines List 2021: oral rehydration salts powder and zinc sulphate 20 mg dispersible tablets are listed at all five levels of use shown in the list (T, S, CHC, CHP and MCHP)."
    ],
    "who_careful": [
     "High zinc intakes may compete with iron and calcium for absorption (WHO, 2011).",
@@ -138,7 +155,9 @@
     "The WHO rehydration plan was supplied as a PDF with no publisher or year shown. The training guideline is from 2005 and marked not yet field-tested. The zinc page (2011) is a rationale document, not a current guideline.",
     "The amount of salts in a packet and the volume of water are not given in the sources read. Follow the packet.",
     "Treatment of severe dehydration is not covered.",
-    "Side effects of ORS and zinc are not described in the sources read."
+    "Side effects of ORS and zinc are not described in the sources read.",
+    "The Sierra Leone guideline gives zinc for 14 days, while the WHO rehydration plan used above gives 10 days. The reviewer should decide which duration to show for Sierra Leone.",
+    "The Sierra Leone Standard Treatment Guidelines are the national guideline and should be given first place when they differ from other sources. The reviewer should confirm the figures against the printed 2021 edition."
    ]
   },
   "fr": {
@@ -156,7 +175,10 @@
     "Continuer l'allaitement et l'alimentation. Les boissons et soupes salées peuvent être utilisées, mais l'eau simple, les soupes non salées et les boissons sucrées (thé sucré, jus de fruits, boissons gazeuses) ne remplacent pas les SRO.",
     "Préparation : suivre les instructions du sachet. Un ancien guide de formation indique que chaque sachet se prépare dans 1 litre d'eau.",
     "Déshydratation modérée, sous la conduite d'un professionnel de santé, 4 premières heures : quantité approximative de SRO selon l'âge (le poids). Moins de 4 mois (moins de 5 kg) : 200 à 400 ml. 4 à 11 mois (5 à 7,9 kg) : 400 à 600 ml. 12 à 23 mois (8 à 10,9 kg) : 600 à 800 ml. 2 à 4 ans (11 à 15,9 kg) : 800 ml à 1,2 litre. 5 à 14 ans (16 à 29,9 kg) : 1,2 à 2 litres. 15 ans et plus (30 kg ou plus) : 2,2 à 4 litres. N'utiliser l'âge que si le poids n'est pas connu ; la quantité peut aussi se calculer en multipliant le poids en kg par 75 ml. Réévaluer après 4 heures.",
-    "Zinc : un comprimé de 20 mg de sulfate de zinc par jour pendant 10 jours (plan de réhydratation de l'OMS). Un guide de formation de 2005 indique un demi-comprimé (10 mg) par jour avant 6 mois et un comprimé à partir de 6 mois, pendant 10 à 14 jours, et une page de l'OMS de 2011 donne la même répartition par âge. Les sources diffèrent sur la durée et sur la dose avant 6 mois."
+    "Zinc : un comprimé de 20 mg de sulfate de zinc par jour pendant 10 jours (plan de réhydratation de l'OMS). Un guide de formation de 2005 indique un demi-comprimé (10 mg) par jour avant 6 mois et un comprimé à partir de 6 mois, pendant 10 à 14 jours, et une page de l'OMS de 2011 donne la même répartition par âge. Les sources diffèrent sur la durée et sur la dose avant 6 mois.",
+    "Directives nationales de traitement de la Sierra Leone 2021, diarrhée de l'enfant sans déshydratation : SRO après chaque selle liquide, 50 à 100 ml avant 24 mois et 100 à 200 ml de 2 à 5 ans. Déshydratation modérée : SRO pendant les 4 premières heures selon le poids ou l'âge, 200 à 400 ml avant 4 mois (moins de 6 kg), 400 à 700 ml de 4 à moins de 12 mois, 700 à 900 ml de 12 mois à moins de 2 ans et 900 à 1 400 ml de 2 à moins de 5 ans.",
+    "Directives nationales de traitement de la Sierra Leone 2021, sulfate de zinc pendant 14 jours : 10 mg par jour avant 6 mois (dissous dans l'eau ou du lait maternel exprimé) et 20 mg par jour après 6 mois (à croquer ou dissous dans une boisson). Les mêmes doses de zinc sont données à un enfant atteint de choléra.",
+    "Liste nationale des médicaments essentiels de la Sierra Leone 2021 : poudre de sels de réhydratation orale et comprimés dispersibles de sulfate de zinc 20 mg listés aux cinq niveaux d'utilisation indiqués dans la liste (T, S, CHC, CHP et MCHP)."
    ],
    "who_careful": [
     "Des apports élevés en zinc peuvent entrer en concurrence avec l'absorption du fer et du calcium (OMS, 2011).",
@@ -171,7 +193,9 @@
     "Le plan de réhydratation de l'OMS a été fourni en PDF sans éditeur ni année. Le guide de formation date de 2005 et est indiqué comme non testé sur le terrain. La page sur le zinc (2011) est un document de justification, pas une recommandation actuelle.",
     "La quantité de sels d'un sachet et le volume d'eau ne sont pas donnés dans les sources lues. Suivre le sachet.",
     "Le traitement de la déshydratation sévère n'est pas couvert.",
-    "Les effets indésirables des SRO et du zinc ne sont pas décrits dans les sources lues."
+    "Les effets indésirables des SRO et du zinc ne sont pas décrits dans les sources lues.",
+    "La directive de la Sierra Leone donne le zinc pendant 14 jours, alors que le plan de réhydratation de l'OMS utilisé plus haut donne 10 jours. Le relecteur doit décider quelle durée afficher pour la Sierra Leone.",
+    "Les directives nationales de traitement de la Sierra Leone sont la référence nationale et doivent primer lorsqu'elles diffèrent des autres sources. Le relecteur doit confirmer les chiffres avec l'édition imprimée de 2021."
    ]
   },
   "sources": [
@@ -190,6 +214,14 @@
    {
     "title": "Appendix 14. Plan rehydration WHO (PDF supplied by the reviewer; publisher and year to be confirmed)",
     "url": null
+   },
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Standard Treatment Guidelines 2021 (3rd edition). Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://mohs.gov.sl/download/71/pharmaceutical-service/18081/standard-treatment-guidelines_sierra-leone-2021-edition.pdf"
+   },
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Essential Medicines List, 2021 edition. Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://chasl.sl/wp-content/uploads/2026/05/National-Essential-Medicines-List_Sierra_Leone-2021-Edition-1.pdf"
    }
   ]
  },
@@ -216,7 +248,9 @@
     "Tablets per dose by weight, 20/120 mg tablets (Sierra Leone guideline, 2015): under 14 kg, 1 tablet; 15 to 24 kg, 2; 25 to 34 kg, 3; over 35 kg, 4. These weight bands contradict each other in the guideline and must be checked against its printed table.",
     "Take it with food or a fat-containing drink such as milk, especially on days 2 and 3 (Sierra Leone guideline, CDC, US label).",
     "Tablets may be crushed and mixed with 1 to 2 teaspoons of water for people who cannot swallow them (US label).",
-    "CDC recommends a 5-day, 10-dose course for patients treated in the United States. That does not apply to the Sierra Leone guideline."
+    "CDC recommends a 5-day, 10-dose course for patients treated in the United States. That does not apply to the Sierra Leone guideline.",
+    "Sierra Leone Standard Treatment Guidelines 2021 (first line, 3 days, twice daily), 20/120 mg tablets: 5 kg to under 15 kg, 1 tablet; 15 kg to under 25 kg, 2 tablets; 25 kg to under 35 kg, 3 tablets; 35 kg and over, 4 tablets. The guideline also lists 40/240 mg and 80/480 mg tablets for the heavier weight bands. The second-line choice is artesunate plus amodiaquine for 3 days.",
+    "Sierra Leone Essential Medicines List 2021: tablets of 20 mg and 120 mg are listed at all five levels of use shown in the list (T, S, CHC, CHP and MCHP)."
    ],
    "who_careful": [
     "Do not take it if allergic to artemether, lumefantrine or an ingredient, or if taking strong CYP3A4 inducers such as rifampin, carbamazepine, phenytoin or St John's wort (US label).",
@@ -234,7 +268,8 @@
    "pregnancy": [
     "First trimester: Sierra Leone's 2015 guideline uses oral quinine plus clindamycin for 7 days, and an ACT only if that is not possible. WHO's 2021 guideline gives the same advice. From the second trimester it uses artemether-lumefantrine or artesunate-amodiaquine.",
     "The US label says data have not established a link with major birth defects, and that malaria in pregnancy is itself risky. CDC lists pregnancy among the situations with a higher risk of treatment failure.",
-    "There are no data on breast milk (US label)."
+    "There are no data on breast milk (US label).",
+    "Sierra Leone Standard Treatment Guidelines 2021, uncomplicated malaria in pregnancy: first trimester, oral quinine plus oral clindamycin for 7 days; second and third trimesters, AL or artesunate plus amodiaquine as above. For complicated malaria in pregnancy the first choice is artesunate, then artemether only where artesunate is unavailable, then quinine."
    ],
    "urgent": [
     "Seek care for fever that returns, or for signs of an allergic reaction such as swelling or a serious skin reaction (CDC, US label)."
@@ -243,7 +278,9 @@
     "The weight bands in the 2015 guideline conflict: one section says under 14 kg and another 5 to 14 kg, and 14 to 15 kg and 34 to 35 kg are not assigned.",
     "A newer national guideline than 2015 may exist. The 2021 to 2025 national malaria plan lists revising and reprinting the treatment guidelines.",
     "It has not been checked whether WHO changed its first-trimester advice after 2021.",
-    "Only the first 100,000 characters of the 2015 guideline and of the long US label page were read."
+    "Only the first 100,000 characters of the 2015 guideline and of the long US label page were read.",
+    "The 2021 Sierra Leone guideline replaces the 2015 one named above. Its weight bands (5 to under 15 kg, 15 to under 25 kg, 25 to under 35 kg, 35 kg and over) differ slightly from the 2015 ones, so the 2021 bands should be used.",
+    "The Sierra Leone Standard Treatment Guidelines are the national guideline and should be given first place when they differ from other sources. The reviewer should confirm the figures against the printed 2021 edition."
    ]
   },
   "fr": {
@@ -262,7 +299,9 @@
     "Comprimés par prise selon le poids, comprimés de 20/120 mg (guide de la Sierra Leone, 2015) : moins de 14 kg, 1 comprimé ; 15 à 24 kg, 2 ; 25 à 34 kg, 3 ; plus de 35 kg, 4. Ces tranches de poids se contredisent dans le guide et doivent être vérifiées dans son tableau imprimé.",
     "À prendre avec de la nourriture ou une boisson contenant des graisses, comme du lait, surtout les jours 2 et 3 (guide de la Sierra Leone, CDC, notice américaine).",
     "Les comprimés peuvent être écrasés et mélangés à 1 à 2 cuillères à café d'eau pour les personnes qui ne peuvent pas les avaler (notice américaine).",
-    "Le CDC recommande une cure de 5 jours, soit 10 prises, pour les patients traités aux États-Unis. Cela ne s'applique pas au guide de la Sierra Leone."
+    "Le CDC recommande une cure de 5 jours, soit 10 prises, pour les patients traités aux États-Unis. Cela ne s'applique pas au guide de la Sierra Leone.",
+    "Directives nationales de traitement de la Sierra Leone 2021 (première intention, 3 jours, deux fois par jour), comprimés de 20/120 mg : 5 kg à moins de 15 kg, 1 comprimé ; 15 kg à moins de 25 kg, 2 comprimés ; 25 kg à moins de 35 kg, 3 comprimés ; 35 kg et plus, 4 comprimés. La directive liste aussi des comprimés de 40/240 mg et 80/480 mg pour les tranches de poids plus élevées. Le choix de deuxième intention est l'artésunate plus l'amodiaquine pendant 3 jours.",
+    "Liste nationale des médicaments essentiels de la Sierra Leone 2021 : comprimés de 20 mg et 120 mg listés aux cinq niveaux d'utilisation indiqués dans la liste (T, S, CHC, CHP et MCHP)."
    ],
    "who_careful": [
     "Ne pas le prendre en cas d'allergie à l'artéméther, à la luméfantrine ou à un excipient, ni avec de puissants inducteurs du CYP3A4 comme la rifampicine, la carbamazépine, la phénytoïne ou le millepertuis (notice américaine).",
@@ -280,7 +319,8 @@
    "pregnancy": [
     "Premier trimestre : le guide de la Sierra Leone de 2015 utilise la quinine orale associée à la clindamycine pendant 7 jours, et une CTA seulement si ce n'est pas possible. Le guide de l'OMS de 2021 donne le même conseil. À partir du deuxième trimestre, il utilise l'artéméther-luméfantrine ou l'artésunate-amodiaquine.",
     "La notice américaine indique que les données n'ont pas établi de lien avec des malformations majeures, et que le paludisme pendant la grossesse est en lui-même risqué. Le CDC range la grossesse parmi les situations à risque plus élevé d'échec du traitement.",
-    "Il n'existe pas de données sur le passage dans le lait maternel (notice américaine)."
+    "Il n'existe pas de données sur le passage dans le lait maternel (notice américaine).",
+    "Directives nationales de traitement de la Sierra Leone 2021, paludisme simple pendant la grossesse : premier trimestre, quinine orale plus clindamycine orale pendant 7 jours ; deuxième et troisième trimestres, AL ou artésunate plus amodiaquine comme ci-dessus. Pour le paludisme grave pendant la grossesse, le premier choix est l'artésunate, puis l'artéméther seulement si l'artésunate n'est pas disponible, puis la quinine."
    ],
    "urgent": [
     "Consulter en cas de fièvre qui revient, ou de signes de réaction allergique comme un gonflement ou une réaction cutanée grave (CDC, notice américaine)."
@@ -289,7 +329,9 @@
     "Les tranches de poids du guide de 2015 se contredisent : une section indique moins de 14 kg et une autre 5 à 14 kg, et les tranches 14 à 15 kg et 34 à 35 kg ne sont pas attribuées.",
     "Un guide national plus récent que 2015 existe peut-être. Le plan national de lutte contre le paludisme 2021-2025 prévoit de réviser et de réimprimer les guides de traitement.",
     "Il n'a pas été vérifié si l'OMS a modifié son conseil pour le premier trimestre après 2021.",
-    "Seuls les 100 000 premiers caractères du guide de 2015 et de la longue page de la notice américaine ont été lus."
+    "Seuls les 100 000 premiers caractères du guide de 2015 et de la longue page de la notice américaine ont été lus.",
+    "La directive de la Sierra Leone de 2021 remplace celle de 2015 citée plus haut. Ses tranches de poids (5 à moins de 15 kg, 15 à moins de 25 kg, 25 à moins de 35 kg, 35 kg et plus) diffèrent légèrement de celles de 2015, donc les tranches de 2021 doivent être utilisées.",
+    "Les directives nationales de traitement de la Sierra Leone sont la référence nationale et doivent primer lorsqu'elles diffèrent des autres sources. Le relecteur doit confirmer les chiffres avec l'édition imprimée de 2021."
    ]
   },
   "sources": [
@@ -316,6 +358,14 @@
    {
     "title": "Sierra Leone National Malaria Elimination Strategic Plan 2021-2025",
     "url": "https://extranet.who.int/cpcd/sites/default/files/public_file_repository/SLE_Siera-Leone_National-Strategic-Plan-Malaria_2021-2025.pdf"
+   },
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Standard Treatment Guidelines 2021 (3rd edition). Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://mohs.gov.sl/download/71/pharmaceutical-service/18081/standard-treatment-guidelines_sierra-leone-2021-edition.pdf"
+   },
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Essential Medicines List, 2021 edition. Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://chasl.sl/wp-content/uploads/2026/05/National-Essential-Medicines-List_Sierra_Leone-2021-Edition-1.pdf"
    }
   ]
  }

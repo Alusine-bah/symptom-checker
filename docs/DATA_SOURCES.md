@@ -56,3 +56,8 @@ Fill this in after each run of `verify_sources.py`:
 ## Medicines guide
 
 Medicine entries live in `data/medicines_*.json` and are validated by `backend/medicines.py`. Each entry is written in our own words from named public sources (WHO, national guidelines, CDC, FDA labels), with a source beside every dose figure. Every entry carries a status: **draft** (published, not yet clinically reviewed) or **reviewed** (needs a reviewer name and date). Entries are educational and are not prescriptions. Gaps and unconfirmed points are listed in each entry under "open points".
+
+### Sierra Leone national sources (added November 2026)
+
+- Republic of Sierra Leone, Ministry of Health and Sanitation (2021): *Revised Standard Treatment Guidelines 2021* (3rd edition) and *Revised Essential Medicines List, 2021 edition*. Both state that any part may be freely quoted, reproduced or translated in full or in part, provided the source is acknowledged, and that the material must not be sold or used for commercial purposes for profit. They are cited on each medicine entry where used. The national guideline is placed first where it differs from other sources, and every difference is listed under the entry's open points for review.
+- Levels of use in the Essential Medicines List are written as in the list (T, S, CHC, CHP and MCHP).

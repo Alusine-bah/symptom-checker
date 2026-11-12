@@ -16,6 +16,14 @@
    {
     "title": "Semrau K et al. (2025): Implementation strategies for WHO guidelines to prevent, detect, and treat postpartum haemorrhage. Cochrane Database of Systematic Reviews, CD016223 (background section summarising WHO recommendations)",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11863301"
+   },
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Standard Treatment Guidelines 2021 (3rd edition). Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://mohs.gov.sl/download/71/pharmaceutical-service/18081/standard-treatment-guidelines_sierra-leone-2021-edition.pdf"
+   },
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Essential Medicines List, 2021 edition. Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://chasl.sl/wp-content/uploads/2026/05/National-Essential-Medicines-List_Sierra_Leone-2021-Edition-1.pdf"
    }
   ],
   "en": {
@@ -33,7 +41,9 @@
     "Treatment of PPH: intravenous oxytocin alone is the medicine of choice. WHO gives 20 units in 1 litre of IV fluid run at the fastest rate possible, or 10 units into a muscle; then 20 units in 1 litre at 40 drops a minute (with a giving set of 20 drops per mL), with no more than 3 litres of IV fluid containing oxytocin. It must not be given as an IV bolus (WHO 2017, table S-11).",
     "The Eswatini guideline gives 10 to 40 IU into a vein with a drip for PPH, then referral (Eswatini STG 2012). This differs in how it is written from the WHO regimen above; the reviewer should check which is used in Sierra Leone.",
     "Bleeding after a miscarriage or abortion: the Eswatini guideline gives 5 to 10 IU into a muscle, or 20 to 40 IU in 1,000 mL of 5% dextrose as a drip at 5 to 20 drops a minute depending on the contractions, with no more than 5 contractions in 10 minutes, repeated after 30 minutes if bleeding continues (Eswatini STG 2012). WHO gives 40 units in 1 litre of IV fluid at 40 drops a minute as an option when misoprostol is not available (WHO 2017). The WHO text says this applies after 16 weeks, while its table lists it for pregnancies of more than 12 to 14 weeks.",
-    "This is hospital and health-worker care. It must be given by a trained health worker, not at home."
+    "This is hospital and health-worker care. It must be given by a trained health worker, not at home.",
+    "Sierra Leone Standard Treatment Guidelines 2021: oxytocin 10 units after delivery of the placenta; for uterine atony add 10 to 40 units, not more than 40 units, to 1,000 ml of non-hydrating IV fluid and run at the rate needed to control the atony. The guideline recommends giving a womb-contracting medicine soon after the anterior shoulder is delivered, clamping the cord after about 3 minutes once the uterus is contracting, delivering the placenta by controlled cord traction, then uterine massage.",
+    "Sierra Leone Essential Medicines List 2021: oxytocin 10 IU injection is listed, and the fixed oxytocin/ergometrine injection (5 units / 500 micrograms per ml) is listed at levels T, S and CHC only."
    ],
    "who_careful": [
     "Check that there is no second baby before giving an injectable medicine that makes the womb contract (WHO 2017). Do not give oxytocin as an IV bolus (WHO 2017). The Eswatini guideline cautions against using other hypertonic womb-contracting agents with oxytocin for bleeding after an abortion."
@@ -46,7 +56,12 @@
     "The WHO and Eswatini regimens for PPH are written differently (see above). The 2017 WHO guide may have been updated by later WHO recommendations; the 2025 review notes slow IV 10 units as preferred when a drip is in place. The reviewer should compare with the current WHO recommendation and the Sierra Leone guideline before this entry is marked reviewed.",
     "No disease page exists yet for postpartum haemorrhage or miscarriage. This is a gap to fill in the maternal and newborn health branch.",
     "The English text is adapted from WHO material. The French text is our own translation and was not created by the World Health Organization (WHO). WHO is not responsible for the content or accuracy of this translation. The original English edition is the binding and authentic edition.",
-    "The Eswatini guideline is from 2012 and is not from Sierra Leone. The reviewer should compare with the current Sierra Leone Standard Treatment Guidelines."
+    "The Eswatini guideline is from 2012 and is not from Sierra Leone. The reviewer should compare with the current Sierra Leone Standard Treatment Guidelines.",
+    "The Sierra Leone guideline's oxytocin schedule matches the Eswatini one and is written differently from the WHO one. The national guideline comes first for Sierra Leone, but the reviewer should still compare it with WHO.",
+    "The Sierra Leone Standard Treatment Guidelines are the national guideline and should be given first place when they differ from other sources. The reviewer should confirm the figures against the printed 2021 edition."
+   ],
+   "side_effects": [
+    "Sierra Leone Standard Treatment Guidelines 2021 list: slow heart rate, and in the baby seizures, jaundice, poor blood flow through the placenta, low oxygen, raised carbon dioxide and liver damage around the time of birth."
    ]
   },
   "fr": {
@@ -64,7 +79,9 @@
     "Traitement de l'HPP : l'ocytocine intraveineuse seule est le médicament de choix. L'OMS donne 20 unités dans 1 litre de soluté IV passé le plus vite possible, ou 10 unités en intramusculaire ; puis 20 unités dans 1 litre à 40 gouttes par minute (avec un nécessaire de perfusion de 20 gouttes par ml), sans dépasser 3 litres de soluté IV contenant de l'ocytocine. Elle ne doit pas être donnée en bolus IV (OMS 2017, tableau S-11).",
     "La directive d'Eswatini donne 10 à 40 UI en intraveineuse avec une perfusion pour l'HPP, puis une orientation (STG d'Eswatini 2012). Cette formulation diffère du schéma de l'OMS ci-dessus ; le relecteur doit vérifier lequel est utilisé en Sierra Leone.",
     "Saignement après une fausse couche ou un avortement : la directive d'Eswatini donne 5 à 10 UI en intramusculaire, ou 20 à 40 UI dans 1 000 ml de dextrose à 5 % en perfusion à 5 à 20 gouttes par minute selon les contractions, sans dépasser 5 contractions en 10 minutes, à répéter après 30 minutes si le saignement continue (STG d'Eswatini 2012). L'OMS donne 40 unités dans 1 litre de soluté IV à 40 gouttes par minute comme option lorsque le misoprostol n'est pas disponible (OMS 2017). Le texte de l'OMS indique que cela s'applique après 16 semaines, alors que son tableau le cite pour les grossesses de plus de 12 à 14 semaines.",
-    "Ce sont des soins hospitaliers et de professionnels de santé. Ils doivent être donnés par un professionnel de santé formé, pas à la maison."
+    "Ce sont des soins hospitaliers et de professionnels de santé. Ils doivent être donnés par un professionnel de santé formé, pas à la maison.",
+    "Directives nationales de traitement de la Sierra Leone 2021 : ocytocine 10 unités après la délivrance du placenta ; en cas d'atonie utérine ajouter 10 à 40 unités, pas plus de 40 unités, à 1 000 ml de soluté IV non hydratant et passer au rythme nécessaire pour maîtriser l'atonie. La directive recommande de donner un utérotonique peu après la naissance de l'épaule antérieure, de clamper le cordon après environ 3 minutes lorsque l'utérus se contracte, de délivrer le placenta par traction contrôlée du cordon, puis de masser l'utérus.",
+    "Liste nationale des médicaments essentiels de la Sierra Leone 2021 : ocytocine injectable 10 UI listée, et l'injection fixe ocytocine/ergométrine (5 unités / 500 microgrammes par ml) listée aux niveaux T, S et CHC seulement."
    ],
    "who_careful": [
     "Vérifier qu'il n'y a pas de second bébé avant de donner un médicament injectable qui fait contracter l'utérus (OMS 2017). Ne pas donner l'ocytocine en bolus IV (OMS 2017). La directive d'Eswatini déconseille d'associer d'autres produits hypertoniques provoquant des contractions de l'utérus à l'ocytocine pour un saignement après un avortement."
@@ -77,7 +94,12 @@
     "Les schémas de l'OMS et d'Eswatini pour l'HPP sont formulés différemment (voir ci-dessus). Le guide de l'OMS de 2017 peut avoir été mis à jour par des recommandations plus récentes ; la revue de 2025 indique que 10 unités en IV lente sont préférées lorsqu'une perfusion est en place. Le relecteur doit comparer avec la recommandation actuelle de l'OMS et la directive de la Sierra Leone avant de marquer cette fiche comme relue.",
     "Il n'existe pas encore de fiche maladie pour l'hémorragie du post-partum ni la fausse couche. C'est une lacune à combler dans la branche santé maternelle et néonatale.",
     "Le texte anglais est adapté de documents de l'OMS. Le texte français est notre propre traduction et n'a pas été créé par l'Organisation mondiale de la Santé (OMS). L'OMS n'est pas responsable du contenu ni de l'exactitude de cette traduction. L'édition originale en anglais est l'édition faisant foi.",
-    "La directive d'Eswatini date de 2012 et ne vient pas de la Sierra Leone. Le relecteur doit comparer avec la version actuelle des directives nationales de traitement de la Sierra Leone."
+    "La directive d'Eswatini date de 2012 et ne vient pas de la Sierra Leone. Le relecteur doit comparer avec la version actuelle des directives nationales de traitement de la Sierra Leone.",
+    "Le schéma d'ocytocine de la directive de la Sierra Leone correspond à celui d'Eswatini et est formulé différemment de celui de l'OMS. La directive nationale prime pour la Sierra Leone, mais le relecteur doit tout de même la comparer à l'OMS.",
+    "Les directives nationales de traitement de la Sierra Leone sont la référence nationale et doivent primer lorsqu'elles diffèrent des autres sources. Le relecteur doit confirmer les chiffres avec l'édition imprimée de 2021."
+   ],
+   "side_effects": [
+    "Les directives nationales de traitement de la Sierra Leone 2021 listent : ralentissement du cœur, et chez le bébé convulsions, jaunisse, mauvaise circulation sanguine dans le placenta, manque d'oxygène, excès de gaz carbonique et atteinte du foie autour de la naissance."
    ]
   }
  },
@@ -94,6 +116,14 @@
    {
     "title": "WHO (2017): Managing complications in pregnancy and childbirth: a guide for midwives and doctors, 2nd edition. Licence CC BY-NC-SA 3.0 IGO. This entry adapts and summarises it and is shared under the same licence; WHO does not endorse this adaptation.",
     "url": null
+   },
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Standard Treatment Guidelines 2021 (3rd edition). Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://mohs.gov.sl/download/71/pharmaceutical-service/18081/standard-treatment-guidelines_sierra-leone-2021-edition.pdf"
+   },
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Essential Medicines List, 2021 edition. Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://chasl.sl/wp-content/uploads/2026/05/National-Essential-Medicines-List_Sierra_Leone-2021-Edition-1.pdf"
    }
   ],
   "en": {
@@ -110,7 +140,9 @@
     "Miscarriage, inevitable abortion: under 12 to 14 weeks, 800 micrograms by the vagina or under the tongue every 3 to 12 hours, at most 3 doses; over 12 to 14 weeks, 400 micrograms every 3 hours, at most 5 doses (WHO 2017, table S-4).",
     "Miscarriage, incomplete abortion: under 12 to 14 weeks, 400 micrograms under the tongue or 600 micrograms by mouth, one dose; over 12 to 14 weeks, 200 micrograms by the vagina every 4 hours until the womb empties, at most 800 micrograms. WHO says the best doses for incomplete abortion have not been settled and gives this as a reasonable protocol (WHO 2017, table S-4).",
     "Complete abortion with heavy bleeding afterwards: 800 micrograms for post-abortion bleeding (WHO 2017).",
-    "This is hospital and health-worker care. It must be given by a trained health worker, not at home."
+    "This is hospital and health-worker care. It must be given by a trained health worker, not at home.",
+    "Sierra Leone Standard Treatment Guidelines 2021: 600 micrograms by mouth within 1 minute of delivery to prevent bleeding; 800 micrograms by mouth once to treat it. Caution is advised if the prevention dose has already been given, and use should be restricted to where oxytocin is not available.",
+    "Sierra Leone Essential Medicines List 2021: misoprostol 200 microgram tablets are listed for use as a womb-contracting medicine at all five levels of use shown in the list (T, S, CHC, CHP and MCHP)."
    ],
    "urgent": [
     "Signs of shock named in the guideline: cold moist skin, rapid pulse, and systolic blood pressure below 90 mm Hg. Refer every woman with vaginal bleeding."
@@ -119,10 +151,15 @@
     "The sources read do not give side effects, interactions, or advice on breastfeeding for misoprostol, so none are given here.",
     "The WHO guide is from 2017. The reviewer should compare with the current WHO recommendation and the Sierra Leone guideline before this entry is marked reviewed.",
     "The English text is adapted from WHO material. The French text is our own translation and was not created by the World Health Organization (WHO). WHO is not responsible for the content or accuracy of this translation. The original English edition is the binding and authentic edition.",
-    "The Eswatini guideline is from 2012 and is not from Sierra Leone. The reviewer should compare with the current Sierra Leone Standard Treatment Guidelines."
+    "The Eswatini guideline is from 2012 and is not from Sierra Leone. The reviewer should compare with the current Sierra Leone Standard Treatment Guidelines.",
+    "The Sierra Leone doses (600 micrograms to prevent, 800 micrograms to treat) match the WHO doses for those two uses.",
+    "The Sierra Leone Standard Treatment Guidelines are the national guideline and should be given first place when they differ from other sources. The reviewer should confirm the figures against the printed 2021 edition."
    ],
    "who_careful": [
     "Make sure there is no second baby before giving large doses of misoprostol by mouth after birth. WHO says not to use oral misoprostol to speed up labour (WHO 2017)."
+   ],
+   "side_effects": [
+    "Sierra Leone Standard Treatment Guidelines 2021 list: diarrhoea, abdominal pain, headache, chest pain, anaemia, nausea, wind, severe allergic reaction, abnormal heart rhythm, heart attack, hearing loss, rupture of the womb and blood clots."
    ]
   },
   "fr": {
@@ -139,7 +176,9 @@
     "Fausse couche, avortement inévitable : avant 12 à 14 semaines, 800 microgrammes par voie vaginale ou sous la langue toutes les 3 à 12 heures, 3 doses au maximum ; après 12 à 14 semaines, 400 microgrammes toutes les 3 heures, 5 doses au maximum (OMS 2017, tableau S-4).",
     "Fausse couche, avortement incomplet : avant 12 à 14 semaines, 400 microgrammes sous la langue ou 600 microgrammes par voie orale, une dose ; après 12 à 14 semaines, 200 microgrammes par voie vaginale toutes les 4 heures jusqu'à l'évacuation de l'utérus, 800 microgrammes au maximum. L'OMS indique que les meilleures doses pour l'avortement incomplet n'ont pas été établies et donne ceci comme protocole raisonnable (OMS 2017, tableau S-4).",
     "Avortement complet suivi d'un saignement abondant : 800 microgrammes pour l'hémorragie après avortement (OMS 2017).",
-    "Ce sont des soins hospitaliers et de professionnels de santé. Ils doivent être donnés par un professionnel de santé formé, pas à la maison."
+    "Ce sont des soins hospitaliers et de professionnels de santé. Ils doivent être donnés par un professionnel de santé formé, pas à la maison.",
+    "Directives nationales de traitement de la Sierra Leone 2021 : 600 microgrammes par voie orale dans la minute suivant l'accouchement pour prévenir le saignement ; 800 microgrammes par voie orale en une fois pour le traiter. La prudence est conseillée si la dose préventive a déjà été donnée, et l'usage doit être limité aux situations où l'ocytocine n'est pas disponible.",
+    "Liste nationale des médicaments essentiels de la Sierra Leone 2021 : comprimés de misoprostol 200 microgrammes listés comme utérotonique aux cinq niveaux d'utilisation indiqués dans la liste (T, S, CHC, CHP et MCHP)."
    ],
    "urgent": [
     "Signes de choc cités par la directive : peau froide et moite, pouls rapide et tension systolique inférieure à 90 mm Hg. Orienter toute femme qui a un saignement vaginal."
@@ -148,10 +187,15 @@
     "Les sources lues ne donnent ni effets indésirables, ni interactions, ni conseil sur l'allaitement pour le misoprostol, donc aucun n'est donné ici.",
     "Le guide de l'OMS date de 2017. Le relecteur doit comparer avec la recommandation actuelle de l'OMS et la directive de la Sierra Leone avant de marquer cette fiche comme relue.",
     "Le texte anglais est adapté de documents de l'OMS. Le texte français est notre propre traduction et n'a pas été créé par l'Organisation mondiale de la Santé (OMS). L'OMS n'est pas responsable du contenu ni de l'exactitude de cette traduction. L'édition originale en anglais est l'édition faisant foi.",
-    "La directive d'Eswatini date de 2012 et ne vient pas de la Sierra Leone. Le relecteur doit comparer avec la version actuelle des directives nationales de traitement de la Sierra Leone."
+    "La directive d'Eswatini date de 2012 et ne vient pas de la Sierra Leone. Le relecteur doit comparer avec la version actuelle des directives nationales de traitement de la Sierra Leone.",
+    "Les doses de la Sierra Leone (600 microgrammes pour prévenir, 800 microgrammes pour traiter) correspondent aux doses de l'OMS pour ces deux usages.",
+    "Les directives nationales de traitement de la Sierra Leone sont la référence nationale et doivent primer lorsqu'elles diffèrent des autres sources. Le relecteur doit confirmer les chiffres avec l'édition imprimée de 2021."
    ],
    "who_careful": [
     "S'assurer qu'il n'y a pas de second bébé avant de donner de fortes doses de misoprostol par voie orale après la naissance. L'OMS indique de ne pas utiliser le misoprostol par voie orale pour accélérer le travail (OMS 2017)."
+   ],
+   "side_effects": [
+    "Les directives nationales de traitement de la Sierra Leone 2021 listent : diarrhée, douleurs abdominales, mal de tête, douleur thoracique, anémie, nausées, ballonnements, réaction allergique grave, trouble du rythme cardiaque, infarctus du myocarde, perte d'audition, rupture de l'utérus et caillots sanguins."
    ]
   }
  },
@@ -168,6 +212,14 @@
    {
     "title": "WHO (2017): Managing complications in pregnancy and childbirth: a guide for midwives and doctors, 2nd edition. Licence CC BY-NC-SA 3.0 IGO. This entry adapts and summarises it and is shared under the same licence; WHO does not endorse this adaptation.",
     "url": null
+   },
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Standard Treatment Guidelines 2021 (3rd edition). Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://mohs.gov.sl/download/71/pharmaceutical-service/18081/standard-treatment-guidelines_sierra-leone-2021-edition.pdf"
+   },
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Essential Medicines List, 2021 edition. Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://chasl.sl/wp-content/uploads/2026/05/National-Essential-Medicines-List_Sierra_Leone-2021-Edition-1.pdf"
    }
   ],
   "en": {
@@ -182,7 +234,9 @@
     "Treatment of PPH, if intravenous oxytocin is not available or bleeding does not respond: 0.2 mg into a muscle or slowly into a vein; repeat 0.2 mg into a muscle after 15 minutes; if needed 0.2 mg into a muscle or slowly into a vein every 4 hours; at most five doses (1.0 mg in total) (WHO 2017, table S-11). The Eswatini guideline gives 0.2 to 0.4 mg into a vein or a muscle immediately (Eswatini STG 2012).",
     "Prevention of PPH when oxytocin is not available: ergometrine 0.2 mg into a muscle (or methylergometrine), or the fixed oxytocin-ergometrine injection (1 mL = 5 IU oxytocin + 0.5 mg ergometrine) (WHO 2017).",
     "After the bleeding has stopped and the uterus is firmly contracted, the Eswatini guideline gives 1 tablet by mouth 3 times a day for 3 days. The tablet strength was not stated (Eswatini STG 2012).",
-    "This is hospital and health-worker care. It must be given by a trained health worker, not at home."
+    "This is hospital and health-worker care. It must be given by a trained health worker, not at home.",
+    "Sierra Leone Standard Treatment Guidelines 2021: 200 to 500 micrograms into a muscle after the placenta is out or when bleeding occurs; 250 to 500 micrograms into a vein in emergencies. The injection is 500 micrograms in 1 ml.",
+    "Sierra Leone Essential Medicines List 2021: ergometrine maleate tablets of 0.5 mg and injection 0.5 mg per ml are listed at all five levels of use shown in the list (T, S, CHC, CHP and MCHP)."
    ],
    "urgent": [
     "Signs of shock named in the guideline: cold moist skin, rapid pulse, and systolic blood pressure below 90 mm Hg. Refer every woman with vaginal bleeding."
@@ -192,10 +246,16 @@
     "The sources read do not give side effects, interactions, or advice on pregnancy and breastfeeding for ergometrine, so none are given here.",
     "The WHO guide is from 2017. The reviewer should compare with the current WHO recommendation and the Sierra Leone guideline before this entry is marked reviewed.",
     "The English text is adapted from WHO material. The French text is our own translation and was not created by the World Health Organization (WHO). WHO is not responsible for the content or accuracy of this translation. The original English edition is the binding and authentic edition.",
-    "The Eswatini guideline is from 2012 and is not from Sierra Leone. The reviewer should compare with the current Sierra Leone Standard Treatment Guidelines."
+    "The Eswatini guideline is from 2012 and is not from Sierra Leone. The reviewer should compare with the current Sierra Leone Standard Treatment Guidelines.",
+    "The Sierra Leone guideline includes the high blood pressure and pre-eclampsia warning, as WHO does. The Eswatini guideline did not.",
+    "The Sierra Leone Standard Treatment Guidelines are the national guideline and should be given first place when they differ from other sources. The reviewer should confirm the figures against the printed 2021 edition."
    ],
    "who_careful": [
-    "WHO says do not give ergometrine to women with pre-eclampsia, eclampsia or high blood pressure, because it increases the risk of convulsions and stroke. Other precautions it lists are heart disease and retained placenta. Do not use ergometrine for a retained placenta because it causes a tight contraction of the womb (WHO 2017)."
+    "WHO says do not give ergometrine to women with pre-eclampsia, eclampsia or high blood pressure, because it increases the risk of convulsions and stroke. Other precautions it lists are heart disease and retained placenta. Do not use ergometrine for a retained placenta because it causes a tight contraction of the womb (WHO 2017).",
+    "Sierra Leone Standard Treatment Guidelines 2021 contraindications: allergy to ergometrine; pregnancy and labour before the anterior shoulder is delivered; uterine inertia; severe high blood pressure, pre-eclampsia and eclampsia; severe heart, liver or kidney disease; blocked blood vessels such as Raynaud's disease; and infection of the blood. In breech or other abnormal positions give it only after the baby is born, and in multiple births only after the last baby."
+   ],
+   "side_effects": [
+    "Sierra Leone Standard Treatment Guidelines 2021 list: headache, dizziness, ringing in the ears, high blood pressure, narrowing of blood vessels, breathlessness, fluid in the lungs, nausea, vomiting, abdominal pain and skin rash. Ergometrine passes into breast milk and can reduce milk production, so repeated use should be avoided."
    ]
   },
   "fr": {
@@ -210,7 +270,9 @@
     "Traitement de l'HPP, si l'ocytocine intraveineuse n'est pas disponible ou si le saignement ne répond pas : 0,2 mg en intramusculaire ou lentement en intraveineuse ; répéter 0,2 mg en intramusculaire après 15 minutes ; si nécessaire 0,2 mg en intramusculaire ou lentement en intraveineuse toutes les 4 heures ; cinq doses au maximum (1,0 mg au total) (OMS 2017, tableau S-11). La directive d'Eswatini donne 0,2 à 0,4 mg en intraveineuse ou en intramusculaire immédiatement (STG d'Eswatini 2012).",
     "Prévention de l'HPP lorsque l'ocytocine n'est pas disponible : ergométrine 0,2 mg en intramusculaire (ou méthylergométrine), ou l'injection fixe ocytocine-ergométrine (1 ml = 5 UI d'ocytocine + 0,5 mg d'ergométrine) (OMS 2017).",
     "Après l'arrêt du saignement et lorsque l'utérus est bien contracté, la directive d'Eswatini donne 1 comprimé par voie orale 3 fois par jour pendant 3 jours. Le dosage du comprimé n'est pas indiqué (STG d'Eswatini 2012).",
-    "Ce sont des soins hospitaliers et de professionnels de santé. Ils doivent être donnés par un professionnel de santé formé, pas à la maison."
+    "Ce sont des soins hospitaliers et de professionnels de santé. Ils doivent être donnés par un professionnel de santé formé, pas à la maison.",
+    "Directives nationales de traitement de la Sierra Leone 2021 : 200 à 500 microgrammes en intramusculaire après l'expulsion du placenta ou lorsqu'un saignement survient ; 250 à 500 microgrammes en intraveineuse en urgence. L'injection est de 500 microgrammes dans 1 ml.",
+    "Liste nationale des médicaments essentiels de la Sierra Leone 2021 : tablettes de maléate d'ergométrine 0,5 mg et injection 0,5 mg par ml listées aux cinq niveaux d'utilisation indiqués dans la liste (T, S, CHC, CHP et MCHP)."
    ],
    "urgent": [
     "Signes de choc cités par la directive : peau froide et moite, pouls rapide et tension systolique inférieure à 90 mm Hg. Orienter toute femme qui a un saignement vaginal."
@@ -220,10 +282,16 @@
     "Les sources lues ne donnent ni effets indésirables, ni interactions, ni conseil sur la grossesse et l'allaitement pour l'ergométrine, donc aucun n'est donné ici.",
     "Le guide de l'OMS date de 2017. Le relecteur doit comparer avec la recommandation actuelle de l'OMS et la directive de la Sierra Leone avant de marquer cette fiche comme relue.",
     "Le texte anglais est adapté de documents de l'OMS. Le texte français est notre propre traduction et n'a pas été créé par l'Organisation mondiale de la Santé (OMS). L'OMS n'est pas responsable du contenu ni de l'exactitude de cette traduction. L'édition originale en anglais est l'édition faisant foi.",
-    "La directive d'Eswatini date de 2012 et ne vient pas de la Sierra Leone. Le relecteur doit comparer avec la version actuelle des directives nationales de traitement de la Sierra Leone."
+    "La directive d'Eswatini date de 2012 et ne vient pas de la Sierra Leone. Le relecteur doit comparer avec la version actuelle des directives nationales de traitement de la Sierra Leone.",
+    "La directive de la Sierra Leone contient l'avertissement sur l'hypertension et la pré-éclampsie, comme l'OMS. La directive d'Eswatini ne le contenait pas.",
+    "Les directives nationales de traitement de la Sierra Leone sont la référence nationale et doivent primer lorsqu'elles diffèrent des autres sources. Le relecteur doit confirmer les chiffres avec l'édition imprimée de 2021."
    ],
    "who_careful": [
-    "L'OMS indique de ne pas donner l'ergométrine aux femmes ayant une pré-éclampsie, une éclampsie ou une tension élevée, car elle augmente le risque de convulsions et d'accident vasculaire cérébral. Les autres précautions citées sont une maladie du cœur et une rétention placentaire. Ne pas utiliser l'ergométrine pour un placenta retenu car elle provoque une contraction serrée de l'utérus (OMS 2017)."
+    "L'OMS indique de ne pas donner l'ergométrine aux femmes ayant une pré-éclampsie, une éclampsie ou une tension élevée, car elle augmente le risque de convulsions et d'accident vasculaire cérébral. Les autres précautions citées sont une maladie du cœur et une rétention placentaire. Ne pas utiliser l'ergométrine pour un placenta retenu car elle provoque une contraction serrée de l'utérus (OMS 2017).",
+    "Contre-indications des directives nationales de traitement de la Sierra Leone 2021 : allergie à l'ergométrine ; grossesse et travail avant la naissance de l'épaule antérieure ; inertie utérine ; hypertension sévère, pré-éclampsie et éclampsie ; maladie grave du cœur, du foie ou des reins ; obstruction des vaisseaux sanguins comme la maladie de Raynaud ; et infection du sang. En présentation du siège ou autre présentation anormale, la donner seulement après la naissance de l'enfant, et en cas de naissances multiples seulement après le dernier bébé."
+   ],
+   "side_effects": [
+    "Les directives nationales de traitement de la Sierra Leone 2021 listent : mal de tête, étourdissements, bourdonnements d'oreilles, hypertension, rétrécissement des vaisseaux sanguins, essoufflement, œdème pulmonaire, nausées, vomissements, douleurs abdominales et éruption cutanée. L'ergométrine passe dans le lait maternel et peut réduire la production de lait, donc une utilisation répétée doit être évitée."
    ]
   }
  },
@@ -240,6 +308,14 @@
    {
     "title": "WHO (2017): Managing complications in pregnancy and childbirth: a guide for midwives and doctors, 2nd edition. Licence CC BY-NC-SA 3.0 IGO. This entry adapts and summarises it and is shared under the same licence; WHO does not endorse this adaptation.",
     "url": null
+   },
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Standard Treatment Guidelines 2021 (3rd edition). Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://mohs.gov.sl/download/71/pharmaceutical-service/18081/standard-treatment-guidelines_sierra-leone-2021-edition.pdf"
+   },
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Essential Medicines List, 2021 edition. Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://chasl.sl/wp-content/uploads/2026/05/National-Essential-Medicines-List_Sierra_Leone-2021-Edition-1.pdf"
    }
   ],
   "en": {
@@ -248,14 +324,18 @@
     "A medicine given by injection to prevent and stop the fits (convulsions) of severe pre-eclampsia and eclampsia in pregnancy. It is given by trained staff; the Eswatini list marks it for health centres and hospitals, prescribed by a doctor."
    ],
    "used_for": [
-    "Pregnancy-induced hypertension is high blood pressure (140/90 mm Hg or higher) from 20 weeks of pregnancy together with protein in the urine, swelling, or both. Severe pre-eclampsia may lead to convulsions in the mother. Eclampsia is pregnancy-induced hypertension with convulsions (Eswatini STG 2012)."
+    "Pregnancy-induced hypertension is high blood pressure (140/90 mm Hg or higher) from 20 weeks of pregnancy together with protein in the urine, swelling, or both. Severe pre-eclampsia may lead to convulsions in the mother. Eclampsia is pregnancy-induced hypertension with convulsions (Eswatini STG 2012).",
+    "Important difference: the Sierra Leone Standard Treatment Guidelines 2021 treat eclampsia and imminent eclampsia with diazepam, not magnesium sulfate. They say to give diazepam, not magnesium sulphate, for seizures in labour in a woman with epilepsy unless she has other signs of eclampsia. The Sierra Leone Essential Medicines List does list magnesium sulfate."
    ],
    "how_used": [
     "WHO calls magnesium sulfate the drug of choice for preventing and treating convulsions in severe pre-eclampsia and eclampsia, and says convulsions in hospitalised women are most often caused by under-treatment (WHO 2017).",
     "Muscle regimen, loading dose: 4 g of 20% solution into a vein over 5 minutes, then promptly 10 g of 50% solution, 5 g deep into the muscle of each buttock with 1 mL of 2% lidocaine in the same syringe. Warn the woman that she will feel warmth. Maintenance: 5 g of 50% solution with 1 mL of 2% lidocaine deep into alternate buttocks every 4 hours, continued for 24 hours after birth or after the last convulsion, whichever is later (WHO 2017, box S-4). The Eswatini guideline gives the same muscle regimen (Eswatini STG 2012).",
     "Vein regimen, preferably with an infusion pump: loading dose 4 g of 50% solution into a vein; if convulsions come back after 15 minutes, 2 g of 50% solution into a vein over 5 minutes. Maintenance: 1 g an hour by infusion, continued for 24 hours after birth or after the last convulsion (WHO 2017, box S-4). The Eswatini guideline's vein option when 50% solution is not available is 1 g of 20% solution every hour by continuous drip (Eswatini STG 2012).",
     "If magnesium sulphate is not available the Eswatini guideline gives diazepam as the alternative (not covered in this entry).",
-    "This is hospital and health-worker care. It must be given by a trained health worker, not at home."
+    "This is hospital and health-worker care. It must be given by a trained health worker, not at home.",
+    "Sierra Leone Standard Treatment Guidelines 2021, eclampsia and imminent eclampsia: diazepam by infusion, 40 mg diluted in 1 litre of 0.9% sodium chloride over 6 hours. If the diastolic pressure is still above 110 mm Hg, hydralazine 5 to 10 mg by slow IV injection over 20 to 30 minutes. Plan urgent delivery and refer urgently to an obstetrician after stabilising. During a fit, turn the woman on her left side, keep the airway open and prevent injury.",
+    "Sierra Leone Standard Treatment Guidelines 2021, other use: severe asthma that has not improved after one hour: magnesium sulphate in 0.9% sodium chloride by IV infusion over 20 minutes, adults 1 to 2 g, children over 2 years 40 mg/kg. The paediatric section writes a different figure, 50 mg/kg of a 50% solution, with the text '0.1 mg/kg (50 mg/kg)', which looks like a printing error.",
+    "Sierra Leone Essential Medicines List 2021: magnesium sulphate injection 500 mg per ml is listed at all five levels of use shown in the list (T, S, CHC, CHP and MCHP)."
    ],
    "who_careful": [
     "Before each repeat dose check that the breathing rate is at least 16 per minute, the knee-jerk (patellar) reflexes are present and the urine output is at least 30 mL an hour over the previous 4 hours. If not, delay the next muscle dose or withhold the vein infusion (WHO 2017, box S-5)."
@@ -274,7 +354,9 @@
     "The WHO guide is from 2017. The reviewer should compare with the current WHO recommendation and the Sierra Leone guideline before this entry is marked reviewed.",
     "No disease page exists yet for pre-eclampsia or eclampsia. This is a gap to fill in the maternal and newborn health branch.",
     "The English text is adapted from WHO material. The French text is our own translation and was not created by the World Health Organization (WHO). WHO is not responsible for the content or accuracy of this translation. The original English edition is the binding and authentic edition.",
-    "The Eswatini guideline is from 2012 and is not from Sierra Leone. The reviewer should compare with the current Sierra Leone Standard Treatment Guidelines."
+    "The Eswatini guideline is from 2012 and is not from Sierra Leone. The reviewer should compare with the current Sierra Leone Standard Treatment Guidelines.",
+    "Clinical decision for the reviewer: for eclampsia, WHO (2017) and the Sierra Leone Essential Medicines List point to magnesium sulfate, while the Sierra Leone Standard Treatment Guidelines 2021 give diazepam. The entry shows all of them side by side and does not choose between them.",
+    "The Sierra Leone Standard Treatment Guidelines are the national guideline and should be given first place when they differ from other sources. The reviewer should confirm the figures against the printed 2021 edition."
    ]
   },
   "fr": {
@@ -283,14 +365,18 @@
     "Un médicament donné en injection pour prévenir et arrêter les convulsions de la pré-éclampsie sévère et de l'éclampsie pendant la grossesse. Il est donné par du personnel formé ; la liste d'Eswatini le destine aux centres de santé et aux hôpitaux, prescrit par un médecin."
    ],
    "used_for": [
-    "L'hypertension de la grossesse est une tension élevée (140/90 mm Hg ou plus) à partir de 20 semaines de grossesse, avec des protéines dans les urines, un gonflement, ou les deux. La pré-éclampsie sévère peut provoquer des convulsions chez la mère. L'éclampsie est l'hypertension de la grossesse avec convulsions (STG d'Eswatini 2012)."
+    "L'hypertension de la grossesse est une tension élevée (140/90 mm Hg ou plus) à partir de 20 semaines de grossesse, avec des protéines dans les urines, un gonflement, ou les deux. La pré-éclampsie sévère peut provoquer des convulsions chez la mère. L'éclampsie est l'hypertension de la grossesse avec convulsions (STG d'Eswatini 2012).",
+    "Différence importante : les directives nationales de traitement de la Sierra Leone 2021 traitent l'éclampsie et l'éclampsie imminente avec le diazépam, pas avec le sulfate de magnésium. Elles indiquent de donner du diazépam, pas du sulfate de magnésium, pour des convulsions pendant le travail chez une femme épileptique, sauf si elle présente d'autres signes d'éclampsie. La Liste nationale des médicaments essentiels de la Sierra Leone liste bien le sulfate de magnésium."
    ],
    "how_used": [
     "L'OMS considère le sulfate de magnésium comme le médicament de choix pour prévenir et traiter les convulsions de la pré-éclampsie sévère et de l'éclampsie, et indique que les convulsions chez les femmes hospitalisées sont le plus souvent dues à un traitement insuffisant (OMS 2017).",
     "Schéma intramusculaire, dose de charge : 4 g de solution à 20 % en intraveineuse en 5 minutes, puis rapidement 10 g de solution à 50 %, 5 g en intramusculaire profonde dans chaque fesse avec 1 ml de lidocaïne à 2 % dans la même seringue. Prévenir la femme qu'elle ressentira de la chaleur. Entretien : 5 g de solution à 50 % avec 1 ml de lidocaïne à 2 % en intramusculaire profonde dans une fesse en alternance toutes les 4 heures, poursuivi pendant 24 heures après l'accouchement ou après la dernière convulsion, selon ce qui est le plus tardif (OMS 2017, encadré S-4). La directive d'Eswatini donne le même schéma intramusculaire (STG d'Eswatini 2012).",
     "Schéma intraveineux, de préférence avec une pompe à perfusion : dose de charge 4 g de solution à 50 % en intraveineuse ; si les convulsions reviennent après 15 minutes, 2 g de solution à 50 % en intraveineuse en 5 minutes. Entretien : 1 g par heure en perfusion, poursuivi pendant 24 heures après l'accouchement ou après la dernière convulsion (OMS 2017, encadré S-4). L'option intraveineuse de la directive d'Eswatini lorsque la solution à 50 % n'est pas disponible est 1 g de solution à 20 % toutes les heures en perfusion continue (STG d'Eswatini 2012).",
     "Si le sulfate de magnésium n'est pas disponible, la directive d'Eswatini donne le diazépam comme alternative (non couvert dans cette fiche).",
-    "Ce sont des soins hospitaliers et de professionnels de santé. Ils doivent être donnés par un professionnel de santé formé, pas à la maison."
+    "Ce sont des soins hospitaliers et de professionnels de santé. Ils doivent être donnés par un professionnel de santé formé, pas à la maison.",
+    "Directives nationales de traitement de la Sierra Leone 2021, éclampsie et éclampsie imminente : diazépam en perfusion, 40 mg dilués dans 1 litre de chlorure de sodium à 0,9 % en 6 heures. Si la pression diastolique reste supérieure à 110 mm Hg, hydralazine 5 à 10 mg en injection IV lente en 20 à 30 minutes. Prévoir un accouchement urgent et orienter d'urgence vers un obstétricien après stabilisation. Pendant une crise, tourner la femme sur le côté gauche, garder les voies aériennes libres et prévenir les blessures.",
+    "Directives nationales de traitement de la Sierra Leone 2021, autre usage : asthme sévère non amélioré après une heure : sulfate de magnésium dans du chlorure de sodium à 0,9 % en perfusion IV en 20 minutes, adultes 1 à 2 g, enfants de plus de 2 ans 40 mg/kg. La section pédiatrique écrit un autre chiffre, 50 mg/kg d'une solution à 50 %, avec le texte « 0,1 mg/kg (50 mg/kg) », ce qui semble être une erreur d'impression.",
+    "Liste nationale des médicaments essentiels de la Sierra Leone 2021 : sulfate de magnésium injectable 500 mg par ml listé aux cinq niveaux d'utilisation indiqués dans la liste (T, S, CHC, CHP et MCHP)."
    ],
    "who_careful": [
     "Avant chaque nouvelle dose, vérifier que la fréquence respiratoire est d'au moins 16 par minute, que les réflexes rotuliens sont présents et que la diurèse est d'au moins 30 ml par heure au cours des 4 heures précédentes. Sinon, retarder la prochaine dose intramusculaire ou suspendre la perfusion intraveineuse (OMS 2017, encadré S-5)."
@@ -309,7 +395,9 @@
     "Le guide de l'OMS date de 2017. Le relecteur doit comparer avec la recommandation actuelle de l'OMS et la directive de la Sierra Leone avant de marquer cette fiche comme relue.",
     "Il n'existe pas encore de fiche maladie pour la pré-éclampsie ni l'éclampsie. C'est une lacune à combler dans la branche santé maternelle et néonatale.",
     "Le texte anglais est adapté de documents de l'OMS. Le texte français est notre propre traduction et n'a pas été créé par l'Organisation mondiale de la Santé (OMS). L'OMS n'est pas responsable du contenu ni de l'exactitude de cette traduction. L'édition originale en anglais est l'édition faisant foi.",
-    "La directive d'Eswatini date de 2012 et ne vient pas de la Sierra Leone. Le relecteur doit comparer avec la version actuelle des directives nationales de traitement de la Sierra Leone."
+    "La directive d'Eswatini date de 2012 et ne vient pas de la Sierra Leone. Le relecteur doit comparer avec la version actuelle des directives nationales de traitement de la Sierra Leone.",
+    "Décision clinique pour le relecteur : pour l'éclampsie, l'OMS (2017) et la Liste nationale des médicaments essentiels de la Sierra Leone indiquent le sulfate de magnésium, alors que les directives nationales de traitement de la Sierra Leone 2021 donnent le diazépam. La fiche présente tous ces éléments côte à côte et ne choisit pas entre eux.",
+    "Les directives nationales de traitement de la Sierra Leone sont la référence nationale et doivent primer lorsqu'elles diffèrent des autres sources. Le relecteur doit confirmer les chiffres avec l'édition imprimée de 2021."
    ]
   }
  }

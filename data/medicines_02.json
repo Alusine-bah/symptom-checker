@@ -38,6 +38,14 @@
    {
     "title": "Ministry of Health, Kingdom of Swaziland (2012): Standard Treatment Guidelines and Essential Medicines List of Common Medical Conditions in the Kingdom of Swaziland, 1st edition (supported by PEPFAR, USAID and the SPS Program, Management Sciences for Health)",
     "url": null
+   },
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Standard Treatment Guidelines 2021 (3rd edition). Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://mohs.gov.sl/download/71/pharmaceutical-service/18081/standard-treatment-guidelines_sierra-leone-2021-edition.pdf"
+   },
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Essential Medicines List, 2021 edition. Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://chasl.sl/wp-content/uploads/2026/05/National-Essential-Medicines-List_Sierra_Leone-2021-Edition-1.pdf"
    }
   ],
   "en": {
@@ -58,7 +66,9 @@
     "Missed dose: take it as soon as you remember unless the next dose is nearly due. Never take two doses at once.",
     "Purulent acute bronchitis, adults: 500 mg by mouth every 8 hours for 4 or more days. For people allergic to penicillin the guideline gives erythromycin 500 mg every 6 hours for 5 to 7 days. Antibiotics are not indicated for uncomplicated bronchitis (Eswatini STG 2012).",
     "Acute bronchitis, children: antibiotics only if there is high temperature, nutritional deficiency, heart disease, previous pneumonia or weakened immunity (for example AIDS). Dose: 250 mg every 8 hours for 7 days (Eswatini STG 2012).",
-    "Chronic bronchitis with infection, adults: 500 mg by mouth every 8 hours (Eswatini STG 2012). The duration was not read."
+    "Chronic bronchitis with infection, adults: 500 mg by mouth every 8 hours (Eswatini STG 2012). The duration was not read.",
+    "Sierra Leone Standard Treatment Guidelines 2021, pneumonia in children (fast breathing and lower chest wall indrawing): amoxicillin by mouth, 90 mg for each kg of body weight a day in two divided doses for 5 days (children 1 to 18 years). If allergic to penicillin: azithromycin 10 mg/kg a day for 3 days, or erythromycin 12.5 mg/kg every 6 hours for 5 days. Severe pneumonia and newborns are treated with injectable medicines, not amoxicillin by mouth.",
+    "Sierra Leone Essential Medicines List 2021: oral liquid 125 mg per 5 ml is listed at all five levels of use shown in the list (T, S, CHC, CHP and MCHP)."
    ],
    "who_careful": [
     "Tell a doctor before starting if you have ever had an allergic reaction to amoxicillin, penicillin or another medicine (NHS).",
@@ -86,7 +96,9 @@
     "The NHS pages describe UK products and UK emergency numbers. Strengths, brands and local guidance in Sierra Leone still need checking by the reviewer.",
     "The Sierra Leone Standard Treatment Guidelines have not been checked.",
     "The Eswatini 2012 doses above cover bronchitis only. The same guideline's doses for pneumonia, ear infection and dental infection were not read.",
-    "This guideline is from Eswatini (then Swaziland), 2012, not Sierra Leone. It is a national government guideline, but it is old and the doses and policies in Sierra Leone may differ. The reviewer should compare with the current Sierra Leone Standard Treatment Guidelines."
+    "This guideline is from Eswatini (then Swaziland), 2012, not Sierra Leone. It is a national government guideline, but it is old and the doses and policies in Sierra Leone may differ. The reviewer should compare with the current Sierra Leone Standard Treatment Guidelines.",
+    "The Sierra Leone guideline has further uses of amoxicillin (for example with clavulanic acid, and injectable forms). They were not read for this entry.",
+    "The Sierra Leone Standard Treatment Guidelines are the national guideline and should be given first place when they differ from other sources. The reviewer should confirm the figures against the printed 2021 edition."
    ]
   },
   "fr": {
@@ -107,7 +119,9 @@
     "Dose oubliée : la prendre dès que l'on s'en souvient, sauf si la prochaine prise est proche. Ne jamais prendre deux doses à la fois.",
     "Bronchite aiguë purulente, adultes : 500 mg par voie orale toutes les 8 heures pendant 4 jours ou plus. Pour les personnes allergiques à la pénicilline, la directive donne l'érythromycine 500 mg toutes les 6 heures pendant 5 à 7 jours. Les antibiotiques ne sont pas indiqués en cas de bronchite non compliquée (STG d'Eswatini 2012).",
     "Bronchite aiguë, enfants : antibiotiques seulement en cas de forte fièvre, de carence nutritionnelle, de maladie du cœur, de pneumonie antérieure ou d'immunité affaiblie (par exemple SIDA). Dose : 250 mg toutes les 8 heures pendant 7 jours (STG d'Eswatini 2012).",
-    "Bronchite chronique avec infection, adultes : 500 mg par voie orale toutes les 8 heures (STG d'Eswatini 2012). La durée n'a pas été lue."
+    "Bronchite chronique avec infection, adultes : 500 mg par voie orale toutes les 8 heures (STG d'Eswatini 2012). La durée n'a pas été lue.",
+    "Directives nationales de traitement de la Sierra Leone 2021, pneumonie de l'enfant (respiration rapide et tirage sous-costal) : amoxicilline par voie orale, 90 mg par kg de poids corporel par jour en deux prises pendant 5 jours (enfants de 1 à 18 ans). En cas d'allergie à la pénicilline : azithromycine 10 mg/kg par jour pendant 3 jours, ou érythromycine 12,5 mg/kg toutes les 6 heures pendant 5 jours. La pneumonie grave et les nouveau-nés sont traités avec des médicaments injectables, pas avec l'amoxicilline par voie orale.",
+    "Liste nationale des médicaments essentiels de la Sierra Leone 2021 : suspension buvable 125 mg pour 5 ml listée aux cinq niveaux d'utilisation indiqués dans la liste (T, S, CHC, CHP et MCHP)."
    ],
    "who_careful": [
     "Prévenir un médecin avant de commencer si vous avez déjà eu une réaction allergique à l'amoxicilline, à la pénicilline ou à un autre médicament (NHS).",
@@ -135,7 +149,9 @@
     "Les pages du NHS décrivent des produits et des numéros d'urgence du Royaume-Uni. Les dosages, les marques et les recommandations locales en Sierra Leone doivent encore être vérifiés par le relecteur.",
     "Les directives nationales de traitement de la Sierra Leone n'ont pas été vérifiées.",
     "Les doses d'Eswatini 2012 ci-dessus ne concernent que la bronchite. Les doses de la même directive pour la pneumonie, l'otite et l'infection dentaire n'ont pas été lues.",
-    "Cette directive vient d'Eswatini (alors Swaziland), 2012, et non de la Sierra Leone. C'est une directive nationale officielle, mais elle est ancienne et les doses et politiques en Sierra Leone peuvent différer. Le relecteur doit la comparer à la version actuelle des directives nationales de traitement de la Sierra Leone."
+    "Cette directive vient d'Eswatini (alors Swaziland), 2012, et non de la Sierra Leone. C'est une directive nationale officielle, mais elle est ancienne et les doses et politiques en Sierra Leone peuvent différer. Le relecteur doit la comparer à la version actuelle des directives nationales de traitement de la Sierra Leone.",
+    "La directive de la Sierra Leone contient d'autres usages de l'amoxicilline (par exemple avec l'acide clavulanique, et des formes injectables). Ils n'ont pas été lus pour cette fiche.",
+    "Les directives nationales de traitement de la Sierra Leone sont la référence nationale et doivent primer lorsqu'elles diffèrent des autres sources. Le relecteur doit confirmer les chiffres avec l'édition imprimée de 2021."
    ]
   }
  },
@@ -173,6 +189,14 @@
    {
     "title": "Ministry of Health, Kingdom of Swaziland (2012): Standard Treatment Guidelines and Essential Medicines List of Common Medical Conditions in the Kingdom of Swaziland, 1st edition (supported by PEPFAR, USAID and the SPS Program, Management Sciences for Health)",
     "url": null
+   },
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Standard Treatment Guidelines 2021 (3rd edition). Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://mohs.gov.sl/download/71/pharmaceutical-service/18081/standard-treatment-guidelines_sierra-leone-2021-edition.pdf"
+   },
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Essential Medicines List, 2021 edition. Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://chasl.sl/wp-content/uploads/2026/05/National-Essential-Medicines-List_Sierra_Leone-2021-Edition-1.pdf"
    }
   ],
   "en": {
@@ -192,7 +216,12 @@
     "Vaginal discharge in a woman who is not pregnant: metronidazole 2 g by mouth immediately, or 400 mg by mouth every 12 hours for 7 days. The guideline gives it together with ciprofloxacin 500 mg and doxycycline 100 mg every 12 hours for 7 days when gonorrhoea is suspected (Eswatini STG 2012).",
     "Pelvic inflammatory disease: metronidazole 400 mg by mouth every 12 hours for 14 days, together with doxycycline 100 mg every 12 hours for 14 days and one of ciprofloxacin 500 mg by mouth, spectinomycin 2 g injected, or ceftriaxone 250 mg injected, each as a single dose (Eswatini STG 2012).",
     "Infection after a miscarriage or abortion: metronidazole 400 mg by mouth every 8 hours for 7 days with amoxicillin 500 mg every 6 hours for 7 days (erythromycin instead of amoxicillin if allergic to penicillin) (Eswatini STG 2012).",
-    "Infection after childbirth (puerperal sepsis): metronidazole 500 mg into a vein every 8 hours for at least 3 doses, then 400 mg by mouth every 8 hours once the woman improves, together with other antibiotics. The woman is referred to hospital after the first doses (Eswatini STG 2012)."
+    "Infection after childbirth (puerperal sepsis): metronidazole 500 mg into a vein every 8 hours for at least 3 doses, then 400 mg by mouth every 8 hours once the woman improves, together with other antibiotics. The woman is referred to hospital after the first doses (Eswatini STG 2012).",
+    "Sierra Leone Standard Treatment Guidelines 2021, trichomoniasis in adults: 2 g as a single dose, or 400 mg or 500 mg every 12 hours for 7 days. No alcohol during treatment or for 24 hours afterwards. Newborn infections: 5 mg/kg 3 times a day for 5 days.",
+    "Sierra Leone Standard Treatment Guidelines 2021, bacterial vaginosis: 500 mg by mouth every 12 hours for 7 days, or 0.75% vaginal gel twice a day for 7 days. In pregnancy: 500 mg every 12 hours for 7 days, or 250 mg every 8 hours for 7 days.",
+    "Sierra Leone Standard Treatment Guidelines 2021, pelvic inflammatory disease, outpatient: metronidazole 400 mg twice a day for 14 days with doxycycline 100 mg every 12 hours for 14 days, after ceftriaxone 500 mg into a muscle. In pregnancy erythromycin 500 mg every 6 hours for 14 days replaces doxycycline.",
+    "Sierra Leone Standard Treatment Guidelines 2021, giardiasis: adults 500 mg every 12 hours for 5 to 7 days; children 1 to 3 years 250 mg, 3 to 7 years 400 mg, 7 to 10 years 500 mg, each every 12 hours for 5 to 7 days. Amoebic dysentery: adults 800 mg 3 times a day for 10 days; children 10 mg/kg in three divided doses a day.",
+    "Sierra Leone Essential Medicines List 2021: oral liquid is listed at all five levels, and the 500 mg/100 ml injection at levels T, S and CHC."
    ],
    "who_careful": [
     "Tell a doctor if you have had an allergic reaction to metronidazole or another medicine, are pregnant or breastfeeding, think you may be unable to stop drinking alcohol during treatment, or are having blood tests (NHS).",
@@ -207,7 +236,8 @@
    ],
    "pregnancy": [
     "The NHS tells people who are pregnant or breastfeeding to tell their doctor before using it. The NHS pregnancy page could not be read, so no further advice is given here.",
-    "The Eswatini guideline says metronidazole is contraindicated in the first trimester of pregnancy. For pregnant women with a vaginal discharge it gives metronidazole with spectinomycin and erythromycin (Eswatini STG 2012). The NHS advice to tell your doctor if you are pregnant applies."
+    "The Eswatini guideline says metronidazole is contraindicated in the first trimester of pregnancy. For pregnant women with a vaginal discharge it gives metronidazole with spectinomycin and erythromycin (Eswatini STG 2012). The NHS advice to tell your doctor if you are pregnant applies.",
+    "Sierra Leone Standard Treatment Guidelines 2021: metronidazole is not recommended in the first trimester for trichomoniasis. For breastfeeding women, breastfeeding must be withheld during treatment and until 12 to 24 hours after the last dose."
    ],
    "urgent": [
     "Get urgent help at the nearest health facility for: headache with high temperature, stiff neck, feeling unwell and sensitivity to bright light (possible meningitis); hallucinations, confusion or trouble speaking (stop the medicine); or signs of a severe allergic reaction (swelling of lips, mouth, throat or tongue, difficult breathing, tight throat, blue or grey skin, sudden confusion, fainting). The NHS says to call 999 in the UK."
@@ -217,7 +247,9 @@
     "Milligram doses come only from the Eswatini 2012 guideline and only for gynaecological and childbirth infections. Doses for children and for other uses (such as dental infection) are not given.",
     "The NHS interaction page did not state the alcohol warning, so none is given here. The reviewer should check the leaflet and add it with a source.",
     "The NHS pages describe UK products and UK emergency numbers. Strengths, brands and local guidance in Sierra Leone still need checking by the reviewer.",
-    "This guideline is from Eswatini (then Swaziland), 2012, not Sierra Leone. It is a national government guideline, but it is old and the doses and policies in Sierra Leone may differ. The reviewer should compare with the current Sierra Leone Standard Treatment Guidelines."
+    "This guideline is from Eswatini (then Swaziland), 2012, not Sierra Leone. It is a national government guideline, but it is old and the doses and policies in Sierra Leone may differ. The reviewer should compare with the current Sierra Leone Standard Treatment Guidelines.",
+    "The Sierra Leone guideline allows metronidazole 500 mg every 12 hours for bacterial vaginosis in pregnancy, while the Eswatini guideline says it is contraindicated in the first trimester. The two should be compared by the reviewer.",
+    "The Sierra Leone Standard Treatment Guidelines are the national guideline and should be given first place when they differ from other sources. The reviewer should confirm the figures against the printed 2021 edition."
    ]
   },
   "fr": {
@@ -237,7 +269,12 @@
     "Écoulement vaginal chez une femme non enceinte : métronidazole 2 g par voie orale immédiatement, ou 400 mg par voie orale toutes les 12 heures pendant 7 jours. La directive le donne avec la ciprofloxacine 500 mg et la doxycycline 100 mg toutes les 12 heures pendant 7 jours lorsqu'une gonorrhée est suspectée (STG d'Eswatini 2012).",
     "Infection pelvienne : métronidazole 400 mg par voie orale toutes les 12 heures pendant 14 jours, avec la doxycycline 100 mg toutes les 12 heures pendant 14 jours et l'un des médicaments suivants en dose unique : ciprofloxacine 500 mg par voie orale, spectinomycine 2 g en injection, ou ceftriaxone 250 mg en injection (STG d'Eswatini 2012).",
     "Infection après une fausse couche ou un avortement : métronidazole 400 mg par voie orale toutes les 8 heures pendant 7 jours avec l'amoxicilline 500 mg toutes les 6 heures pendant 7 jours (érythromycine à la place de l'amoxicilline en cas d'allergie à la pénicilline) (STG d'Eswatini 2012).",
-    "Infection après l'accouchement (septicémie puerpérale) : métronidazole 500 mg en intraveineuse toutes les 8 heures pendant au moins 3 doses, puis 400 mg par voie orale toutes les 8 heures dès que la femme va mieux, avec d'autres antibiotiques. La femme est orientée vers l'hôpital après les premières doses (STG d'Eswatini 2012)."
+    "Infection après l'accouchement (septicémie puerpérale) : métronidazole 500 mg en intraveineuse toutes les 8 heures pendant au moins 3 doses, puis 400 mg par voie orale toutes les 8 heures dès que la femme va mieux, avec d'autres antibiotiques. La femme est orientée vers l'hôpital après les premières doses (STG d'Eswatini 2012).",
+    "Directives nationales de traitement de la Sierra Leone 2021, trichomonase de l'adulte : 2 g en dose unique, ou 400 mg ou 500 mg toutes les 12 heures pendant 7 jours. Pas d'alcool pendant le traitement ni pendant les 24 heures suivantes. Infections du nouveau-né : 5 mg/kg 3 fois par jour pendant 5 jours.",
+    "Directives nationales de traitement de la Sierra Leone 2021, vaginose bactérienne : 500 mg par voie orale toutes les 12 heures pendant 7 jours, ou gel vaginal à 0,75 % deux fois par jour pendant 7 jours. Pendant la grossesse : 500 mg toutes les 12 heures pendant 7 jours, ou 250 mg toutes les 8 heures pendant 7 jours.",
+    "Directives nationales de traitement de la Sierra Leone 2021, maladie inflammatoire pelvienne en ambulatoire : métronidazole 400 mg deux fois par jour pendant 14 jours avec doxycycline 100 mg toutes les 12 heures pendant 14 jours, après ceftriaxone 500 mg en intramusculaire. Pendant la grossesse, l'érythromycine 500 mg toutes les 6 heures pendant 14 jours remplace la doxycycline.",
+    "Directives nationales de traitement de la Sierra Leone 2021, giardiase : adultes 500 mg toutes les 12 heures pendant 5 à 7 jours ; enfants de 1 à 3 ans 250 mg, de 3 à 7 ans 400 mg, de 7 à 10 ans 500 mg, chacun toutes les 12 heures pendant 5 à 7 jours. Dysenterie amibienne : adultes 800 mg 3 fois par jour pendant 10 jours ; enfants 10 mg/kg en trois prises par jour.",
+    "Liste nationale des médicaments essentiels de la Sierra Leone 2021 : suspension buvable listée aux cinq niveaux, et injection 500 mg/100 ml aux niveaux T, S et CHC."
    ],
    "who_careful": [
     "Prévenir un médecin en cas de réaction allergique passée au métronidazole ou à un autre médicament, de grossesse ou d'allaitement, si vous pensez ne pas pouvoir vous abstenir d'alcool pendant le traitement, ou si vous avez des analyses de sang (NHS).",
@@ -252,7 +289,8 @@
    ],
    "pregnancy": [
     "Le NHS demande aux femmes enceintes ou qui allaitent de prévenir leur médecin avant de l'utiliser. La page du NHS sur la grossesse n'a pas pu être lue, donc aucun autre conseil n'est donné ici.",
-    "La directive d'Eswatini indique que le métronidazole est contre-indiqué au premier trimestre de la grossesse. Pour les femmes enceintes ayant un écoulement vaginal, elle donne le métronidazole avec la spectinomycine et l'érythromycine (STG d'Eswatini 2012). Le conseil du NHS de prévenir son médecin en cas de grossesse s'applique."
+    "La directive d'Eswatini indique que le métronidazole est contre-indiqué au premier trimestre de la grossesse. Pour les femmes enceintes ayant un écoulement vaginal, elle donne le métronidazole avec la spectinomycine et l'érythromycine (STG d'Eswatini 2012). Le conseil du NHS de prévenir son médecin en cas de grossesse s'applique.",
+    "Directives nationales de traitement de la Sierra Leone 2021 : le métronidazole n'est pas recommandé au premier trimestre pour la trichomonase. Pour les femmes qui allaitent, l'allaitement doit être suspendu pendant le traitement et jusqu'à 12 à 24 heures après la dernière dose."
    ],
    "urgent": [
     "Chercher une aide urgente au centre de santé le plus proche en cas de : mal de tête avec forte fièvre, raideur de la nuque, malaise et sensibilité à la lumière vive (méningite possible) ; hallucinations, confusion ou difficulté à parler (arrêter le médicament) ; ou signes d'allergie grave (gonflement des lèvres, de la bouche, de la gorge ou de la langue, respiration difficile, gorge serrée, peau bleue ou grise, confusion soudaine, évanouissement). Le NHS indique d'appeler le 999 au Royaume-Uni."
@@ -262,7 +300,9 @@
     "Les doses en milligrammes viennent uniquement de la directive d'Eswatini de 2012 et seulement pour les infections gynécologiques et du post-partum. Les doses pour les enfants et pour les autres usages (comme l'infection dentaire) ne sont pas données.",
     "La page du NHS sur les interactions n'indique pas d'avertissement sur l'alcool, donc aucun n'est donné ici. Le relecteur doit vérifier la notice et l'ajouter avec une source.",
     "Les pages du NHS décrivent des produits et des numéros d'urgence du Royaume-Uni. Les dosages, les marques et les recommandations locales en Sierra Leone doivent encore être vérifiés par le relecteur.",
-    "Cette directive vient d'Eswatini (alors Swaziland), 2012, et non de la Sierra Leone. C'est une directive nationale officielle, mais elle est ancienne et les doses et politiques en Sierra Leone peuvent différer. Le relecteur doit la comparer à la version actuelle des directives nationales de traitement de la Sierra Leone."
+    "Cette directive vient d'Eswatini (alors Swaziland), 2012, et non de la Sierra Leone. C'est une directive nationale officielle, mais elle est ancienne et les doses et politiques en Sierra Leone peuvent différer. Le relecteur doit la comparer à la version actuelle des directives nationales de traitement de la Sierra Leone.",
+    "La directive de la Sierra Leone autorise le métronidazole 500 mg toutes les 12 heures pour la vaginose bactérienne pendant la grossesse, alors que la directive d'Eswatini le déclare contre-indiqué au premier trimestre. Le relecteur doit comparer les deux.",
+    "Les directives nationales de traitement de la Sierra Leone sont la référence nationale et doivent primer lorsqu'elles diffèrent des autres sources. Le relecteur doit confirmer les chiffres avec l'édition imprimée de 2021."
    ]
   }
  },
@@ -285,6 +325,14 @@
    {
     "title": "Ministry of Health, Kingdom of Swaziland (2012): Standard Treatment Guidelines and Essential Medicines List of Common Medical Conditions in the Kingdom of Swaziland, 1st edition (supported by PEPFAR, USAID and the SPS Program, Management Sciences for Health)",
     "url": null
+   },
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Standard Treatment Guidelines 2021 (3rd edition). Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://mohs.gov.sl/download/71/pharmaceutical-service/18081/standard-treatment-guidelines_sierra-leone-2021-edition.pdf"
+   },
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Essential Medicines List, 2021 edition. Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://chasl.sl/wp-content/uploads/2026/05/National-Essential-Medicines-List_Sierra_Leone-2021-Edition-1.pdf"
    }
   ],
   "en": {
@@ -301,7 +349,9 @@
     "Adults, 400 mg tablets or capsules: 1 whole, up to 3 times a day, at least 4 hours apart, no more than 3 in 24 hours (NHS).",
     "Do not take tablets or capsules for more than 10 days unless a doctor advises it. See a health worker if pain gets worse or does not go away (NHS).",
     "Doses for liquids, granules and long-acting or dissolving tablets are not given: follow the packet. Doses for children are not covered here.",
-    "The Eswatini 2012 guideline gives ibuprofen 200 mg to 400 mg by mouth every 8 hours for 2 to 3 days for period pain (primary dysmenorrhoea) and for abnormal uterine bleeding not caused by disease. Mefenamic acid 250 mg to 500 mg every 8 hours for 2 to 3 days is the alternative it names."
+    "The Eswatini 2012 guideline gives ibuprofen 200 mg to 400 mg by mouth every 8 hours for 2 to 3 days for period pain (primary dysmenorrhoea) and for abnormal uterine bleeding not caused by disease. Mefenamic acid 250 mg to 500 mg every 8 hours for 2 to 3 days is the alternative it names.",
+    "Sierra Leone Standard Treatment Guidelines 2021, mild pain: adults 400 mg every 6 to 8 hours, up to 2,400 mg a day; children 5 to 10 mg for each kg of body weight every 6 to 8 hours, only in children over 3 months. For heavy menstrual bleeding: 400 mg every 6 to 8 hours for 5 days.",
+    "Sierra Leone Essential Medicines List 2021: tablets of 200 mg and 400 mg, syrup 125 mg per 5 ml and 10% gel are listed at all five levels of use shown in the list (T, S, CHC, CHP and MCHP)."
    ],
    "who_careful": [
     "The NHS says it is not suitable if you have had an allergic reaction to ibuprofen, aspirin or another NSAID; have or have had a stomach ulcer; have asthma or allergies such as hay fever; have chickenpox; have a heart, liver or kidney condition; have blood clotting problems; have had a stroke; or are pregnant or trying to conceive."
@@ -325,7 +375,9 @@
     "Doses for children are not included. The NHS page covers adults only.",
     "The NHS lists 'joint and muscle pain' in general. Only muscular back pain is linked here; osteoarthritis and other conditions have not been matched to a source.",
     "The NHS pages describe UK products and UK emergency numbers. Strengths, brands and local guidance in Sierra Leone still need checking by the reviewer.",
-    "This guideline is from Eswatini (then Swaziland), 2012, not Sierra Leone. It is a national government guideline, but it is old and the doses and policies in Sierra Leone may differ. The reviewer should compare with the current Sierra Leone Standard Treatment Guidelines."
+    "This guideline is from Eswatini (then Swaziland), 2012, not Sierra Leone. It is a national government guideline, but it is old and the doses and policies in Sierra Leone may differ. The reviewer should compare with the current Sierra Leone Standard Treatment Guidelines.",
+    "The Sierra Leone guideline allows up to 2,400 mg a day under health-worker care, while the NHS limits self-treatment to 1,200 mg a day. The NHS limit is the safer one for people treating themselves. The reviewer should decide how to present both.",
+    "The Sierra Leone Standard Treatment Guidelines are the national guideline and should be given first place when they differ from other sources. The reviewer should confirm the figures against the printed 2021 edition."
    ]
   },
   "fr": {
@@ -342,7 +394,9 @@
     "Adultes, comprimés ou gélules de 400 mg : 1 entier, jusqu'à 3 fois par jour, espacés d'au moins 4 heures, pas plus de 3 en 24 heures (NHS).",
     "Ne pas prendre les comprimés ou gélules plus de 10 jours sauf avis d'un médecin. Consulter si la douleur s'aggrave ou ne passe pas (NHS).",
     "Les doses pour les liquides, les granulés et les comprimés à libération prolongée ou orodispersibles ne sont pas données : suivre la notice. Les doses pour les enfants ne sont pas couvertes ici.",
-    "La directive d'Eswatini de 2012 donne l'ibuprofène 200 mg à 400 mg par voie orale toutes les 8 heures pendant 2 à 3 jours pour les règles douloureuses (dysménorrhée primaire) et pour les saignements utérins anormaux non dus à une maladie. L'acide méfénamique 250 mg à 500 mg toutes les 8 heures pendant 2 à 3 jours est l'alternative qu'elle cite."
+    "La directive d'Eswatini de 2012 donne l'ibuprofène 200 mg à 400 mg par voie orale toutes les 8 heures pendant 2 à 3 jours pour les règles douloureuses (dysménorrhée primaire) et pour les saignements utérins anormaux non dus à une maladie. L'acide méfénamique 250 mg à 500 mg toutes les 8 heures pendant 2 à 3 jours est l'alternative qu'elle cite.",
+    "Directives nationales de traitement de la Sierra Leone 2021, douleur légère : adultes 400 mg toutes les 6 à 8 heures, jusqu'à 2 400 mg par jour ; enfants 5 à 10 mg par kg de poids corporel toutes les 6 à 8 heures, seulement chez les enfants de plus de 3 mois. Pour les règles abondantes : 400 mg toutes les 6 à 8 heures pendant 5 jours.",
+    "Liste nationale des médicaments essentiels de la Sierra Leone 2021 : comprimés de 200 mg et 400 mg, sirop 125 mg pour 5 ml et gel à 10 % listés aux cinq niveaux d'utilisation indiqués dans la liste (T, S, CHC, CHP et MCHP)."
    ],
    "who_careful": [
     "Le NHS indique qu'il ne convient pas en cas de réaction allergique à l'ibuprofène, à l'aspirine ou à un autre AINS ; d'ulcère de l'estomac actuel ou passé ; d'asthme ou d'allergies comme le rhume des foins ; de varicelle ; de maladie du cœur, du foie ou des reins ; de troubles de la coagulation ; d'accident vasculaire cérébral passé ; ou de grossesse ou de désir de grossesse."
@@ -366,7 +420,9 @@
     "Les doses pour les enfants ne sont pas incluses. La page du NHS ne concerne que les adultes.",
     "Le NHS cite de façon générale « douleurs articulaires et musculaires ». Seules les douleurs musculaires du dos sont liées ici ; l'arthrose et d'autres maladies n'ont pas été reliées à une source.",
     "Les pages du NHS décrivent des produits et des numéros d'urgence du Royaume-Uni. Les dosages, les marques et les recommandations locales en Sierra Leone doivent encore être vérifiés par le relecteur.",
-    "Cette directive vient d'Eswatini (alors Swaziland), 2012, et non de la Sierra Leone. C'est une directive nationale officielle, mais elle est ancienne et les doses et politiques en Sierra Leone peuvent différer. Le relecteur doit la comparer à la version actuelle des directives nationales de traitement de la Sierra Leone."
+    "Cette directive vient d'Eswatini (alors Swaziland), 2012, et non de la Sierra Leone. C'est une directive nationale officielle, mais elle est ancienne et les doses et politiques en Sierra Leone peuvent différer. Le relecteur doit la comparer à la version actuelle des directives nationales de traitement de la Sierra Leone.",
+    "La directive de la Sierra Leone autorise jusqu'à 2 400 mg par jour sous la supervision d'un agent de santé, alors que le NHS limite l'automédication à 1 200 mg par jour. La limite du NHS est la plus sûre pour les personnes qui se soignent seules. Le relecteur doit décider comment présenter les deux.",
+    "Les directives nationales de traitement de la Sierra Leone sont la référence nationale et doivent primer lorsqu'elles diffèrent des autres sources. Le relecteur doit confirmer les chiffres avec l'édition imprimée de 2021."
    ]
   }
  },
@@ -389,6 +445,14 @@
    {
     "title": "Ministry of Health, Kingdom of Swaziland (2012): Standard Treatment Guidelines and Essential Medicines List of Common Medical Conditions in the Kingdom of Swaziland, 1st edition (supported by PEPFAR, USAID and the SPS Program, Management Sciences for Health)",
     "url": null
+   },
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Standard Treatment Guidelines 2021 (3rd edition). Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://mohs.gov.sl/download/71/pharmaceutical-service/18081/standard-treatment-guidelines_sierra-leone-2021-edition.pdf"
+   },
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Essential Medicines List, 2021 edition. Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://chasl.sl/wp-content/uploads/2026/05/National-Essential-Medicines-List_Sierra_Leone-2021-Edition-1.pdf"
    }
   ],
   "en": {
@@ -401,7 +465,9 @@
     "It is also sometimes used for acne and rosacea, and to prevent malaria when travelling to areas where malaria is common (NHS)."
    ],
    "how_used": [
-    "The NHS page gives no milligram doses. It says most people take it once or twice a day for a few days or weeks, depending on the reason. The Eswatini 2012 guideline gives 100 mg by mouth every 12 hours: for 7 days for a vaginal discharge when gonorrhoea or chlamydia is suspected (with ciprofloxacin 500 mg and metronidazole), and for 14 days for pelvic inflammatory disease (with metronidazole and a single dose of ciprofloxacin, spectinomycin or ceftriaxone). Follow the packet or leaflet and the prescriber."
+    "The NHS page gives no milligram doses. It says most people take it once or twice a day for a few days or weeks, depending on the reason. The Eswatini 2012 guideline gives 100 mg by mouth every 12 hours: for 7 days for a vaginal discharge when gonorrhoea or chlamydia is suspected (with ciprofloxacin 500 mg and metronidazole), and for 14 days for pelvic inflammatory disease (with metronidazole and a single dose of ciprofloxacin, spectinomycin or ceftriaxone). Follow the packet or leaflet and the prescriber.",
+    "Sierra Leone Standard Treatment Guidelines 2021, pelvic inflammatory disease: 100 mg every 12 hours for 14 days, with metronidazole; in pregnancy erythromycin is used instead. Cholera: a single dose of 7 mg/kg by mouth, not more than 300 mg; or 2 mg/kg twice on day 1 then 2 mg/kg on days 2 and 3, not more than 100 mg per dose.",
+    "Sierra Leone Essential Medicines List 2021: capsules of 100 mg are listed at all five levels of use shown in the list (T, S, CHC, CHP and MCHP)."
    ],
    "who_careful": [
     "The NHS says most adults and children aged 12 years or over can take it. It is not usually given to younger children because it can affect how their teeth develop.",
@@ -427,7 +493,9 @@
     "Use in cholera, plague, leptospirosis, brucellosis and scrub typhus is common in guidelines, but no source has been read for these yet, so those diseases are not linked.",
     "The NHS page mentions malaria prevention for travellers only. Its use for malaria in people who live in endemic areas needs a separate source.",
     "The NHS pages describe UK products and UK emergency numbers. Strengths, brands and local guidance in Sierra Leone still need checking by the reviewer.",
-    "This guideline is from Eswatini (then Swaziland), 2012, not Sierra Leone. It is a national government guideline, but it is old and the doses and policies in Sierra Leone may differ. The reviewer should compare with the current Sierra Leone Standard Treatment Guidelines."
+    "This guideline is from Eswatini (then Swaziland), 2012, not Sierra Leone. It is a national government guideline, but it is old and the doses and policies in Sierra Leone may differ. The reviewer should compare with the current Sierra Leone Standard Treatment Guidelines.",
+    "The Sierra Leone guideline has several other uses of doxycycline (for example in sexually transmitted infections and skin disease). They were not read for this entry.",
+    "The Sierra Leone Standard Treatment Guidelines are the national guideline and should be given first place when they differ from other sources. The reviewer should confirm the figures against the printed 2021 edition."
    ]
   },
   "fr": {
@@ -440,7 +508,9 @@
     "Il est aussi parfois utilisé contre l'acné et la rosacée, et pour prévenir le paludisme en voyage dans les zones où il est fréquent (NHS)."
    ],
    "how_used": [
-    "La page du NHS ne donne pas de doses en milligrammes. Elle indique que la plupart des gens le prennent une ou deux fois par jour pendant quelques jours ou semaines, selon le motif. La directive d'Eswatini de 2012 donne 100 mg par voie orale toutes les 12 heures : pendant 7 jours pour un écoulement vaginal lorsqu'une gonorrhée ou une chlamydiose est suspectée (avec la ciprofloxacine 500 mg et le métronidazole), et pendant 14 jours pour l'infection pelvienne (avec le métronidazole et une dose unique de ciprofloxacine, de spectinomycine ou de ceftriaxone). Suivre la notice et le prescripteur."
+    "La page du NHS ne donne pas de doses en milligrammes. Elle indique que la plupart des gens le prennent une ou deux fois par jour pendant quelques jours ou semaines, selon le motif. La directive d'Eswatini de 2012 donne 100 mg par voie orale toutes les 12 heures : pendant 7 jours pour un écoulement vaginal lorsqu'une gonorrhée ou une chlamydiose est suspectée (avec la ciprofloxacine 500 mg et le métronidazole), et pendant 14 jours pour l'infection pelvienne (avec le métronidazole et une dose unique de ciprofloxacine, de spectinomycine ou de ceftriaxone). Suivre la notice et le prescripteur.",
+    "Directives nationales de traitement de la Sierra Leone 2021, maladie inflammatoire pelvienne : 100 mg toutes les 12 heures pendant 14 jours, avec le métronidazole ; pendant la grossesse l'érythromycine est utilisée à la place. Choléra : une dose unique de 7 mg/kg par voie orale, sans dépasser 300 mg ; ou 2 mg/kg deux fois le jour 1 puis 2 mg/kg les jours 2 et 3, sans dépasser 100 mg par dose.",
+    "Liste nationale des médicaments essentiels de la Sierra Leone 2021 : gélules de 100 mg listées aux cinq niveaux d'utilisation indiqués dans la liste (T, S, CHC, CHP et MCHP)."
    ],
    "who_careful": [
     "Le NHS indique que la plupart des adultes et des enfants de 12 ans ou plus peuvent le prendre. Il n'est généralement pas donné aux enfants plus jeunes car il peut affecter le développement des dents.",
@@ -466,7 +536,9 @@
     "L'usage dans le choléra, la peste, la leptospirose, la brucellose et le typhus des broussailles est courant dans les recommandations, mais aucune source n'a encore été lue pour eux, donc ces maladies ne sont pas liées.",
     "La page du NHS ne mentionne la prévention du paludisme que pour les voyageurs. Son usage contre le paludisme chez les personnes vivant en zone d'endémie demande une source distincte.",
     "Les pages du NHS décrivent des produits et des numéros d'urgence du Royaume-Uni. Les dosages, les marques et les recommandations locales en Sierra Leone doivent encore être vérifiés par le relecteur.",
-    "Cette directive vient d'Eswatini (alors Swaziland), 2012, et non de la Sierra Leone. C'est une directive nationale officielle, mais elle est ancienne et les doses et politiques en Sierra Leone peuvent différer. Le relecteur doit la comparer à la version actuelle des directives nationales de traitement de la Sierra Leone."
+    "Cette directive vient d'Eswatini (alors Swaziland), 2012, et non de la Sierra Leone. C'est une directive nationale officielle, mais elle est ancienne et les doses et politiques en Sierra Leone peuvent différer. Le relecteur doit la comparer à la version actuelle des directives nationales de traitement de la Sierra Leone.",
+    "La directive de la Sierra Leone contient plusieurs autres usages de la doxycycline (par exemple dans les infections sexuellement transmissibles et les maladies de la peau). Ils n'ont pas été lus pour cette fiche.",
+    "Les directives nationales de traitement de la Sierra Leone sont la référence nationale et doivent primer lorsqu'elles diffèrent des autres sources. Le relecteur doit confirmer les chiffres avec l'édition imprimée de 2021."
    ]
   }
  },
@@ -505,6 +577,14 @@
    {
     "title": "WHO (2016): WHO recommendations on antenatal care for a positive pregnancy experience, executive summary",
     "url": null
+   },
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Standard Treatment Guidelines 2021 (3rd edition). Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://mohs.gov.sl/download/71/pharmaceutical-service/18081/standard-treatment-guidelines_sierra-leone-2021-edition.pdf"
+   },
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Essential Medicines List, 2021 edition. Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://chasl.sl/wp-content/uploads/2026/05/National-Essential-Medicines-List_Sierra_Leone-2021-Edition-1.pdf"
    }
   ],
   "en": {
@@ -523,7 +603,10 @@
     "In pregnancy, the WHO recommends 30 mg to 60 mg of elemental iron daily together with 400 µg of folic acid. The WHO page gives no length of course (WHO eLENA).",
     "Anaemia in pregnancy, prevention (all antenatal patients): ferrous sulphate 200 mg by mouth daily with food, plus folic acid 5 mg daily, plus vitamin C daily (Eswatini STG 2012).",
     "Anaemia in pregnancy, treatment: if haemoglobin is below 11 g/dL, ferrous sulphate 200 mg by mouth 3 times a day with food, and for 1 month afterwards at the preventive dose (Eswatini STG 2012).",
-    "The WHO writes the pregnancy dose as elemental iron. It says 60 mg of elemental iron equals 300 mg of ferrous sulfate heptahydrate (or 180 mg of ferrous fumarate, or 500 mg of ferrous gluconate), and 120 mg of elemental iron equals 600 mg of ferrous sulfate heptahydrate (WHO 2016, footnotes). The weekly option is 120 mg of elemental iron with 2,800 µg of folic acid when daily iron causes side effects (see the folic acid entry)."
+    "The WHO writes the pregnancy dose as elemental iron. It says 60 mg of elemental iron equals 300 mg of ferrous sulfate heptahydrate (or 180 mg of ferrous fumarate, or 500 mg of ferrous gluconate), and 120 mg of elemental iron equals 600 mg of ferrous sulfate heptahydrate (WHO 2016, footnotes). The weekly option is 120 mg of elemental iron with 2,800 µg of folic acid when daily iron causes side effects (see the folic acid entry).",
+    "Sierra Leone Standard Treatment Guidelines 2021, anaemia in pregnancy: treatment is recommended when haemoglobin falls below 10 g/dL (anaemia is defined as below 11.5 g/dL). Ferrous sulphate 200 mg by mouth 3 times a day with meals, with folic acid 5 mg daily. For prevention the guideline says to give oral iron and folic acid supplements, without a dose.",
+    "Sierra Leone Standard Treatment Guidelines 2021, iron deficiency anaemia in adults: a tablet of 200 mg ferrous sulphate with 0.4 mg folic acid, 3 times a day, which the guideline says is equivalent to 180 mg of elemental iron a day, so about 60 mg of elemental iron per tablet. With it, give albendazole 400 mg as a single dose. In another section (heavy menstrual bleeding) it gives ferrous sulphate and folic acid equivalent to 60 mg iron plus 0.4 mg folic acid daily.",
+    "Sierra Leone Essential Medicines List 2021: ferrous salt oral liquid (25 mg iron per ml), a tablet of ferrous salt with 60 mg iron plus 400 micrograms folic acid, and folic acid 5 mg tablets are listed at all five levels of use shown in the list (T, S, CHC, CHP and MCHP)."
    ],
    "who_careful": [
     "The NHS says most adults and some children aged 12 and over can take it with a doctor's or pharmacist's advice. Speak to a doctor first if you have had an allergic reaction to it; have an anaemia not caused by low iron; have haemochromatosis or haemosiderosis; have sickle cell anaemia or thalassaemia; have a stomach ulcer, stomach surgery or bowel disease; receive repeated blood transfusions; or have blood in your urine."
@@ -547,8 +630,9 @@
     "The WHO eLENA page does not give a year for its recommendation; it says it replaces the 2012 WHO guideline on daily iron and folic acid in pregnant women.",
     "Where malaria is common, advice on iron in children is not covered here.",
     "The NHS pages describe UK products and UK emergency numbers. Strengths, brands and local guidance in Sierra Leone still need checking by the reviewer.",
-    "The WHO figure for pregnancy is 30 mg to 60 mg of elemental iron a day, while the Eswatini guideline gives a 200 mg ferrous sulphate tablet. If the Eswatini tablet is the heptahydrate form, 200 mg is about 40 mg of elemental iron, which is within the WHO range; the Eswatini guideline does not say which form it means. The reviewer should check the iron content of the tablet used in Sierra Leone.",
-    "This guideline is from Eswatini (then Swaziland), 2012, not Sierra Leone. It is a national government guideline, but it is old and the doses and policies in Sierra Leone may differ. The reviewer should compare with the current Sierra Leone Standard Treatment Guidelines."
+    "The WHO figure for pregnancy is 30 mg to 60 mg of elemental iron a day, while the Eswatini guideline gives a 200 mg ferrous sulphate tablet. If the Eswatini tablet is the heptahydrate form, 200 mg is about 40 mg of elemental iron, which is within the WHO range; the Eswatini guideline does not say which form it means. The reviewer should check the iron content of the tablet used in Sierra Leone. The Sierra Leone 2021 guideline says a 200 mg ferrous sulphate tablet with folic acid is about 60 mg of elemental iron, which is at the top of the WHO range.",
+    "This guideline is from Eswatini (then Swaziland), 2012, not Sierra Leone. It is a national government guideline, but it is old and the doses and policies in Sierra Leone may differ. The reviewer should compare with the current Sierra Leone Standard Treatment Guidelines.",
+    "The Sierra Leone Standard Treatment Guidelines are the national guideline and should be given first place when they differ from other sources. The reviewer should confirm the figures against the printed 2021 edition."
    ]
   },
   "fr": {
@@ -567,7 +651,10 @@
     "Pendant la grossesse, l'OMS recommande 30 mg à 60 mg de fer élémentaire par jour avec 400 µg d'acide folique. La page de l'OMS ne donne pas de durée de traitement (OMS eLENA).",
     "Anémie pendant la grossesse, prévention (toutes les femmes suivies en consultation prénatale) : sulfate ferreux 200 mg par voie orale par jour avec un repas, plus acide folique 5 mg par jour, plus vitamine C par jour (STG d'Eswatini 2012).",
     "Anémie pendant la grossesse, traitement : si l'hémoglobine est inférieure à 11 g/dL, sulfate ferreux 200 mg par voie orale 3 fois par jour avec un repas, puis pendant 1 mois à la dose préventive (STG d'Eswatini 2012).",
-    "L'OMS exprime la dose de la grossesse en fer élémentaire. Elle indique que 60 mg de fer élémentaire équivalent à 300 mg de sulfate ferreux heptahydraté (ou 180 mg de fumarate ferreux, ou 500 mg de gluconate ferreux), et que 120 mg de fer élémentaire équivalent à 600 mg de sulfate ferreux heptahydraté (OMS 2016, notes de bas de page). L'option hebdomadaire est de 120 mg de fer élémentaire avec 2 800 µg d'acide folique lorsque le fer quotidien cause des effets indésirables (voir la fiche acide folique)."
+    "L'OMS exprime la dose de la grossesse en fer élémentaire. Elle indique que 60 mg de fer élémentaire équivalent à 300 mg de sulfate ferreux heptahydraté (ou 180 mg de fumarate ferreux, ou 500 mg de gluconate ferreux), et que 120 mg de fer élémentaire équivalent à 600 mg de sulfate ferreux heptahydraté (OMS 2016, notes de bas de page). L'option hebdomadaire est de 120 mg de fer élémentaire avec 2 800 µg d'acide folique lorsque le fer quotidien cause des effets indésirables (voir la fiche acide folique).",
+    "Directives nationales de traitement de la Sierra Leone 2021, anémie de la grossesse : le traitement est recommandé lorsque l'hémoglobine tombe sous 10 g/dL (l'anémie est définie comme inférieure à 11,5 g/dL). Sulfate ferreux 200 mg par voie orale 3 fois par jour pendant les repas, avec acide folique 5 mg par jour. Pour la prévention, la directive indique de donner des suppléments oraux de fer et d'acide folique, sans dose.",
+    "Directives nationales de traitement de la Sierra Leone 2021, anémie par carence en fer chez l'adulte : un comprimé de 200 mg de sulfate ferreux avec 0,4 mg d'acide folique, 3 fois par jour, ce que la directive dit équivalent à 180 mg de fer élémentaire par jour, soit environ 60 mg de fer élémentaire par comprimé. Avec lui, donner l'albendazole 400 mg en dose unique. Dans une autre section (règles abondantes), elle donne le sulfate ferreux et l'acide folique équivalents à 60 mg de fer plus 0,4 mg d'acide folique par jour.",
+    "Liste nationale des médicaments essentiels de la Sierra Leone 2021 : solution buvable de sel ferreux (25 mg de fer par ml), comprimé de sel ferreux avec 60 mg de fer plus 400 microgrammes d'acide folique, et comprimés d'acide folique 5 mg listés aux cinq niveaux d'utilisation indiqués dans la liste (T, S, CHC, CHP et MCHP)."
    ],
    "who_careful": [
     "Le NHS indique que la plupart des adultes et certains enfants de 12 ans et plus peuvent le prendre avec l'avis d'un médecin ou d'un pharmacien. Demander d'abord l'avis d'un médecin en cas de réaction allergique passée ; d'anémie non due à un manque de fer ; d'hémochromatose ou d'hémosidérose ; de drépanocytose ou de thalassémie ; d'ulcère de l'estomac, de chirurgie de l'estomac ou de maladie de l'intestin ; de transfusions répétées ; ou de sang dans les urines."
@@ -591,8 +678,9 @@
     "La page eLENA de l'OMS ne donne pas d'année pour sa recommandation ; elle indique qu'elle remplace la directive OMS de 2012 sur le fer et l'acide folique quotidiens chez la femme enceinte.",
     "Là où le paludisme est fréquent, les conseils sur le fer chez l'enfant ne sont pas couverts ici.",
     "Les pages du NHS décrivent des produits et des numéros d'urgence du Royaume-Uni. Les dosages, les marques et les recommandations locales en Sierra Leone doivent encore être vérifiés par le relecteur.",
-    "Le chiffre de l'OMS pour la grossesse est de 30 mg à 60 mg de fer élémentaire par jour, alors que la directive d'Eswatini donne un comprimé de sulfate ferreux de 200 mg. Si le comprimé d'Eswatini est la forme heptahydratée, 200 mg correspondent à environ 40 mg de fer élémentaire, ce qui est dans la fourchette de l'OMS ; la directive d'Eswatini ne précise pas de quelle forme il s'agit. Le relecteur doit vérifier la teneur en fer du comprimé utilisé en Sierra Leone.",
-    "Cette directive vient d'Eswatini (alors Swaziland), 2012, et non de la Sierra Leone. C'est une directive nationale officielle, mais elle est ancienne et les doses et politiques en Sierra Leone peuvent différer. Le relecteur doit la comparer à la version actuelle des directives nationales de traitement de la Sierra Leone."
+    "Le chiffre de l'OMS pour la grossesse est de 30 mg à 60 mg de fer élémentaire par jour, alors que la directive d'Eswatini donne un comprimé de sulfate ferreux de 200 mg. Si le comprimé d'Eswatini est la forme heptahydratée, 200 mg correspondent à environ 40 mg de fer élémentaire, ce qui est dans la fourchette de l'OMS ; la directive d'Eswatini ne précise pas de quelle forme il s'agit. Le relecteur doit vérifier la teneur en fer du comprimé utilisé en Sierra Leone. La directive de la Sierra Leone de 2021 indique qu'un comprimé de sulfate ferreux de 200 mg avec de l'acide folique correspond à environ 60 mg de fer élémentaire, ce qui est en haut de la fourchette de l'OMS.",
+    "Cette directive vient d'Eswatini (alors Swaziland), 2012, et non de la Sierra Leone. C'est une directive nationale officielle, mais elle est ancienne et les doses et politiques en Sierra Leone peuvent différer. Le relecteur doit la comparer à la version actuelle des directives nationales de traitement de la Sierra Leone.",
+    "Les directives nationales de traitement de la Sierra Leone sont la référence nationale et doivent primer lorsqu'elles diffèrent des autres sources. Le relecteur doit confirmer les chiffres avec l'édition imprimée de 2021."
    ]
   }
  },
@@ -621,6 +709,14 @@
    {
     "title": "USAID Maternal and Child Survival Program (2018): 2016 WHO Antenatal Care Guidelines: Malaria in Pregnancy Frequently Asked Questions (summary of WHO advice)",
     "url": null
+   },
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Standard Treatment Guidelines 2021 (3rd edition). Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://mohs.gov.sl/download/71/pharmaceutical-service/18081/standard-treatment-guidelines_sierra-leone-2021-edition.pdf"
+   },
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Essential Medicines List, 2021 edition. Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://chasl.sl/wp-content/uploads/2026/05/National-Essential-Medicines-List_Sierra_Leone-2021-Edition-1.pdf"
    }
   ],
   "en": {
@@ -637,7 +733,9 @@
     "The WHO recommends 400 µg (0.4 mg) of folic acid daily with 30 mg to 60 mg of elemental iron in pregnancy, started as early as possible, ideally before conception, to prevent neural tube defects. The page gives no length of course (WHO eLENA).",
     "Missed dose: take it as soon as you remember, then the next at the usual time. Do not take two doses to make up (NHS).",
     "The Eswatini guideline gives folic acid 5 mg by mouth daily for all antenatal patients, together with ferrous sulphate 200 mg daily and vitamin C, to prevent anaemia in pregnancy (Eswatini STG 2012). Warning: 5 mg a day should not be given with sulfadoxine-pyrimethamine (see 'Other medicines').",
-    "WHO recommends 30 mg to 60 mg of elemental iron and 400 µg (0.4 mg) of folic acid every day in pregnancy to prevent maternal anaemia, puerperal sepsis, low birth weight and preterm birth. If daily iron is not acceptable because of side effects, or where fewer than 20% of pregnant women are anaemic, WHO gives a once-weekly option of 120 mg elemental iron with 2,800 µg (2.8 mg) of folic acid. Folic acid should start as early as possible, ideally before conception (WHO 2016, antenatal care recommendations)."
+    "WHO recommends 30 mg to 60 mg of elemental iron and 400 µg (0.4 mg) of folic acid every day in pregnancy to prevent maternal anaemia, puerperal sepsis, low birth weight and preterm birth. If daily iron is not acceptable because of side effects, or where fewer than 20% of pregnant women are anaemic, WHO gives a once-weekly option of 120 mg elemental iron with 2,800 µg (2.8 mg) of folic acid. Folic acid should start as early as possible, ideally before conception (WHO 2016, antenatal care recommendations).",
+    "Sierra Leone Standard Treatment Guidelines 2021: anaemia in pregnancy, 5 mg daily with ferrous sulphate. Folic acid deficiency: adults 5 mg daily for 30 days; children 2.5 to 5 mg daily for 30 days, continued for 3 months after the haemoglobin becomes normal. Sickle cell disease in the steady state: 5 mg daily, and 2.5 mg daily in children under 1 year. Do not give folic acid alone for megaloblastic anaemia caused by vitamin B12 deficiency.",
+    "Sierra Leone Essential Medicines List 2021: folic acid 5 mg tablets, and the ferrous salt plus folic acid tablet (60 mg iron plus 400 micrograms folic acid), are listed at all five levels of use shown in the list (T, S, CHC, CHP and MCHP)."
    ],
    "who_careful": [
     "May not be suitable if you have had an allergic reaction to it, have vitamin B12 deficiency or pernicious anaemia, have a coronary stent, or have cancer (NHS).",
@@ -664,7 +762,9 @@
     "The higher dose for women at higher risk is not stated on the NHS page and is not given here.",
     "The NHS pages describe UK products and UK emergency numbers. Strengths, brands and local guidance in Sierra Leone still need checking by the reviewer.",
     "The doses of the sources differ: WHO recommends 400 µg (0.4 mg) of folic acid daily in pregnancy, while the Eswatini guideline gives 5 mg daily to prevent anaemia in pregnancy. Where sulfadoxine-pyrimethamine is given in pregnancy, as in Sierra Leone, 5 mg or more should not be used with it. The reviewer should decide which dose applies in Sierra Leone.",
-    "This guideline is from Eswatini (then Swaziland), 2012, not Sierra Leone. It is a national government guideline, but it is old and the doses and policies in Sierra Leone may differ. The reviewer should compare with the current Sierra Leone Standard Treatment Guidelines."
+    "This guideline is from Eswatini (then Swaziland), 2012, not Sierra Leone. It is a national government guideline, but it is old and the doses and policies in Sierra Leone may differ. The reviewer should compare with the current Sierra Leone Standard Treatment Guidelines.",
+    "The Sierra Leone guideline gives folic acid 5 mg daily for anaemia in pregnancy and for sickle cell disease. In the sickle cell section it also lists weekly sulfadoxine-pyrimethamine for malaria. A 2018 programme summary of WHO advice says 5 mg or more of folic acid should not be given with SP. The reviewer should check this overlap against the current WHO advice before the entry is marked reviewed.",
+    "The Sierra Leone Standard Treatment Guidelines are the national guideline and should be given first place when they differ from other sources. The reviewer should confirm the figures against the printed 2021 edition."
    ]
   },
   "fr": {
@@ -681,7 +781,9 @@
     "L'OMS recommande 400 µg (0,4 mg) d'acide folique par jour avec 30 mg à 60 mg de fer élémentaire pendant la grossesse, à commencer le plus tôt possible, idéalement avant la conception, pour prévenir les anomalies du tube neural. La page ne donne pas de durée (OMS eLENA).",
     "Dose oubliée : la prendre dès que l'on s'en souvient, puis la suivante à l'heure habituelle. Ne pas prendre deux doses pour compenser (NHS).",
     "La directive d'Eswatini donne l'acide folique 5 mg par voie orale par jour pour toutes les femmes suivies en consultation prénatale, avec le sulfate ferreux 200 mg par jour et la vitamine C, pour prévenir l'anémie pendant la grossesse (STG d'Eswatini 2012). Attention : 5 mg par jour ne doit pas être donné avec la sulfadoxine-pyriméthamine (voir « Autres médicaments »).",
-    "L'OMS recommande 30 mg à 60 mg de fer élémentaire et 400 µg (0,4 mg) d'acide folique chaque jour pendant la grossesse pour prévenir l'anémie maternelle, la septicémie puerpérale, l'insuffisance de poids à la naissance et la naissance prématurée. Si le fer quotidien n'est pas acceptable en raison des effets indésirables, ou lorsque moins de 20 % des femmes enceintes sont anémiques, l'OMS donne une option hebdomadaire de 120 mg de fer élémentaire avec 2 800 µg (2,8 mg) d'acide folique. L'acide folique doit être commencé le plus tôt possible, idéalement avant la conception (OMS 2016, recommandations sur les soins prénatals)."
+    "L'OMS recommande 30 mg à 60 mg de fer élémentaire et 400 µg (0,4 mg) d'acide folique chaque jour pendant la grossesse pour prévenir l'anémie maternelle, la septicémie puerpérale, l'insuffisance de poids à la naissance et la naissance prématurée. Si le fer quotidien n'est pas acceptable en raison des effets indésirables, ou lorsque moins de 20 % des femmes enceintes sont anémiques, l'OMS donne une option hebdomadaire de 120 mg de fer élémentaire avec 2 800 µg (2,8 mg) d'acide folique. L'acide folique doit être commencé le plus tôt possible, idéalement avant la conception (OMS 2016, recommandations sur les soins prénatals).",
+    "Directives nationales de traitement de la Sierra Leone 2021 : anémie de la grossesse, 5 mg par jour avec le sulfate ferreux. Carence en acide folique : adultes 5 mg par jour pendant 30 jours ; enfants 2,5 à 5 mg par jour pendant 30 jours, poursuivi 3 mois après la normalisation de l'hémoglobine. Drépanocytose à l'état stable : 5 mg par jour, et 2,5 mg par jour chez les enfants de moins de 1 an. Ne pas donner l'acide folique seul pour une anémie mégaloblastique due à une carence en vitamine B12.",
+    "Liste nationale des médicaments essentiels de la Sierra Leone 2021 : comprimés d'acide folique 5 mg, et comprimé de sel ferreux plus acide folique (60 mg de fer plus 400 microgrammes d'acide folique), listés aux cinq niveaux d'utilisation indiqués dans la liste (T, S, CHC, CHP et MCHP)."
    ],
    "who_careful": [
     "Peut ne pas convenir en cas de réaction allergique passée, de carence en vitamine B12 ou d'anémie pernicieuse, de stent coronaire ou de cancer (NHS).",
@@ -708,7 +810,9 @@
     "La dose plus élevée pour les femmes à risque accru n'est pas indiquée sur la page du NHS et n'est pas donnée ici.",
     "Les pages du NHS décrivent des produits et des numéros d'urgence du Royaume-Uni. Les dosages, les marques et les recommandations locales en Sierra Leone doivent encore être vérifiés par le relecteur.",
     "Les doses des sources diffèrent : l'OMS recommande 400 µg (0,4 mg) d'acide folique par jour pendant la grossesse, alors que la directive d'Eswatini donne 5 mg par jour pour prévenir l'anémie de la grossesse. Là où la sulfadoxine-pyriméthamine est donnée pendant la grossesse, comme en Sierra Leone, 5 mg ou plus ne doivent pas être utilisés avec elle. Le relecteur doit décider quelle dose s'applique en Sierra Leone.",
-    "Cette directive vient d'Eswatini (alors Swaziland), 2012, et non de la Sierra Leone. C'est une directive nationale officielle, mais elle est ancienne et les doses et politiques en Sierra Leone peuvent différer. Le relecteur doit la comparer à la version actuelle des directives nationales de traitement de la Sierra Leone."
+    "Cette directive vient d'Eswatini (alors Swaziland), 2012, et non de la Sierra Leone. C'est une directive nationale officielle, mais elle est ancienne et les doses et politiques en Sierra Leone peuvent différer. Le relecteur doit la comparer à la version actuelle des directives nationales de traitement de la Sierra Leone.",
+    "La directive de la Sierra Leone donne l'acide folique 5 mg par jour pour l'anémie de la grossesse et pour la drépanocytose. Dans la section drépanocytose, elle liste aussi la sulfadoxine-pyriméthamine hebdomadaire contre le paludisme. Un résumé de programme de 2018 des recommandations de l'OMS indique que 5 mg ou plus d'acide folique ne doivent pas être donnés avec la SP. Le relecteur doit vérifier ce chevauchement avec les recommandations actuelles de l'OMS avant de marquer la fiche comme relue.",
+    "Les directives nationales de traitement de la Sierra Leone sont la référence nationale et doivent primer lorsqu'elles diffèrent des autres sources. Le relecteur doit confirmer les chiffres avec l'édition imprimée de 2021."
    ]
   }
  },
@@ -721,6 +825,14 @@
    {
     "title": "Community Eye Health Journal (2013): Vitamin A supplementation: who, when and how",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3936689"
+   },
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Standard Treatment Guidelines 2021 (3rd edition). Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://mohs.gov.sl/download/71/pharmaceutical-service/18081/standard-treatment-guidelines_sierra-leone-2021-edition.pdf"
+   },
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Essential Medicines List, 2021 edition. Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://chasl.sl/wp-content/uploads/2026/05/National-Essential-Medicines-List_Sierra_Leone-2021-Edition-1.pdf"
    }
   ],
   "en": {
@@ -733,7 +845,9 @@
    ],
    "how_used": [
     "Children 6–11 months: 100,000 IU, once. Children 12–59 months: 200,000 IU every 4–6 months. Given as an oil-based liquid of retinyl palmitate or retinyl acetate (article, citing WHO advice).",
-    "The article says WHO does not recommend supplementation for newborns or infants aged 1–5 months."
+    "The article says WHO does not recommend supplementation for newborns or infants aged 1–5 months.",
+    "Sierra Leone Standard Treatment Guidelines 2021, vitamin A deficiency with eye signs (xerophthalmia): adults 200,000 IU once daily on day 1, day 2 and day 8. Children 6 months to 1 year (under 8 kg): 100,000 IU on day 1, day 2 and day 8. Children over 1 year (over 8 kg): 200,000 IU on day 1, day 2 and day 8. Under 6 months, if deficiency is present: 50,000 IU on day 1, day 2 and day 8. The guideline also recommends high-dose vitamin A for at-risk children, especially those with measles.",
+    "Sierra Leone Essential Medicines List 2021: capsules of 100,000 IU and 200,000 IU are listed at all five levels of use shown in the list (T, S, CHC, CHP and MCHP)."
    ],
    "who_careful": [
     "High-dose supplements are contra-indicated in pregnancy because of uncertain effects on the unborn child. High-dose supplementation immediately after delivery is not recommended (article, citing WHO 2011)."
@@ -742,12 +856,15 @@
     "In trials, uncommon, brief and mild effects were reported in children: irritability, headache, fever, diarrhoea, nausea and vomiting (article)."
    ],
    "pregnancy": [
-    "Routine supplementation in pregnancy is not recommended: pregnant women should get vitamin A from food. Only where deficiency is a severe public health problem, the article gives a low dose of up to 10,000 IU daily or up to 25,000 IU weekly for at least 12 weeks until delivery."
+    "Routine supplementation in pregnancy is not recommended: pregnant women should get vitamin A from food. Only where deficiency is a severe public health problem, the article gives a low dose of up to 10,000 IU daily or up to 25,000 IU weekly for at least 12 weeks until delivery.",
+    "Sierra Leone Standard Treatment Guidelines 2021: in pregnant women be careful because of the risk to the unborn child. For dry conjunctiva or Bitot spots in pregnancy: 10,000 IU daily or 25,000 IU weekly for at least 4 weeks. If the eye disease is severe, the risk of blindness outweighs the risk to the baby and the adult dose is given."
    ],
    "open_points": [
     "This summary comes from a 2013 journal article, not from the WHO guideline itself. The current WHO guideline and any updates since 2013 have not been checked.",
     "Vitamin A in measles and severe malnutrition is part of standard child-health guidance, but it is not covered by this article, so those diseases are not linked yet.",
-    "Safety of the dose in a child who has just received it elsewhere, and the national schedule in Sierra Leone, are not covered."
+    "Safety of the dose in a child who has just received it elsewhere, and the national schedule in Sierra Leone, are not covered.",
+    "The Sierra Leone guideline gives treatment doses for eye signs. The routine supplementation schedule in the first source is a prevention schedule. The two are for different purposes.",
+    "The Sierra Leone Standard Treatment Guidelines are the national guideline and should be given first place when they differ from other sources. The reviewer should confirm the figures against the printed 2021 edition."
    ]
   },
   "fr": {
@@ -760,7 +877,9 @@
    ],
    "how_used": [
     "Enfants de 6 à 11 mois : 100 000 UI, une fois. Enfants de 12 à 59 mois : 200 000 UI tous les 4 à 6 mois. Donné sous forme de liquide huileux de palmitate ou d'acétate de rétinyle (article, citant les recommandations de l'OMS).",
-    "L'article indique que l'OMS ne recommande pas la supplémentation chez les nouveau-nés ni chez les nourrissons de 1 à 5 mois."
+    "L'article indique que l'OMS ne recommande pas la supplémentation chez les nouveau-nés ni chez les nourrissons de 1 à 5 mois.",
+    "Directives nationales de traitement de la Sierra Leone 2021, carence en vitamine A avec signes oculaires (xérophtalmie) : adultes 200 000 UI une fois par jour les jours 1, 2 et 8. Enfants de 6 mois à 1 an (moins de 8 kg) : 100 000 UI les jours 1, 2 et 8. Enfants de plus de 1 an (plus de 8 kg) : 200 000 UI les jours 1, 2 et 8. Avant 6 mois, si la carence est présente : 50 000 UI les jours 1, 2 et 8. La directive recommande aussi la vitamine A à forte dose pour les enfants à risque, surtout ceux atteints de rougeole.",
+    "Liste nationale des médicaments essentiels de la Sierra Leone 2021 : capsules de 100 000 UI et 200 000 UI listées aux cinq niveaux d'utilisation indiqués dans la liste (T, S, CHC, CHP et MCHP)."
    ],
    "who_careful": [
     "Les suppléments à forte dose sont contre-indiqués pendant la grossesse en raison d'effets incertains sur l'enfant à naître. La supplémentation à forte dose juste après l'accouchement n'est pas recommandée (article, citant l'OMS 2011)."
@@ -769,12 +888,15 @@
     "Dans les essais, des effets peu fréquents, brefs et légers ont été rapportés chez les enfants : irritabilité, mal de tête, fièvre, diarrhée, nausées et vomissements (article)."
    ],
    "pregnancy": [
-    "La supplémentation systématique pendant la grossesse n'est pas recommandée : les femmes enceintes doivent obtenir la vitamine A par l'alimentation. Seulement là où la carence est un problème grave de santé publique, l'article cite une faible dose allant jusqu'à 10 000 UI par jour ou 25 000 UI par semaine pendant au moins 12 semaines jusqu'à l'accouchement."
+    "La supplémentation systématique pendant la grossesse n'est pas recommandée : les femmes enceintes doivent obtenir la vitamine A par l'alimentation. Seulement là où la carence est un problème grave de santé publique, l'article cite une faible dose allant jusqu'à 10 000 UI par jour ou 25 000 UI par semaine pendant au moins 12 semaines jusqu'à l'accouchement.",
+    "Directives nationales de traitement de la Sierra Leone 2021 : chez les femmes enceintes, être prudent en raison du risque pour l'enfant à naître. Pour une conjonctive sèche ou des taches de Bitot pendant la grossesse : 10 000 UI par jour ou 25 000 UI par semaine pendant au moins 4 semaines. Si l'atteinte oculaire est grave, le risque de cécité dépasse le risque pour le bébé et la dose adulte est donnée."
    ],
    "open_points": [
     "Ce résumé provient d'un article de revue de 2013 et non de la directive de l'OMS elle-même. La directive actuelle de l'OMS et les mises à jour depuis 2013 n'ont pas été vérifiées.",
     "La vitamine A dans la rougeole et la malnutrition sévère fait partie des recommandations habituelles de santé de l'enfant, mais elle n'est pas couverte par cet article, donc ces maladies ne sont pas encore liées.",
-    "La sécurité de la dose chez un enfant qui vient de la recevoir ailleurs, et le calendrier national de la Sierra Leone, ne sont pas couverts."
+    "La sécurité de la dose chez un enfant qui vient de la recevoir ailleurs, et le calendrier national de la Sierra Leone, ne sont pas couverts.",
+    "La directive de la Sierra Leone donne des doses de traitement pour les signes oculaires. Le calendrier de supplémentation systématique de la première source est un calendrier de prévention. Les deux ont des objectifs différents.",
+    "Les directives nationales de traitement de la Sierra Leone sont la référence nationale et doivent primer lorsqu'elles diffèrent des autres sources. Le relecteur doit confirmer les chiffres avec l'édition imprimée de 2021."
    ]
   }
  },
@@ -793,6 +915,14 @@
    {
     "title": "Ministry of Health, Kingdom of Swaziland (2012): Standard Treatment Guidelines and Essential Medicines List of Common Medical Conditions in the Kingdom of Swaziland, 1st edition (supported by PEPFAR, USAID and the SPS Program, Management Sciences for Health)",
     "url": null
+   },
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Standard Treatment Guidelines 2021 (3rd edition). Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://mohs.gov.sl/download/71/pharmaceutical-service/18081/standard-treatment-guidelines_sierra-leone-2021-edition.pdf"
+   },
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Essential Medicines List, 2021 edition. Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://chasl.sl/wp-content/uploads/2026/05/National-Essential-Medicines-List_Sierra_Leone-2021-Edition-1.pdf"
    }
   ],
   "en": {
@@ -809,19 +939,24 @@
     "Treatment is given where infection with any soil-transmitted worm is 20% or more among children, once a year; twice a year where it is more than 50% (WHO eLENA).",
     "Treating one person with roundworm (ascariasis): albendazole 400 mg by mouth as a single dose, or 20 mL of suspension as a single dose (Eswatini STG 2012). The national list has albendazole 200 mg tablets and 20 mg/mL suspension.",
     "For hookworm, tapeworm and whipworm the same guideline gives mebendazole 500 mg by mouth as a single dose for adults, and 250 mg as a single dose for children under 2 years (Eswatini STG 2012).",
-    "The guideline advises de-worming children regularly, every 3 to 6 months, as prevention against hookworm and whipworm (Eswatini STG 2012)."
+    "The guideline advises de-worming children regularly, every 3 to 6 months, as prevention against hookworm and whipworm (Eswatini STG 2012).",
+    "Sierra Leone Standard Treatment Guidelines 2021: albendazole is the second-line medicine for whipworm, with mebendazole first. Adults 400 mg as a single dose; children 2 years and over 400 mg as a single dose; 1 year to under 2 years 200 mg as a single dose. For iron deficiency anaemia the guideline gives albendazole 400 mg as a single dose with iron.",
+    "Sierra Leone Essential Medicines List 2021: albendazole 200 mg per 5 ml suspension is listed at all five levels of use shown in the list (T, S, CHC, CHP and MCHP)."
    ],
    "open_points": [
     "The WHO eLENA page gives no advice on pregnancy, side effects, cautions or interactions. The pregnancy advice above comes from the Eswatini 2012 guideline only; the WHO advice on pregnancy has not been checked.",
     "Doses for the other worm diseases (such as lymphatic filariasis and onchocerciasis, where other medicines are used) are not covered yet.",
     "The WHO eLENA page does not give the year of the WHO guideline it lists. The reviewer should check the current Sierra Leone deworming schedule.",
-    "This guideline is from Eswatini (then Swaziland), 2012, not Sierra Leone. It is a national government guideline, but it is old and the doses and policies in Sierra Leone may differ. The reviewer should compare with the current Sierra Leone Standard Treatment Guidelines."
+    "This guideline is from Eswatini (then Swaziland), 2012, not Sierra Leone. It is a national government guideline, but it is old and the doses and policies in Sierra Leone may differ. The reviewer should compare with the current Sierra Leone Standard Treatment Guidelines.",
+    "The Sierra Leone guideline de-worms pregnant women with mebendazole in the second and third trimesters, while the Eswatini guideline says anthelmintic medicines are not safe in pregnancy. The reviewer should decide what to show and check the current WHO advice.",
+    "The Sierra Leone Standard Treatment Guidelines are the national guideline and should be given first place when they differ from other sources. The reviewer should confirm the figures against the printed 2021 edition."
    ],
    "who_careful": [
     "The guideline says to refer people with abdominal tenderness, pain and vomiting when treating roundworm, because the worms can form a mass or block the bowel (Eswatini STG 2012)."
    ],
    "pregnancy": [
-    "The Eswatini guideline says anthelmintic medicines including mebendazole are not safe in pregnancy because they may cause congenital defects, so treatment should be delayed until after delivery. It says to refer pregnant women with roundworm."
+    "The Eswatini guideline says anthelmintic medicines including mebendazole are not safe in pregnancy because they may cause congenital defects, so treatment should be delayed until after delivery. It says to refer pregnant women with roundworm.",
+    "Sierra Leone Standard Treatment Guidelines 2021, anaemia in pregnancy: de-worm with mebendazole 500 mg as a single dose in the second and third trimesters."
    ]
   },
   "fr": {
@@ -838,19 +973,24 @@
     "Le traitement est donné là où l'infection par un ver transmis par le sol atteint 20 % ou plus chez les enfants, une fois par an ; deux fois par an là où elle dépasse 50 % (OMS eLENA).",
     "Traiter une personne atteinte d'ascaridiose : albendazole 400 mg par voie orale en dose unique, ou 20 ml de suspension en dose unique (STG d'Eswatini 2012). La liste nationale comprend des comprimés d'albendazole de 200 mg et une suspension de 20 mg/ml.",
     "Pour l'ankylostomiase, le ténia et la trichocéphalose, la même directive donne le mébendazole 500 mg par voie orale en dose unique chez l'adulte, et 250 mg en dose unique chez l'enfant de moins de 2 ans (STG d'Eswatini 2012).",
-    "La directive conseille de déparasiter régulièrement les enfants, tous les 3 à 6 mois, en prévention de l'ankylostomiase et de la trichocéphalose (STG d'Eswatini 2012)."
+    "La directive conseille de déparasiter régulièrement les enfants, tous les 3 à 6 mois, en prévention de l'ankylostomiase et de la trichocéphalose (STG d'Eswatini 2012).",
+    "Directives nationales de traitement de la Sierra Leone 2021 : l'albendazole est le médicament de deuxième intention pour la trichocéphalose, le mébendazole étant le premier. Adultes 400 mg en dose unique ; enfants de 2 ans et plus 400 mg en dose unique ; de 1 an à moins de 2 ans 200 mg en dose unique. Pour l'anémie par carence en fer, la directive donne l'albendazole 400 mg en dose unique avec le fer.",
+    "Liste nationale des médicaments essentiels de la Sierra Leone 2021 : suspension d'albendazole 200 mg pour 5 ml listée aux cinq niveaux d'utilisation indiqués dans la liste (T, S, CHC, CHP et MCHP)."
    ],
    "open_points": [
     "La page eLENA de l'OMS ne donne aucun conseil sur la grossesse, les effets indésirables, les précautions ou les interactions. Le conseil sur la grossesse ci-dessus vient uniquement de la directive d'Eswatini de 2012 ; les recommandations de l'OMS sur la grossesse n'ont pas été vérifiées.",
     "Les doses pour les autres maladies à vers (comme la filariose lymphatique et l'onchocercose, où d'autres médicaments sont utilisés) ne sont pas encore couvertes.",
     "La page eLENA de l'OMS ne donne pas l'année de la directive de l'OMS qu'elle cite. Le relecteur doit vérifier le calendrier actuel de déparasitage en Sierra Leone.",
-    "Cette directive vient d'Eswatini (alors Swaziland), 2012, et non de la Sierra Leone. C'est une directive nationale officielle, mais elle est ancienne et les doses et politiques en Sierra Leone peuvent différer. Le relecteur doit la comparer à la version actuelle des directives nationales de traitement de la Sierra Leone."
+    "Cette directive vient d'Eswatini (alors Swaziland), 2012, et non de la Sierra Leone. C'est une directive nationale officielle, mais elle est ancienne et les doses et politiques en Sierra Leone peuvent différer. Le relecteur doit la comparer à la version actuelle des directives nationales de traitement de la Sierra Leone.",
+    "La directive de la Sierra Leone déparasite les femmes enceintes avec le mébendazole aux deuxième et troisième trimestres, alors que la directive d'Eswatini indique que les antihelminthiques ne sont pas sûrs pendant la grossesse. Le relecteur doit décider quoi afficher et vérifier les recommandations actuelles de l'OMS.",
+    "Les directives nationales de traitement de la Sierra Leone sont la référence nationale et doivent primer lorsqu'elles diffèrent des autres sources. Le relecteur doit confirmer les chiffres avec l'édition imprimée de 2021."
    ],
    "who_careful": [
     "La directive demande d'orienter vers un niveau supérieur les personnes ayant une sensibilité de l'abdomen, des douleurs et des vomissements lors du traitement de l'ascaridiose, car les vers peuvent former une masse ou obstruer l'intestin (STG d'Eswatini 2012)."
    ],
    "pregnancy": [
-    "La directive d'Eswatini indique que les antihelminthiques, dont le mébendazole, ne sont pas sûrs pendant la grossesse car ils peuvent causer des malformations congénitales ; le traitement doit donc être retardé jusqu'après l'accouchement. Elle demande d'orienter les femmes enceintes atteintes d'ascaridiose."
+    "La directive d'Eswatini indique que les antihelminthiques, dont le mébendazole, ne sont pas sûrs pendant la grossesse car ils peuvent causer des malformations congénitales ; le traitement doit donc être retardé jusqu'après l'accouchement. Elle demande d'orienter les femmes enceintes atteintes d'ascaridiose.",
+    "Directives nationales de traitement de la Sierra Leone 2021, anémie de la grossesse : déparasiter avec le mébendazole 500 mg en dose unique aux deuxième et troisième trimestres."
    ]
   }
  }
