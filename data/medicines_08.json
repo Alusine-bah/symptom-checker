@@ -1,0 +1,1044 @@
+[
+ {
+  "slug": "ampicillin",
+  "status": "draft",
+  "last_checked": "2026-11-13",
+  "diseases": [],
+  "sources": [
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Standard Treatment Guidelines 2021 (3rd edition). Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://mohs.gov.sl/download/71/pharmaceutical-service/18081/standard-treatment-guidelines_sierra-leone-2021-edition.pdf"
+   }
+  ],
+  "en": {
+   "name": "Ampicillin",
+   "what_it_is": [
+    "An antibiotic. It is listed in the Sierra Leone Standard Treatment Guidelines 2021 for the conditions below."
+   ],
+   "used_for": [
+    "Serious bacterial infections and meningitis in newborns",
+    "Pneumonia in children",
+    "Diphtheria with co-infection",
+    "Bone infection (osteomyelitis) in a patient with sickle cell disease",
+    "Abscess at the tip of a tooth root (periapical abscess)",
+    "Infection around the eye (orbital cellulitis)",
+    "Wounds"
+   ],
+   "how_used": [
+    "Serious bacterial infections and meningitis in newborns: IM or IV: first week of life 50 mg/kg every 12 hours; weeks 2 to 4 of life 50 mg/kg every 8 hours (Sierra Leone STG 2021).",
+    "Pneumonia in children: 50 mg/kg/dose every 6 hours for 5 days. For newborns, IV: 50 mg/kg/dose every 12 hours. Severe pneumonia in older children (1 to 18 years): 50 mg/kg IV every 6 hours for at least 5 days, with gentamicin (Sierra Leone STG 2021).",
+    "Diphtheria with co-infection: 50 mg/kg (Sierra Leone STG 2021).",
+    "Bone infection (osteomyelitis) in a patient with sickle cell disease: Adult: 2 g IV every 6 hours for 5 to 12 weeks (Sierra Leone STG 2021).",
+    "Abscess at the tip of a tooth root (periapical abscess): Ampicillin with sulbactam: 3 g IV every 6 hours for 7 days (Sierra Leone STG 2021).",
+    "Infection around the eye (orbital cellulitis): Ampicillin or cloxacillin. Adult: 1 g IV immediately, then 500 mg every 6 hours for 2 weeks. Child over 1 month: 50 mg/kg IV every 8 hours for 7 to 14 days. Child 1 month or less: 25 to 50 mg/kg IV every 8 hours for 7 to 14 days (Sierra Leone STG 2021).",
+    "Wounds: 25 to 50 mg/kg by mouth four times a day for 5 to 7 days (Sierra Leone STG 2021).",
+    "This is a prescription medicine. It should be used only as directed by a trained health worker."
+   ],
+   "who_careful": [
+    "Penicillins and cephalosporins: reduce the dose in advanced kidney failure (Sierra Leone guideline, table of medicines in kidney impairment)."
+   ],
+   "open_points": [
+    "Only the Sierra Leone Standard Treatment Guidelines 2021 and Essential Medicines List 2021 were read for this entry. Side effects, interactions and breastfeeding advice were not collected, so none are given here.",
+    "Some passages laid out as tables, and passages whose condition was not clear in the text, were left out. The guideline may list more uses and doses than are shown here.",
+    "The reviewer should confirm each figure against the printed 2021 edition and compare with WHO guidance before this entry is marked reviewed."
+   ]
+  },
+  "fr": {
+   "name": "Ampicilline",
+   "what_it_is": [
+    "Un antibiotique. Il est listé dans les directives nationales de traitement de la Sierra Leone 2021 pour les affections ci-dessous."
+   ],
+   "used_for": [
+    "Infections bactériennes graves et méningite du nouveau-né",
+    "Pneumonie de l'enfant",
+    "Diphtérie avec co-infection",
+    "Infection de l'os (ostéomyélite) chez un patient drépanocytaire",
+    "Abcès à la pointe de la racine d'une dent (abcès périapical)",
+    "Infection autour de l'œil (cellulite orbitaire)",
+    "Plaies"
+   ],
+   "how_used": [
+    "Infections bactériennes graves et méningite du nouveau-né : IM ou IV : première semaine de vie 50 mg/kg toutes les 12 heures ; semaines 2 à 4 de vie 50 mg/kg toutes les 8 heures (STG Sierra Leone 2021).",
+    "Pneumonie de l'enfant : 50 mg/kg/dose toutes les 6 heures pendant 5 jours. Pour les nouveau-nés, IV : 50 mg/kg/dose toutes les 12 heures. Pneumonie grave chez l'enfant plus âgé (1 à 18 ans) : 50 mg/kg IV toutes les 6 heures pendant au moins 5 jours, avec la gentamicine (STG Sierra Leone 2021).",
+    "Diphtérie avec co-infection : 50 mg/kg (STG Sierra Leone 2021).",
+    "Infection de l'os (ostéomyélite) chez un patient drépanocytaire : Adulte : 2 g IV toutes les 6 heures pendant 5 à 12 semaines (STG Sierra Leone 2021).",
+    "Abcès à la pointe de la racine d'une dent (abcès périapical) : Ampicilline avec sulbactam : 3 g IV toutes les 6 heures pendant 7 jours (STG Sierra Leone 2021).",
+    "Infection autour de l'œil (cellulite orbitaire) : Ampicilline ou cloxacilline. Adulte : 1 g IV immédiatement, puis 500 mg toutes les 6 heures pendant 2 semaines. Enfant de plus de 1 mois : 50 mg/kg IV toutes les 8 heures pendant 7 à 14 jours. Enfant de 1 mois ou moins : 25 à 50 mg/kg IV toutes les 8 heures pendant 7 à 14 jours (STG Sierra Leone 2021).",
+    "Plaies : 25 à 50 mg/kg par voie orale 4 fois par jour pendant 5 à 7 jours (STG Sierra Leone 2021).",
+    "C'est un médicament sur ordonnance. Il doit être utilisé uniquement selon les instructions d'un professionnel de santé formé."
+   ],
+   "who_careful": [
+    "Pénicillines et céphalosporines : réduire la dose en cas d'insuffisance rénale avancée (directive de la Sierra Leone, tableau des médicaments en cas d'atteinte rénale)."
+   ],
+   "open_points": [
+    "Seules les directives nationales de traitement de la Sierra Leone 2021 et la Liste des médicaments essentiels 2021 ont été lues pour cette fiche. Les effets indésirables, les interactions et les conseils sur l'allaitement n'ont pas été recueillis, donc aucun n'est donné ici.",
+    "Certains passages présentés sous forme de tableaux, et des passages dont l'affection n'était pas claire dans le texte, ont été laissés de côté. La directive peut lister plus d'usages et de doses que ceux montrés ici.",
+    "Le relecteur doit confirmer chaque chiffre avec l'édition imprimée de 2021 et comparer avec les recommandations de l'OMS avant de marquer cette fiche comme relue."
+   ]
+  }
+ },
+ {
+  "slug": "benzylpenicillin",
+  "status": "draft",
+  "last_checked": "2026-11-13",
+  "diseases": [],
+  "sources": [
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Standard Treatment Guidelines 2021 (3rd edition). Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://mohs.gov.sl/download/71/pharmaceutical-service/18081/standard-treatment-guidelines_sierra-leone-2021-edition.pdf"
+   }
+  ],
+  "en": {
+   "name": "Benzylpenicillin",
+   "what_it_is": [
+    "An antibiotic. It is listed in the Sierra Leone Standard Treatment Guidelines 2021 for the conditions below."
+   ],
+   "used_for": [
+    "Congenital syphilis in newborns",
+    "Pneumonia in children",
+    "Infection of the heart valves (infective endocarditis)",
+    "Meningitis in adults, including pneumococcal meningitis",
+    "Meningitis in children"
+   ],
+   "how_used": [
+    "Congenital syphilis in newborns: 30 mg/kg every 12 hours IV for the first 7 days of life, then 30 mg/kg every 8 hours IV for a further 3 days. Treat the mother and her partner for syphilis and check for other sexually transmitted infections (Sierra Leone STG 2021).",
+    "Pneumonia in children: 50,000 units/kg IM or IV every 6 hours for at least 5 days (Sierra Leone STG 2021).",
+    "Infection of the heart valves (infective endocarditis): 7.2 g daily by slow IV injection or IV infusion in 6 divided doses for 4 to 6 weeks; may be increased up to 14.4 g daily if necessary (Sierra Leone STG 2021).",
+    "Meningitis in adults, including pneumococcal meningitis: 4 million units by slow IV injection every 6 hours (Sierra Leone STG 2021).",
+    "Meningitis in children: 0.2 million units/kg body weight IV every 6 hours (Sierra Leone STG 2021).",
+    "This is a prescription medicine. It should be used only as directed by a trained health worker."
+   ],
+   "who_careful": [
+    "Penicillins and cephalosporins: reduce the dose in advanced kidney failure (Sierra Leone guideline, table of medicines in kidney impairment)."
+   ],
+   "open_points": [
+    "Only the Sierra Leone Standard Treatment Guidelines 2021 and Essential Medicines List 2021 were read for this entry. Side effects, interactions and breastfeeding advice were not collected, so none are given here.",
+    "Some passages laid out as tables, and passages whose condition was not clear in the text, were left out. The guideline may list more uses and doses than are shown here.",
+    "The reviewer should confirm each figure against the printed 2021 edition and compare with WHO guidance before this entry is marked reviewed."
+   ]
+  },
+  "fr": {
+   "name": "Benzylpénicilline",
+   "what_it_is": [
+    "Un antibiotique. Il est listé dans les directives nationales de traitement de la Sierra Leone 2021 pour les affections ci-dessous."
+   ],
+   "used_for": [
+    "Syphilis congénitale du nouveau-né",
+    "Pneumonie de l'enfant",
+    "Infection des valves du cœur (endocardite infectieuse)",
+    "Méningite de l'adulte, y compris méningite à pneumocoque",
+    "Méningite de l'enfant"
+   ],
+   "how_used": [
+    "Syphilis congénitale du nouveau-né : 30 mg/kg toutes les 12 heures en IV pendant les 7 premiers jours de vie, puis 30 mg/kg toutes les 8 heures en IV pendant 3 jours supplémentaires. Traiter la mère et son partenaire pour la syphilis et rechercher d'autres infections sexuellement transmissibles (STG Sierra Leone 2021).",
+    "Pneumonie de l'enfant : 50 000 unités/kg IM ou IV toutes les 6 heures pendant au moins 5 jours (STG Sierra Leone 2021).",
+    "Infection des valves du cœur (endocardite infectieuse) : 7,2 g par jour en injection IV lente ou perfusion IV en 6 prises pendant 4 à 6 semaines ; peut être augmenté jusqu'à 14,4 g par jour si nécessaire (STG Sierra Leone 2021).",
+    "Méningite de l'adulte, y compris méningite à pneumocoque : 4 millions d'unités en injection IV lente toutes les 6 heures (STG Sierra Leone 2021).",
+    "Méningite de l'enfant : 0,2 million d'unités/kg de poids corporel en IV toutes les 6 heures (STG Sierra Leone 2021).",
+    "C'est un médicament sur ordonnance. Il doit être utilisé uniquement selon les instructions d'un professionnel de santé formé."
+   ],
+   "who_careful": [
+    "Pénicillines et céphalosporines : réduire la dose en cas d'insuffisance rénale avancée (directive de la Sierra Leone, tableau des médicaments en cas d'atteinte rénale)."
+   ],
+   "open_points": [
+    "Seules les directives nationales de traitement de la Sierra Leone 2021 et la Liste des médicaments essentiels 2021 ont été lues pour cette fiche. Les effets indésirables, les interactions et les conseils sur l'allaitement n'ont pas été recueillis, donc aucun n'est donné ici.",
+    "Certains passages présentés sous forme de tableaux, et des passages dont l'affection n'était pas claire dans le texte, ont été laissés de côté. La directive peut lister plus d'usages et de doses que ceux montrés ici.",
+    "Le relecteur doit confirmer chaque chiffre avec l'édition imprimée de 2021 et comparer avec les recommandations de l'OMS avant de marquer cette fiche comme relue."
+   ]
+  }
+ },
+ {
+  "slug": "benzathine-benzylpenicillin",
+  "status": "draft",
+  "last_checked": "2026-11-13",
+  "diseases": [],
+  "sources": [
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Standard Treatment Guidelines 2021 (3rd edition). Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://mohs.gov.sl/download/71/pharmaceutical-service/18081/standard-treatment-guidelines_sierra-leone-2021-edition.pdf"
+   }
+  ],
+  "en": {
+   "name": "Benzathine benzylpenicillin",
+   "what_it_is": [
+    "An antibiotic. It is listed in the Sierra Leone Standard Treatment Guidelines 2021 for the conditions below."
+   ],
+   "used_for": [
+    "Serious bacterial infections in newborns",
+    "Congenital syphilis in newborns",
+    "Yaws"
+   ],
+   "how_used": [
+    "Serious bacterial infections in newborns: IM, 50,000 units/kg once a day (as written in the guideline) (Sierra Leone STG 2021).",
+    "Congenital syphilis in newborns: IM (the dose is not stated in that passage) (Sierra Leone STG 2021).",
+    "Yaws: IM single dose: adult and child 10 years and above 2.4 million units; child under 10 years 1.2 million units (Sierra Leone STG 2021).",
+    "This is a prescription medicine. It should be used only as directed by a trained health worker."
+   ],
+   "who_careful": [
+    "Penicillins and cephalosporins: reduce the dose in advanced kidney failure (Sierra Leone guideline, table of medicines in kidney impairment)."
+   ],
+   "open_points": [
+    "Only the Sierra Leone Standard Treatment Guidelines 2021 and Essential Medicines List 2021 were read for this entry. Side effects, interactions and breastfeeding advice were not collected, so none are given here.",
+    "Some passages laid out as tables, and passages whose condition was not clear in the text, were left out. The guideline may list more uses and doses than are shown here.",
+    "The reviewer should confirm each figure against the printed 2021 edition and compare with WHO guidance before this entry is marked reviewed."
+   ]
+  },
+  "fr": {
+   "name": "Benzathine benzylpénicilline",
+   "what_it_is": [
+    "Un antibiotique. Il est listé dans les directives nationales de traitement de la Sierra Leone 2021 pour les affections ci-dessous."
+   ],
+   "used_for": [
+    "Infections bactériennes graves du nouveau-né",
+    "Syphilis congénitale du nouveau-né",
+    "Pian"
+   ],
+   "how_used": [
+    "Infections bactériennes graves du nouveau-né : IM, 50 000 unités/kg une fois par jour (tel qu'écrit dans la directive) (STG Sierra Leone 2021).",
+    "Syphilis congénitale du nouveau-né : IM (la dose n'est pas indiquée dans ce passage) (STG Sierra Leone 2021).",
+    "Pian : IM en dose unique : adulte et enfant de 10 ans et plus 2,4 millions d'unités ; enfant de moins de 10 ans 1,2 million d'unités (STG Sierra Leone 2021).",
+    "C'est un médicament sur ordonnance. Il doit être utilisé uniquement selon les instructions d'un professionnel de santé formé."
+   ],
+   "who_careful": [
+    "Pénicillines et céphalosporines : réduire la dose en cas d'insuffisance rénale avancée (directive de la Sierra Leone, tableau des médicaments en cas d'atteinte rénale)."
+   ],
+   "open_points": [
+    "Seules les directives nationales de traitement de la Sierra Leone 2021 et la Liste des médicaments essentiels 2021 ont été lues pour cette fiche. Les effets indésirables, les interactions et les conseils sur l'allaitement n'ont pas été recueillis, donc aucun n'est donné ici.",
+    "Certains passages présentés sous forme de tableaux, et des passages dont l'affection n'était pas claire dans le texte, ont été laissés de côté. La directive peut lister plus d'usages et de doses que ceux montrés ici.",
+    "Le relecteur doit confirmer chaque chiffre avec l'édition imprimée de 2021 et comparer avec les recommandations de l'OMS avant de marquer cette fiche comme relue."
+   ]
+  }
+ },
+ {
+  "slug": "procaine-benzylpenicillin",
+  "status": "draft",
+  "last_checked": "2026-11-13",
+  "diseases": [],
+  "sources": [
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Standard Treatment Guidelines 2021 (3rd edition). Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://mohs.gov.sl/download/71/pharmaceutical-service/18081/standard-treatment-guidelines_sierra-leone-2021-edition.pdf"
+   }
+  ],
+  "en": {
+   "name": "Procaine benzylpenicillin",
+   "what_it_is": [
+    "An antibiotic. It is listed in the Sierra Leone Standard Treatment Guidelines 2021 for the conditions below."
+   ],
+   "used_for": [
+    "Serious bacterial infections in newborns",
+    "Congenital syphilis in newborns",
+    "Diphtheria"
+   ],
+   "how_used": [
+    "Serious bacterial infections in newborns: IM, 50,000 units/kg once a day (Sierra Leone STG 2021).",
+    "Congenital syphilis in newborns: Deep IM injection daily for 10 days; 50 mg/kg as a single dose (Sierra Leone STG 2021).",
+    "Diphtheria: IM: under 10 kg 300,000 units/day; over 10 kg 600,000 units/day, for 14 days. Patients allergic to penicillin G or erythromycin can use rifampicin or clindamycin (Sierra Leone STG 2021).",
+    "This is a prescription medicine. It should be used only as directed by a trained health worker."
+   ],
+   "who_careful": [
+    "Penicillins and cephalosporins: reduce the dose in advanced kidney failure (Sierra Leone guideline, table of medicines in kidney impairment)."
+   ],
+   "open_points": [
+    "Only the Sierra Leone Standard Treatment Guidelines 2021 and Essential Medicines List 2021 were read for this entry. Side effects, interactions and breastfeeding advice were not collected, so none are given here.",
+    "Some passages laid out as tables, and passages whose condition was not clear in the text, were left out. The guideline may list more uses and doses than are shown here.",
+    "The reviewer should confirm each figure against the printed 2021 edition and compare with WHO guidance before this entry is marked reviewed."
+   ]
+  },
+  "fr": {
+   "name": "Procaïne benzylpénicilline",
+   "what_it_is": [
+    "Un antibiotique. Il est listé dans les directives nationales de traitement de la Sierra Leone 2021 pour les affections ci-dessous."
+   ],
+   "used_for": [
+    "Infections bactériennes graves du nouveau-né",
+    "Syphilis congénitale du nouveau-né",
+    "Diphtérie"
+   ],
+   "how_used": [
+    "Infections bactériennes graves du nouveau-né : IM, 50 000 unités/kg une fois par jour (STG Sierra Leone 2021).",
+    "Syphilis congénitale du nouveau-né : Injection IM profonde une fois par jour pendant 10 jours ; 50 mg/kg en dose unique (STG Sierra Leone 2021).",
+    "Diphtérie : IM : moins de 10 kg 300 000 unités/jour ; plus de 10 kg 600 000 unités/jour, pendant 14 jours. Les patients allergiques à la pénicilline G ou à l'érythromycine peuvent utiliser la rifampicine ou la clindamycine (STG Sierra Leone 2021).",
+    "C'est un médicament sur ordonnance. Il doit être utilisé uniquement selon les instructions d'un professionnel de santé formé."
+   ],
+   "who_careful": [
+    "Pénicillines et céphalosporines : réduire la dose en cas d'insuffisance rénale avancée (directive de la Sierra Leone, tableau des médicaments en cas d'atteinte rénale)."
+   ],
+   "open_points": [
+    "Seules les directives nationales de traitement de la Sierra Leone 2021 et la Liste des médicaments essentiels 2021 ont été lues pour cette fiche. Les effets indésirables, les interactions et les conseils sur l'allaitement n'ont pas été recueillis, donc aucun n'est donné ici.",
+    "Certains passages présentés sous forme de tableaux, et des passages dont l'affection n'était pas claire dans le texte, ont été laissés de côté. La directive peut lister plus d'usages et de doses que ceux montrés ici.",
+    "Le relecteur doit confirmer chaque chiffre avec l'édition imprimée de 2021 et comparer avec les recommandations de l'OMS avant de marquer cette fiche comme relue."
+   ]
+  }
+ },
+ {
+  "slug": "phenoxymethylpenicillin",
+  "status": "draft",
+  "last_checked": "2026-11-13",
+  "diseases": [],
+  "sources": [
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Standard Treatment Guidelines 2021 (3rd edition). Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://mohs.gov.sl/download/71/pharmaceutical-service/18081/standard-treatment-guidelines_sierra-leone-2021-edition.pdf"
+   }
+  ],
+  "en": {
+   "name": "Phenoxymethylpenicillin (penicillin V)",
+   "what_it_is": [
+    "An antibiotic. It is listed in the Sierra Leone Standard Treatment Guidelines 2021 for the conditions below."
+   ],
+   "used_for": [
+    "Sickle cell disease (preventing pneumococcal infection)",
+    "Rheumatic fever",
+    "Erysipelas and cellulitis",
+    "Paronychia (nail fold infection)",
+    "Nosebleed, adenoid enlargement, sore throat (pharyngotonsillitis) and acute epiglottitis"
+   ],
+   "how_used": [
+    "Sickle cell disease (preventing pneumococcal infection): Twice a day until 5 years of age in all children with sickle cell anaemia: under 3 years 125 mg; 3 years and over 250 mg (Sierra Leone STG 2021).",
+    "Rheumatic fever: Adult: 500 mg by mouth every 6 hours, increased up to 1 g every 6 hours in severe infections. Child: 1 month to 1 year 62.5 mg; 1 to 6 years 125 mg; 6 to 12 years 250 mg, each every 6 hours; 12 to 18 years 500 mg every 6 hours, up to 1 g per dose in severe infection. For the younger groups the dose is increased in severe infection to ensure at least 12.5 mg/kg/dose (Sierra Leone STG 2021).",
+    "Erysipelas and cellulitis: Adult: 250 mg by mouth every 6 hours for 5 to 7 days. Child: 125 to 250 mg every 6 hours for 5 to 7 days. Take on an empty stomach (Sierra Leone STG 2021).",
+    "Paronychia (nail fold infection): 500 mg for 7 to 14 days (the number of hours between doses is missing in the guideline text) (Sierra Leone STG 2021).",
+    "Nosebleed, adenoid enlargement, sore throat (pharyngotonsillitis) and acute epiglottitis: Adult: 500 mg by mouth every 8 hours for 7 days. Child up to 5 years: 6 mg/kg every 6 hours for 10 days (Sierra Leone STG 2021).",
+    "This is a prescription medicine. It should be used only as directed by a trained health worker."
+   ],
+   "who_careful": [
+    "Penicillins and cephalosporins: reduce the dose in advanced kidney failure (Sierra Leone guideline, table of medicines in kidney impairment)."
+   ],
+   "open_points": [
+    "Only the Sierra Leone Standard Treatment Guidelines 2021 and Essential Medicines List 2021 were read for this entry. Side effects, interactions and breastfeeding advice were not collected, so none are given here.",
+    "Some passages laid out as tables, and passages whose condition was not clear in the text, were left out. The guideline may list more uses and doses than are shown here.",
+    "The reviewer should confirm each figure against the printed 2021 edition and compare with WHO guidance before this entry is marked reviewed."
+   ]
+  },
+  "fr": {
+   "name": "Phénoxyméthylpénicilline (pénicilline V)",
+   "what_it_is": [
+    "Un antibiotique. Il est listé dans les directives nationales de traitement de la Sierra Leone 2021 pour les affections ci-dessous."
+   ],
+   "used_for": [
+    "Drépanocytose (prévention de l'infection à pneumocoque)",
+    "Rhumatisme articulaire aigu",
+    "Érysipèle et cellulite infectieuse",
+    "Périonyxis (infection du pourtour de l'ongle)",
+    "Saignement de nez, hypertrophie des végétations, mal de gorge (pharyngo-amygdalite) et épiglottite aiguë"
+   ],
+   "how_used": [
+    "Drépanocytose (prévention de l'infection à pneumocoque) : Deux fois par jour jusqu'à l'âge de 5 ans chez tous les enfants atteints d'anémie drépanocytaire : moins de 3 ans 125 mg ; 3 ans et plus 250 mg (STG Sierra Leone 2021).",
+    "Rhumatisme articulaire aigu : Adulte : 500 mg par voie orale toutes les 6 heures, jusqu'à 1 g toutes les 6 heures en cas d'infection grave. Enfant : 1 mois à 1 an 62,5 mg ; 1 à 6 ans 125 mg ; 6 à 12 ans 250 mg, chacun toutes les 6 heures ; 12 à 18 ans 500 mg toutes les 6 heures, jusqu'à 1 g par dose en cas d'infection grave. Pour les groupes plus jeunes, la dose est augmentée en cas d'infection grave pour assurer au moins 12,5 mg/kg/dose (STG Sierra Leone 2021).",
+    "Érysipèle et cellulite infectieuse : Adulte : 250 mg par voie orale toutes les 6 heures pendant 5 à 7 jours. Enfant : 125 à 250 mg toutes les 6 heures pendant 5 à 7 jours. À prendre à jeun (STG Sierra Leone 2021).",
+    "Périonyxis (infection du pourtour de l'ongle) : 500 mg pendant 7 à 14 jours (le nombre d'heures entre les doses manque dans le texte de la directive) (STG Sierra Leone 2021).",
+    "Saignement de nez, hypertrophie des végétations, mal de gorge (pharyngo-amygdalite) et épiglottite aiguë : Adulte : 500 mg par voie orale toutes les 8 heures pendant 7 jours. Enfant jusqu'à 5 ans : 6 mg/kg toutes les 6 heures pendant 10 jours (STG Sierra Leone 2021).",
+    "C'est un médicament sur ordonnance. Il doit être utilisé uniquement selon les instructions d'un professionnel de santé formé."
+   ],
+   "who_careful": [
+    "Pénicillines et céphalosporines : réduire la dose en cas d'insuffisance rénale avancée (directive de la Sierra Leone, tableau des médicaments en cas d'atteinte rénale)."
+   ],
+   "open_points": [
+    "Seules les directives nationales de traitement de la Sierra Leone 2021 et la Liste des médicaments essentiels 2021 ont été lues pour cette fiche. Les effets indésirables, les interactions et les conseils sur l'allaitement n'ont pas été recueillis, donc aucun n'est donné ici.",
+    "Certains passages présentés sous forme de tableaux, et des passages dont l'affection n'était pas claire dans le texte, ont été laissés de côté. La directive peut lister plus d'usages et de doses que ceux montrés ici.",
+    "Le relecteur doit confirmer chaque chiffre avec l'édition imprimée de 2021 et comparer avec les recommandations de l'OMS avant de marquer cette fiche comme relue."
+   ]
+  }
+ },
+ {
+  "slug": "cefotaxime",
+  "status": "draft",
+  "last_checked": "2026-11-13",
+  "diseases": [],
+  "sources": [
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Standard Treatment Guidelines 2021 (3rd edition). Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://mohs.gov.sl/download/71/pharmaceutical-service/18081/standard-treatment-guidelines_sierra-leone-2021-edition.pdf"
+   },
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Essential Medicines List, 2021 edition. Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://chasl.sl/wp-content/uploads/2026/05/National-Essential-Medicines-List_Sierra_Leone-2021-Edition-1.pdf"
+   }
+  ],
+  "en": {
+   "name": "Cefotaxime",
+   "what_it_is": [
+    "An antibiotic. It is listed in the Sierra Leone Standard Treatment Guidelines 2021 for the conditions below."
+   ],
+   "used_for": [
+    "Spontaneous bacterial peritonitis",
+    "Gonococcal arthritis"
+   ],
+   "how_used": [
+    "Spontaneous bacterial peritonitis: 2 g IV every 8 hours for 7 to 10 days (Sierra Leone STG 2021).",
+    "Gonococcal arthritis: Adult: 1 g IV every 8 hours. Child: 50 to 75 mg/kg IV every 12 hours. Newborns: 25 mg/kg IV every 12 hours. Because chlamydia is often present as well, oral doxycycline 100 mg every 12 hours is also given for 10 to 14 days (Sierra Leone STG 2021).",
+    "Sierra Leone Essential Medicines List 2021: injection 250 mg per vial is listed at levels T and S.",
+    "This is a prescription medicine. It should be used only as directed by a trained health worker."
+   ],
+   "who_careful": [
+    "Penicillins and cephalosporins: reduce the dose in advanced kidney failure (Sierra Leone guideline, table of medicines in kidney impairment)."
+   ],
+   "open_points": [
+    "Only the Sierra Leone Standard Treatment Guidelines 2021 and Essential Medicines List 2021 were read for this entry. Side effects, interactions and breastfeeding advice were not collected, so none are given here.",
+    "Some passages laid out as tables, and passages whose condition was not clear in the text, were left out. The guideline may list more uses and doses than are shown here.",
+    "The reviewer should confirm each figure against the printed 2021 edition and compare with WHO guidance before this entry is marked reviewed."
+   ]
+  },
+  "fr": {
+   "name": "Céfotaxime",
+   "what_it_is": [
+    "Un antibiotique. Il est listé dans les directives nationales de traitement de la Sierra Leone 2021 pour les affections ci-dessous."
+   ],
+   "used_for": [
+    "Péritonite bactérienne spontanée",
+    "Arthrite gonococcique"
+   ],
+   "how_used": [
+    "Péritonite bactérienne spontanée : 2 g IV toutes les 8 heures pendant 7 à 10 jours (STG Sierra Leone 2021).",
+    "Arthrite gonococcique : Adulte : 1 g IV toutes les 8 heures. Enfant : 50 à 75 mg/kg IV toutes les 12 heures. Nouveau-nés : 25 mg/kg IV toutes les 12 heures. Comme la chlamydia est souvent présente aussi, la doxycycline orale 100 mg toutes les 12 heures est également donnée pendant 10 à 14 jours (STG Sierra Leone 2021).",
+    "Liste nationale des médicaments essentiels de la Sierra Leone 2021 : injection de 250 mg par flacon listée aux niveaux T et S.",
+    "C'est un médicament sur ordonnance. Il doit être utilisé uniquement selon les instructions d'un professionnel de santé formé."
+   ],
+   "who_careful": [
+    "Pénicillines et céphalosporines : réduire la dose en cas d'insuffisance rénale avancée (directive de la Sierra Leone, tableau des médicaments en cas d'atteinte rénale)."
+   ],
+   "open_points": [
+    "Seules les directives nationales de traitement de la Sierra Leone 2021 et la Liste des médicaments essentiels 2021 ont été lues pour cette fiche. Les effets indésirables, les interactions et les conseils sur l'allaitement n'ont pas été recueillis, donc aucun n'est donné ici.",
+    "Certains passages présentés sous forme de tableaux, et des passages dont l'affection n'était pas claire dans le texte, ont été laissés de côté. La directive peut lister plus d'usages et de doses que ceux montrés ici.",
+    "Le relecteur doit confirmer chaque chiffre avec l'édition imprimée de 2021 et comparer avec les recommandations de l'OMS avant de marquer cette fiche comme relue."
+   ]
+  }
+ },
+ {
+  "slug": "cefixime",
+  "status": "draft",
+  "last_checked": "2026-11-13",
+  "diseases": [],
+  "sources": [
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Standard Treatment Guidelines 2021 (3rd edition). Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://mohs.gov.sl/download/71/pharmaceutical-service/18081/standard-treatment-guidelines_sierra-leone-2021-edition.pdf"
+   },
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Essential Medicines List, 2021 edition. Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://chasl.sl/wp-content/uploads/2026/05/National-Essential-Medicines-List_Sierra_Leone-2021-Edition-1.pdf"
+   }
+  ],
+  "en": {
+   "name": "Cefixime",
+   "what_it_is": [
+    "An antibiotic. It is listed in the Sierra Leone Standard Treatment Guidelines 2021 for the conditions below."
+   ],
+   "used_for": [
+    "Gonorrhoea, uncomplicated"
+   ],
+   "how_used": [
+    "Gonorrhoea, uncomplicated: 200 mg by mouth as a single dose (Sierra Leone STG 2021).",
+    "Sierra Leone Essential Medicines List 2021: oral liquid 100 mg per 5 ml and tablets of 200 mg and 400 mg are listed at levels T and S.",
+    "This is a prescription medicine. It should be used only as directed by a trained health worker."
+   ],
+   "who_careful": [
+    "Penicillins and cephalosporins: reduce the dose in advanced kidney failure (Sierra Leone guideline, table of medicines in kidney impairment)."
+   ],
+   "open_points": [
+    "Only the Sierra Leone Standard Treatment Guidelines 2021 and Essential Medicines List 2021 were read for this entry. Side effects, interactions and breastfeeding advice were not collected, so none are given here.",
+    "Some passages laid out as tables, and passages whose condition was not clear in the text, were left out. The guideline may list more uses and doses than are shown here.",
+    "The reviewer should confirm each figure against the printed 2021 edition and compare with WHO guidance before this entry is marked reviewed."
+   ]
+  },
+  "fr": {
+   "name": "Céfixime",
+   "what_it_is": [
+    "Un antibiotique. Il est listé dans les directives nationales de traitement de la Sierra Leone 2021 pour les affections ci-dessous."
+   ],
+   "used_for": [
+    "Gonorrhée non compliquée"
+   ],
+   "how_used": [
+    "Gonorrhée non compliquée : 200 mg par voie orale en dose unique (STG Sierra Leone 2021).",
+    "Liste nationale des médicaments essentiels de la Sierra Leone 2021 : suspension buvable 100 mg pour 5 ml et comprimés de 200 mg et 400 mg listés aux niveaux T et S.",
+    "C'est un médicament sur ordonnance. Il doit être utilisé uniquement selon les instructions d'un professionnel de santé formé."
+   ],
+   "who_careful": [
+    "Pénicillines et céphalosporines : réduire la dose en cas d'insuffisance rénale avancée (directive de la Sierra Leone, tableau des médicaments en cas d'atteinte rénale)."
+   ],
+   "open_points": [
+    "Seules les directives nationales de traitement de la Sierra Leone 2021 et la Liste des médicaments essentiels 2021 ont été lues pour cette fiche. Les effets indésirables, les interactions et les conseils sur l'allaitement n'ont pas été recueillis, donc aucun n'est donné ici.",
+    "Certains passages présentés sous forme de tableaux, et des passages dont l'affection n'était pas claire dans le texte, ont été laissés de côté. La directive peut lister plus d'usages et de doses que ceux montrés ici.",
+    "Le relecteur doit confirmer chaque chiffre avec l'édition imprimée de 2021 et comparer avec les recommandations de l'OMS avant de marquer cette fiche comme relue."
+   ]
+  }
+ },
+ {
+  "slug": "cephalexin",
+  "status": "draft",
+  "last_checked": "2026-11-13",
+  "diseases": [],
+  "sources": [
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Standard Treatment Guidelines 2021 (3rd edition). Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://mohs.gov.sl/download/71/pharmaceutical-service/18081/standard-treatment-guidelines_sierra-leone-2021-edition.pdf"
+   }
+  ],
+  "en": {
+   "name": "Cephalexin",
+   "what_it_is": [
+    "An antibiotic. It is listed in the Sierra Leone Standard Treatment Guidelines 2021 for the conditions below."
+   ],
+   "used_for": [
+    "Sore throat (pharyngitis, tonsillitis)"
+   ],
+   "how_used": [
+    "Sore throat (pharyngitis, tonsillitis): Adult: 500 mg by mouth every 12 hours for 10 days. Child: 12.5 to 25 mg/kg every 12 hours. If allergic to penicillin, azithromycin is used instead (Sierra Leone STG 2021).",
+    "This is a prescription medicine. It should be used only as directed by a trained health worker."
+   ],
+   "who_careful": [
+    "Penicillins and cephalosporins: reduce the dose in advanced kidney failure (Sierra Leone guideline, table of medicines in kidney impairment)."
+   ],
+   "open_points": [
+    "Only the Sierra Leone Standard Treatment Guidelines 2021 and Essential Medicines List 2021 were read for this entry. Side effects, interactions and breastfeeding advice were not collected, so none are given here.",
+    "Some passages laid out as tables, and passages whose condition was not clear in the text, were left out. The guideline may list more uses and doses than are shown here.",
+    "The reviewer should confirm each figure against the printed 2021 edition and compare with WHO guidance before this entry is marked reviewed."
+   ]
+  },
+  "fr": {
+   "name": "Céfalexine",
+   "what_it_is": [
+    "Un antibiotique. Il est listé dans les directives nationales de traitement de la Sierra Leone 2021 pour les affections ci-dessous."
+   ],
+   "used_for": [
+    "Mal de gorge (pharyngite, amygdalite)"
+   ],
+   "how_used": [
+    "Mal de gorge (pharyngite, amygdalite) : Adulte : 500 mg par voie orale toutes les 12 heures pendant 10 jours. Enfant : 12,5 à 25 mg/kg toutes les 12 heures. En cas d'allergie à la pénicilline, l'azithromycine est utilisée à la place (STG Sierra Leone 2021).",
+    "C'est un médicament sur ordonnance. Il doit être utilisé uniquement selon les instructions d'un professionnel de santé formé."
+   ],
+   "who_careful": [
+    "Pénicillines et céphalosporines : réduire la dose en cas d'insuffisance rénale avancée (directive de la Sierra Leone, tableau des médicaments en cas d'atteinte rénale)."
+   ],
+   "open_points": [
+    "Seules les directives nationales de traitement de la Sierra Leone 2021 et la Liste des médicaments essentiels 2021 ont été lues pour cette fiche. Les effets indésirables, les interactions et les conseils sur l'allaitement n'ont pas été recueillis, donc aucun n'est donné ici.",
+    "Certains passages présentés sous forme de tableaux, et des passages dont l'affection n'était pas claire dans le texte, ont été laissés de côté. La directive peut lister plus d'usages et de doses que ceux montrés ici.",
+    "Le relecteur doit confirmer chaque chiffre avec l'édition imprimée de 2021 et comparer avec les recommandations de l'OMS avant de marquer cette fiche comme relue."
+   ]
+  }
+ },
+ {
+  "slug": "cefuroxime",
+  "status": "draft",
+  "last_checked": "2026-11-13",
+  "diseases": [],
+  "sources": [
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Standard Treatment Guidelines 2021 (3rd edition). Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://mohs.gov.sl/download/71/pharmaceutical-service/18081/standard-treatment-guidelines_sierra-leone-2021-edition.pdf"
+   },
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Essential Medicines List, 2021 edition. Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://chasl.sl/wp-content/uploads/2026/05/National-Essential-Medicines-List_Sierra_Leone-2021-Edition-1.pdf"
+   }
+  ],
+  "en": {
+   "name": "Cefuroxime",
+   "what_it_is": [
+    "An antibiotic. It is listed in the Sierra Leone Standard Treatment Guidelines 2021 for the conditions below."
+   ],
+   "used_for": [
+    "Pneumonia in newborns allergic to penicillin"
+   ],
+   "how_used": [
+    "Pneumonia in newborns allergic to penicillin: 75 mg/kg/dose every 12 hours for 5 days. If the baby improves, treatment can be switched to a medicine by mouth to complete 7 days (Sierra Leone STG 2021).",
+    "Sierra Leone Essential Medicines List 2021: tablets 250 mg, 750 mg and 1.5 g are listed at levels T and S.",
+    "This is a prescription medicine. It should be used only as directed by a trained health worker."
+   ],
+   "who_careful": [
+    "Penicillins and cephalosporins: reduce the dose in advanced kidney failure (Sierra Leone guideline, table of medicines in kidney impairment)."
+   ],
+   "open_points": [
+    "Only the Sierra Leone Standard Treatment Guidelines 2021 and Essential Medicines List 2021 were read for this entry. Side effects, interactions and breastfeeding advice were not collected, so none are given here.",
+    "Some passages laid out as tables, and passages whose condition was not clear in the text, were left out. The guideline may list more uses and doses than are shown here.",
+    "The reviewer should confirm each figure against the printed 2021 edition and compare with WHO guidance before this entry is marked reviewed."
+   ]
+  },
+  "fr": {
+   "name": "Céfuroxime",
+   "what_it_is": [
+    "Un antibiotique. Il est listé dans les directives nationales de traitement de la Sierra Leone 2021 pour les affections ci-dessous."
+   ],
+   "used_for": [
+    "Pneumonie du nouveau-né allergique à la pénicilline"
+   ],
+   "how_used": [
+    "Pneumonie du nouveau-né allergique à la pénicilline : 75 mg/kg/dose toutes les 12 heures pendant 5 jours. Si le bébé s'améliore, le traitement peut passer à un médicament par voie orale pour compléter 7 jours (STG Sierra Leone 2021).",
+    "Liste nationale des médicaments essentiels de la Sierra Leone 2021 : comprimés de 250 mg, 750 mg et 1,5 g listés aux niveaux T et S.",
+    "C'est un médicament sur ordonnance. Il doit être utilisé uniquement selon les instructions d'un professionnel de santé formé."
+   ],
+   "who_careful": [
+    "Pénicillines et céphalosporines : réduire la dose en cas d'insuffisance rénale avancée (directive de la Sierra Leone, tableau des médicaments en cas d'atteinte rénale)."
+   ],
+   "open_points": [
+    "Seules les directives nationales de traitement de la Sierra Leone 2021 et la Liste des médicaments essentiels 2021 ont été lues pour cette fiche. Les effets indésirables, les interactions et les conseils sur l'allaitement n'ont pas été recueillis, donc aucun n'est donné ici.",
+    "Certains passages présentés sous forme de tableaux, et des passages dont l'affection n'était pas claire dans le texte, ont été laissés de côté. La directive peut lister plus d'usages et de doses que ceux montrés ici.",
+    "Le relecteur doit confirmer chaque chiffre avec l'édition imprimée de 2021 et comparer avec les recommandations de l'OMS avant de marquer cette fiche comme relue."
+   ]
+  }
+ },
+ {
+  "slug": "chloramphenicol",
+  "status": "draft",
+  "last_checked": "2026-11-13",
+  "diseases": [],
+  "sources": [
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Standard Treatment Guidelines 2021 (3rd edition). Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://mohs.gov.sl/download/71/pharmaceutical-service/18081/standard-treatment-guidelines_sierra-leone-2021-edition.pdf"
+   }
+  ],
+  "en": {
+   "name": "Chloramphenicol",
+   "what_it_is": [
+    "An antibiotic. It is listed in the Sierra Leone Standard Treatment Guidelines 2021 for the conditions below."
+   ],
+   "used_for": [
+    "Bone infection (osteomyelitis) when salmonella is suspected",
+    "Bacterial meningitis",
+    "Acute bacterial conjunctivitis",
+    "Conjunctivitis in newborns",
+    "Corneal abrasion",
+    "Preventing eye infection in newborns (gonorrhoea, ophthalmia neonatorum)"
+   ],
+   "how_used": [
+    "Bone infection (osteomyelitis) when salmonella is suspected: Adult: 500 mg IV every 6 hours for 2 to 3 weeks (Sierra Leone STG 2021).",
+    "Bacterial meningitis: Adult: 500 mg by mouth every 6 hours for the rest of the treatment course. Child: 25 mg/kg body weight IV every 6 hours. All antibiotic treatment should be by the IV route for a minimum of 10 days in children (Sierra Leone STG 2021).",
+    "Acute bacterial conjunctivitis: 0.5% eye drops: instil 4 times daily for 1 week (Sierra Leone STG 2021).",
+    "Conjunctivitis in newborns: 0.5% eye drops 3 times daily (Sierra Leone STG 2021).",
+    "Corneal abrasion: 1% eye ointment: apply every 8 hours to the injured eye. For deep corneal or scleral injuries cover the eye with a shield and refer immediately (Sierra Leone STG 2021).",
+    "Preventing eye infection in newborns (gonorrhoea, ophthalmia neonatorum): 1% eye ointment: apply to both eyes immediately after birth (for 7 days in the gonorrhoea section) (Sierra Leone STG 2021).",
+    "This is a prescription medicine. It should be used only as directed by a trained health worker."
+   ],
+   "open_points": [
+    "Only the Sierra Leone Standard Treatment Guidelines 2021 and Essential Medicines List 2021 were read for this entry. Side effects, interactions and breastfeeding advice were not collected, so none are given here.",
+    "Some passages laid out as tables, and passages whose condition was not clear in the text, were left out. The guideline may list more uses and doses than are shown here.",
+    "The reviewer should confirm each figure against the printed 2021 edition and compare with WHO guidance before this entry is marked reviewed."
+   ]
+  },
+  "fr": {
+   "name": "Chloramphénicol",
+   "what_it_is": [
+    "Un antibiotique. Il est listé dans les directives nationales de traitement de la Sierra Leone 2021 pour les affections ci-dessous."
+   ],
+   "used_for": [
+    "Infection de l'os (ostéomyélite) lorsqu'une salmonelle est suspectée",
+    "Méningite bactérienne",
+    "Conjonctivite bactérienne aiguë",
+    "Conjonctivite du nouveau-né",
+    "Abrasion de la cornée",
+    "Prévention de l'infection de l'œil du nouveau-né (gonorrhée, ophtalmie du nouveau-né)"
+   ],
+   "how_used": [
+    "Infection de l'os (ostéomyélite) lorsqu'une salmonelle est suspectée : Adulte : 500 mg IV toutes les 6 heures pendant 2 à 3 semaines (STG Sierra Leone 2021).",
+    "Méningite bactérienne : Adulte : 500 mg par voie orale toutes les 6 heures pour le reste du traitement. Enfant : 25 mg/kg de poids corporel en IV toutes les 6 heures. Tout le traitement antibiotique doit se faire par voie IV pendant au moins 10 jours chez l'enfant (STG Sierra Leone 2021).",
+    "Conjonctivite bactérienne aiguë : Gouttes pour les yeux à 0,5 % : instiller 4 fois par jour pendant 1 semaine (STG Sierra Leone 2021).",
+    "Conjonctivite du nouveau-né : Gouttes pour les yeux à 0,5 % 3 fois par jour (STG Sierra Leone 2021).",
+    "Abrasion de la cornée : Pommade ophtalmique à 1 % : appliquer toutes les 8 heures sur l'œil blessé. Pour les lésions profondes de la cornée ou de la sclère, couvrir l'œil avec une coque et orienter immédiatement (STG Sierra Leone 2021).",
+    "Prévention de l'infection de l'œil du nouveau-né (gonorrhée, ophtalmie du nouveau-né) : Pommade ophtalmique à 1 % : appliquer sur les deux yeux immédiatement après la naissance (pendant 7 jours dans la section gonorrhée) (STG Sierra Leone 2021).",
+    "C'est un médicament sur ordonnance. Il doit être utilisé uniquement selon les instructions d'un professionnel de santé formé."
+   ],
+   "open_points": [
+    "Seules les directives nationales de traitement de la Sierra Leone 2021 et la Liste des médicaments essentiels 2021 ont été lues pour cette fiche. Les effets indésirables, les interactions et les conseils sur l'allaitement n'ont pas été recueillis, donc aucun n'est donné ici.",
+    "Certains passages présentés sous forme de tableaux, et des passages dont l'affection n'était pas claire dans le texte, ont été laissés de côté. La directive peut lister plus d'usages et de doses que ceux montrés ici.",
+    "Le relecteur doit confirmer chaque chiffre avec l'édition imprimée de 2021 et comparer avec les recommandations de l'OMS avant de marquer cette fiche comme relue."
+   ]
+  }
+ },
+ {
+  "slug": "nitrofurantoin",
+  "status": "draft",
+  "last_checked": "2026-11-13",
+  "diseases": [],
+  "sources": [
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Standard Treatment Guidelines 2021 (3rd edition). Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://mohs.gov.sl/download/71/pharmaceutical-service/18081/standard-treatment-guidelines_sierra-leone-2021-edition.pdf"
+   }
+  ],
+  "en": {
+   "name": "Nitrofurantoin",
+   "what_it_is": [
+    "An antibiotic. It is listed in the Sierra Leone Standard Treatment Guidelines 2021 for the conditions below."
+   ],
+   "used_for": [
+    "Cystitis (bladder infection)"
+   ],
+   "how_used": [
+    "Cystitis (bladder infection): Adult: 100 mg by mouth four times daily for 7 to 14 days. Child: 5 to 7 mg/kg/day three times a day. Doses can be doubled for severe infections (Sierra Leone STG 2021).",
+    "This is a prescription medicine. It should be used only as directed by a trained health worker."
+   ],
+   "open_points": [
+    "Only the Sierra Leone Standard Treatment Guidelines 2021 and Essential Medicines List 2021 were read for this entry. Side effects, interactions and breastfeeding advice were not collected, so none are given here.",
+    "Some passages laid out as tables, and passages whose condition was not clear in the text, were left out. The guideline may list more uses and doses than are shown here.",
+    "The reviewer should confirm each figure against the printed 2021 edition and compare with WHO guidance before this entry is marked reviewed."
+   ]
+  },
+  "fr": {
+   "name": "Nitrofurantoïne",
+   "what_it_is": [
+    "Un antibiotique. Il est listé dans les directives nationales de traitement de la Sierra Leone 2021 pour les affections ci-dessous."
+   ],
+   "used_for": [
+    "Cystite (infection de la vessie)"
+   ],
+   "how_used": [
+    "Cystite (infection de la vessie) : Adulte : 100 mg par voie orale 4 fois par jour pendant 7 à 14 jours. Enfant : 5 à 7 mg/kg/jour en 3 prises. Les doses peuvent être doublées pour les infections graves (STG Sierra Leone 2021).",
+    "C'est un médicament sur ordonnance. Il doit être utilisé uniquement selon les instructions d'un professionnel de santé formé."
+   ],
+   "open_points": [
+    "Seules les directives nationales de traitement de la Sierra Leone 2021 et la Liste des médicaments essentiels 2021 ont été lues pour cette fiche. Les effets indésirables, les interactions et les conseils sur l'allaitement n'ont pas été recueillis, donc aucun n'est donné ici.",
+    "Certains passages présentés sous forme de tableaux, et des passages dont l'affection n'était pas claire dans le texte, ont été laissés de côté. La directive peut lister plus d'usages et de doses que ceux montrés ici.",
+    "Le relecteur doit confirmer chaque chiffre avec l'édition imprimée de 2021 et comparer avec les recommandations de l'OMS avant de marquer cette fiche comme relue."
+   ]
+  }
+ },
+ {
+  "slug": "tinidazole",
+  "status": "draft",
+  "last_checked": "2026-11-13",
+  "diseases": [],
+  "sources": [
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Standard Treatment Guidelines 2021 (3rd edition). Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://mohs.gov.sl/download/71/pharmaceutical-service/18081/standard-treatment-guidelines_sierra-leone-2021-edition.pdf"
+   },
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Essential Medicines List, 2021 edition. Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://chasl.sl/wp-content/uploads/2026/05/National-Essential-Medicines-List_Sierra_Leone-2021-Edition-1.pdf"
+   }
+  ],
+  "en": {
+   "name": "Tinidazole",
+   "what_it_is": [
+    "An antibiotic. It is listed in the Sierra Leone Standard Treatment Guidelines 2021 for the conditions below."
+   ],
+   "used_for": [
+    "Amoebic dysentery",
+    "Giardiasis",
+    "Amoebic liver abscess",
+    "Trichomoniasis"
+   ],
+   "how_used": [
+    "Amoebic dysentery: Adult: 2 g daily for 3 to 5 days. Child over 3 years: 50 mg/kg daily (up to 2 g per day) for 3 to 5 days. For people who carry the cysts without symptoms, diloxanide furoate is used (Sierra Leone STG 2021).",
+    "Giardiasis: Adult: 2 g by mouth at once. Child: 50 mg/kg by mouth at once (Sierra Leone STG 2021).",
+    "Amoebic liver abscess: Adult: 2 g once daily for 3 days with food. Child: 50 to 60 mg/kg daily for 5 days with food, followed by diloxanide furoate to clear the intestine (Sierra Leone STG 2021).",
+    "Trichomoniasis: 2 g by mouth as a single dose; or 500 mg by mouth every 12 hours for 5 days. No alcohol during treatment or for 72 hours after (Sierra Leone STG 2021).",
+    "Sierra Leone Essential Medicines List 2021: tablets 500 mg are listed at levels T, S and CHC.",
+    "This is a prescription medicine. It should be used only as directed by a trained health worker."
+   ],
+   "open_points": [
+    "Only the Sierra Leone Standard Treatment Guidelines 2021 and Essential Medicines List 2021 were read for this entry. Side effects, interactions and breastfeeding advice were not collected, so none are given here.",
+    "Some passages laid out as tables, and passages whose condition was not clear in the text, were left out. The guideline may list more uses and doses than are shown here.",
+    "The reviewer should confirm each figure against the printed 2021 edition and compare with WHO guidance before this entry is marked reviewed."
+   ]
+  },
+  "fr": {
+   "name": "Tinidazole",
+   "what_it_is": [
+    "Un antibiotique. Il est listé dans les directives nationales de traitement de la Sierra Leone 2021 pour les affections ci-dessous."
+   ],
+   "used_for": [
+    "Dysenterie amibienne",
+    "Giardiase",
+    "Abcès amibien du foie",
+    "Trichomonase"
+   ],
+   "how_used": [
+    "Dysenterie amibienne : Adulte : 2 g par jour pendant 3 à 5 jours. Enfant de plus de 3 ans : 50 mg/kg par jour (jusqu'à 2 g par jour) pendant 3 à 5 jours. Pour les porteurs asymptomatiques de kystes, le furoate de diloxanide est utilisé (STG Sierra Leone 2021).",
+    "Giardiase : Adulte : 2 g par voie orale en une fois. Enfant : 50 mg/kg par voie orale en une fois (STG Sierra Leone 2021).",
+    "Abcès amibien du foie : Adulte : 2 g une fois par jour pendant 3 jours pendant un repas. Enfant : 50 à 60 mg/kg par jour pendant 5 jours pendant un repas, suivi du furoate de diloxanide pour nettoyer l'intestin (STG Sierra Leone 2021).",
+    "Trichomonase : 2 g par voie orale en dose unique ; ou 500 mg par voie orale toutes les 12 heures pendant 5 jours. Pas d'alcool pendant le traitement ni pendant 72 heures après (STG Sierra Leone 2021).",
+    "Liste nationale des médicaments essentiels de la Sierra Leone 2021 : comprimés de 500 mg listés aux niveaux T, S et CHC.",
+    "C'est un médicament sur ordonnance. Il doit être utilisé uniquement selon les instructions d'un professionnel de santé formé."
+   ],
+   "open_points": [
+    "Seules les directives nationales de traitement de la Sierra Leone 2021 et la Liste des médicaments essentiels 2021 ont été lues pour cette fiche. Les effets indésirables, les interactions et les conseils sur l'allaitement n'ont pas été recueillis, donc aucun n'est donné ici.",
+    "Certains passages présentés sous forme de tableaux, et des passages dont l'affection n'était pas claire dans le texte, ont été laissés de côté. La directive peut lister plus d'usages et de doses que ceux montrés ici.",
+    "Le relecteur doit confirmer chaque chiffre avec l'édition imprimée de 2021 et comparer avec les recommandations de l'OMS avant de marquer cette fiche comme relue."
+   ]
+  }
+ },
+ {
+  "slug": "tetracycline-eye-ointment",
+  "status": "draft",
+  "last_checked": "2026-11-13",
+  "diseases": [],
+  "sources": [
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Standard Treatment Guidelines 2021 (3rd edition). Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://mohs.gov.sl/download/71/pharmaceutical-service/18081/standard-treatment-guidelines_sierra-leone-2021-edition.pdf"
+   }
+  ],
+  "en": {
+   "name": "Tetracycline 1% eye ointment",
+   "what_it_is": [
+    "An antibiotic. It is listed in the Sierra Leone Standard Treatment Guidelines 2021 for the conditions below."
+   ],
+   "used_for": [
+    "Eye infection in newborns (conjunctivitis)",
+    "Preventing eye infection in newborns (ophthalmia neonatorum, gonorrhoea)",
+    "Vitamin A deficiency with corneal lesions (xerophthalmia)",
+    "Acute bacterial conjunctivitis",
+    "Trachoma",
+    "Foreign body or abrasion of the cornea"
+   ],
+   "how_used": [
+    "Eye infection in newborns (conjunctivitis): One application 2 times daily for 7 days in one section; 3 times daily in another section (Sierra Leone STG 2021).",
+    "Preventing eye infection in newborns (ophthalmia neonatorum, gonorrhoea): Apply to both eyes immediately after birth (for 7 days in the gonorrhoea section) (Sierra Leone STG 2021).",
+    "Vitamin A deficiency with corneal lesions (xerophthalmia): Adult and child: apply twice a day. Fit an eye shield. Do not use eye drops that contain a steroid (Sierra Leone STG 2021).",
+    "Acute bacterial conjunctivitis: Apply twice a day (Sierra Leone STG 2021).",
+    "Trachoma: Apply twice a day for 6 weeks. Caution in pregnant women. For children azithromycin 20 mg/kg as a single dose is also given (Sierra Leone STG 2021).",
+    "Foreign body or abrasion of the cornea: Apply and cover or pad the eye, and refer for specialist care immediately (Sierra Leone STG 2021).",
+    "This is a prescription medicine. It should be used only as directed by a trained health worker."
+   ],
+   "pregnancy": [
+    "The trachoma passage in the guideline advises caution in pregnant women for tetracycline eye ointment."
+   ],
+   "open_points": [
+    "Only the Sierra Leone Standard Treatment Guidelines 2021 and Essential Medicines List 2021 were read for this entry. Side effects, interactions and breastfeeding advice were not collected, so none are given here.",
+    "Some passages laid out as tables, and passages whose condition was not clear in the text, were left out. The guideline may list more uses and doses than are shown here.",
+    "The reviewer should confirm each figure against the printed 2021 edition and compare with WHO guidance before this entry is marked reviewed."
+   ]
+  },
+  "fr": {
+   "name": "Tétracycline pommade ophtalmique 1 %",
+   "what_it_is": [
+    "Un antibiotique. Il est listé dans les directives nationales de traitement de la Sierra Leone 2021 pour les affections ci-dessous."
+   ],
+   "used_for": [
+    "Infection de l'œil du nouveau-né (conjonctivite)",
+    "Prévention de l'infection de l'œil du nouveau-né (ophtalmie du nouveau-né, gonorrhée)",
+    "Carence en vitamine A avec lésions de la cornée (xérophtalmie)",
+    "Conjonctivite bactérienne aiguë",
+    "Trachome",
+    "Corps étranger ou abrasion de la cornée"
+   ],
+   "how_used": [
+    "Infection de l'œil du nouveau-né (conjonctivite) : Une application 2 fois par jour pendant 7 jours dans une section ; 3 fois par jour dans une autre section (STG Sierra Leone 2021).",
+    "Prévention de l'infection de l'œil du nouveau-né (ophtalmie du nouveau-né, gonorrhée) : Appliquer sur les deux yeux immédiatement après la naissance (pendant 7 jours dans la section gonorrhée) (STG Sierra Leone 2021).",
+    "Carence en vitamine A avec lésions de la cornée (xérophtalmie) : Adulte et enfant : appliquer deux fois par jour. Mettre une coque oculaire. Ne pas utiliser de gouttes pour les yeux contenant un corticoïde (STG Sierra Leone 2021).",
+    "Conjonctivite bactérienne aiguë : Appliquer deux fois par jour (STG Sierra Leone 2021).",
+    "Trachome : Appliquer deux fois par jour pendant 6 semaines. Prudence chez la femme enceinte. Pour les enfants, l'azithromycine 20 mg/kg en dose unique est aussi donnée (STG Sierra Leone 2021).",
+    "Corps étranger ou abrasion de la cornée : Appliquer et couvrir ou protéger l'œil, et orienter immédiatement vers un spécialiste (STG Sierra Leone 2021).",
+    "C'est un médicament sur ordonnance. Il doit être utilisé uniquement selon les instructions d'un professionnel de santé formé."
+   ],
+   "pregnancy": [
+    "Le passage sur le trachome dans la directive conseille la prudence chez la femme enceinte pour la pommade ophtalmique à la tétracycline."
+   ],
+   "open_points": [
+    "Seules les directives nationales de traitement de la Sierra Leone 2021 et la Liste des médicaments essentiels 2021 ont été lues pour cette fiche. Les effets indésirables, les interactions et les conseils sur l'allaitement n'ont pas été recueillis, donc aucun n'est donné ici.",
+    "Certains passages présentés sous forme de tableaux, et des passages dont l'affection n'était pas claire dans le texte, ont été laissés de côté. La directive peut lister plus d'usages et de doses que ceux montrés ici.",
+    "Le relecteur doit confirmer chaque chiffre avec l'édition imprimée de 2021 et comparer avec les recommandations de l'OMS avant de marquer cette fiche comme relue."
+   ]
+  }
+ },
+ {
+  "slug": "vancomycin",
+  "status": "draft",
+  "last_checked": "2026-11-13",
+  "diseases": [],
+  "sources": [
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Standard Treatment Guidelines 2021 (3rd edition). Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://mohs.gov.sl/download/71/pharmaceutical-service/18081/standard-treatment-guidelines_sierra-leone-2021-edition.pdf"
+   }
+  ],
+  "en": {
+   "name": "Vancomycin",
+   "what_it_is": [
+    "An antibiotic. It is listed in the Sierra Leone Standard Treatment Guidelines 2021 for the conditions below."
+   ],
+   "used_for": [
+    "Aplastic anaemia with suspected skin infection",
+    "Infection of the heart valves (infective endocarditis)",
+    "Infection inside the eye (endophthalmitis)"
+   ],
+   "how_used": [
+    "Aplastic anaemia with suspected skin infection: IV: 30 mg/kg as a loading dose, followed by 20 mg/kg every 12 hours. Reduce the total dose by 50% in elderly people (Sierra Leone STG 2021).",
+    "Infection of the heart valves (infective endocarditis): 1 g IV every 12 hours (with gentamicin 60 to 80 mg IV every 12 hours for 2 weeks) (Sierra Leone STG 2021).",
+    "Infection inside the eye (endophthalmitis): 1 mg/0.1 mL injected into the eye; repeat after 72 hours. Use separate syringes for each medicine (Sierra Leone STG 2021).",
+    "This is a prescription medicine. It should be used only as directed by a trained health worker."
+   ],
+   "open_points": [
+    "Only the Sierra Leone Standard Treatment Guidelines 2021 and Essential Medicines List 2021 were read for this entry. Side effects, interactions and breastfeeding advice were not collected, so none are given here.",
+    "Some passages laid out as tables, and passages whose condition was not clear in the text, were left out. The guideline may list more uses and doses than are shown here.",
+    "The reviewer should confirm each figure against the printed 2021 edition and compare with WHO guidance before this entry is marked reviewed."
+   ]
+  },
+  "fr": {
+   "name": "Vancomycine",
+   "what_it_is": [
+    "Un antibiotique. Il est listé dans les directives nationales de traitement de la Sierra Leone 2021 pour les affections ci-dessous."
+   ],
+   "used_for": [
+    "Anémie aplasique avec suspicion d'infection de la peau",
+    "Infection des valves du cœur (endocardite infectieuse)",
+    "Infection à l'intérieur de l'œil (endophtalmie)"
+   ],
+   "how_used": [
+    "Anémie aplasique avec suspicion d'infection de la peau : IV : 30 mg/kg en dose de charge, suivie de 20 mg/kg toutes les 12 heures. Réduire la dose totale de 50 % chez les personnes âgées (STG Sierra Leone 2021).",
+    "Infection des valves du cœur (endocardite infectieuse) : 1 g IV toutes les 12 heures (avec la gentamicine 60 à 80 mg IV toutes les 12 heures pendant 2 semaines) (STG Sierra Leone 2021).",
+    "Infection à l'intérieur de l'œil (endophtalmie) : 1 mg/0,1 mL injecté dans l'œil ; répéter après 72 heures. Utiliser des seringues séparées pour chaque médicament (STG Sierra Leone 2021).",
+    "C'est un médicament sur ordonnance. Il doit être utilisé uniquement selon les instructions d'un professionnel de santé formé."
+   ],
+   "open_points": [
+    "Seules les directives nationales de traitement de la Sierra Leone 2021 et la Liste des médicaments essentiels 2021 ont été lues pour cette fiche. Les effets indésirables, les interactions et les conseils sur l'allaitement n'ont pas été recueillis, donc aucun n'est donné ici.",
+    "Certains passages présentés sous forme de tableaux, et des passages dont l'affection n'était pas claire dans le texte, ont été laissés de côté. La directive peut lister plus d'usages et de doses que ceux montrés ici.",
+    "Le relecteur doit confirmer chaque chiffre avec l'édition imprimée de 2021 et comparer avec les recommandations de l'OMS avant de marquer cette fiche comme relue."
+   ]
+  }
+ },
+ {
+  "slug": "clarithromycin",
+  "status": "draft",
+  "last_checked": "2026-11-13",
+  "diseases": [],
+  "sources": [
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Standard Treatment Guidelines 2021 (3rd edition). Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://mohs.gov.sl/download/71/pharmaceutical-service/18081/standard-treatment-guidelines_sierra-leone-2021-edition.pdf"
+   },
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Essential Medicines List, 2021 edition. Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://chasl.sl/wp-content/uploads/2026/05/National-Essential-Medicines-List_Sierra_Leone-2021-Edition-1.pdf"
+   }
+  ],
+  "en": {
+   "name": "Clarithromycin",
+   "what_it_is": [
+    "An antibiotic. It is listed in the Sierra Leone Standard Treatment Guidelines 2021 for the conditions below."
+   ],
+   "used_for": [
+    "Peptic ulcer disease"
+   ],
+   "how_used": [
+    "Peptic ulcer disease: 500 mg by mouth twice a day (Sierra Leone STG 2021).",
+    "Sierra Leone Essential Medicines List 2021: oral liquid 125 mg per 5 ml and 250 mg per 5 ml, and injection 500 mg, are listed at levels T and S.",
+    "This is a prescription medicine. It should be used only as directed by a trained health worker."
+   ],
+   "open_points": [
+    "Only the Sierra Leone Standard Treatment Guidelines 2021 and Essential Medicines List 2021 were read for this entry. Side effects, interactions and breastfeeding advice were not collected, so none are given here.",
+    "Some passages laid out as tables, and passages whose condition was not clear in the text, were left out. The guideline may list more uses and doses than are shown here.",
+    "The reviewer should confirm each figure against the printed 2021 edition and compare with WHO guidance before this entry is marked reviewed."
+   ]
+  },
+  "fr": {
+   "name": "Clarithromycine",
+   "what_it_is": [
+    "Un antibiotique. Il est listé dans les directives nationales de traitement de la Sierra Leone 2021 pour les affections ci-dessous."
+   ],
+   "used_for": [
+    "Ulcère gastro-duodénal"
+   ],
+   "how_used": [
+    "Ulcère gastro-duodénal : 500 mg par voie orale deux fois par jour (STG Sierra Leone 2021).",
+    "Liste nationale des médicaments essentiels de la Sierra Leone 2021 : suspension buvable 125 mg pour 5 ml et 250 mg pour 5 ml, et injection 500 mg, listées aux niveaux T et S.",
+    "C'est un médicament sur ordonnance. Il doit être utilisé uniquement selon les instructions d'un professionnel de santé formé."
+   ],
+   "open_points": [
+    "Seules les directives nationales de traitement de la Sierra Leone 2021 et la Liste des médicaments essentiels 2021 ont été lues pour cette fiche. Les effets indésirables, les interactions et les conseils sur l'allaitement n'ont pas été recueillis, donc aucun n'est donné ici.",
+    "Certains passages présentés sous forme de tableaux, et des passages dont l'affection n'était pas claire dans le texte, ont été laissés de côté. La directive peut lister plus d'usages et de doses que ceux montrés ici.",
+    "Le relecteur doit confirmer chaque chiffre avec l'édition imprimée de 2021 et comparer avec les recommandations de l'OMS avant de marquer cette fiche comme relue."
+   ]
+  }
+ },
+ {
+  "slug": "amoxicillin-clavulanic-acid",
+  "status": "draft",
+  "last_checked": "2026-11-13",
+  "diseases": [],
+  "sources": [
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Standard Treatment Guidelines 2021 (3rd edition). Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://mohs.gov.sl/download/71/pharmaceutical-service/18081/standard-treatment-guidelines_sierra-leone-2021-edition.pdf"
+   },
+   {
+    "title": "Republic of Sierra Leone, Ministry of Health and Sanitation (2021): Revised Essential Medicines List, 2021 edition. Any part may be freely quoted, reproduced or translated with the source acknowledged; not to be sold or used for commercial profit.",
+    "url": "https://chasl.sl/wp-content/uploads/2026/05/National-Essential-Medicines-List_Sierra_Leone-2021-Edition-1.pdf"
+   }
+  ],
+  "en": {
+   "name": "Amoxicillin with clavulanic acid (co-amoxiclav)",
+   "what_it_is": [
+    "An antibiotic. It is listed in the Sierra Leone Standard Treatment Guidelines 2021 for the conditions below."
+   ],
+   "used_for": [
+    "Impetigo, second line",
+    "Acute pyelonephritis (kidney infection)",
+    "Meningitis",
+    "Sinusitis",
+    "Gum inflammation (gingivitis)",
+    "Ludwig's angina (deep neck infection)",
+    "Acute necrotising ulcerative gingivitis",
+    "Abscess at the tip of a tooth root (periapical abscess)",
+    "Mastoiditis with sub-periosteal abscess",
+    "Enlarged adenoids, sore throat (pharyngotonsillitis) and acute epiglottitis"
+   ],
+   "how_used": [
+    "Impetigo, second line: 400/57 mg every 12 hours, if the first-line medicine fails or the patient is allergic to penicillin (Sierra Leone STG 2021).",
+    "Acute pyelonephritis (kidney infection): Adult: 1.2 g IV every 8 hours until the patient improves and the fever settles, then 500/125 mg by mouth every 8 hours. Child: 30 mg/kg IV every 8 hours, then 250 mg by mouth every 8 hours (Sierra Leone STG 2021).",
+    "Meningitis: 1 g by mouth every 6 hours for the rest of the treatment course (as written in the guideline) (Sierra Leone STG 2021).",
+    "Sinusitis: Adult: mild to moderate 500/125 mg every 12 hours for 10 days; severe 875/125 mg every 12 hours for 7 to 10 days (Sierra Leone STG 2021).",
+    "Gum inflammation (gingivitis): Adult: 625 mg every 12 hours. Child: 6 to 12 years 5 ml of 400/57 suspension every 12 hours; 1 to 6 years 2.5 ml every 12 hours; 1 month to 1 year 0.25 ml/kg of 125/31 suspension every 8 hours; newborns 0.25 ml/kg of 125/31 suspension every 6 hours for 7 days (Sierra Leone STG 2021).",
+    "Ludwig's angina (deep neck infection): IV with gentamicin. Adult: 1.2 g every 8 hours. Child: newborns and premature infants 25 mg/kg every 12 hours; infants up to 3 months 25 mg/kg every 8 hours; 3 months to 12 years 25 mg/kg every 8 hours, increased to every 6 hours in more severe infections (Sierra Leone STG 2021).",
+    "Acute necrotising ulcerative gingivitis: 500/125 mg three times a day for 10 days; or 875/125 mg twice a day for 10 days (Sierra Leone STG 2021).",
+    "Abscess at the tip of a tooth root (periapical abscess): 875 mg by mouth every 12 hours for 7 days (Sierra Leone STG 2021).",
+    "Mastoiditis with sub-periosteal abscess: 625 mg by mouth every 8 hours (Sierra Leone STG 2021).",
+    "Enlarged adenoids, sore throat (pharyngotonsillitis) and acute epiglottitis: Adult: 625 mg (500 mg amoxicillin + 125 mg clavulanic acid) every 8 hours for 7 days. Child: 375 mg (250 mg amoxicillin + 125 mg clavulanic acid) every 12 hours for 7 days (Sierra Leone STG 2021).",
+    "Sierra Leone Essential Medicines List 2021: oral solution (125 mg + 31.25 mg per 5 ml) and other forms are listed from level T to CHC.",
+    "This is a prescription medicine. It should be used only as directed by a trained health worker."
+   ],
+   "who_careful": [
+    "Penicillins and cephalosporins: reduce the dose in advanced kidney failure (Sierra Leone guideline, table of medicines in kidney impairment)."
+   ],
+   "open_points": [
+    "Only the Sierra Leone Standard Treatment Guidelines 2021 and Essential Medicines List 2021 were read for this entry. Side effects, interactions and breastfeeding advice were not collected, so none are given here.",
+    "Some passages laid out as tables, and passages whose condition was not clear in the text, were left out. The guideline may list more uses and doses than are shown here.",
+    "The reviewer should confirm each figure against the printed 2021 edition and compare with WHO guidance before this entry is marked reviewed."
+   ]
+  },
+  "fr": {
+   "name": "Amoxicilline avec acide clavulanique (co-amoxiclav)",
+   "what_it_is": [
+    "Un antibiotique. Il est listé dans les directives nationales de traitement de la Sierra Leone 2021 pour les affections ci-dessous."
+   ],
+   "used_for": [
+    "Impétigo, deuxième intention",
+    "Pyélonéphrite aiguë (infection du rein)",
+    "Méningite",
+    "Sinusite",
+    "Inflammation des gencives (gingivite)",
+    "Angine de Ludwig (infection profonde du cou)",
+    "Gingivite ulcéro-nécrotique aiguë",
+    "Abcès à la pointe de la racine d'une dent (abcès périapical)",
+    "Mastoïdite avec abcès sous-périosté",
+    "Hypertrophie des végétations, mal de gorge (pharyngo-amygdalite) et épiglottite aiguë"
+   ],
+   "how_used": [
+    "Impétigo, deuxième intention : 400/57 mg toutes les 12 heures, si le médicament de première intention échoue ou si le patient est allergique à la pénicilline (STG Sierra Leone 2021).",
+    "Pyélonéphrite aiguë (infection du rein) : Adulte : 1,2 g IV toutes les 8 heures jusqu'à amélioration et disparition de la fièvre, puis 500/125 mg par voie orale toutes les 8 heures. Enfant : 30 mg/kg IV toutes les 8 heures, puis 250 mg par voie orale toutes les 8 heures (STG Sierra Leone 2021).",
+    "Méningite : 1 g par voie orale toutes les 6 heures pour le reste du traitement (tel qu'écrit dans la directive) (STG Sierra Leone 2021).",
+    "Sinusite : Adulte : forme légère à modérée 500/125 mg toutes les 12 heures pendant 10 jours ; forme grave 875/125 mg toutes les 12 heures pendant 7 à 10 jours (STG Sierra Leone 2021).",
+    "Inflammation des gencives (gingivite) : Adulte : 625 mg toutes les 12 heures. Enfant : 6 à 12 ans 5 ml de suspension 400/57 toutes les 12 heures ; 1 à 6 ans 2,5 ml toutes les 12 heures ; 1 mois à 1 an 0,25 ml/kg de suspension 125/31 toutes les 8 heures ; nouveau-nés 0,25 ml/kg de suspension 125/31 toutes les 6 heures pendant 7 jours (STG Sierra Leone 2021).",
+    "Angine de Ludwig (infection profonde du cou) : IV avec la gentamicine. Adulte : 1,2 g toutes les 8 heures. Enfant : nouveau-nés et prématurés 25 mg/kg toutes les 12 heures ; nourrissons jusqu'à 3 mois 25 mg/kg toutes les 8 heures ; 3 mois à 12 ans 25 mg/kg toutes les 8 heures, augmenté à toutes les 6 heures dans les infections plus graves (STG Sierra Leone 2021).",
+    "Gingivite ulcéro-nécrotique aiguë : 500/125 mg 3 fois par jour pendant 10 jours ; ou 875/125 mg deux fois par jour pendant 10 jours (STG Sierra Leone 2021).",
+    "Abcès à la pointe de la racine d'une dent (abcès périapical) : 875 mg par voie orale toutes les 12 heures pendant 7 jours (STG Sierra Leone 2021).",
+    "Mastoïdite avec abcès sous-périosté : 625 mg par voie orale toutes les 8 heures (STG Sierra Leone 2021).",
+    "Hypertrophie des végétations, mal de gorge (pharyngo-amygdalite) et épiglottite aiguë : Adulte : 625 mg (500 mg d'amoxicilline + 125 mg d'acide clavulanique) toutes les 8 heures pendant 7 jours. Enfant : 375 mg (250 mg d'amoxicilline + 125 mg d'acide clavulanique) toutes les 12 heures pendant 7 jours (STG Sierra Leone 2021).",
+    "Liste nationale des médicaments essentiels de la Sierra Leone 2021 : solution buvable (125 mg + 31,25 mg pour 5 ml) et autres formes listées du niveau T au CHC.",
+    "C'est un médicament sur ordonnance. Il doit être utilisé uniquement selon les instructions d'un professionnel de santé formé."
+   ],
+   "who_careful": [
+    "Pénicillines et céphalosporines : réduire la dose en cas d'insuffisance rénale avancée (directive de la Sierra Leone, tableau des médicaments en cas d'atteinte rénale)."
+   ],
+   "open_points": [
+    "Seules les directives nationales de traitement de la Sierra Leone 2021 et la Liste des médicaments essentiels 2021 ont été lues pour cette fiche. Les effets indésirables, les interactions et les conseils sur l'allaitement n'ont pas été recueillis, donc aucun n'est donné ici.",
+    "Certains passages présentés sous forme de tableaux, et des passages dont l'affection n'était pas claire dans le texte, ont été laissés de côté. La directive peut lister plus d'usages et de doses que ceux montrés ici.",
+    "Le relecteur doit confirmer chaque chiffre avec l'édition imprimée de 2021 et comparer avec les recommandations de l'OMS avant de marquer cette fiche comme relue."
+   ]
+  }
+ }
+]

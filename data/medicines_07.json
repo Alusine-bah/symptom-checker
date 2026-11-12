@@ -46,7 +46,8 @@
     "Gonorrhoea, complicated genital and anorectal",
     "Gonorrhoea, re-treatment after treatment failure",
     "Gonococcal conjunctivitis in newborns",
-    "Ano-rectal syndrome"
+    "Ano-rectal syndrome",
+    "Gonococcal meningitis and endocarditis"
    ],
    "how_used": [
     "Meningitis in newborns: IM or IV for 3 weeks, as an alternative to gentamicin (the dose is not stated in that passage) (Sierra Leone STG 2021).",
@@ -76,6 +77,7 @@
     "Gonorrhoea, re-treatment after treatment failure: 500 mg IM as a single dose (Sierra Leone STG 2021).",
     "Gonococcal conjunctivitis in newborns: 50 mg/kg (maximum 125 mg) IM or IV as a single dose (Sierra Leone STG 2021).",
     "Ano-rectal syndrome: 250 mg IM as a single dose (Sierra Leone STG 2021).",
+    "Gonococcal meningitis and endocarditis: 1 to 2 g IV every 12 to 24 hours for 2 to 4 weeks, respectively (Sierra Leone STG 2021).",
     "Sierra Leone Essential Medicines List 2021: injection 250 mg and 1 g is listed at levels T and S.",
     "This is a prescription medicine. It should be used only as directed by a trained health worker."
    ],
@@ -123,7 +125,8 @@
     "Gonorrhée compliquée génitale et anorectale",
     "Gonorrhée, nouveau traitement après échec",
     "Conjonctivite gonococcique du nouveau-né",
-    "Syndrome ano-rectal"
+    "Syndrome ano-rectal",
+    "Méningite et endocardite gonococciques"
    ],
    "how_used": [
     "Méningite du nouveau-né : IM ou IV pendant 3 semaines, en alternative à la gentamicine (la dose n'est pas indiquée dans ce passage) (STG Sierra Leone 2021).",
@@ -153,6 +156,7 @@
     "Gonorrhée, nouveau traitement après échec : 500 mg IM en dose unique (STG Sierra Leone 2021).",
     "Conjonctivite gonococcique du nouveau-né : 50 mg/kg (maximum 125 mg) IM ou IV en dose unique (STG Sierra Leone 2021).",
     "Syndrome ano-rectal : 250 mg IM en dose unique (STG Sierra Leone 2021).",
+    "Méningite et endocardite gonococciques : 1 à 2 g IV toutes les 12 à 24 heures pendant 2 à 4 semaines, respectivement (STG Sierra Leone 2021).",
     "Liste nationale des médicaments essentiels de la Sierra Leone 2021 : injection de 250 mg et 1 g listée aux niveaux T et S.",
     "C'est un médicament sur ordonnance. Il doit être utilisé uniquement selon les instructions d'un professionnel de santé formé."
    ],
